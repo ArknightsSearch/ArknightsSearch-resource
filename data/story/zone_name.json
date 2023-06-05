@@ -1,0 +1,1183 @@
+{
+  "12fce": {
+    "en_US": "12F",
+    "ja_JP": "12F",
+    "zh_CN": "12F"
+  },
+  "1stact": {
+    "en_US": "Grani and the Knights' Treasure",
+    "ja_JP": "騎兵と狩人",
+    "zh_CN": "骑兵与猎人"
+  },
+  "acdrop": {
+    "en_US": "Aciddrop",
+    "ja_JP": "アシッドドロップ",
+    "zh_CN": "酸糖"
+  },
+  "act10d5": {
+    "en_US": "Children of Ursus",
+    "ja_JP": "ウルサスの子供たち",
+    "zh_CN": "乌萨斯的孩子们"
+  },
+  "act10mini": {
+    "en_US": "A Light Spark in Darkness",
+    "ja_JP": "闇散らす火花",
+    "zh_CN": "阴云火花"
+  },
+  "act11d0": {
+    "en_US": "Twilight of Wolumonde",
+    "ja_JP": "ウォルモンドの薄暮",
+    "zh_CN": "沃伦姆德的薄暮"
+  },
+  "act11d7": {
+    "en_US": "Heart of Surging Flame - Rerun",
+    "ja_JP": "青く燃ゆる心・復刻",
+    "zh_CN": "火蓝之心·复刻"
+  },
+  "act11mini": {
+    "en_US": "To Be Continued",
+    "ja_JP": "未完の断章",
+    "zh_CN": "未尽篇章"
+  },
+  "act12d0": {
+    "en_US": "The Great Chief Returns",
+    "ja_JP": "帰還！密林の長",
+    "zh_CN": "密林悍将归来"
+  },
+  "act12mini": {
+    "en_US": "An Obscure Wanderer",
+    "ja_JP": "夕景に影ありて",
+    "zh_CN": "日暮寻路"
+  },
+  "act12side": {
+    "en_US": "Dossoles Holiday",
+    "ja_JP": "ドッソレスホリデー",
+    "zh_CN": "多索雷斯假日"
+  },
+  "act13d0": {
+    "en_US": "Rewinding Breeze",
+    "ja_JP": "在りし日の風を求めて",
+    "zh_CN": "踏寻往昔之风"
+  },
+  "act13d5": {
+    "en_US": "Maria Nearl",
+    "ja_JP": "マリア・ニアール",
+    "zh_CN": "玛莉娅·临光"
+  },
+  "act13mini": {
+    "en_US": "It's Been A While",
+    "ja_JP": "また会えたね",
+    "zh_CN": "好久不见"
+  },
+  "act13side": {
+    "en_US": "Near Light",
+    "ja_JP": "ニアーライト",
+    "zh_CN": "长夜临光"
+  },
+  "act14mini": {
+    "zh_CN": "春分"
+  },
+  "act14side": {
+    "en_US": "Break the Ice",
+    "ja_JP": "風雪一過",
+    "zh_CN": "风雪过境"
+  },
+  "act15d0": {
+    "en_US": "Mansfield Break",
+    "ja_JP": "孤島激震",
+    "zh_CN": "孤岛风云"
+  },
+  "act15d5": {
+    "en_US": "Beyond Here",
+    "ja_JP": "彼方を望む",
+    "zh_CN": "此地之外"
+  },
+  "act15side": {
+    "en_US": "Invitation to Wine",
+    "ja_JP": "将進酒",
+    "zh_CN": "将进酒"
+  },
+  "act16d5": {
+    "en_US": "Who Is Real",
+    "ja_JP": "画中人",
+    "zh_CN": "画中人"
+  },
+  "act16side": {
+    "en_US": "Guide Ahead",
+    "ja_JP": "吾れ先導者たらん",
+    "zh_CN": "吾导先路"
+  },
+  "act17d0": {
+    "en_US": "Operation Originium Dust",
+    "ja_JP": "OP：OD",
+    "zh_CN": "源石尘行动"
+  },
+  "act17d1": {
+    "en_US": "Defense Protocols",
+    "ja_JP": "ロドス防衛協定",
+    "zh_CN": "罗德岛防御协议"
+  },
+  "act17d7": {
+    "en_US": "April Fools' Day Event",
+    "ja_JP": "エイプリルフール",
+    "zh_CN": "愚人节活动"
+  },
+  "act17side": {
+    "en_US": "Stultifera Navis",
+    "ja_JP": "狂人号",
+    "zh_CN": "愚人号"
+  },
+  "act18d0": {
+    "en_US": "A Walk in the Dust",
+    "ja_JP": "遺塵の道を",
+    "zh_CN": "遗尘漫步"
+  },
+  "act18d3": {
+    "en_US": "Under Tides",
+    "ja_JP": "潮汐の下",
+    "zh_CN": "覆潮之下"
+  },
+  "act18side": {
+    "en_US": "Lingering Echoes",
+    "ja_JP": "塵影に交わる残響",
+    "zh_CN": "尘影余音"
+  },
+  "act19side": {
+    "en_US": "Dorothy's Vision",
+    "ja_JP": "翠玉の夢",
+    "zh_CN": "绿野幻梦"
+  },
+  "act1lock": {
+    "en_US": "Hymnoi Wisdom",
+    "ja_JP": "ヒュムノイの叡智",
+    "zh_CN": "荷谟伊智境"
+  },
+  "act1sandbox": {
+    "zh_CN": "生息演算：沙中之火"
+  },
+  "act20side": {
+    "en_US": "Ideal City: Endless Carnival",
+    "ja_JP": "理想都市-エンドレスカーニバル-",
+    "zh_CN": "理想城：长夏狂欢季"
+  },
+  "act21side": {
+    "en_US": "IL Siracusano",
+    "ja_JP": "シラクザーノ",
+    "zh_CN": "叙拉古人"
+  },
+  "act22side": {
+    "zh_CN": "照我以火"
+  },
+  "act23side": {
+    "zh_CN": "登临意"
+  },
+  "act24side": {
+    "zh_CN": "落叶逐火"
+  },
+  "act25side": {
+    "zh_CN": "孤星"
+  },
+  "act3d0": {
+    "en_US": "Heart of Surging Flame",
+    "ja_JP": "青く燃ゆる心",
+    "zh_CN": "火蓝之心"
+  },
+  "act3fun": {
+    "en_US": "April Fools' Day Event",
+    "ja_JP": "エイプリルフール",
+    "zh_CN": "愚人节活动"
+  },
+  "act4d0": {
+    "en_US": "Operational Intelligence",
+    "ja_JP": "戦地の逸話",
+    "zh_CN": "战地秘闻"
+  },
+  "act4fun": {
+    "zh_CN": "愚人节活动"
+  },
+  "act5d0": {
+    "en_US": "Code of Brawl",
+    "ja_JP": "喧騒の掟",
+    "zh_CN": "喧闹法则"
+  },
+  "act6d5": {
+    "en_US": "Ancient Forge",
+    "ja_JP": "洪炉示歳",
+    "zh_CN": "洪炉示岁"
+  },
+  "act7d5": {
+    "en_US": "Stories of Afternoon",
+    "ja_JP": "午後の逸話",
+    "zh_CN": "午间逸话"
+  },
+  "act7mini": {
+    "en_US": "Preluding Lights",
+    "ja_JP": "灯火序曲",
+    "zh_CN": "灯火序曲"
+  },
+  "act8d2": {
+    "zh_CN": "愚人节活动"
+  },
+  "act8mini": {
+    "en_US": "Vigilo",
+    "ja_JP": "我が眼に映るまま",
+    "zh_CN": "如我所见"
+  },
+  "act9d0": {
+    "en_US": "Darknights Memoir",
+    "ja_JP": "闇夜に生きる",
+    "zh_CN": "生于黑夜"
+  },
+  "act9mini": {
+    "en_US": "Pinus Sylvestris",
+    "ja_JP": "赤松林",
+    "zh_CN": "红松林"
+  },
+  "aglina": {
+    "en_US": "Angelina",
+    "ja_JP": "アンジェリーナ",
+    "zh_CN": "安洁莉娜"
+  },
+  "amgoat": {
+    "en_US": "Eyjafjalla",
+    "ja_JP": "エイヤフィヤトラ",
+    "zh_CN": "艾雅法拉"
+  },
+  "angel": {
+    "en_US": "Exusiai",
+    "ja_JP": "エクシア",
+    "zh_CN": "能天使"
+  },
+  "aosta": {
+    "en_US": "Aosta",
+    "ja_JP": "アオスタ",
+    "zh_CN": "奥斯塔"
+  },
+  "aprl": {
+    "en_US": "April",
+    "ja_JP": "エイプリル",
+    "zh_CN": "四月"
+  },
+  "archet": {
+    "en_US": "Archetto",
+    "ja_JP": "アルケット",
+    "zh_CN": "空弦"
+  },
+  "ardign": {
+    "en_US": "Cardigan",
+    "ja_JP": "カーディ",
+    "zh_CN": "卡缇"
+  },
+  "asbest": {
+    "en_US": "Asbestos",
+    "ja_JP": "アスベストス",
+    "zh_CN": "石棉"
+  },
+  "astesi": {
+    "en_US": "Astesia",
+    "ja_JP": "アステシア",
+    "zh_CN": "星极"
+  },
+  "aurora": {
+    "en_US": "Aurora",
+    "ja_JP": "オーロラ",
+    "zh_CN": "极光"
+  },
+  "ayer": {
+    "en_US": "Ayerscarpe",
+    "ja_JP": "エアースカーペ",
+    "zh_CN": "断崖"
+  },
+  "beewax": {
+    "en_US": "Beeswax",
+    "ja_JP": "ビーズワクス",
+    "zh_CN": "蜜蜡"
+  },
+  "bgsnow": {
+    "en_US": "Pozëmka",
+    "ja_JP": "パゼオンカ",
+    "zh_CN": "鸿雪"
+  },
+  "bibeak": {
+    "en_US": "Bibeak",
+    "ja_JP": "バイビーク",
+    "zh_CN": "柏喙"
+  },
+  "billro": {
+    "en_US": "Carnelian",
+    "ja_JP": "カーネリアン",
+    "zh_CN": "卡涅利安"
+  },
+  "bison": {
+    "en_US": "Bison",
+    "ja_JP": "バイソン",
+    "zh_CN": "拜松"
+  },
+  "bldsk": {
+    "en_US": "Warfarin",
+    "ja_JP": "ワルファリン",
+    "zh_CN": "华法琳"
+  },
+  "blemsh": {
+    "en_US": "Blemishine",
+    "ja_JP": "ブレミシャイン",
+    "zh_CN": "瑕光"
+  },
+  "blkngt": {
+    "en_US": "Blacknight",
+    "ja_JP": "ブラックナイト",
+    "zh_CN": "夜半"
+  },
+  "bluep": {
+    "en_US": "Blue Poison",
+    "ja_JP": "アズリウス",
+    "zh_CN": "蓝毒"
+  },
+  "bpipe": {
+    "en_US": "Bagpipe",
+    "ja_JP": "バグパイプ",
+    "zh_CN": "风笛"
+  },
+  "breeze": {
+    "en_US": "Breeze",
+    "ja_JP": "ブリーズ",
+    "zh_CN": "微风"
+  },
+  "broca": {
+    "en_US": "Broca",
+    "ja_JP": "ブローカ",
+    "zh_CN": "布洛卡"
+  },
+  "brownb": {
+    "en_US": "Beehunter",
+    "ja_JP": "ビーハンター",
+    "zh_CN": "猎蜂"
+  },
+  "bstalk": {
+    "en_US": "Beanstalk",
+    "ja_JP": "ビーンストーク",
+    "zh_CN": "豆苗"
+  },
+  "cammou": {
+    "en_US": "Click",
+    "ja_JP": "カシャ",
+    "zh_CN": "卡达"
+  },
+  "cast3": {
+    "en_US": "Castle-3",
+    "ja_JP": "Castle-3",
+    "zh_CN": "Castle-3"
+  },
+  "catap": {
+    "en_US": "Catapult",
+    "ja_JP": "カタパルト",
+    "zh_CN": "空爆"
+  },
+  "cerber": {
+    "en_US": "Ceobe",
+    "ja_JP": "ケオベ",
+    "zh_CN": "刻俄柏"
+  },
+  "ceylon": {
+    "en_US": "Ceylon",
+    "ja_JP": "セイロン",
+    "zh_CN": "锡兰"
+  },
+  "cgbird": {
+    "en_US": "Nightingale",
+    "ja_JP": "ナイチンゲール",
+    "zh_CN": "夜莺"
+  },
+  "chen": {
+    "en_US": "Ch'en",
+    "ja_JP": "チェン",
+    "zh_CN": "陈"
+  },
+  "chen2": {
+    "en_US": "Ch'en the Holungday",
+    "ja_JP": "遊龍チェン",
+    "zh_CN": "假日威龙陈"
+  },
+  "chiave": {
+    "en_US": "Chiave",
+    "ja_JP": "キアーベ",
+    "zh_CN": "贾维"
+  },
+  "chyue": {
+    "zh_CN": "重岳"
+  },
+  "ctable": {
+    "en_US": "Cantabile",
+    "ja_JP": "カンタービレ",
+    "zh_CN": "晓歌"
+  },
+  "cutter": {
+    "en_US": "Cutter",
+    "ja_JP": "カッター",
+    "zh_CN": "刻刀"
+  },
+  "deepcl": {
+    "en_US": "Deepcolor",
+    "ja_JP": "ディピカ",
+    "zh_CN": "深海色"
+  },
+  "doroth": {
+    "en_US": "Dorothy",
+    "ja_JP": "ドロシー",
+    "zh_CN": "多萝西"
+  },
+  "durin": {
+    "en_US": "Durin",
+    "ja_JP": "ドゥリン",
+    "zh_CN": "杜林"
+  },
+  "durnar": {
+    "en_US": "Dur-nar",
+    "ja_JP": "ジュナー",
+    "zh_CN": "坚雷"
+  },
+  "dusk": {
+    "en_US": "Dusk",
+    "ja_JP": "シー",
+    "zh_CN": "夕"
+  },
+  "ebnhlz": {
+    "en_US": "Ebenholz",
+    "ja_JP": "エーベンホルツ",
+    "zh_CN": "黑键"
+  },
+  "elysm": {
+    "en_US": "Elysium",
+    "ja_JP": "エリジウム",
+    "zh_CN": "极境"
+  },
+  "erato": {
+    "en_US": "Erato",
+    "ja_JP": "エラト",
+    "zh_CN": "埃拉托"
+  },
+  "estell": {
+    "en_US": "Estelle",
+    "ja_JP": "エステル",
+    "zh_CN": "艾丝黛尔"
+  },
+  "ethan": {
+    "en_US": "Ethan",
+    "ja_JP": "イーサン",
+    "zh_CN": "伊桑"
+  },
+  "f12yin": {
+    "en_US": "Mountain",
+    "ja_JP": "マウンテン",
+    "zh_CN": "山"
+  },
+  "falco": {
+    "en_US": "Plume",
+    "ja_JP": "プリュム",
+    "zh_CN": "翎羽"
+  },
+  "fang": {
+    "en_US": "Fang",
+    "ja_JP": "フェン",
+    "zh_CN": "芬"
+  },
+  "flint": {
+    "en_US": "Flint",
+    "ja_JP": "フリント",
+    "zh_CN": "燧石"
+  },
+  "flower": {
+    "en_US": "Perfumer",
+    "ja_JP": "パフューマー",
+    "zh_CN": "调香师"
+  },
+  "fmout": {
+    "en_US": "Gitano",
+    "ja_JP": "ギターノ",
+    "zh_CN": "远山"
+  },
+  "folivo": {
+    "en_US": "Scene",
+    "ja_JP": "シーン",
+    "zh_CN": "稀音"
+  },
+  "franka": {
+    "en_US": "Franka",
+    "ja_JP": "フランカ",
+    "zh_CN": "芙兰卡"
+  },
+  "frncat": {
+    "en_US": "Mousse",
+    "ja_JP": "ムース",
+    "zh_CN": "慕斯"
+  },
+  "frostl": {
+    "en_US": "Frostleaf",
+    "ja_JP": "フロストリーフ",
+    "zh_CN": "霜叶"
+  },
+  "ghost": {
+    "en_US": "Specter",
+    "ja_JP": "スペクター",
+    "zh_CN": "幽灵鲨"
+  },
+  "ghost2": {
+    "en_US": "Specter the Unchained",
+    "ja_JP": "帰溟スペクター",
+    "zh_CN": "归溟幽灵鲨"
+  },
+  "glacus": {
+    "en_US": "Glaucus",
+    "ja_JP": "グラウコス",
+    "zh_CN": "格劳克斯"
+  },
+  "glady": {
+    "en_US": "Gladiia",
+    "ja_JP": "グレイディーア",
+    "zh_CN": "歌蕾蒂娅"
+  },
+  "glassb": {
+    "en_US": "Istina",
+    "ja_JP": "イースチナ",
+    "zh_CN": "真理"
+  },
+  "glider": {
+    "en_US": "Honeyberry",
+    "ja_JP": "ハニーベリー",
+    "zh_CN": "蜜莓"
+  },
+  "gravel": {
+    "en_US": "Gravel",
+    "ja_JP": "グラベル",
+    "zh_CN": "砾"
+  },
+  "greyy": {
+    "en_US": "Greyy",
+    "ja_JP": "グレイ",
+    "zh_CN": "格雷伊"
+  },
+  "greyy2": {
+    "en_US": "Greyy the Lightningbearer",
+    "ja_JP": "承曦グレイ",
+    "zh_CN": "承曦格雷伊"
+  },
+  "gvial2": {
+    "en_US": "Gavial the Invincible",
+    "ja_JP": "百錬ガヴィル",
+    "zh_CN": "百炼嘉维尔"
+  },
+  "haak": {
+    "en_US": "Aak",
+    "ja_JP": "ア",
+    "zh_CN": "阿"
+  },
+  "hamoni": {
+    "zh_CN": "和弦"
+  },
+  "hbisc2": {
+    "en_US": "Hibiscus the Purifier",
+    "ja_JP": "濯塵ハイビスカス",
+    "zh_CN": "濯尘芙蓉"
+  },
+  "headbr": {
+    "en_US": "Zima",
+    "ja_JP": "ズィマー",
+    "zh_CN": "凛冬"
+  },
+  "helage": {
+    "en_US": "Hellagur",
+    "ja_JP": "ヘラグ",
+    "zh_CN": "赫拉格"
+  },
+  "hmau": {
+    "en_US": "Hung",
+    "ja_JP": "ウン",
+    "zh_CN": "吽"
+  },
+  "horn": {
+    "en_US": "Horn",
+    "ja_JP": "ホルン",
+    "zh_CN": "号角"
+  },
+  "hpsts": {
+    "en_US": "Vulcan",
+    "ja_JP": "ヴァルカン",
+    "zh_CN": "火神"
+  },
+  "huang": {
+    "en_US": "Blaze",
+    "ja_JP": "ブレイズ",
+    "zh_CN": "煌"
+  },
+  "ifrit": {
+    "en_US": "Ifrit",
+    "ja_JP": "イフリータ",
+    "zh_CN": "伊芙利特"
+  },
+  "indigo": {
+    "en_US": "Indigo",
+    "ja_JP": "インディゴ",
+    "zh_CN": "深靛"
+  },
+  "irene": {
+    "en_US": "Irene",
+    "ja_JP": "アイリーニ",
+    "zh_CN": "艾丽妮"
+  },
+  "iris": {
+    "en_US": "Iris",
+    "ja_JP": "アイリス",
+    "zh_CN": "爱丽丝"
+  },
+  "jaksel": {
+    "en_US": "Jackie",
+    "ja_JP": "ジャッキー",
+    "zh_CN": "杰克"
+  },
+  "jesica": {
+    "en_US": "Jessica",
+    "ja_JP": "ジェシカ",
+    "zh_CN": "杰西卡"
+  },
+  "kazema": {
+    "en_US": "Kazemaru",
+    "ja_JP": "カゼマル",
+    "zh_CN": "风丸"
+  },
+  "kirara": {
+    "en_US": "Kirara",
+    "ja_JP": "キララ",
+    "zh_CN": "绮良"
+  },
+  "kroos": {
+    "en_US": "Kroos",
+    "ja_JP": "クルース",
+    "zh_CN": "克洛丝"
+  },
+  "lava": {
+    "en_US": "Lava",
+    "ja_JP": "ラヴァ",
+    "zh_CN": "炎熔"
+  },
+  "ling": {
+    "en_US": "Ling",
+    "ja_JP": "リィン",
+    "zh_CN": "令"
+  },
+  "lionhd": {
+    "en_US": "Leonhardt",
+    "ja_JP": "レオンハルト",
+    "zh_CN": "莱恩哈特"
+  },
+  "liskam": {
+    "en_US": "Liskarm",
+    "ja_JP": "リスカム",
+    "zh_CN": "雷蛇"
+  },
+  "lmlee": {
+    "en_US": "Lee",
+    "ja_JP": "リー",
+    "zh_CN": "老鲤"
+  },
+  "lolxh": {
+    "en_US": "Luo Xiaohei",
+    "ja_JP": "羅小黒",
+    "zh_CN": "罗小黑"
+  },
+  "lumen": {
+    "en_US": "Lumen",
+    "ja_JP": "ルーメン",
+    "zh_CN": "流明"
+  },
+  "main_0": {
+    "en_US": "Evil Time Part 1",
+    "ja_JP": "暗黒時代・上",
+    "zh_CN": "黑暗时代·上"
+  },
+  "main_1": {
+    "en_US": "Evil Time Part 2",
+    "ja_JP": "暗黒時代・下",
+    "zh_CN": "黑暗时代·下"
+  },
+  "main_10": {
+    "en_US": "Shatterpoint",
+    "ja_JP": "光冠残蝕",
+    "zh_CN": "破碎日冕"
+  },
+  "main_11": {
+    "en_US": "Return To Mist",
+    "ja_JP": "淬火煙塵",
+    "zh_CN": "淬火尘霾"
+  },
+  "main_12": {
+    "zh_CN": "惊霆无声"
+  },
+  "main_2": {
+    "en_US": "Separated Hearts",
+    "ja_JP": "相思相殺",
+    "zh_CN": "异卵同生"
+  },
+  "main_3": {
+    "en_US": "Stinging Shock",
+    "ja_JP": "起死回生",
+    "zh_CN": "二次呼吸"
+  },
+  "main_4": {
+    "en_US": "Burning Run",
+    "ja_JP": "急転直下",
+    "zh_CN": "急性衰竭"
+  },
+  "main_5": {
+    "en_US": "Necessary Solutions",
+    "ja_JP": "快刀乱麻",
+    "zh_CN": "靶向药物"
+  },
+  "main_6": {
+    "en_US": "Partial Necrosis",
+    "ja_JP": "局部壊死",
+    "zh_CN": "局部坏死"
+  },
+  "main_7": {
+    "en_US": "The Birth of Tragedy",
+    "ja_JP": "苦難揺籃",
+    "zh_CN": "苦难摇篮"
+  },
+  "main_8": {
+    "en_US": "Roaring Flare",
+    "ja_JP": "怒号光明",
+    "zh_CN": "怒号光明"
+  },
+  "main_9": {
+    "en_US": "Stormwatch",
+    "ja_JP": "暴風眺望",
+    "zh_CN": "风暴瞭望"
+  },
+  "mantic": {
+    "en_US": "Manticore",
+    "ja_JP": "マンティコア",
+    "zh_CN": "狮蝎"
+  },
+  "mberry": {
+    "en_US": "Mulberry",
+    "ja_JP": "マルベリー",
+    "zh_CN": "桑葚"
+  },
+  "medic2": {
+    "en_US": "Lancet-2",
+    "ja_JP": "Lancet-2",
+    "zh_CN": "Lancet-2"
+  },
+  "melan": {
+    "en_US": "Melantha",
+    "ja_JP": "メランサ",
+    "zh_CN": "玫兰莎"
+  },
+  "meteo": {
+    "en_US": "Meteorite",
+    "ja_JP": "メテオリーテ",
+    "zh_CN": "陨星"
+  },
+  "mgllan": {
+    "en_US": "Magallan",
+    "ja_JP": "マゼラン",
+    "zh_CN": "麦哲伦"
+  },
+  "midn": {
+    "en_US": "Midnight",
+    "ja_JP": "ミッドナイト",
+    "zh_CN": "月见夜"
+  },
+  "milu": {
+    "en_US": "Firewatch",
+    "ja_JP": "ファイヤーウォッチ",
+    "zh_CN": "守林人"
+  },
+  "mint": {
+    "en_US": "Mint",
+    "ja_JP": "ミント",
+    "zh_CN": "薄绿"
+  },
+  "mizuki": {
+    "en_US": "Mizuki",
+    "ja_JP": "ミヅキ",
+    "zh_CN": "水月"
+  },
+  "mm": {
+    "en_US": "May",
+    "ja_JP": "メイ",
+    "zh_CN": "梅"
+  },
+  "moeshd": {
+    "en_US": "Croissant",
+    "ja_JP": "クロワッサン",
+    "zh_CN": "可颂"
+  },
+  "morgan": {
+    "zh_CN": "摩根"
+  },
+  "mostma": {
+    "en_US": "Mostima",
+    "ja_JP": "モスティマ",
+    "zh_CN": "莫斯提马"
+  },
+  "myrrh": {
+    "en_US": "Myrrh",
+    "ja_JP": "ミルラ",
+    "zh_CN": "末药"
+  },
+  "ncdeer": {
+    "en_US": "Nine-Colored Deer",
+    "ja_JP": "九色鹿",
+    "zh_CN": "九色鹿"
+  },
+  "nearl2": {
+    "en_US": "Nearl the Radiant Knight",
+    "ja_JP": "耀騎士ニアール",
+    "zh_CN": "耀骑士临光"
+  },
+  "nian": {
+    "en_US": "Nian",
+    "ja_JP": "ニェン",
+    "zh_CN": "年"
+  },
+  "nights": {
+    "en_US": "Haze",
+    "ja_JP": "ヘイズ",
+    "zh_CN": "夜烟"
+  },
+  "noirc": {
+    "en_US": "Noir Corne",
+    "ja_JP": "ノイルホーン",
+    "zh_CN": "黑角"
+  },
+  "nothin": {
+    "en_US": "Mr. Nothing",
+    "ja_JP": "ウユウ",
+    "zh_CN": "乌有"
+  },
+  "orchid": {
+    "en_US": "Orchid",
+    "ja_JP": "オーキッド",
+    "zh_CN": "梓兰"
+  },
+  "otter": {
+    "en_US": "Mayer",
+    "ja_JP": "メイヤー",
+    "zh_CN": "梅尔"
+  },
+  "panda": {
+    "en_US": "FEater",
+    "ja_JP": "エフイーター",
+    "zh_CN": "食铁兽"
+  },
+  "peper": {
+    "en_US": "Paprika",
+    "ja_JP": "パプリカ",
+    "zh_CN": "明椒"
+  },
+  "phatom": {
+    "en_US": "Phantom",
+    "ja_JP": "ファントム",
+    "zh_CN": "傀影"
+  },
+  "phenxi": {
+    "en_US": "Fiammetta",
+    "ja_JP": "フィアメッタ",
+    "zh_CN": "菲亚梅塔"
+  },
+  "pinecn": {
+    "en_US": "Pinecone",
+    "ja_JP": "パインコーン",
+    "zh_CN": "松果"
+  },
+  "platnm": {
+    "en_US": "Platinum",
+    "ja_JP": "プラチナ",
+    "zh_CN": "白金"
+  },
+  "plosis": {
+    "en_US": "Ptilopsis",
+    "ja_JP": "フィリオプシス",
+    "zh_CN": "白面鸮"
+  },
+  "podego": {
+    "en_US": "Podenco",
+    "ja_JP": "ポデンコ",
+    "zh_CN": "波登可"
+  },
+  "popka": {
+    "en_US": "Popukar",
+    "ja_JP": "ポプカル",
+    "zh_CN": "泡普卡"
+  },
+  "prove": {
+    "en_US": "Provence",
+    "ja_JP": "プロヴァンス",
+    "zh_CN": "普罗旺斯"
+  },
+  "quartz": {
+    "en_US": "Quartz",
+    "ja_JP": "クォーツ",
+    "zh_CN": "石英"
+  },
+  "quercu": {
+    "en_US": "Quercus",
+    "ja_JP": "クエルクス",
+    "zh_CN": "夏栎"
+  },
+  "robrta": {
+    "en_US": "Roberta",
+    "ja_JP": "ロベルタ",
+    "zh_CN": "罗比菈塔"
+  },
+  "rockr": {
+    "en_US": "Rockrock",
+    "ja_JP": "ロックロック",
+    "zh_CN": "洛洛"
+  },
+  "rogue_1": {
+    "en_US": "Phantom & Crimson Solitaire",
+    "ja_JP": "ファントムと緋き貴石",
+    "zh_CN": "傀影与猩红孤钻"
+  },
+  "rogue_2": {
+    "en_US": "Mizuki & Caerula Arbor",
+    "ja_JP": "ミヅキと紺碧の樹",
+    "zh_CN": "水月与深蓝之树"
+  },
+  "rope": {
+    "en_US": "Rope",
+    "ja_JP": "ロープ",
+    "zh_CN": "暗索"
+  },
+  "savage": {
+    "en_US": "Savage",
+    "ja_JP": "サベージ",
+    "zh_CN": "暴行"
+  },
+  "scave": {
+    "en_US": "Scavenger",
+    "ja_JP": "スカベンジャー",
+    "zh_CN": "清道夫"
+  },
+  "serum": {
+    "en_US": "Corroserum",
+    "ja_JP": "コロセラム",
+    "zh_CN": "蚀清"
+  },
+  "sesa": {
+    "en_US": "Sesa",
+    "ja_JP": "シェーシャ",
+    "zh_CN": "慑砂"
+  },
+  "shotst": {
+    "en_US": "Meteor",
+    "ja_JP": "メテオ",
+    "zh_CN": "流星"
+  },
+  "shwaz": {
+    "en_US": "Schwarz",
+    "ja_JP": "シュヴァルツ",
+    "zh_CN": "黑"
+  },
+  "sidero": {
+    "en_US": "Sideroca",
+    "ja_JP": "シデロカ",
+    "zh_CN": "铸铁"
+  },
+  "silent": {
+    "en_US": "Silence",
+    "ja_JP": "サイレンス",
+    "zh_CN": "赫默"
+  },
+  "skadi": {
+    "en_US": "Skadi",
+    "ja_JP": "スカジ",
+    "zh_CN": "斯卡蒂"
+  },
+  "skfire": {
+    "en_US": "Skyfire",
+    "ja_JP": "スカイフレア",
+    "zh_CN": "天火"
+  },
+  "skgoat": {
+    "en_US": "Earthspirit",
+    "ja_JP": "アーススピリット",
+    "zh_CN": "地灵"
+  },
+  "slbell": {
+    "en_US": "Pramanix",
+    "ja_JP": "プラマニクス",
+    "zh_CN": "初雪"
+  },
+  "slchan": {
+    "en_US": "Cliffheart",
+    "ja_JP": "クリフハート",
+    "zh_CN": "崖心"
+  },
+  "sleach": {
+    "en_US": "Saileach",
+    "ja_JP": "サイラッハ",
+    "zh_CN": "琴柳"
+  },
+  "snsant": {
+    "en_US": "Snowsant",
+    "ja_JP": "スノーズント",
+    "zh_CN": "雪雉"
+  },
+  "sophia": {
+    "en_US": "Whislash",
+    "ja_JP": "ウィスラッシュ",
+    "zh_CN": "鞭刃"
+  },
+  "sora": {
+    "en_US": "Sora",
+    "ja_JP": "ソラ",
+    "zh_CN": "空"
+  },
+  "spot": {
+    "en_US": "Spot",
+    "ja_JP": "スポット",
+    "zh_CN": "斑点"
+  },
+  "sqrrel": {
+    "en_US": "Shaw",
+    "ja_JP": "ショウ",
+    "zh_CN": "阿消"
+  },
+  "strong": {
+    "en_US": "Jaye",
+    "ja_JP": "ジェイ",
+    "zh_CN": "孑"
+  },
+  "sunbr": {
+    "en_US": "Gummy",
+    "ja_JP": "グム",
+    "zh_CN": "古米"
+  },
+  "susuro": {
+    "en_US": "Sussurro",
+    "ja_JP": "ススーロ",
+    "zh_CN": "苏苏洛"
+  },
+  "svrash": {
+    "en_US": "SilverAsh",
+    "ja_JP": "シルバーアッシュ",
+    "zh_CN": "银灰"
+  },
+  "swire": {
+    "en_US": "Swire",
+    "ja_JP": "スワイヤー",
+    "zh_CN": "诗怀雅"
+  },
+  "takila": {
+    "en_US": "Tequila",
+    "ja_JP": "テキーラ",
+    "zh_CN": "龙舌兰"
+  },
+  "texas": {
+    "en_US": "Texas",
+    "ja_JP": "テキサス",
+    "zh_CN": "德克萨斯"
+  },
+  "therex": {
+    "en_US": "THRM-EX",
+    "ja_JP": "THRM-EX",
+    "zh_CN": "THRM-EX"
+  },
+  "thorns": {
+    "en_US": "Thorns",
+    "ja_JP": "ソーンズ",
+    "zh_CN": "棘刺"
+  },
+  "tiger": {
+    "en_US": "Indra",
+    "ja_JP": "インドラ",
+    "zh_CN": "因陀罗"
+  },
+  "tknogi": {
+    "en_US": "Tsukinogi",
+    "ja_JP": "ツキノギ",
+    "zh_CN": "月禾"
+  },
+  "toddi": {
+    "en_US": "Toddifons",
+    "ja_JP": "トギフォンス",
+    "zh_CN": "熔泉"
+  },
+  "tomimi": {
+    "en_US": "Tomimi",
+    "ja_JP": "トミミ",
+    "zh_CN": "特米米"
+  },
+  "totter": {
+    "en_US": "Totter",
+    "ja_JP": "トター",
+    "zh_CN": "铅踝"
+  },
+  "tuye": {
+    "en_US": "Tuye",
+    "ja_JP": "トゥイエ",
+    "zh_CN": "图耶"
+  },
+  "vigil": {
+    "en_US": "Vigil",
+    "ja_JP": "ヴィジェル",
+    "zh_CN": "伺夜"
+  },
+  "vigna": {
+    "en_US": "Vigna",
+    "ja_JP": "ヴィグナ",
+    "zh_CN": "红豆"
+  },
+  "vodfox": {
+    "en_US": "Shamare",
+    "ja_JP": "シャマレ",
+    "zh_CN": "巫恋"
+  },
+  "waaifu": {
+    "en_US": "Waai Fu",
+    "ja_JP": "ワイフー",
+    "zh_CN": "槐琥"
+  },
+  "weedy": {
+    "en_US": "Weedy",
+    "ja_JP": "ウィーディ",
+    "zh_CN": "温蒂"
+  },
+  "whispr": {
+    "en_US": "Whisperain",
+    "ja_JP": "ウィスパーレイン",
+    "zh_CN": "絮雨"
+  },
+  "wildmn": {
+    "en_US": "Wild Mane",
+    "ja_JP": "ワイルドメイン",
+    "zh_CN": "野鬃"
+  },
+  "windft": {
+    "en_US": "Windflit",
+    "ja_JP": "ウインドフリット",
+    "zh_CN": "掠风"
+  },
+  "wyvern": {
+    "en_US": "Vanilla",
+    "ja_JP": "バニラ",
+    "zh_CN": "香草"
+  },
+  "yak": {
+    "en_US": "Matterhorn",
+    "ja_JP": "マッターホルン",
+    "zh_CN": "角峰"
+  },
+  "yuki": {
+    "en_US": "Shirayuki",
+    "ja_JP": "シラユキ",
+    "zh_CN": "白雪"
+  },
+  "zebra": {
+    "en_US": "Heavyrain",
+    "ja_JP": "ヘビーレイン",
+    "zh_CN": "暴雨"
+  }
+}
