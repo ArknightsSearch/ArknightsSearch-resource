@@ -177,6 +177,9 @@
   "act25side": {
     "zh_CN": "孤星"
   },
+  "act26side": {
+    "zh_CN": "空想花庭"
+  },
   "act3d0": {
     "en_US": "Heart of Surging Flame",
     "ja_JP": "青く燃ゆる心",
@@ -466,6 +469,11 @@
     "ja_JP": "イーサン",
     "zh_CN": "伊桑"
   },
+  "excu": {
+    "en_US": "Executor",
+    "ja_JP": "イグゼキュター",
+    "zh_CN": "送葬人"
+  },
   "f12yin": {
     "en_US": "Mountain",
     "ja_JP": "マウンテン",
@@ -500,6 +508,11 @@
     "en_US": "Scene",
     "ja_JP": "シーン",
     "zh_CN": "稀音"
+  },
+  "forcer": {
+    "en_US": "Enforcer",
+    "ja_JP": "エンフォーサー",
+    "zh_CN": "见行者"
   },
   "franka": {
     "en_US": "Franka",
@@ -619,6 +632,9 @@
     "ja_JP": "インディゴ",
     "zh_CN": "深靛"
   },
+  "inside": {
+    "zh_CN": "隐现"
+  },
   "irene": {
     "en_US": "Irene",
     "ja_JP": "アイリーニ",
@@ -658,6 +674,11 @@
     "en_US": "Lava",
     "ja_JP": "ラヴァ",
     "zh_CN": "炎熔"
+  },
+  "leizi": {
+    "en_US": "Leizi",
+    "ja_JP": "レイズ",
+    "zh_CN": "惊蛰"
   },
   "ling": {
     "en_US": "Ling",
