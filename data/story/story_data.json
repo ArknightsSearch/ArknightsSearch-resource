@@ -931,7 +931,8 @@
     "id": "obt/memory/story_astesi_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "启明"
+      "zh_CN": "启明",
+      "ja_JP": "照らし出す光"
     },
     "zone": "astesi"
   },
@@ -939,7 +940,8 @@
     "id": "obt/memory/story_takila_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "尖刺的滋味"
+      "zh_CN": "尖刺的滋味",
+      "ja_JP": "「尖り」の味わい"
     },
     "zone": "takila"
   },
@@ -947,7 +949,8 @@
     "id": "obt/memory/story_deepcl_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "幽蓝怀想"
+      "zh_CN": "幽蓝怀想",
+      "ja_JP": "深き青の追想"
     },
     "zone": "deepcl"
   },
@@ -955,7 +958,8 @@
     "id": "obt/memory/story_robrta_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "挽歌"
+      "zh_CN": "挽歌",
+      "ja_JP": "亡き者に捧ぐ歌"
     },
     "zone": "robrta"
   },
