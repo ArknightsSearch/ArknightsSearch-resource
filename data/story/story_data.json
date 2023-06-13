@@ -932,7 +932,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "启明",
-      "ja_JP": "照らし出す光"
+      "ja_JP": "照らし出す光",
+      "en_US": "Revelation"
     },
     "zone": "astesi"
   },
@@ -941,7 +942,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "尖刺的滋味",
-      "ja_JP": "「尖り」の味わい"
+      "ja_JP": "「尖り」の味わい",
+      "en_US": "Taste of Thorns"
     },
     "zone": "takila"
   },
@@ -950,7 +952,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "幽蓝怀想",
-      "ja_JP": "深き青の追想"
+      "ja_JP": "深き青の追想",
+      "en_US": "Azure Memories"
     },
     "zone": "deepcl"
   },
@@ -959,7 +962,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "挽歌",
-      "ja_JP": "亡き者に捧ぐ歌"
+      "ja_JP": "亡き者に捧ぐ歌",
+      "en_US": "Elegy"
     },
     "zone": "robrta"
   },
