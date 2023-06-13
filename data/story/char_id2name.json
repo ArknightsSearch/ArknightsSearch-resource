@@ -91,6 +91,7 @@
     "赫默"
   ],
   "avg_110_deepcl_1": [
+    "Eccentric Artist",
     "奇妙な画家",
     "怪异的画家"
   ],
@@ -154,6 +155,7 @@
     "伊芙利特"
   ],
   "avg_135_halo_1": [
+    "Astgenne",
     "Elena",
     "アステジーニ",
     "エレナ",
@@ -804,11 +806,13 @@
     "帕拉斯"
   ],
   "avg_484_robrta_1": [
+    "Roberta",
     "ロベルタ",
     "罗比菈塔"
   ],
   "avg_486_espumo_1": [
     "Ernesto",
+    "Tequila",
     "エルネスト",
     "テキーラ",
     "埃内斯托",
@@ -849,6 +853,7 @@
     "D.D.D."
   ],
   "avg_NPC_178": [
+    "Art Shop Owner",
     "Skeptical Townsfolk",
     "Tense Townsfolk",
     "懐疑的な村人",
@@ -869,6 +874,7 @@
     "警惕的顾客"
   ],
   "avg_NPC_459_1": [
+    "Bold Townsfolk",
     "度胸のある町民",
     "大胆的镇民"
   ],
@@ -3274,6 +3280,7 @@
   "avg_npc_176": [
     "A Leithanian Nobleman",
     "Announcer",
+    "Casino Boss",
     "Elegant Ambassador",
     "Genial Noble",
     "Greedy Businessman",
@@ -3476,6 +3483,7 @@
     "Ambush A",
     "Bar Owner",
     "Casino Hotshot",
+    "Casino Worker",
     "Criminal",
     "Tourist A?",
     "Tulio",
@@ -3542,6 +3550,7 @@
   ],
   "avg_npc_201": [
     "Bolívarian Tourist",
+    "Casino Guest",
     "Cheerful Male Tourist",
     "Impatient Male Tourist",
     "Startled Male Tourist",
@@ -3587,6 +3596,7 @@
   ],
   "avg_npc_204": [
     "Angered Contestant",
+    "Excited Customer",
     "Irritated Contestant",
     "怒っている選手",
     "興奮する客",
@@ -3601,6 +3611,7 @@
     "Drunkard A",
     "Headstrong Contestant",
     "Irritated Contestant",
+    "Skeptical Customer",
     "不屈の選手",
     "参加選手？",
     "大会参加選手",
@@ -3623,6 +3634,7 @@
     "Bodyguard",
     "Casino Boss",
     "Impatient Dossoles Police Officer",
+    "Mayor's Bodyguard",
     "Toady Dossoles Police Officer",
     "なまけ者ドッソレス警察官",
     "カジノのオーナー",
@@ -5152,7 +5164,9 @@
   ],
   "avg_npc_454_1": [
     "Church of the Deep Cultist B",
+    "Priest",
     "Silent Cultist",
+    "Strange Outsider",
     "Tight-Lipped Adherent",
     "Wounded Cultist",
     "傷付いた深海教徒",
@@ -5480,6 +5494,7 @@
     "Cheerful Columbian",
     "Drunkard",
     "Frivolous Columbian",
+    "Morgue Worker",
     "ご機嫌なクルビア人",
     "死体安置所の従業員",
     "軽薄なクルビア人",
@@ -5500,6 +5515,7 @@
   "avg_npc_524_1": [
     "Bar Patron",
     "Cheery Woman",
+    "Tall Woman",
     "Trimountarian",
     "トリマウンツ市民",
     "バーの客",

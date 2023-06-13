@@ -513,6 +513,9 @@
   "Armorless Union Member": [
     "avg_npc_216"
   ],
+  "Art Shop Owner": [
+    "avg_NPC_178"
+  ],
   "Aruna": [
     "avg_npc_070"
   ],
@@ -537,6 +540,9 @@
   ],
   "Astesia": [
     "avg_274_Astesia_1"
+  ],
+  "Astgenne": [
+    "avg_135_halo_1"
   ],
   "Astute Durin": [
     "avg_npc_573_1"
@@ -804,6 +810,9 @@
   "Bold Female Voice": [
     "avg_npc_109"
   ],
+  "Bold Townsfolk": [
+    "avg_NPC_459_1"
+  ],
   "Bolívarian Serviceman A": [
     "avg_npc_193"
   ],
@@ -965,9 +974,16 @@
     "avg_npc_693_1"
   ],
   "Casino Boss": [
+    "avg_npc_176",
     "avg_npc_207"
   ],
+  "Casino Guest": [
+    "avg_npc_201"
+  ],
   "Casino Hotshot": [
+    "avg_npc_194"
+  ],
+  "Casino Worker": [
     "avg_npc_194"
   ],
   "Caster Operator": [
@@ -1412,6 +1428,9 @@
   "Ebenholz": [
     "avg_4046_ebnhlz_1"
   ],
+  "Eccentric Artist": [
+    "avg_110_deepcl_1"
+  ],
   "Edge Eartheart": [
     "avg_npc_564_1",
     "avg_npc_565_1"
@@ -1525,6 +1544,9 @@
   ],
   "Excited Archosauria": [
     "avg_npc_071"
+  ],
+  "Excited Customer": [
+    "avg_npc_204"
   ],
   "Excited Durin": [
     "avg_npc_574_1",
@@ -2782,6 +2804,9 @@
   "Mayor": [
     "avg_npc_165"
   ],
+  "Mayor's Bodyguard": [
+    "avg_npc_207"
+  ],
   "Mayor's Secretary": [
     "avg_npc_164"
   ],
@@ -2934,6 +2959,9 @@
   "Morgan": [
     "avg_npc_405_1",
     "char_154_morgan_1"
+  ],
+  "Morgue Worker": [
+    "avg_npc_523_1"
   ],
   "Morte": [
     "avg_npc_131"
@@ -3490,7 +3518,8 @@
     "avg_npc_175"
   ],
   "Priest": [
-    "avg_npc_063"
+    "avg_npc_063",
+    "avg_npc_454_1"
   ],
   "Prisoner": [
     "avg_npc_423_1"
@@ -3727,6 +3756,9 @@
   "Robben": [
     "avg_npc_413_1",
     "avg_npc_414_1"
+  ],
+  "Roberta": [
+    "avg_484_robrta_1"
   ],
   "Robin": [
     "char_451_robin"
@@ -4165,6 +4197,9 @@
     "avg_1012_skadiSP_1",
     "char_263_skadi"
   ],
+  "Skeptical Customer": [
+    "avg_npc_205"
+  ],
   "Skeptical Mafioso": [
     "avg_npc_698_1"
   ],
@@ -4350,6 +4385,9 @@
   "Strange Object": [
     "avg_npc_306_1"
   ],
+  "Strange Outsider": [
+    "avg_npc_454_1"
+  ],
   "Strange Power Armor": [
     "avg_npc_526_1"
   ],
@@ -4450,6 +4488,9 @@
     "avg_npc_040",
     "avg_npc_299_1"
   ],
+  "Tall Woman": [
+    "avg_npc_524_1"
+  ],
   "Talulah": [
     "avg_npc_078",
     "char_011_talula_1"
@@ -4495,6 +4536,9 @@
   ],
   "Tense Townsperson": [
     "avg_npc_460_1"
+  ],
+  "Tequila": [
+    "avg_486_espumo_1"
   ],
   "Terracotta": [
     "char_015_lmg",
