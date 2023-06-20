@@ -489,6 +489,9 @@
     "ja_JP": "フェン",
     "zh_CN": "芬"
   },
+  "firwhl": {
+    "zh_CN": "火哨"
+  },
   "flint": {
     "en_US": "Flint",
     "ja_JP": "フリント",
@@ -654,6 +657,11 @@
     "en_US": "Jessica",
     "ja_JP": "ジェシカ",
     "zh_CN": "杰西卡"
+  },
+  "kafka": {
+    "en_US": "Kafka",
+    "ja_JP": "カフカ",
+    "zh_CN": "卡夫卡"
   },
   "kazema": {
     "en_US": "Kazemaru",
@@ -936,6 +944,11 @@
     "ja_JP": "プロヴァンス",
     "zh_CN": "普罗旺斯"
   },
+  "pudd": {
+    "en_US": "Pudding",
+    "ja_JP": "プリン",
+    "zh_CN": "布丁"
+  },
   "quartz": {
     "en_US": "Quartz",
     "ja_JP": "クォーツ",
@@ -1140,6 +1153,11 @@
     "en_US": "Tuye",
     "ja_JP": "トゥイエ",
     "zh_CN": "图耶"
+  },
+  "utage": {
+    "en_US": "Utage",
+    "ja_JP": "ウタゲ",
+    "zh_CN": "宴"
   },
   "vigil": {
     "en_US": "Vigil",
