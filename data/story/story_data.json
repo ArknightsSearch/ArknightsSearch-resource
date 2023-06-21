@@ -1762,7 +1762,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "提灯之人 Part.01",
-      "ja_JP": "灯りを持つ者 Part.01"
+      "ja_JP": "灯りを持つ者 Part.01",
+      "en_US": "Lantern Bearers Part.01"
     },
     "zone": "rogue_2"
   },
@@ -1771,7 +1772,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "提灯之人 Part.02",
-      "ja_JP": "灯りを持つ者 Part.02"
+      "ja_JP": "灯りを持つ者 Part.02",
+      "en_US": "Lantern Bearers Part.02"
     },
     "zone": "rogue_2"
   },
@@ -1780,7 +1782,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "提灯之人 Part.03",
-      "ja_JP": "灯りを持つ者 Part.03"
+      "ja_JP": "灯りを持つ者 Part.03",
+      "en_US": "Lantern Bearers Part.03"
     },
     "zone": "rogue_2"
   },
