@@ -1761,7 +1761,8 @@
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_2_1",
     "type": "Rogue",
     "name": {
-      "zh_CN": "提灯之人 Part.01"
+      "zh_CN": "提灯之人 Part.01",
+      "ja_JP": "灯りを持つ者 Part.01"
     },
     "zone": "rogue_2"
   },
@@ -1769,7 +1770,8 @@
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_2_2",
     "type": "Rogue",
     "name": {
-      "zh_CN": "提灯之人 Part.02"
+      "zh_CN": "提灯之人 Part.02",
+      "ja_JP": "灯りを持つ者 Part.02"
     },
     "zone": "rogue_2"
   },
@@ -1777,7 +1779,8 @@
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_2_3",
     "type": "Rogue",
     "name": {
-      "zh_CN": "提灯之人 Part.03"
+      "zh_CN": "提灯之人 Part.03",
+      "ja_JP": "灯りを持つ者 Part.03"
     },
     "zone": "rogue_2"
   },
