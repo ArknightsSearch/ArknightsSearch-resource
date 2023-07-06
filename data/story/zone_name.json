@@ -92,6 +92,9 @@
     "ja_JP": "彼方を望む",
     "zh_CN": "此地之外"
   },
+  "act15mini": {
+    "zh_CN": "眠于树影之中"
+  },
   "act15side": {
     "en_US": "Invitation to Wine",
     "ja_JP": "将進酒",
@@ -240,6 +243,11 @@
     "en_US": "Angelina",
     "ja_JP": "アンジェリーナ",
     "zh_CN": "安洁莉娜"
+  },
+  "akafyu": {
+    "en_US": "Akafuyu",
+    "ja_JP": "アカフユ",
+    "zh_CN": "赤冬"
   },
   "amgoat": {
     "en_US": "Eyjafjalla",
@@ -831,6 +839,9 @@
     "ja_JP": "ミヅキ",
     "zh_CN": "水月"
   },
+  "mlyss": {
+    "zh_CN": "缪尔赛思"
+  },
   "mm": {
     "en_US": "May",
     "ja_JP": "メイ",
@@ -944,10 +955,20 @@
     "ja_JP": "プロヴァンス",
     "zh_CN": "普罗旺斯"
   },
+  "provs": {
+    "en_US": "Proviso",
+    "ja_JP": "プロヴァイゾ",
+    "zh_CN": "但书"
+  },
   "pudd": {
     "en_US": "Pudding",
     "ja_JP": "プリン",
     "zh_CN": "布丁"
+  },
+  "qanik": {
+    "en_US": "Qanipalaat",
+    "ja_JP": "カニパラート",
+    "zh_CN": "雪绒"
   },
   "quartz": {
     "en_US": "Quartz",
