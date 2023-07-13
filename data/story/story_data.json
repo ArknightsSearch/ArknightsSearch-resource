@@ -1049,7 +1049,8 @@
     "id": "obt/memory/story_sleach_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "一双羽兽"
+      "zh_CN": "一双羽兽",
+      "ja_JP": "つがいの羽獣"
     },
     "zone": "sleach"
   },
@@ -1057,7 +1058,8 @@
     "id": "obt/memory/story_hamoni_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "孤独的舞者"
+      "zh_CN": "孤独的舞者",
+      "ja_JP": "孤独なダンサー"
     },
     "zone": "hamoni"
   },
@@ -1065,7 +1067,8 @@
     "id": "obt/memory/story_mm_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "大侦探探案集·卷一"
+      "zh_CN": "大侦探探案集·卷一",
+      "ja_JP": "名探偵の事件簿・其の一"
     },
     "zone": "mm"
   },
@@ -1073,7 +1076,8 @@
     "id": "obt/memory/story_frncat_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "小点心"
+      "zh_CN": "小点心",
+      "ja_JP": "マイスウィーティ"
     },
     "zone": "frncat"
   },
