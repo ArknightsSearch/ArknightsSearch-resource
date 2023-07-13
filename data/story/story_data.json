@@ -1050,7 +1050,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "一双羽兽",
-      "ja_JP": "つがいの羽獣"
+      "ja_JP": "つがいの羽獣",
+      "en_US": "A Pair of Fowlbeasts"
     },
     "zone": "sleach"
   },
@@ -1059,7 +1060,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "孤独的舞者",
-      "ja_JP": "孤独なダンサー"
+      "ja_JP": "孤独なダンサー",
+      "en_US": "Solitary Dancer"
     },
     "zone": "hamoni"
   },
@@ -1068,7 +1070,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "大侦探探案集·卷一",
-      "ja_JP": "名探偵の事件簿・其の一"
+      "ja_JP": "名探偵の事件簿・其の一",
+      "en_US": "The Great Detective's Case Files - Volume I"
     },
     "zone": "mm"
   },
@@ -1077,7 +1080,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "小点心",
-      "ja_JP": "マイスウィーティ"
+      "ja_JP": "マイスウィーティ",
+      "en_US": "Sweetheart"
     },
     "zone": "frncat"
   },
@@ -2068,6 +2072,30 @@
       "zh_CN": "童年的终结 Part.03"
     },
     "zone": "rogue_2"
+  },
+  "1202": {
+    "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_1_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "探足 Part.01"
+    },
+    "zone": "rogue_3"
+  },
+  "1203": {
+    "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_1_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "探足 Part.02"
+    },
+    "zone": "rogue_3"
+  },
+  "1204": {
+    "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_1_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "探足 Part.03"
+    },
+    "zone": "rogue_3"
   },
   "121": {
     "id": "obt/main/level_main_07-01_beg",

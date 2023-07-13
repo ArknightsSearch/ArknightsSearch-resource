@@ -30,6 +30,7 @@
     "耀骑士"
   ],
   "avg_1020_reed2_1": [
+    "Reed",
     "リード",
     "苇草"
   ],
@@ -150,6 +151,8 @@
     "蓝毒"
   ],
   "avg_133_mm_1": [
+    "May",
+    "Metis",
     "メイ",
     "メイティス",
     "梅",
@@ -240,6 +243,7 @@
     "地灵"
   ],
   "avg_185_frncat_1": [
+    "Mousse",
     "ムース",
     "慕斯"
   ],
@@ -329,6 +333,8 @@
     "吽"
   ],
   "avg_226_weed_1": [
+    "'The Leader'",
+    "Loughshinny",
     "Reed",
     "「リーダー」",
     "ラフシニー",
@@ -564,6 +570,7 @@
     "风丸"
   ],
   "avg_4017_puzzle_1": [
+    "Fischer",
     "フィッシャー",
     "菲舍尔"
   ],
@@ -823,6 +830,7 @@
   ],
   "avg_479_sleach_1": [
     "Janie",
+    "Saileach",
     "サイラッハ",
     "ジェニー",
     "琴柳",
@@ -1284,6 +1292,7 @@
     "Bounty Hunter",
     "Bounty Hunter B",
     "Bounty Hunter C",
+    "Caravan Guard",
     "Curious Bounty Hunter",
     "Hoodlum B",
     "Hooligan Mercenary",
@@ -2622,6 +2631,7 @@
     "阿米娅"
   ],
   "avg_npc_088": [
+    "Anxious Young Operator",
     "Assistant Operator",
     "Caster Operator",
     "Engineering Operator",
@@ -2948,7 +2958,6 @@
   ],
   "avg_npc_131": [
     "Morte",
-    "Morti",
     "モルテ",
     "莫提"
   ],
@@ -3292,15 +3301,19 @@
   "avg_npc_175": [
     "Actress",
     "Beautiful Noble",
+    "Caravan Head",
     "Cheery Actress",
     "Hesitant Ambassador",
+    "Kind-Faced Noble",
     "Merry Noblewoman",
     "Noble Lady",
     "Noble?",
+    "Noblewoman",
     "Pretentious Noblewoman",
     "Scathing Leithanian",
     "Self-Satisfied Noble Alumna",
     "Wealthy Woman",
+    "Witty Noble",
     "ためらう使節",
     "キャラバンのリーダー",
     "ユーモラスな貴族",
@@ -3339,10 +3352,13 @@
     "Announcer",
     "Casino Boss",
     "Elegant Ambassador",
+    "Enthusiastic Merchant",
     "Genial Noble",
     "Greedy Businessman",
     "Local Judge A",
     "Noble Gentleman",
+    "Plump Merchant",
+    "Pompous Merchant",
     "Slimy Noble",
     "Theater Manager",
     "Tipsy Businessman",
@@ -3386,13 +3402,16 @@
   "avg_npc_177": [
     "Astute Noble",
     "Bishmer",
+    "Hughes",
     "Local Judge B",
     "Londinium Merchant",
     "Noble Man",
+    "Noblewoman and Wealthy Man",
     "Obscured Merchant",
     "Officer-in-Charge",
     "Pretentious Man",
     "Wealthily-Dressed Man",
+    "Wealthy Man",
     "Wildly Ambitious Baron",
     "William",
     "ウィリアム",
@@ -3761,6 +3780,7 @@
     "发言人麦基"
   ],
   "avg_npc_213": [
+    "Mrs. Selis",
     "Saoirse",
     "シアーシャ",
     "セリス夫人",
@@ -4017,6 +4037,7 @@
   ],
   "avg_npc_228_1": [
     "Harmonie",
+    "Rosalie",
     "アルモニ",
     "ロックスレイ",
     "洛西莉",
@@ -4024,6 +4045,7 @@
   ],
   "avg_npc_229_1": [
     "Horn",
+    "Rita",
     "ホルン",
     "リタ",
     "丽塔",
@@ -4070,6 +4092,7 @@
   ],
   "avg_npc_239": [
     "Bard Williams",
+    "Plain-Dressed Bard",
     "詩人ウィリアムズ",
     "質素な服装の詩人",
     "衣着朴素的诗人",
@@ -4092,8 +4115,13 @@
     "骑士"
   ],
   "avg_npc_241": [
+    "Gentle Officer",
     "Guards Member",
     "Guards' Captain",
+    "Patrol Captain",
+    "Soldier on Guard",
+    "Solemn Officer",
+    "Special Forces Soldier",
     "Victorian Officer",
     "Victorian Soldier",
     "ヴィクトリア兵",
@@ -4123,6 +4151,7 @@
     "Busy Youth",
     "Chef MacMartin",
     "Embittered Man",
+    "Excited Taran Refugee",
     "Frightened Youth",
     "Grieving Man",
     "Hostile Man",
@@ -4131,8 +4160,11 @@
     "Panicked Youth",
     "Placid Photographer",
     "Restless Youth",
+    "Taran Refugee",
+    "Tempersome Taran Refugee",
     "Timid Youth",
     "Townsfolk A",
+    "Twitchy Taran Man",
     "Wheedling Merchant Alumnus",
     "Wounded Youth",
     "Young Volunteer",
@@ -4194,10 +4226,13 @@
   ],
   "avg_npc_243": [
     "Cautious Servant",
+    "Feeble Woman",
     "Infected Citizen",
     "Noble Sister",
+    "Overwrought Taran Refugee",
     "Pasado",
     "Sorrowful Woman",
+    "Taran Refugee",
     "Townsfolk B",
     "ターラーの流民",
     "パサード",
@@ -4222,6 +4257,7 @@
   ],
   "avg_npc_244": [
     "Dublinn Soldier",
+    "Dublinn Soldier?",
     "ダブリン兵士",
     "ダブリン兵士？",
     "深池士兵",
@@ -4244,6 +4280,10 @@
   ],
   "avg_npc_248": [
     "Adjutant Hill",
+    "Biting Officer",
+    "Patrol Member",
+    "Patrol Soldier",
+    "Stern Officer",
     "Victorian Soldier A",
     "Victorian Soldier B",
     "ヴィクトリア兵A",
@@ -4962,6 +5002,7 @@
   ],
   "avg_npc_399_1": [
     "Columbian Mercenary",
+    "Special Forces Captain",
     "Victorian Mercenary",
     "クルビア傭兵",
     "ヴィクトリア傭兵",
@@ -4971,6 +5012,7 @@
     "维多利亚雇佣兵"
   ],
   "avg_npc_400_1": [
+    "Calm Woman",
     "Heidi",
     "ハイディ",
     "余裕のある女性",
@@ -5012,6 +5054,7 @@
     "摩根"
   ],
   "avg_npc_406_1": [
+    "Dublinn Officer",
     "Dublinn Soldier",
     "Dublinn Soldier A",
     "Dublinn Soldier B",
@@ -5105,6 +5148,7 @@
   ],
   "avg_npc_417_1": [
     "Londinium Citizen",
+    "Newsagent",
     "ロンディニウム市民",
     "新聞露店オーナー",
     "伦蒂尼姆市民",
@@ -5114,6 +5158,7 @@
     "激动的暴徒"
   ],
   "avg_npc_418_1": [
+    "Earl's Attendant",
     "Fleeing Londinier",
     "Londinium Citizen",
     "Londinium Citizen B",
@@ -5144,6 +5189,8 @@
     "样貌奇特的老者"
   ],
   "avg_npc_421_1": [
+    "Apathetic Taran Man",
+    "Skint Farmer",
     "少し蓄えのある農場主",
     "無関心なターラー男性",
     "小有积蓄的农场主",
@@ -5156,6 +5203,7 @@
     "维多利亚士兵"
   ],
   "avg_npc_423_1": [
+    "Injured Soldier",
     "Prisoner",
     "Rescued Soldier",
     "捕虜の兵士",
@@ -5740,7 +5788,7 @@
     "霍尔海雅"
   ],
   "avg_npc_537_1": [
-    "Kirsten",
+    "Kristen",
     "クリステン",
     "克丽斯腾"
   ],
@@ -6318,36 +6366,46 @@
     "胆小的服务员"
   ],
   "avg_npc_722_1": [
+    "Eblana",
     "エブラナ",
     "爱布拉娜"
   ],
   "avg_npc_723_1": [
+    "'The Brigadier'",
     "「将校」",
     "“校官”"
   ],
   "avg_npc_724_1": [
+    "Dublinn Soldier?",
+    "Selmon",
     "セルモン",
     "ダブリン兵士？",
     "塞尔蒙",
     "深池士兵？"
   ],
   "avg_npc_725_1": [
+    "Fionn",
     "ヴェン",
     "维恩"
   ],
   "avg_npc_726_1": [
+    "Duke of Caster",
     "カスター公爵",
     "开斯特公爵"
   ],
   "avg_npc_727_1": [
+    "Earl of Warwick",
     "ワーウィック伯爵",
     "沃里克伯爵"
   ],
   "avg_npc_728_1": [
+    "Moran",
     "モラン",
     "莫兰"
   ],
   "avg_npc_729_1": [
+    "Injured Refugee",
+    "Wounded Taran",
     "負傷したターラー人",
     "負傷した流民",
     "受伤的塔拉人",

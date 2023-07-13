@@ -56,6 +56,9 @@
   "'The Bandit'": [
     "avg_npc_234"
   ],
+  "'The Brigadier'": [
+    "avg_npc_723_1"
+  ],
   "'The Convict'": [
     "avg_npc_234"
   ],
@@ -69,6 +72,7 @@
     "avg_npc_651_1"
   ],
   "'The Leader'": [
+    "avg_226_weed_1",
     "avg_npc_231"
   ],
   "'The Toxicologist'": [
@@ -432,9 +436,15 @@
   "Anxious Mother": [
     "avg_npc_069"
   ],
+  "Anxious Young Operator": [
+    "avg_npc_088"
+  ],
   "Aosta": [
     "avg_346_aosta_1",
     "char_346_aosta"
+  ],
+  "Apathetic Taran Man": [
+    "avg_npc_421_1"
   ],
   "Apostolic Knight": [
     "avg_npc_358_1"
@@ -741,6 +751,9 @@
   "Bison": [
     "char_325_bison_1"
   ],
+  "Biting Officer": [
+    "avg_npc_248"
+  ],
   "Bitter Root": [
     "avg_npc_012"
   ],
@@ -930,7 +943,8 @@
     "avg_npc_461_1"
   ],
   "Calm Woman": [
-    "avg_npc_163"
+    "avg_npc_163",
+    "avg_npc_400_1"
   ],
   "Campaign Knight": [
     "avg_npc_624_1"
@@ -959,6 +973,12 @@
   ],
   "Captain's Subordinate": [
     "avg_npc_193"
+  ],
+  "Caravan Guard": [
+    "avg_npc_008"
+  ],
+  "Caravan Head": [
+    "avg_npc_175"
   ],
   "Cardigan": [
     "char_209_ardign"
@@ -1388,6 +1408,9 @@
   "Dublinn Messenger": [
     "avg_npc_416_1"
   ],
+  "Dublinn Officer": [
+    "avg_npc_406_1"
+  ],
   "Dublinn Soldier": [
     "avg_npc_244",
     "avg_npc_406_1"
@@ -1397,6 +1420,13 @@
   ],
   "Dublinn Soldier B": [
     "avg_npc_406_1"
+  ],
+  "Dublinn Soldier?": [
+    "avg_npc_244",
+    "avg_npc_724_1"
+  ],
+  "Duke of Caster": [
+    "avg_npc_726_1"
   ],
   "Duke of Wellington": [
     "avg_npc_652_1"
@@ -1421,12 +1451,21 @@
   "Dylan": [
     "avg_npc_012"
   ],
+  "Earl of Warwick": [
+    "avg_npc_727_1"
+  ],
+  "Earl's Attendant": [
+    "avg_npc_418_1"
+  ],
   "Earthspirit": [
     "avg_183_skgoat_1",
     "char_183_skgoat_1"
   ],
   "Ebenholz": [
     "avg_4046_ebnhlz_1"
+  ],
+  "Eblana": [
+    "avg_npc_722_1"
   ],
   "Eccentric Artist": [
     "avg_110_deepcl_1"
@@ -1517,6 +1556,9 @@
   "Enthusiastic Infected": [
     "avg_npc_626_1"
   ],
+  "Enthusiastic Merchant": [
+    "avg_npc_176"
+  ],
   "Enthusiastic Villager": [
     "avg_npc_004"
   ],
@@ -1557,6 +1599,9 @@
   ],
   "Excited Female Tourist": [
     "avg_npc_202"
+  ],
+  "Excited Taran Refugee": [
+    "avg_npc_242"
   ],
   "Executor": [
     "char_279_excu_4"
@@ -1606,6 +1651,9 @@
   ],
   "Feeble Apprentice": [
     "avg_npc_303_1"
+  ],
+  "Feeble Woman": [
+    "avg_npc_243"
   ],
   "Feist": [
     "avg_4072_ironmn_1",
@@ -1668,11 +1716,17 @@
   "Filon": [
     "avg_npc_001"
   ],
+  "Fionn": [
+    "avg_npc_725_1"
+  ],
   "Firewatch": [
     "char_158_milu"
   ],
   "First Apprentice": [
     "avg_npc_140"
+  ],
+  "Fischer": [
+    "avg_4017_puzzle_1"
   ],
   "Flamebringer": [
     "char_131_flameb_5"
@@ -1801,6 +1855,9 @@
   ],
   "Genial Old Lady": [
     "avg_npc_691_1"
+  ],
+  "Gentle Officer": [
+    "avg_npc_241"
   ],
   "Gertrude": [
     "avg_npc_484_1"
@@ -2075,6 +2132,9 @@
   "Hotel Manager": [
     "avg_npc_367_1"
   ],
+  "Hughes": [
+    "avg_npc_177"
+  ],
   "Human Resources Operator": [
     "avg_npc_088",
     "char_016_medic"
@@ -2229,6 +2289,12 @@
   "Injured Lou Seoi Member": [
     "avg_npc_033"
   ],
+  "Injured Refugee": [
+    "avg_npc_729_1"
+  ],
+  "Injured Soldier": [
+    "avg_npc_423_1"
+  ],
   "Ink Spirit": [
     "avg_npc_143"
   ],
@@ -2382,11 +2448,11 @@
   "Kevin": [
     "avg_npc_080"
   ],
+  "Kind-Faced Noble": [
+    "avg_npc_175"
+  ],
   "Kirara": [
     "avg_478_kirara_1"
-  ],
-  "Kirsten": [
-    "avg_npc_537_1"
   ],
   "Kite the Recorder": [
     "avg_4016_kazema_1"
@@ -2454,6 +2520,9 @@
   "Kreide": [
     "avg_npc_482_1",
     "avg_npc_483_1"
+  ],
+  "Kristen": [
+    "avg_npc_537_1"
   ],
   "Kroos": [
     "avg_1021_kroos2_1",
@@ -2651,6 +2720,9 @@
   "Loud-Mouthed Man": [
     "avg_npc_195"
   ],
+  "Loughshinny": [
+    "avg_226_weed_1"
+  ],
   "Louis": [
     "avg_npc_492_1"
   ],
@@ -2795,6 +2867,7 @@
     "avg_4054_malist_1"
   ],
   "May": [
+    "avg_133_mm_1",
     "char_133_mm_1"
   ],
   "Mayer": [
@@ -2892,6 +2965,9 @@
     "avg_219_meteo_1",
     "char_219_meteo_1"
   ],
+  "Metis": [
+    "avg_133_mm_1"
+  ],
   "Miarow": [
     "avg_npc_160_1"
   ],
@@ -2956,6 +3032,9 @@
   "Monique": [
     "avg_npc_208_1"
   ],
+  "Moran": [
+    "avg_npc_728_1"
+  ],
   "Morgan": [
     "avg_npc_405_1",
     "char_154_morgan_1"
@@ -2964,9 +3043,6 @@
     "avg_npc_523_1"
   ],
   "Morte": [
-    "avg_npc_131"
-  ],
-  "Morti": [
     "avg_npc_131"
   ],
   "Mostima": [
@@ -2983,6 +3059,7 @@
     "avg_npc_453_1"
   ],
   "Mousse": [
+    "avg_185_frncat_1",
     "char_185_frncat_1"
   ],
   "Mr. Nothing": [
@@ -2991,6 +3068,9 @@
   ],
   "Mr. Wei, Ordinary Citizen": [
     "char_2005_weiyw_1"
+  ],
+  "Mrs. Selis": [
+    "avg_npc_213"
   ],
   "Ms. Christine": [
     "avg_npc_130"
@@ -3072,6 +3152,9 @@
   "Neurotic Infected": [
     "avg_npc_498_1"
   ],
+  "Newsagent": [
+    "avg_npc_417_1"
+  ],
   "Nian": [
     "avgnew_2014_nian_1",
     "char_2014_nian_1"
@@ -3117,6 +3200,12 @@
   ],
   "Noble?": [
     "avg_npc_175"
+  ],
+  "Noblewoman": [
+    "avg_npc_175"
+  ],
+  "Noblewoman and Wealthy Man": [
+    "avg_npc_177"
   ],
   "Noir Corne": [
     "char_500_noirc_1"
@@ -3274,6 +3363,9 @@
     "avg_npc_245_1",
     "avg_npc_245_1"
   ],
+  "Overwrought Taran Refugee": [
+    "avg_npc_243"
+  ],
   "Paleroche Clan Officer": [
     "avg_npc_285_1"
   ],
@@ -3398,6 +3490,15 @@
   "Patrizion": [
     "avg_npc_358_1"
   ],
+  "Patrol Captain": [
+    "avg_npc_241"
+  ],
+  "Patrol Member": [
+    "avg_npc_248"
+  ],
+  "Patrol Soldier": [
+    "avg_npc_248"
+  ],
   "Patrolling Knight": [
     "avg_npc_217"
   ],
@@ -3463,6 +3564,9 @@
   "Placid Photographer": [
     "avg_npc_242"
   ],
+  "Plain-Dressed Bard": [
+    "avg_npc_239"
+  ],
   "Plastic Knight": [
     "avg_npc_103",
     "avg_npc_103nc_1"
@@ -3480,6 +3584,9 @@
   "Plume": [
     "avg_192_falco_1"
   ],
+  "Plump Merchant": [
+    "avg_npc_176"
+  ],
   "Podenco": [
     "avg_258_podego_1",
     "char_258_podego_1"
@@ -3492,6 +3599,9 @@
   ],
   "Policeman B": [
     "char_015_lmg"
+  ],
+  "Pompous Merchant": [
+    "avg_npc_176"
   ],
   "Pondering Follower": [
     "avg_npc_001"
@@ -3597,6 +3707,7 @@
     "avg_npc_334"
   ],
   "Reed": [
+    "avg_1020_reed2_1",
     "avg_226_weed_1"
   ],
   "Regent": [
@@ -3740,6 +3851,9 @@
   "Rinz": [
     "avg_npc_032"
   ],
+  "Rita": [
+    "avg_npc_229_1"
+  ],
   "Riverblade Squad Mercenary": [
     "avg_npc_007",
     "avg_npc_008"
@@ -3783,6 +3897,9 @@
   ],
   "Rosa": [
     "char_197_poca_1"
+  ],
+  "Rosalie": [
+    "avg_npc_228_1"
   ],
   "Rosalind": [
     "char_194_rosali_1"
@@ -3850,6 +3967,9 @@
   "Saga": [
     "char_362_Saga",
     "char_455_nothing_1"
+  ],
+  "Saileach": [
+    "avg_479_sleach_1"
   ],
   "Saint Carmen": [
     "avg_npc_447_1"
@@ -4038,6 +4158,9 @@
   "Self-Satisfied Noble Alumna": [
     "avg_npc_175"
   ],
+  "Selmon": [
+    "avg_npc_724_1"
+  ],
   "Senior L.G.D. Officer": [
     "char_015_lmg"
   ],
@@ -4206,6 +4329,9 @@
   "Skeptical Townsfolk": [
     "avg_NPC_178"
   ],
+  "Skint Farmer": [
+    "avg_npc_421_1"
+  ],
   "Skittish Infected": [
     "avg_npc_498_1"
   ],
@@ -4256,6 +4382,12 @@
   "Soldier Leader": [
     "avg_npc_286_1"
   ],
+  "Soldier on Guard": [
+    "avg_npc_241"
+  ],
+  "Solemn Officer": [
+    "avg_npc_241"
+  ],
   "Someone Innkeeper-esque": [
     "avg_npc_300_1"
   ],
@@ -4278,6 +4410,12 @@
   ],
   "Sorrowful Woman": [
     "avg_npc_243"
+  ],
+  "Special Forces Captain": [
+    "avg_npc_399_1"
+  ],
+  "Special Forces Soldier": [
+    "avg_npc_241"
   ],
   "Specter": [
     "avg_1023_ghost2_1",
@@ -4331,6 +4469,9 @@
   ],
   "Steady Rhodes Island Operator": [
     "avg_npc_088"
+  ],
+  "Stern Officer": [
+    "avg_npc_248"
   ],
   "Steward": [
     "char_210_stward_1"
@@ -4498,6 +4639,10 @@
   "Talulah?": [
     "char_011_talula_1"
   ],
+  "Taran Refugee": [
+    "avg_npc_242",
+    "avg_npc_243"
+  ],
   "Tatiana": [
     "avg_npc_057"
   ],
@@ -4527,6 +4672,9 @@
   ],
   "Team Member": [
     "avg_128_plosis_1"
+  ],
+  "Tempersome Taran Refugee": [
+    "avg_npc_242"
   ],
   "Tense Infected": [
     "avg_npc_005"
@@ -4720,6 +4868,9 @@
   ],
   "Twista": [
     "avg_npc_605_1"
+  ],
+  "Twitchy Taran Man": [
+    "avg_npc_242"
   ],
   "Tyrant": [
     "avg_npc_661_1"
@@ -4921,6 +5072,9 @@
   "Wealthily-Dressed Man": [
     "avg_npc_177"
   ],
+  "Wealthy Man": [
+    "avg_npc_177"
+  ],
   "Wealthy Woman": [
     "avg_npc_175"
   ],
@@ -4965,6 +5119,9 @@
   "Witte": [
     "avg_npc_076"
   ],
+  "Witty Noble": [
+    "avg_npc_175"
+  ],
   "Wobbly Durin": [
     "avg_npc_573_1"
   ],
@@ -4988,6 +5145,9 @@
   ],
   "Wounded Mercenary": [
     "avg_npc_008"
+  ],
+  "Wounded Taran": [
+    "avg_npc_729_1"
   ],
   "Wounded Townsfolk": [
     "avg_npc_068"
