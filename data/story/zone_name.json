@@ -597,6 +597,11 @@
     "ja_JP": "ア",
     "zh_CN": "阿"
   },
+  "halo": {
+    "en_US": "Astgenne",
+    "ja_JP": "アステジーニ",
+    "zh_CN": "星源"
+  },
   "hamoni": {
     "en_US": "Harmonie",
     "ja_JP": "ハーモニー",
@@ -869,6 +874,11 @@
     "ja_JP": "ミルラ",
     "zh_CN": "末药"
   },
+  "nblade": {
+    "en_US": "Yato",
+    "ja_JP": "ヤトウ",
+    "zh_CN": "夜刀"
+  },
   "ncdeer": {
     "en_US": "Nine-Colored Deer",
     "ja_JP": "九色鹿",
@@ -1081,6 +1091,11 @@
     "en_US": "Saileach",
     "ja_JP": "サイラッハ",
     "zh_CN": "琴柳"
+  },
+  "snakek": {
+    "en_US": "Cuora",
+    "ja_JP": "クオーラ",
+    "zh_CN": "蛇屠箱"
   },
   "snsant": {
     "en_US": "Snowsant",

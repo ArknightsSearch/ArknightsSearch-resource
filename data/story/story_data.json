@@ -1550,6 +1550,38 @@
     "zone": "main_6"
   },
   "1150": {
+    "id": "obt/memory/story_halo_1_1",
+    "type": "Memory",
+    "name": {
+      "zh_CN": "实验进行中"
+    },
+    "zone": "halo"
+  },
+  "1151": {
+    "id": "obt/memory/story_glassb_2_1",
+    "type": "Memory",
+    "name": {
+      "zh_CN": "再见以前"
+    },
+    "zone": "glassb"
+  },
+  "1152": {
+    "id": "obt/memory/story_snakek_1_1",
+    "type": "Memory",
+    "name": {
+      "zh_CN": "夺包奇遇"
+    },
+    "zone": "snakek"
+  },
+  "1153": {
+    "id": "obt/memory/story_nblade_1_1",
+    "type": "Memory",
+    "name": {
+      "zh_CN": "授刀"
+    },
+    "zone": "nblade"
+  },
+  "1154": {
     "id": "activities/act1sandbox/level_act1sandbox_ending_1",
     "type": "Activity",
     "name": {
@@ -1557,7 +1589,7 @@
     },
     "zone": "act1sandbox"
   },
-  "1151": {
+  "1155": {
     "id": "activities/act1sandbox/level_act1sandbox_ending_2",
     "type": "Activity",
     "name": {
@@ -1565,7 +1597,7 @@
     },
     "zone": "act1sandbox"
   },
-  "1152": {
+  "1156": {
     "id": "activities/act1sandbox/level_act1sandbox_ending_3",
     "type": "Activity",
     "name": {
@@ -1573,7 +1605,7 @@
     },
     "zone": "act1sandbox"
   },
-  "1153": {
+  "1157": {
     "id": "activities/act1sandbox/level_act1sandbox_entry",
     "type": "Activity",
     "name": {
@@ -1581,7 +1613,7 @@
     },
     "zone": "act1sandbox"
   },
-  "1154": {
+  "1158": {
     "id": "obt/rogue/month_chat_rogue_1_1/month_chat_rogue_1_1_1",
     "type": "Rogue",
     "name": {
@@ -1591,53 +1623,13 @@
     },
     "zone": "rogue_1"
   },
-  "1155": {
+  "1159": {
     "id": "obt/rogue/month_chat_rogue_1_1/month_chat_rogue_1_1_2",
     "type": "Rogue",
     "name": {
       "zh_CN": "卡兹戴尔联谊会 Part.02",
       "ja_JP": "カズデル懇親会 Part.02",
       "en_US": "Fellowship of the Sarkaz Part.02"
-    },
-    "zone": "rogue_1"
-  },
-  "1156": {
-    "id": "obt/rogue/month_chat_rogue_1_1/month_chat_rogue_1_1_3",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "卡兹戴尔联谊会 Part.03",
-      "ja_JP": "カズデル懇親会 Part.03",
-      "en_US": "Fellowship of the Sarkaz Part.03"
-    },
-    "zone": "rogue_1"
-  },
-  "1157": {
-    "id": "obt/rogue/month_chat_rogue_1_2/month_chat_rogue_1_2_1",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "年长与新生 Part.01",
-      "ja_JP": "年長と新生 Part.01",
-      "en_US": "Seniority and Rebirth Part.01"
-    },
-    "zone": "rogue_1"
-  },
-  "1158": {
-    "id": "obt/rogue/month_chat_rogue_1_2/month_chat_rogue_1_2_2",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "年长与新生 Part.02",
-      "ja_JP": "年長と新生 Part.02",
-      "en_US": "Seniority and Rebirth Part.02"
-    },
-    "zone": "rogue_1"
-  },
-  "1159": {
-    "id": "obt/rogue/month_chat_rogue_1_2/month_chat_rogue_1_2_3",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "年长与新生 Part.03",
-      "ja_JP": "年長と新生 Part.03",
-      "en_US": "Seniority and Rebirth Part.03"
     },
     "zone": "rogue_1"
   },
@@ -1650,6 +1642,46 @@
     "zone": "main_6"
   },
   "1160": {
+    "id": "obt/rogue/month_chat_rogue_1_1/month_chat_rogue_1_1_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "卡兹戴尔联谊会 Part.03",
+      "ja_JP": "カズデル懇親会 Part.03",
+      "en_US": "Fellowship of the Sarkaz Part.03"
+    },
+    "zone": "rogue_1"
+  },
+  "1161": {
+    "id": "obt/rogue/month_chat_rogue_1_2/month_chat_rogue_1_2_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "年长与新生 Part.01",
+      "ja_JP": "年長と新生 Part.01",
+      "en_US": "Seniority and Rebirth Part.01"
+    },
+    "zone": "rogue_1"
+  },
+  "1162": {
+    "id": "obt/rogue/month_chat_rogue_1_2/month_chat_rogue_1_2_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "年长与新生 Part.02",
+      "ja_JP": "年長と新生 Part.02",
+      "en_US": "Seniority and Rebirth Part.02"
+    },
+    "zone": "rogue_1"
+  },
+  "1163": {
+    "id": "obt/rogue/month_chat_rogue_1_2/month_chat_rogue_1_2_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "年长与新生 Part.03",
+      "ja_JP": "年長と新生 Part.03",
+      "en_US": "Seniority and Rebirth Part.03"
+    },
+    "zone": "rogue_1"
+  },
+  "1164": {
     "id": "obt/rogue/month_chat_rogue_1_3/month_chat_rogue_1_3_1",
     "type": "Rogue",
     "name": {
@@ -1659,7 +1691,7 @@
     },
     "zone": "rogue_1"
   },
-  "1161": {
+  "1165": {
     "id": "obt/rogue/month_chat_rogue_1_3/month_chat_rogue_1_3_2",
     "type": "Rogue",
     "name": {
@@ -1669,7 +1701,7 @@
     },
     "zone": "rogue_1"
   },
-  "1162": {
+  "1166": {
     "id": "obt/rogue/month_chat_rogue_1_3/month_chat_rogue_1_3_3",
     "type": "Rogue",
     "name": {
@@ -1679,7 +1711,7 @@
     },
     "zone": "rogue_1"
   },
-  "1163": {
+  "1167": {
     "id": "obt/rogue/month_chat_rogue_1_4/month_chat_rogue_1_4_1",
     "type": "Rogue",
     "name": {
@@ -1689,7 +1721,7 @@
     },
     "zone": "rogue_1"
   },
-  "1164": {
+  "1168": {
     "id": "obt/rogue/month_chat_rogue_1_4/month_chat_rogue_1_4_2",
     "type": "Rogue",
     "name": {
@@ -1699,53 +1731,13 @@
     },
     "zone": "rogue_1"
   },
-  "1165": {
+  "1169": {
     "id": "obt/rogue/month_chat_rogue_1_4/month_chat_rogue_1_4_3",
     "type": "Rogue",
     "name": {
       "zh_CN": "荒野大爆炸 Part.03",
       "ja_JP": "荒野大爆発 Part.03",
       "en_US": "Explosion in the Wilderness Part.03"
-    },
-    "zone": "rogue_1"
-  },
-  "1166": {
-    "id": "obt/rogue/month_chat_rogue_1_5/month_chat_rogue_1_5_1",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "阿达克利斯向前冲 Part.01",
-      "ja_JP": "アダクリス探検隊 Part.01",
-      "en_US": "Charge of the Archosauria Part.01"
-    },
-    "zone": "rogue_1"
-  },
-  "1167": {
-    "id": "obt/rogue/month_chat_rogue_1_5/month_chat_rogue_1_5_2",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "阿达克利斯向前冲 Part.02",
-      "ja_JP": "アダクリス探検隊 Part.02",
-      "en_US": "Charge of the Archosauria Part.02"
-    },
-    "zone": "rogue_1"
-  },
-  "1168": {
-    "id": "obt/rogue/month_chat_rogue_1_5/month_chat_rogue_1_5_3",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "阿达克利斯向前冲 Part.03",
-      "ja_JP": "アダクリス探検隊 Part.03",
-      "en_US": "Charge of the Archosauria Part.03"
-    },
-    "zone": "rogue_1"
-  },
-  "1169": {
-    "id": "obt/rogue/month_chat_rogue_1_6/month_chat_rogue_1_6_1",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "直到春天来临 Part.01",
-      "ja_JP": "春が来るまで Part.01",
-      "en_US": "Until Spring Comes Part.01"
     },
     "zone": "rogue_1"
   },
@@ -1758,6 +1750,46 @@
     "zone": "main_6"
   },
   "1170": {
+    "id": "obt/rogue/month_chat_rogue_1_5/month_chat_rogue_1_5_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "阿达克利斯向前冲 Part.01",
+      "ja_JP": "アダクリス探検隊 Part.01",
+      "en_US": "Charge of the Archosauria Part.01"
+    },
+    "zone": "rogue_1"
+  },
+  "1171": {
+    "id": "obt/rogue/month_chat_rogue_1_5/month_chat_rogue_1_5_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "阿达克利斯向前冲 Part.02",
+      "ja_JP": "アダクリス探検隊 Part.02",
+      "en_US": "Charge of the Archosauria Part.02"
+    },
+    "zone": "rogue_1"
+  },
+  "1172": {
+    "id": "obt/rogue/month_chat_rogue_1_5/month_chat_rogue_1_5_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "阿达克利斯向前冲 Part.03",
+      "ja_JP": "アダクリス探検隊 Part.03",
+      "en_US": "Charge of the Archosauria Part.03"
+    },
+    "zone": "rogue_1"
+  },
+  "1173": {
+    "id": "obt/rogue/month_chat_rogue_1_6/month_chat_rogue_1_6_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "直到春天来临 Part.01",
+      "ja_JP": "春が来るまで Part.01",
+      "en_US": "Until Spring Comes Part.01"
+    },
+    "zone": "rogue_1"
+  },
+  "1174": {
     "id": "obt/rogue/month_chat_rogue_1_6/month_chat_rogue_1_6_2",
     "type": "Rogue",
     "name": {
@@ -1767,7 +1799,7 @@
     },
     "zone": "rogue_1"
   },
-  "1171": {
+  "1175": {
     "id": "obt/rogue/month_chat_rogue_1_6/month_chat_rogue_1_6_3",
     "type": "Rogue",
     "name": {
@@ -1777,7 +1809,7 @@
     },
     "zone": "rogue_1"
   },
-  "1172": {
+  "1176": {
     "id": "obt/rogue/month_chat_rogue_1_7/month_chat_rogue_1_7_1",
     "type": "Rogue",
     "name": {
@@ -1787,7 +1819,7 @@
     },
     "zone": "rogue_1"
   },
-  "1173": {
+  "1177": {
     "id": "obt/rogue/month_chat_rogue_1_7/month_chat_rogue_1_7_2",
     "type": "Rogue",
     "name": {
@@ -1797,7 +1829,7 @@
     },
     "zone": "rogue_1"
   },
-  "1174": {
+  "1178": {
     "id": "obt/rogue/month_chat_rogue_1_7/month_chat_rogue_1_7_3",
     "type": "Rogue",
     "name": {
@@ -1807,7 +1839,7 @@
     },
     "zone": "rogue_1"
   },
-  "1175": {
+  "1179": {
     "id": "obt/rogue/month_chat_rogue_1_8/month_chat_rogue_1_8_1",
     "type": "Rogue",
     "name": {
@@ -1816,46 +1848,6 @@
       "en_US": "Temporary Partner Part.01"
     },
     "zone": "rogue_1"
-  },
-  "1176": {
-    "id": "obt/rogue/month_chat_rogue_1_8/month_chat_rogue_1_8_2",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "临时搭伙 Part.02",
-      "ja_JP": "即席パートナー Part.02",
-      "en_US": "Temporary Partner Part.02"
-    },
-    "zone": "rogue_1"
-  },
-  "1177": {
-    "id": "obt/rogue/month_chat_rogue_1_8/month_chat_rogue_1_8_3",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "临时搭伙 Part.03",
-      "ja_JP": "即席パートナー Part.03",
-      "en_US": "Temporary Partner Part.03"
-    },
-    "zone": "rogue_1"
-  },
-  "1178": {
-    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_1_1",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "危险注药 Part.01",
-      "ja_JP": "危険な試薬 Part.01",
-      "en_US": "Dangerous Injection Part.01"
-    },
-    "zone": "rogue_2"
-  },
-  "1179": {
-    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_1_2",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "危险注药 Part.02",
-      "ja_JP": "危険な試薬 Part.02",
-      "en_US": "Dangerous Injection Part.02"
-    },
-    "zone": "rogue_2"
   },
   "118": {
     "id": "obt/main/level_main_06-13_end",
@@ -1866,6 +1858,46 @@
     "zone": "main_6"
   },
   "1180": {
+    "id": "obt/rogue/month_chat_rogue_1_8/month_chat_rogue_1_8_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "临时搭伙 Part.02",
+      "ja_JP": "即席パートナー Part.02",
+      "en_US": "Temporary Partner Part.02"
+    },
+    "zone": "rogue_1"
+  },
+  "1181": {
+    "id": "obt/rogue/month_chat_rogue_1_8/month_chat_rogue_1_8_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "临时搭伙 Part.03",
+      "ja_JP": "即席パートナー Part.03",
+      "en_US": "Temporary Partner Part.03"
+    },
+    "zone": "rogue_1"
+  },
+  "1182": {
+    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_1_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "危险注药 Part.01",
+      "ja_JP": "危険な試薬 Part.01",
+      "en_US": "Dangerous Injection Part.01"
+    },
+    "zone": "rogue_2"
+  },
+  "1183": {
+    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_1_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "危险注药 Part.02",
+      "ja_JP": "危険な試薬 Part.02",
+      "en_US": "Dangerous Injection Part.02"
+    },
+    "zone": "rogue_2"
+  },
+  "1184": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_1_3",
     "type": "Rogue",
     "name": {
@@ -1875,7 +1907,7 @@
     },
     "zone": "rogue_2"
   },
-  "1181": {
+  "1185": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_2_1",
     "type": "Rogue",
     "name": {
@@ -1885,7 +1917,7 @@
     },
     "zone": "rogue_2"
   },
-  "1182": {
+  "1186": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_2_2",
     "type": "Rogue",
     "name": {
@@ -1895,7 +1927,7 @@
     },
     "zone": "rogue_2"
   },
-  "1183": {
+  "1187": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_2_3",
     "type": "Rogue",
     "name": {
@@ -1905,7 +1937,7 @@
     },
     "zone": "rogue_2"
   },
-  "1184": {
+  "1188": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_3_1",
     "type": "Rogue",
     "name": {
@@ -1913,43 +1945,11 @@
     },
     "zone": "rogue_2"
   },
-  "1185": {
+  "1189": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_3_2",
     "type": "Rogue",
     "name": {
       "zh_CN": "守望者 Part.02"
-    },
-    "zone": "rogue_2"
-  },
-  "1186": {
-    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_3_3",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "守望者 Part.03"
-    },
-    "zone": "rogue_2"
-  },
-  "1187": {
-    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_4_1",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "星辰泡沫 Part.01"
-    },
-    "zone": "rogue_2"
-  },
-  "1188": {
-    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_4_2",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "星辰泡沫 Part.02"
-    },
-    "zone": "rogue_2"
-  },
-  "1189": {
-    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_4_3",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "星辰泡沫 Part.03"
     },
     "zone": "rogue_2"
   },
@@ -1962,6 +1962,38 @@
     "zone": "main_6"
   },
   "1190": {
+    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_3_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "守望者 Part.03"
+    },
+    "zone": "rogue_2"
+  },
+  "1191": {
+    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_4_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "星辰泡沫 Part.01"
+    },
+    "zone": "rogue_2"
+  },
+  "1192": {
+    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_4_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "星辰泡沫 Part.02"
+    },
+    "zone": "rogue_2"
+  },
+  "1193": {
+    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_4_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "星辰泡沫 Part.03"
+    },
+    "zone": "rogue_2"
+  },
+  "1194": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_5_1",
     "type": "Rogue",
     "name": {
@@ -1969,7 +2001,7 @@
     },
     "zone": "rogue_2"
   },
-  "1191": {
+  "1195": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_5_2",
     "type": "Rogue",
     "name": {
@@ -1977,7 +2009,7 @@
     },
     "zone": "rogue_2"
   },
-  "1192": {
+  "1196": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_5_3",
     "type": "Rogue",
     "name": {
@@ -1985,7 +2017,7 @@
     },
     "zone": "rogue_2"
   },
-  "1193": {
+  "1197": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_6_1",
     "type": "Rogue",
     "name": {
@@ -1993,7 +2025,7 @@
     },
     "zone": "rogue_2"
   },
-  "1194": {
+  "1198": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_6_2",
     "type": "Rogue",
     "name": {
@@ -2001,43 +2033,11 @@
     },
     "zone": "rogue_2"
   },
-  "1195": {
+  "1199": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_6_3",
     "type": "Rogue",
     "name": {
       "zh_CN": "海葬 Part.03"
-    },
-    "zone": "rogue_2"
-  },
-  "1196": {
-    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_7_1",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "碑文倒影 Part.01"
-    },
-    "zone": "rogue_2"
-  },
-  "1197": {
-    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_7_2",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "碑文倒影 Part.02"
-    },
-    "zone": "rogue_2"
-  },
-  "1198": {
-    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_7_3",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "碑文倒影 Part.03"
-    },
-    "zone": "rogue_2"
-  },
-  "1199": {
-    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_8_1",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "童年的终结 Part.01"
     },
     "zone": "rogue_2"
   },
@@ -2058,6 +2058,38 @@
     "zone": "main_6"
   },
   "1200": {
+    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_7_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "碑文倒影 Part.01"
+    },
+    "zone": "rogue_2"
+  },
+  "1201": {
+    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_7_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "碑文倒影 Part.02"
+    },
+    "zone": "rogue_2"
+  },
+  "1202": {
+    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_7_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "碑文倒影 Part.03"
+    },
+    "zone": "rogue_2"
+  },
+  "1203": {
+    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_8_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "童年的终结 Part.01"
+    },
+    "zone": "rogue_2"
+  },
+  "1204": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_8_2",
     "type": "Rogue",
     "name": {
@@ -2065,7 +2097,7 @@
     },
     "zone": "rogue_2"
   },
-  "1201": {
+  "1205": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_8_3",
     "type": "Rogue",
     "name": {
@@ -2073,7 +2105,7 @@
     },
     "zone": "rogue_2"
   },
-  "1202": {
+  "1206": {
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_1_1",
     "type": "Rogue",
     "name": {
@@ -2081,7 +2113,7 @@
     },
     "zone": "rogue_3"
   },
-  "1203": {
+  "1207": {
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_1_2",
     "type": "Rogue",
     "name": {
@@ -2089,7 +2121,7 @@
     },
     "zone": "rogue_3"
   },
-  "1204": {
+  "1208": {
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_1_3",
     "type": "Rogue",
     "name": {
