@@ -229,10 +229,7 @@
   "Ace": [
     "char_014_riope",
     "char_014_riope",
-    "char_014_riope",
-    "char_014_riope\" ,name2=\"char_130_doberm_ex",
-    "char_014_riope\" ,name2=\"char_130_doberm_ex",
-    "char_014_riope\" ,name2=\"char_130_doberm_ex"
+    "char_014_riope"
   ],
   "Aciddrop": [
     "char_366_acdrop"
@@ -13844,9 +13841,6 @@
   "紧张的村民": [
     "avg_npc_140",
     "avg_npc_797_1"
-  ],
-  "紧张的村民&着急的村民": [
-    "avg_npc_799_1"
   ],
   "紧张的杜林人": [
     "avg_npc_575_1"
