@@ -2129,6 +2129,14 @@
     },
     "zone": "rogue_3"
   },
+  "1209": {
+    "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_2_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "直视 Part.01"
+    },
+    "zone": "rogue_3"
+  },
   "121": {
     "id": "obt/main/level_main_07-01_beg",
     "type": "Main",
@@ -2136,6 +2144,22 @@
       "zh_CN": "7-2 行动前"
     },
     "zone": "main_7"
+  },
+  "1210": {
+    "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_2_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "直视 Part.02"
+    },
+    "zone": "rogue_3"
+  },
+  "1211": {
+    "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_2_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "直视 Part.03"
+    },
+    "zone": "rogue_3"
   },
   "122": {
     "id": "obt/main/level_main_07-01_end",
