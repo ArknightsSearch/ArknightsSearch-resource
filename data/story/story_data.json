@@ -1090,7 +1090,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "偶像宣传",
-      "ja_JP": "アイドルのプロモーション"
+      "ja_JP": "アイドルのプロモーション",
+      "en_US": "Idol Promotion"
     },
     "zone": "archet"
   },
@@ -1115,7 +1116,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "蚀清的工牌",
-      "ja_JP": "コロセラムのIDカード"
+      "ja_JP": "コロセラムのIDカード",
+      "en_US": "Corroserum's Badge"
     },
     "zone": "serum"
   },
@@ -1124,7 +1126,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "不合时宜",
-      "ja_JP": "場違い"
+      "ja_JP": "場違い",
+      "en_US": "Untimeliness"
     },
     "zone": "zebra"
   },
@@ -1133,7 +1136,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "走出那条长长的走廊",
-      "ja_JP": "長い廊下を抜けて"
+      "ja_JP": "長い廊下を抜けて",
+      "en_US": "Through the Long Hallway"
     },
     "zone": "bibeak"
   },
@@ -1142,7 +1146,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "昔我往矣",
-      "ja_JP": "昔我往きて、君と携行す"
+      "ja_JP": "昔我往きて、君と携行す",
+      "en_US": "Once Upon a Time, I Wandered Afar"
     },
     "zone": "chyue"
   },
@@ -1151,7 +1156,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "旦夕",
-      "ja_JP": "一朝一夕"
+      "ja_JP": "一朝一夕",
+      "en_US": "Dawn and Dusk"
     },
     "zone": "dusk"
   },
@@ -1160,7 +1166,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "惊弓一夜",
-      "ja_JP": "肝を冷やす夜　"
+      "ja_JP": "肝を冷やす夜　",
+      "en_US": "A Night of Terror"
     },
     "zone": "haak"
   },
@@ -1169,7 +1176,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "三餐一日",
-      "ja_JP": "一日三食"
+      "ja_JP": "一日三食",
+      "en_US": "Three Square Meals a Day"
     },
     "zone": "lmlee"
   },
@@ -1178,7 +1186,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "平安祈愿",
-      "ja_JP": "安全祈願"
+      "ja_JP": "安全祈願",
+      "en_US": "A Prayer for Peace"
     },
     "zone": "mberry"
   },
@@ -1951,7 +1960,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "守望者 Part.01",
-      "ja_JP": "灯台守 Part.01"
+      "ja_JP": "灯台守 Part.01",
+      "en_US": "The Watcher Part.01"
     },
     "zone": "rogue_2"
   },
@@ -1960,7 +1970,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "守望者 Part.02",
-      "ja_JP": "灯台守 Part.02"
+      "ja_JP": "灯台守 Part.02",
+      "en_US": "The Watcher Part.02"
     },
     "zone": "rogue_2"
   },
@@ -1977,7 +1988,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "守望者 Part.03",
-      "ja_JP": "灯台守 Part.03"
+      "ja_JP": "灯台守 Part.03",
+      "en_US": "The Watcher Part.03"
     },
     "zone": "rogue_2"
   },
