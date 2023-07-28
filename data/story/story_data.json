@@ -1089,7 +1089,8 @@
     "id": "obt/memory/story_archet_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "偶像宣传"
+      "zh_CN": "偶像宣传",
+      "ja_JP": "アイドルのプロモーション"
     },
     "zone": "archet"
   },
@@ -1113,7 +1114,8 @@
     "id": "obt/memory/story_serum_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "蚀清的工牌"
+      "zh_CN": "蚀清的工牌",
+      "ja_JP": "コロセラムのIDカード"
     },
     "zone": "serum"
   },
@@ -1121,7 +1123,8 @@
     "id": "obt/memory/story_zebra_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "不合时宜"
+      "zh_CN": "不合时宜",
+      "ja_JP": "場違い"
     },
     "zone": "zebra"
   },
@@ -1129,7 +1132,8 @@
     "id": "obt/memory/story_bibeak_2_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "走出那条长长的走廊"
+      "zh_CN": "走出那条长长的走廊",
+      "ja_JP": "長い廊下を抜けて"
     },
     "zone": "bibeak"
   },
@@ -1137,7 +1141,8 @@
     "id": "obt/memory/story_chyue_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "昔我往矣"
+      "zh_CN": "昔我往矣",
+      "ja_JP": "昔我往きて、君と携行す"
     },
     "zone": "chyue"
   },
@@ -1145,7 +1150,8 @@
     "id": "obt/memory/story_dusk_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "旦夕"
+      "zh_CN": "旦夕",
+      "ja_JP": "一朝一夕"
     },
     "zone": "dusk"
   },
@@ -1153,7 +1159,8 @@
     "id": "obt/memory/story_haak_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "惊弓一夜"
+      "zh_CN": "惊弓一夜",
+      "ja_JP": "肝を冷やす夜　"
     },
     "zone": "haak"
   },
@@ -1161,7 +1168,8 @@
     "id": "obt/memory/story_lmlee_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "三餐一日"
+      "zh_CN": "三餐一日",
+      "ja_JP": "一日三食"
     },
     "zone": "lmlee"
   },
@@ -1169,7 +1177,8 @@
     "id": "obt/memory/story_mberry_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "平安祈愿"
+      "zh_CN": "平安祈愿",
+      "ja_JP": "安全祈願"
     },
     "zone": "mberry"
   },
@@ -1941,7 +1950,8 @@
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_3_1",
     "type": "Rogue",
     "name": {
-      "zh_CN": "守望者 Part.01"
+      "zh_CN": "守望者 Part.01",
+      "ja_JP": "灯台守 Part.01"
     },
     "zone": "rogue_2"
   },
@@ -1949,7 +1959,8 @@
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_3_2",
     "type": "Rogue",
     "name": {
-      "zh_CN": "守望者 Part.02"
+      "zh_CN": "守望者 Part.02",
+      "ja_JP": "灯台守 Part.02"
     },
     "zone": "rogue_2"
   },
@@ -1965,7 +1976,8 @@
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_3_3",
     "type": "Rogue",
     "name": {
-      "zh_CN": "守望者 Part.03"
+      "zh_CN": "守望者 Part.03",
+      "ja_JP": "灯台守 Part.03"
     },
     "zone": "rogue_2"
   },
