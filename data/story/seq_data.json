@@ -202,6 +202,7 @@
       "L.G.D. Officer A",
       "L.G.D. Officer B",
       "L.G.D. Officer?",
+      "L.G.D. Supervisor",
       "Officer Kam",
       "Policeman A",
       "Policeman B",
@@ -1483,6 +1484,8 @@
       "avg_2024_chyue_1"
     ],
     [
+      "Chongyue",
+      "Shuo",
       "シュオ",
       "チョンユエ",
       "朔",
@@ -1678,6 +1681,7 @@
       "char_225_haak_1"
     ],
     [
+      "A Doctor",
       "Aak",
       "Back-Alley Doctor",
       "ア",
@@ -2276,6 +2280,7 @@
       "char_332_archet"
     ],
     [
+      "Archetto",
       "Hildegard",
       "アルケット",
       "ヒルデガルト",
@@ -3002,6 +3007,9 @@
       "avg_4078_bdhkgt_1"
     ],
     [
+      "Exotically Dressed Girl",
+      "Injured Girl",
+      "Jieyun",
       "ジエユン",
       "受伤的少女",
       "异族装扮的少女",
@@ -3015,6 +3023,7 @@
       "avg_4080_lin_1"
     ],
     [
+      "Lin Yühsia",
       "ユーシャ",
       "林雨霞"
     ]
@@ -3392,6 +3401,7 @@
       "avg_473_mberry_1"
     ],
     [
+      "Gu Ning-Ning",
       "Mulberry",
       "グ・ニンニン",
       "マルベリー",
@@ -3497,6 +3507,7 @@
       "avg_489_serum_1"
     ],
     [
+      "Corroserum",
       "コロセラム",
       "蚀清"
     ]
@@ -3766,6 +3777,7 @@
       "Old Townsfolk",
       "Ordinary Infected B",
       "Porter",
+      "Produce Vendor",
       "Tense Infected",
       "Uncle Wong",
       "Village Headman",
@@ -3827,6 +3839,7 @@
       "Ordinary Infected A",
       "Passerby B",
       "Passing Merchant",
+      "Produce Vendor",
       "Rowdy Stowaway",
       "Village Headman",
       "Wastelander B",
@@ -3888,6 +3901,7 @@
       "Riverblade Squad Mercenary",
       "Riverblade Squad Mercenary A",
       "Rough Hooligan",
+      "Sargonian Veteran",
       "Searching Mercenary",
       "Shrewd Bandit",
       "Strange Hunter",
@@ -3981,6 +3995,7 @@
     ],
     [
       "'Captain'",
+      "Abi",
       "Bandit",
       "Bandit Leader",
       "Bounty Hunter",
@@ -3995,6 +4010,7 @@
       "Infected Hooligan",
       "Mercenary A",
       "Mercenary Captain",
+      "Old Captain",
       "Quiet Bounty Hunter",
       "Rickety Joe",
       "Riverblade Squad Mercenary",
@@ -4352,6 +4368,7 @@
       "Male Tourist A",
       "Passerby A",
       "Shopkeeper B",
+      "Tabloid Reporter",
       "冒失的青年",
       "娱乐报记者",
       "客A",
@@ -4382,6 +4399,7 @@
       "Customer B",
       "Female Tourist",
       "Female Tourist A",
+      "Manager",
       "Shopkeeper A",
       "Tourist B",
       "マネージャー",
@@ -4641,11 +4659,16 @@
       "An Excited Spectator",
       "Angry Lou Seoi Member",
       "Barkeep",
+      "Confused Fan",
       "Drunk",
+      "Excited Fan",
       "Hapless Man",
       "Infected Slum Dweller",
       "Injured Lou Seoi Member",
       "Innocent Passerby",
+      "Lungmen Agent",
+      "Lungmen Tourist",
+      "Lungmen Tourist?",
       "Lungmenite?",
       "Male Lungmenite",
       "Male Passerby",
@@ -4656,12 +4679,14 @@
       "Ordinary Lungmen Citizen",
       "Panicked Lungmen Citizen",
       "Passerby Customer",
+      "Perplexed Fan",
       "Rat King's Henchman",
       "Seemingly Ordinary Resident",
       "Slum Dweller",
       "Subordinate",
       "Vicious-Looking Lou Seoi Member",
       "Young Citizen B",
+      "Young Victim",
       "イベント参加者？",
       "ケガした滷水幇",
       "スラム住民感染者",
@@ -4918,6 +4943,7 @@
       "Dora..",
       "Gianna",
       "Infected Girl",
+      "Innocent Girl",
       "Lara",
       "Little 'Witch' Minnie",
       "Little Girl",
@@ -5708,6 +5734,7 @@
       "Field Operator A",
       "Hawking Operator",
       "Human Resources Operator",
+      "Idle Operator",
       "Logistics Operator",
       "Navigator A",
       "Rhodes Island Field Operator",
@@ -5873,6 +5900,7 @@
     ],
     [
       "Old Granny",
+      "Old Lady",
       "Old Woman",
       "Ursus Civilian",
       "おばあさん",
@@ -6281,6 +6309,7 @@
       "avg_npc_138"
     ],
     [
+      "Proprietor",
       "Storyteller",
       "掌柜",
       "番頭",
@@ -6309,6 +6338,8 @@
     [
       "First Apprentice",
       "Inn Assistant",
+      "Innkeeper",
+      "Proprietor",
       "Rough Villager",
       "Second Apprentice",
       "Stonemason",
@@ -6390,6 +6421,8 @@
       "avg_npc_143"
     ],
     [
+      "Bitey",
+      "Bitey & Bitey?",
       "Ink Spirit",
       "クヒツム",
       "クヒツム&クヒツム？",
@@ -6516,6 +6549,7 @@
       "avg_npc_163"
     ],
     [
+      "Anum",
       "Calm Woman",
       "Grimed Woman",
       "Passerby Sargon Townsfolk",
@@ -6536,6 +6570,7 @@
     ],
     [
       "Disheveled Person",
+      "Dispirited Straggler",
       "Infected Townsfolk",
       "Mayor's Secretary",
       "Swept-Up Trader",
@@ -6568,6 +6603,7 @@
       "Infected Townsfolk",
       "Mayor",
       "Sargon Townsfolk?",
+      "Sargonian Janissary",
       "Townsfolk",
       "サルゴン町民？",
       "サルゴン近衛兵",
@@ -6805,6 +6841,7 @@
       "Obscured Merchant",
       "Officer-in-Charge",
       "Pretentious Man",
+      "Senior Project Manager",
       "Wealthily-Dressed Man",
       "Wealthy Man",
       "Wildly Ambitious Baron",
@@ -7571,6 +7608,7 @@
       "Chang",
       "Commercial Agent",
       "Corporate Employee",
+      "Customer Representative",
       "Hamm",
       "Haughty Official",
       "Kazimierz Representative",
@@ -8530,6 +8568,7 @@
       "avg_npc_296_1"
     ],
     [
+      "Du Yaoye",
       "Miss Du",
       "ドゥ",
       "杜小姐",
@@ -8606,8 +8645,10 @@
       "avg_npc_303_1"
     ],
     [
+      "Agitated Hawker",
       "Curious Passerby",
       "Feeble Apprentice",
+      "Hawker",
       "Odd Traveler",
       "Street Youth",
       "Suspicious Townsfolk",
@@ -8615,6 +8656,7 @@
       "Tavern Owner",
       "Teahouse Stopperby",
       "Traceless Fist Practitioner",
+      "Waiter",
       "伙计",
       "可疑的镇民",
       "奇妙な客",
@@ -8677,9 +8719,12 @@
       "Hoodlum",
       "Plated Fist Practitioner",
       "Street Loafer",
+      "Street Thug",
       "Street Youth",
       "Street Youth B",
       "Suspicious Passerby",
+      "Triad",
+      "Young Bodyguard",
       "チンピラ",
       "ヤクザの手先",
       "可疑的路人",
@@ -9047,7 +9092,9 @@
       "avg_npc_369_1"
     ],
     [
+      "Cheerful Cleric",
       "Friar",
+      "Pious Cleric",
       "Sister",
       "Warm Prioress",
       "信心深い修道士",
@@ -10702,6 +10749,7 @@
       "avg_npc_600_1"
     ],
     [
+      "Anguished Man",
       "痛苦的男人",
       "苦しそうな男"
     ]
@@ -10711,6 +10759,9 @@
       "avg_npc_601_1"
     ],
     [
+      "Burly Man",
+      "Impoverished Young Man",
+      "Muscular Man",
       "Shelter Owner",
       "オーナー",
       "スラム街の青年",
@@ -11499,6 +11550,9 @@
       "avg_npc_785_1"
     ],
     [
+      "Burly Man",
+      "Huai",
+      "Huai Tianpei",
       "がたいのいい男",
       "ワイという名の男",
       "ワイ・テンペイ",
@@ -11512,6 +11566,10 @@
       "avg_npc_786_1"
     ],
     [
+      "Aloof Woman",
+      "Shanhaizhong Boss",
+      "Shanhaizhong Boss?",
+      "Ya",
       "冷淡な女性",
       "冷漠的女性",
       "山海众首领",
@@ -11526,6 +11584,7 @@
       "avg_npc_787_1"
     ],
     [
+      "Qiubai",
       "チュー・バイ",
       "仇白"
     ]
@@ -11535,6 +11594,8 @@
       "avg_npc_788_1"
     ],
     [
+      "Stern Man",
+      "Zuo Xuanliao",
       "ズオ・シュアンリャオ",
       "ズオ将軍",
       "威厳ある顔つきの男",
@@ -11547,6 +11608,7 @@
       "avg_npc_789_1"
     ],
     [
+      "Meng Tieyi",
       "モン・ティエイー",
       "孟铁衣"
     ]
@@ -11556,6 +11618,7 @@
       "avg_npc_790_1"
     ],
     [
+      "Ch'en",
       "チェン",
       "陈"
     ]
@@ -11565,6 +11628,7 @@
       "avg_npc_791_1"
     ],
     [
+      "Record Keeper",
       "录武官",
       "録武官"
     ]
@@ -11574,6 +11638,7 @@
       "avg_npc_792_1"
     ],
     [
+      "Tourist in Sargon Garb",
       "サルゴン風の服を着た人",
       "萨尔贡打扮的游客"
     ]
@@ -11583,6 +11648,7 @@
       "avg_npc_793_1"
     ],
     [
+      "Shanhaizhong Ringleader",
       "山海众头目",
       "山海衆頭目"
     ]
@@ -11592,6 +11658,17 @@
       "avg_npc_794_1"
     ],
     [
+      "Alert Shanhaizhong Member",
+      "Anxious Shanhaizhong Member",
+      "Calm Shanhaizhong Member",
+      "Cold Shanhaizhong Member",
+      "Greedy Shanhaizhong Member",
+      "Malicious Shanhaizhong Member",
+      "Mysterious Criminal",
+      "Ominous Shanhaizhong Member",
+      "Restless Shanhaizhong Member",
+      "Shanhaizhong Member",
+      "Vicious Shanhaizhong Member",
       "冷酷な山海衆メンバー",
       "冷酷的山海众成员",
       "冷静な山海衆メンバー",
@@ -11622,6 +11699,9 @@
       "avg_npc_795_1"
     ],
     [
+      "Millenion",
+      "Patrol Battalion Soldier",
+      "Yumen Sentry A",
       "千人隊長",
       "千夫长",
       "巡防営守備軍",
@@ -11635,6 +11715,10 @@
       "avg_npc_796_1"
     ],
     [
+      "Centurion",
+      "Patrol Battalion Soldier",
+      "Yumen Sentry",
+      "Yumen Sentry B",
       "巡防営守備軍",
       "巡防营守军",
       "玉門守備軍",
@@ -11650,6 +11734,13 @@
       "avg_npc_797_1"
     ],
     [
+      "Blacksmith",
+      "Drinking Old Man",
+      "Nervous Passerby",
+      "Rescue Squad Member",
+      "Roadside Inn Staff",
+      "Wanderer",
+      "Warehouse Guard",
       "仓库看守",
       "付近の遊侠",
       "伙计",
@@ -11678,6 +11769,8 @@
       "avg_npc_798_1"
     ],
     [
+      "Errand Runner",
+      "Rescue Squad Leader",
       "使い走りの通行人",
       "围观的村民",
       "救援队队长",
@@ -11691,6 +11784,12 @@
       "avg_npc_799_1"
     ],
     [
+      "Angry Martial Artist",
+      "Disappointed Martial Artist",
+      "Guest",
+      "Jing",
+      "Mr. Ruan",
+      "Retired Soldier",
       "ジィン",
       "ルァン",
       "围观的村民",
@@ -11713,6 +11812,8 @@
       "avg_npc_800_1"
     ],
     [
+      "Di Beast",
+      "Fierce Animal",
       "見た目の恐ろしい生物",
       "諦獣",
       "谛兽",
