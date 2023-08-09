@@ -9981,9 +9981,9 @@
     "id": "obt/memory/story_rope_1_2",
     "type": "Memory",
     "name": {
-      "zh_CN": "鲜花香水",
-      "ja_JP": "フラワーパフューム",
-      "en_US": "Floral Perfume"
+      "zh_CN": "鲜花香水 2",
+      "ja_JP": "フラワーパフューム 2",
+      "en_US": "Floral Perfume 2"
     },
     "zone": "rope"
   },
@@ -10177,9 +10177,9 @@
     "id": "obt/memory/story_aglina_1_2",
     "type": "Memory",
     "name": {
-      "zh_CN": "没写收件人的包裹",
-      "ja_JP": "受取人のない荷物",
-      "en_US": "'Package with No Recipient'"
+      "zh_CN": "没写收件人的包裹 2",
+      "ja_JP": "受取人のない荷物 2",
+      "en_US": "'Package with No Recipient' 2"
     },
     "zone": "aglina"
   },
@@ -10373,9 +10373,9 @@
     "id": "obt/memory/story_savage_2_2",
     "type": "Memory",
     "name": {
-      "zh_CN": "自有一“派”",
-      "ja_JP": "パイはいかが？",
-      "en_US": "No Less Than a Pie"
+      "zh_CN": "自有一“派” 2",
+      "ja_JP": "パイはいかが？ 2",
+      "en_US": "No Less Than a Pie 2"
     },
     "zone": "savage"
   },
