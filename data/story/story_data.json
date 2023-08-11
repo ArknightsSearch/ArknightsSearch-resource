@@ -4069,7 +4069,7 @@
     "id": "activities/act15mini/level_act15mini_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "沉于冰寒"
+      "zh_CN": "FD-ST1 沉于冰寒"
     },
     "zone": "act15mini"
   },
@@ -4077,7 +4077,7 @@
     "id": "activities/act15mini/level_act15mini_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "冰原的女儿"
+      "zh_CN": "FD-ST2 冰原的女儿"
     },
     "zone": "act15mini"
   },
@@ -4093,7 +4093,7 @@
     "id": "activities/act15mini/level_act15mini_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "树影幢幢"
+      "zh_CN": "FD-ST3 树影幢幢"
     },
     "zone": "act15mini"
   },
@@ -4101,7 +4101,7 @@
     "id": "activities/act15mini/level_act15mini_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "自然的启示"
+      "zh_CN": "FD-ST4 自然的启示"
     },
     "zone": "act15mini"
   },
@@ -4109,7 +4109,7 @@
     "id": "activities/act15mini/level_act15mini_st05",
     "type": "Activity",
     "name": {
-      "zh_CN": "归乡"
+      "zh_CN": "FD-ST5 归乡"
     },
     "zone": "act15mini"
   },
@@ -4117,7 +4117,7 @@
     "id": "activities/act15mini/level_act15mini_st06",
     "type": "Activity",
     "name": {
-      "zh_CN": "终有一日"
+      "zh_CN": "FD-ST6 终有一日"
     },
     "zone": "act15mini"
   },
@@ -4125,7 +4125,7 @@
     "id": "activities/act15mini/level_act15mini_st07",
     "type": "Activity",
     "name": {
-      "zh_CN": "未见之景"
+      "zh_CN": "FD-ST7 未见之景"
     },
     "zone": "act15mini"
   },
@@ -4757,7 +4757,7 @@
     "id": "activities/act14mini/level_act14mini_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "近乡情怯"
+      "zh_CN": "DC-ST1 近乡情怯"
     },
     "zone": "act14mini"
   },
@@ -4765,7 +4765,7 @@
     "id": "activities/act14mini/level_act14mini_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "中庭旅谷"
+      "zh_CN": "DC-ST2 中庭旅谷"
     },
     "zone": "act14mini"
   },
@@ -4773,7 +4773,7 @@
     "id": "activities/act14mini/level_act14mini_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "不问鬼神"
+      "zh_CN": "DC-ST3 不问鬼神"
     },
     "zone": "act14mini"
   },
@@ -4781,7 +4781,7 @@
     "id": "activities/act14mini/level_act14mini_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "出入平安"
+      "zh_CN": "DC-ST4 出入平安"
     },
     "zone": "act14mini"
   },
@@ -4797,7 +4797,7 @@
     "id": "activities/act14mini/level_act14mini_st05",
     "type": "Activity",
     "name": {
-      "zh_CN": "无名之辈"
+      "zh_CN": "DC-ST5 无名之辈"
     },
     "zone": "act14mini"
   },
@@ -4805,7 +4805,7 @@
     "id": "activities/act14mini/level_act14mini_st06",
     "type": "Activity",
     "name": {
-      "zh_CN": "独见寒山"
+      "zh_CN": "DC-ST6 独见寒山"
     },
     "zone": "act14mini"
   },
@@ -5373,9 +5373,7 @@
     "id": "activities/act13mini/level_act13mini_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "向左向右",
-      "ja_JP": "左に右に",
-      "en_US": "Turn Left, Turn Right"
+      "zh_CN": "BW-ST1 向左向右"
     },
     "zone": "act13mini"
   },
@@ -5383,9 +5381,7 @@
     "id": "activities/act13mini/level_act13mini_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "隔墙有你",
-      "ja_JP": "壁の中には",
-      "en_US": "The Walls Have You"
+      "zh_CN": "BW-ST2 隔墙有你"
     },
     "zone": "act13mini"
   },
@@ -5393,9 +5389,7 @@
     "id": "activities/act13mini/level_act13mini_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "扬尼与我",
-      "ja_JP": "ヤニーと一緒",
-      "en_US": "Yangni and I"
+      "zh_CN": "BW-ST3 扬尼与我"
     },
     "zone": "act13mini"
   },
@@ -5403,9 +5397,7 @@
     "id": "activities/act13mini/level_act13mini_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "告别时刻",
-      "ja_JP": "夕焼け小焼け",
-      "en_US": "Time of Farewell"
+      "zh_CN": "BW-ST4 告别时刻"
     },
     "zone": "act13mini"
   },
@@ -5413,9 +5405,7 @@
     "id": "activities/act13mini/level_act13mini_st05",
     "type": "Activity",
     "name": {
-      "zh_CN": "一次重逢",
-      "ja_JP": "巡り合い",
-      "en_US": "Reunited"
+      "zh_CN": "BW-ST5 一次重逢"
     },
     "zone": "act13mini"
   },
@@ -5431,9 +5421,7 @@
     "id": "activities/act13mini/level_act13mini_st06",
     "type": "Activity",
     "name": {
-      "zh_CN": "别太紧张",
-      "ja_JP": "気楽にいこう",
-      "en_US": "Chill Out"
+      "zh_CN": "BW-ST6 别太紧张"
     },
     "zone": "act13mini"
   },
@@ -5441,9 +5429,7 @@
     "id": "activities/act12mini/level_act12mini_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "荒舍",
-      "ja_JP": "あばら屋",
-      "en_US": "Hermit Abode"
+      "zh_CN": "AW-ST1 荒舍"
     },
     "zone": "act12mini"
   },
@@ -5451,9 +5437,7 @@
     "id": "activities/act12mini/level_act12mini_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "只见星辰",
-      "ja_JP": "一人は星を見た",
-      "en_US": "Only the Stars"
+      "zh_CN": "AW-ST2 只见星辰"
     },
     "zone": "act12mini"
   },
@@ -5461,9 +5445,7 @@
     "id": "activities/act12mini/level_act12mini_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "我曾凝望",
-      "ja_JP": "かつて見つめたもの",
-      "en_US": "I Have Gazed"
+      "zh_CN": "AW-ST3 我曾凝望"
     },
     "zone": "act12mini"
   },
@@ -5471,9 +5453,7 @@
     "id": "activities/act12mini/level_act12mini_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "不得安宁",
-      "ja_JP": "安寧を得ず",
-      "en_US": "No Peace"
+      "zh_CN": "AW-ST4 不得安宁"
     },
     "zone": "act12mini"
   },
@@ -5481,9 +5461,7 @@
     "id": "activities/act12mini/level_act12mini_st05",
     "type": "Activity",
     "name": {
-      "zh_CN": "日落已久",
-      "ja_JP": "日暮れの後",
-      "en_US": "Sunken Sun"
+      "zh_CN": "AW-ST5 日落已久"
     },
     "zone": "act12mini"
   },
@@ -5491,9 +5469,7 @@
     "id": "activities/act12mini/level_act12mini_st06",
     "type": "Activity",
     "name": {
-      "zh_CN": "空盔甲",
-      "ja_JP": "空の甲冑",
-      "en_US": "Empty Armor"
+      "zh_CN": "AW-ST6 空盔甲"
     },
     "zone": "act12mini"
   },
@@ -5501,9 +5477,7 @@
     "id": "activities/act12mini/level_act12mini_st07",
     "type": "Activity",
     "name": {
-      "zh_CN": "告别词",
-      "ja_JP": "別れの言葉",
-      "en_US": "Words of Farewell"
+      "zh_CN": "AW-ST7 告别词"
     },
     "zone": "act12mini"
   },
@@ -5679,9 +5653,7 @@
     "id": "activities/act11mini/level_act11mini_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "布朗陶",
-      "ja_JP": "ブラウンテイル",
-      "en_US": "Browntail"
+      "zh_CN": "TC-ST1 布朗陶"
     },
     "zone": "act11mini"
   },
@@ -5689,9 +5661,7 @@
     "id": "activities/act11mini/level_act11mini_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "后会有期",
-      "ja_JP": "また会う日まで",
-      "en_US": "Until Next Time"
+      "zh_CN": "TC-ST2 后会有期"
     },
     "zone": "act11mini"
   },
@@ -5699,9 +5669,7 @@
     "id": "activities/act11mini/level_act11mini_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "狼与狼群",
-      "ja_JP": "狼と群れ",
-      "en_US": "Wolf and Wolfpack"
+      "zh_CN": "TC-ST3 狼与狼群"
     },
     "zone": "act11mini"
   },
@@ -5717,9 +5685,7 @@
     "id": "activities/act11mini/level_act11mini_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "再见罗伊",
-      "ja_JP": "さらばロイ",
-      "en_US": "Farewell Roy"
+      "zh_CN": "TC-ST4 再见罗伊"
     },
     "zone": "act11mini"
   },
@@ -5727,9 +5693,7 @@
     "id": "activities/act11mini/level_act11mini_st05",
     "type": "Activity",
     "name": {
-      "zh_CN": "和而不同",
-      "ja_JP": "和して同ぜず",
-      "en_US": "Harmony in Difference"
+      "zh_CN": "TC-ST5 和而不同"
     },
     "zone": "act11mini"
   },
@@ -5737,9 +5701,7 @@
     "id": "activities/act11mini/level_act11mini_st06",
     "type": "Activity",
     "name": {
-      "zh_CN": "真实故事",
-      "ja_JP": "トゥルーストーリー",
-      "en_US": "True Story"
+      "zh_CN": "TC-ST6 真实故事"
     },
     "zone": "act11mini"
   },
@@ -6475,9 +6437,7 @@
     "id": "activities/act10mini/level_act10mini_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "或许有时",
-      "ja_JP": "眼前の夢",
-      "en_US": "Maybe"
+      "zh_CN": "TB-ST1 或许有时"
     },
     "zone": "act10mini"
   },
@@ -6485,9 +6445,7 @@
     "id": "activities/act10mini/level_act10mini_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "我如浮萍",
-      "ja_JP": "浮草のごとく",
-      "en_US": "Anywhere I Wander"
+      "zh_CN": "TB-ST2 我如浮萍"
     },
     "zone": "act10mini"
   },
@@ -6495,9 +6453,7 @@
     "id": "activities/act10mini/level_act10mini_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "终将同行",
-      "ja_JP": "いずれは共に",
-      "en_US": "We will all Go Together"
+      "zh_CN": "TB-ST3 终将同行"
     },
     "zone": "act10mini"
   },
@@ -6505,9 +6461,7 @@
     "id": "activities/act10mini/level_act10mini_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "孤行骑警",
-      "ja_JP": "騎馬警察ひとり",
-      "en_US": "Lone Ranger"
+      "zh_CN": "TB-ST4 孤行骑警"
     },
     "zone": "act10mini"
   },
@@ -6515,9 +6469,7 @@
     "id": "activities/act10mini/level_act10mini_st05",
     "type": "Activity",
     "name": {
-      "zh_CN": "必有所偿",
-      "ja_JP": "因果応報",
-      "en_US": "Something's Gotta Give"
+      "zh_CN": "TB-ST5 必有所偿"
     },
     "zone": "act10mini"
   },
@@ -6533,9 +6485,7 @@
     "id": "activities/act10mini/level_act10mini_st06",
     "type": "Activity",
     "name": {
-      "zh_CN": "叮咚作响",
-      "ja_JP": "チャリン！",
-      "en_US": "Ring-a-Ding-Ding!"
+      "zh_CN": "TB-ST6 叮咚作响"
     },
     "zone": "act10mini"
   },
@@ -7111,9 +7061,7 @@
     "id": "activities/act9mini/level_act9mini_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "红松",
-      "ja_JP": "レッドパイン",
-      "en_US": "Home"
+      "zh_CN": "PS-ST1 红松"
     },
     "zone": "act9mini"
   },
@@ -7121,9 +7069,7 @@
     "id": "activities/act9mini/level_act9mini_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "落灰",
-      "ja_JP": "灰かぶり",
-      "en_US": "Dropping Grey"
+      "zh_CN": "PS-ST2 落灰"
     },
     "zone": "act9mini"
   },
@@ -7131,9 +7077,7 @@
     "id": "activities/act9mini/level_act9mini_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "我也要大干一场",
-      "ja_JP": "一暴れしようぜ！",
-      "en_US": "Let Us Ring a Ding Ding"
+      "zh_CN": "PS-ST3 我也要大干一场"
     },
     "zone": "act9mini"
   },
@@ -7141,9 +7085,7 @@
     "id": "activities/act9mini/level_act9mini_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "只影孤身",
-      "ja_JP": "影ひとつ",
-      "en_US": "A Lone Soul"
+      "zh_CN": "PS-ST4 只影孤身"
     },
     "zone": "act9mini"
   },
@@ -7151,9 +7093,7 @@
     "id": "activities/act9mini/level_act9mini_st05",
     "type": "Activity",
     "name": {
-      "zh_CN": "骑士之道",
-      "ja_JP": "騎士道",
-      "en_US": "Way of the Knights"
+      "zh_CN": "PS-ST5 骑士之道"
     },
     "zone": "act9mini"
   },
@@ -7169,9 +7109,7 @@
     "id": "activities/act9mini/level_act9mini_st06",
     "type": "Activity",
     "name": {
-      "zh_CN": "大人物",
-      "ja_JP": "「大物」",
-      "en_US": "Somebody"
+      "zh_CN": "PS-ST6 大人物"
     },
     "zone": "act9mini"
   },
@@ -7179,9 +7117,7 @@
     "id": "activities/act9mini/level_act9mini_st07",
     "type": "Activity",
     "name": {
-      "zh_CN": "随风飘荡",
-      "ja_JP": "風にたゆたう",
-      "en_US": "Drifting in the Wind"
+      "zh_CN": "PS-ST7 随风飘荡"
     },
     "zone": "act9mini"
   },
@@ -7373,9 +7309,7 @@
     "id": "activities/act8mini/level_act8mini_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "我不曾怀揣希望",
-      "ja_JP": "終ぞ希望を抱かず",
-      "en_US": "Spes"
+      "zh_CN": "VI-ST1 我不曾怀揣希望"
     },
     "zone": "act8mini"
   },
@@ -7383,9 +7317,7 @@
     "id": "activities/act8mini/level_act8mini_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "我不会全部遗忘",
-      "ja_JP": "その全てを忘れず",
-      "en_US": "Memoria"
+      "zh_CN": "VI-ST2 我不会全部遗忘"
     },
     "zone": "act8mini"
   },
@@ -7393,9 +7325,7 @@
     "id": "activities/act8mini/level_act8mini_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "我不知是否值得",
-      "ja_JP": "価値を知り得ず",
-      "en_US": "Valorem"
+      "zh_CN": "VI-ST3 我不知是否值得"
     },
     "zone": "act8mini"
   },
@@ -7403,9 +7333,7 @@
     "id": "activities/act8mini/level_act8mini_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "我所思不止于此",
-      "ja_JP": "思慮は此に留まらず",
-      "en_US": "Cogitatio"
+      "zh_CN": "VI-ST4 我所思不止于此"
     },
     "zone": "act8mini"
   },
@@ -7413,9 +7341,7 @@
     "id": "activities/act8mini/level_act8mini_st05",
     "type": "Activity",
     "name": {
-      "zh_CN": "我无惧前路何往",
-      "ja_JP": "行き着く先を恐れず",
-      "en_US": "Anterior"
+      "zh_CN": "VI-ST5 我无惧前路何往"
     },
     "zone": "act8mini"
   },
@@ -7423,9 +7349,7 @@
     "id": "activities/act8mini/level_act8mini_st06",
     "type": "Activity",
     "name": {
-      "zh_CN": "我与最后的赌注",
-      "ja_JP": "最後の賭け",
-      "en_US": "Pignus"
+      "zh_CN": "VI-ST6 我与最后的赌注"
     },
     "zone": "act8mini"
   },
@@ -7457,9 +7381,7 @@
     "id": "activities/act7mini/level_act7mini_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "粉碎大地",
-      "ja_JP": "大地粉砕",
-      "en_US": "Crushed Earth"
+      "zh_CN": "PL-ST1 粉碎大地"
     },
     "zone": "act7mini"
   },
@@ -7467,9 +7389,7 @@
     "id": "activities/act7mini/level_act7mini_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "烁烁星火",
-      "ja_JP": "星火燦燦",
-      "en_US": "Flickering Sparks"
+      "zh_CN": "PL-ST2 烁烁星火"
     },
     "zone": "act7mini"
   },
@@ -7477,9 +7397,7 @@
     "id": "activities/act7mini/level_act7mini_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "真假怪谈",
-      "ja_JP": "真偽怪談",
-      "en_US": "Urban Legends"
+      "zh_CN": "PL-ST3 真假怪谈"
     },
     "zone": "act7mini"
   },
@@ -7487,9 +7405,7 @@
     "id": "activities/act7mini/level_act7mini_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "遗落灯塔",
-      "ja_JP": "遺された灯台",
-      "en_US": "Forgotten Lighthouse"
+      "zh_CN": "PL-ST4 遗落灯塔"
     },
     "zone": "act7mini"
   },
@@ -7497,9 +7413,7 @@
     "id": "activities/act7mini/level_act7mini_st05",
     "type": "Activity",
     "name": {
-      "zh_CN": "异类",
-      "ja_JP": "異類",
-      "en_US": "Different"
+      "zh_CN": "PL-ST5 异类"
     },
     "zone": "act7mini"
   },
@@ -7507,9 +7421,7 @@
     "id": "activities/act7mini/level_act7mini_st06",
     "type": "Activity",
     "name": {
-      "zh_CN": "信",
-      "ja_JP": "手紙",
-      "en_US": "Letter"
+      "zh_CN": "PL-ST6 信"
     },
     "zone": "act7mini"
   },
@@ -8133,9 +8045,7 @@
     "id": "activities/act15d5/level_act15d5_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "无续集",
-      "ja_JP": "続かず",
-      "en_US": "No Sequel"
+      "zh_CN": "BH-ST1 无续集"
     },
     "zone": "act15d5"
   },
@@ -8143,9 +8053,7 @@
     "id": "activities/act15d5/level_act15d5_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "荒野路漫漫",
-      "ja_JP": "荒野悠々",
-      "en_US": "Boundless Wilds"
+      "zh_CN": "BH-ST2 荒野路漫漫"
     },
     "zone": "act15d5"
   },
@@ -8153,9 +8061,7 @@
     "id": "activities/act15d5/level_act15d5_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "童话永存",
-      "ja_JP": "不滅の童話",
-      "en_US": "Fairytale Everlasting"
+      "zh_CN": "BH-ST3 童话永存"
     },
     "zone": "act15d5"
   },
@@ -8163,9 +8069,7 @@
     "id": "activities/act15d5/level_act15d5_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "信仰号街车",
-      "ja_JP": "信仰という名の電車",
-      "en_US": "A Streetcar Named Faith"
+      "zh_CN": "BH-ST4 信仰号街车"
     },
     "zone": "act15d5"
   },
@@ -8181,9 +8085,7 @@
     "id": "activities/act15d5/level_act15d5_st05",
     "type": "Activity",
     "name": {
-      "zh_CN": "盲盒旅途",
-      "ja_JP": "あてのない旅",
-      "en_US": "Blind Journey"
+      "zh_CN": "BH-ST5 盲盒旅途"
     },
     "zone": "act15d5"
   },
@@ -8191,9 +8093,7 @@
     "id": "activities/act15d5/level_act15d5_st06",
     "type": "Activity",
     "name": {
-      "zh_CN": "剑与天秤",
-      "ja_JP": "剣と天秤",
-      "en_US": "Sword and Scale"
+      "zh_CN": "BH-ST6 剑与天秤"
     },
     "zone": "act15d5"
   },
@@ -8201,9 +8101,7 @@
     "id": "activities/act15d5/level_act15d5_st07",
     "type": "Activity",
     "name": {
-      "zh_CN": "为更好的自己",
-      "ja_JP": "よりよい自分",
-      "en_US": "For a Better Self"
+      "zh_CN": "BH-ST7 为更好的自己"
     },
     "zone": "act15d5"
   },
@@ -8547,9 +8445,7 @@
     "id": "activities/act13d0/level_act13d0_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "归处",
-      "ja_JP": "帰る場所",
-      "en_US": "Homecoming"
+      "zh_CN": "FA-ST1 归处"
     },
     "zone": "act13d0"
   },
@@ -8557,9 +8453,7 @@
     "id": "activities/act13d0/level_act13d0_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "域外同族",
-      "ja_JP": "異郷の同胞",
-      "en_US": "Expatriates"
+      "zh_CN": "FA-ST2 域外同族"
     },
     "zone": "act13d0"
   },
@@ -8567,9 +8461,7 @@
     "id": "activities/act13d0/level_act13d0_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "不知返",
-      "ja_JP": "郷関を出ず",
-      "en_US": "Astray"
+      "zh_CN": "FA-ST3 不知返"
     },
     "zone": "act13d0"
   },
@@ -8577,9 +8469,7 @@
     "id": "activities/act13d0/level_act13d0_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": " 回首",
-      "ja_JP": "振り返る",
-      "en_US": "Recollection"
+      "zh_CN": "FA-ST4  回首"
     },
     "zone": "act13d0"
   },
@@ -8587,9 +8477,7 @@
     "id": "activities/act13d0/level_act13d0_st05",
     "type": "Activity",
     "name": {
-      "zh_CN": "四月的歌",
-      "ja_JP": "四月の歌",
-      "en_US": "A Song Called April"
+      "zh_CN": "FA-ST5 四月的歌"
     },
     "zone": "act13d0"
   },
@@ -8597,9 +8485,7 @@
     "id": "activities/act13d0/level_act13d0_st06",
     "type": "Activity",
     "name": {
-      "zh_CN": "交错光影",
-      "ja_JP": "光と影の交錯",
-      "en_US": "Crisscrossing Shadows"
+      "zh_CN": "FA-ST6 交错光影"
     },
     "zone": "act13d0"
   },
@@ -8607,9 +8493,7 @@
     "id": "activities/act13d0/level_act13d0_st07",
     "type": "Activity",
     "name": {
-      "zh_CN": "天空的故事",
-      "ja_JP": "天空の物語",
-      "en_US": "Stories from the Sky"
+      "zh_CN": "FA-ST7 天空的故事"
     },
     "zone": "act13d0"
   },
@@ -8985,9 +8869,7 @@
     "id": "activities/act10d5/level_act10d5_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "习惯",
-      "ja_JP": "習慣",
-      "en_US": "Habits"
+      "zh_CN": "SV-ST1 习惯"
     },
     "zone": "act10d5"
   },
@@ -9003,9 +8885,7 @@
     "id": "activities/act10d5/level_act10d5_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "被选择的",
-      "ja_JP": "選ばされた答え",
-      "en_US": "The Chosen"
+      "zh_CN": "SV-ST2 被选择的"
     },
     "zone": "act10d5"
   },
@@ -9013,9 +8893,7 @@
     "id": "activities/act10d5/level_act10d5_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "在梦中相遇",
-      "ja_JP": "夢の中で",
-      "en_US": "Meeting in a Dream"
+      "zh_CN": "SV-ST3 在梦中相遇"
     },
     "zone": "act10d5"
   },
@@ -9023,9 +8901,7 @@
     "id": "activities/act10d5/level_act10d5_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "表里不一",
-      "ja_JP": "ジレンマ",
-      "en_US": "Hypocrisy"
+      "zh_CN": "SV-ST4 表里不一"
     },
     "zone": "act10d5"
   },
@@ -9033,9 +8909,7 @@
     "id": "activities/act10d5/level_act10d5_st05",
     "type": "Activity",
     "name": {
-      "zh_CN": "胡言秘语",
-      "ja_JP": "デタラメ冒険譚",
-      "en_US": "Talking in Riddles"
+      "zh_CN": "SV-ST5 胡言秘语"
     },
     "zone": "act10d5"
   },
@@ -9043,9 +8917,7 @@
     "id": "activities/act10d5/level_act10d5_st06",
     "type": "Activity",
     "name": {
-      "zh_CN": "一切照常",
-      "ja_JP": "いつも通り",
-      "en_US": "Business as Usual"
+      "zh_CN": "SV-ST6 一切照常"
     },
     "zone": "act10d5"
   },
@@ -9053,9 +8925,7 @@
     "id": "activities/act10d5/level_act10d5_st07",
     "type": "Activity",
     "name": {
-      "zh_CN": "在春天之前",
-      "ja_JP": "春になったら",
-      "en_US": "Before Spring's Coming"
+      "zh_CN": "SV-ST7 在春天之前"
     },
     "zone": "act10d5"
   },
@@ -9191,9 +9061,7 @@
     "id": "activities/act7d5/level_act7d5_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "来办联欢会吧",
-      "ja_JP": "コンパでもやろうよ",
-      "en_US": "Let's Throw A Party!"
+      "zh_CN": "SA-ST1 来办联欢会吧"
     },
     "zone": "act7d5"
   },
@@ -9201,9 +9069,7 @@
     "id": "activities/act7d5/level_act7d5_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "日记本",
-      "ja_JP": "日記帳",
-      "en_US": "Diary"
+      "zh_CN": "SA-ST2 日记本"
     },
     "zone": "act7d5"
   },
@@ -9211,9 +9077,7 @@
     "id": "activities/act7d5/level_act7d5_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "今日厨房",
-      "ja_JP": "本日のキッチン",
-      "en_US": "Today's Kitchen"
+      "zh_CN": "SA-ST3 今日厨房"
     },
     "zone": "act7d5"
   },
@@ -9221,9 +9085,7 @@
     "id": "activities/act7d5/level_act7d5_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "流浪者的归宿",
-      "ja_JP": "流れ者の帰る場所",
-      "en_US": "The Wanderer's Home"
+      "zh_CN": "SA-ST4 流浪者的归宿"
     },
     "zone": "act7d5"
   },
@@ -9231,9 +9093,7 @@
     "id": "activities/act7d5/level_act7d5_st05",
     "type": "Activity",
     "name": {
-      "zh_CN": "自讨苦吃",
-      "ja_JP": "自業自得",
-      "en_US": "Asking For Trouble"
+      "zh_CN": "SA-ST5 自讨苦吃"
     },
     "zone": "act7d5"
   },
@@ -9241,9 +9101,7 @@
     "id": "activities/act7d5/level_act7d5_st06",
     "type": "Activity",
     "name": {
-      "zh_CN": "向前走",
-      "ja_JP": "前へ",
-      "en_US": "Moving Forward"
+      "zh_CN": "SA-ST6 向前走"
     },
     "zone": "act7d5"
   },
@@ -9521,9 +9379,7 @@
     "id": "activities/act4d0/level_act4d0_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "无名氏的战争",
-      "ja_JP": "無名氏の戦争",
-      "en_US": "The Anonymous Ones' War"
+      "zh_CN": "SW-ST1 无名氏的战争"
     },
     "zone": "act4d0"
   },
@@ -9531,9 +9387,7 @@
     "id": "activities/act4d0/level_act4d0_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "破局者",
-      "ja_JP": "破局せし者",
-      "en_US": "Destroyer"
+      "zh_CN": "SW-ST2 破局者"
     },
     "zone": "act4d0"
   },
@@ -9541,9 +9395,7 @@
     "id": "activities/act4d0/level_act4d0_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "射击训练",
-      "ja_JP": "射撃訓練",
-      "en_US": "Sniper Training"
+      "zh_CN": "SW-ST3 射击训练"
     },
     "zone": "act4d0"
   },
@@ -9551,9 +9403,7 @@
     "id": "activities/act4d0/level_act4d0_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "存续公正",
-      "ja_JP": "公正の存続",
-      "en_US": "Survival Notorization"
+      "zh_CN": "SW-ST4 存续公正"
     },
     "zone": "act4d0"
   },
@@ -9561,9 +9411,7 @@
     "id": "activities/act4d0/level_act4d0_st05",
     "type": "Activity",
     "name": {
-      "zh_CN": "课后作业",
-      "ja_JP": "宿題",
-      "en_US": "After-class Homework"
+      "zh_CN": "SW-ST5 课后作业"
     },
     "zone": "act4d0"
   },
@@ -9579,9 +9427,7 @@
     "id": "activities/act4d0/level_act4d0_st06",
     "type": "Activity",
     "name": {
-      "zh_CN": "北极星",
-      "ja_JP": "北極星",
-      "en_US": "Polaris"
+      "zh_CN": "SW-ST6 北极星"
     },
     "zone": "act4d0"
   },
@@ -9589,9 +9435,7 @@
     "id": "activities/act4d0/level_act4d0_st07",
     "type": "Activity",
     "name": {
-      "zh_CN": "和光同尘",
-      "ja_JP": "和光同塵",
-      "en_US": "Among the Light and the Dust"
+      "zh_CN": "SW-ST7 和光同尘"
     },
     "zone": "act4d0"
   },
