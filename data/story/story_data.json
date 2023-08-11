@@ -3,7 +3,7 @@
     "id": "obt/main/level_main_00-01_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "0-1 行动前"
+      "zh_CN": "0-1 坍塌 行动前"
     },
     "zone": "main_0"
   },
@@ -11,7 +11,7 @@
     "id": "obt/main/level_main_00-09_end",
     "type": "Main",
     "name": {
-      "zh_CN": "0-9 行动后"
+      "zh_CN": "0-9 临光 行动后"
     },
     "zone": "main_0"
   },
@@ -19,7 +19,7 @@
     "id": "obt/main/level_main_06-02_end",
     "type": "Main",
     "name": {
-      "zh_CN": "6-2 行动后"
+      "zh_CN": "6-2 一些误会 行动后"
     },
     "zone": "main_6"
   },
@@ -127,7 +127,7 @@
     "id": "obt/main/level_main_06-03_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "6-3 行动前"
+      "zh_CN": "6-3 同时走失 行动前"
     },
     "zone": "main_6"
   },
@@ -235,7 +235,7 @@
     "id": "obt/main/level_main_06-03_end",
     "type": "Main",
     "name": {
-      "zh_CN": "6-3 行动后"
+      "zh_CN": "6-3 同时走失 行动后"
     },
     "zone": "main_6"
   },
@@ -343,7 +343,7 @@
     "id": "obt/main/level_main_06-04_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "6-4 行动前"
+      "zh_CN": "6-4 溃烂的疮疤 行动前"
     },
     "zone": "main_6"
   },
@@ -451,7 +451,7 @@
     "id": "obt/main/level_main_06-04_end",
     "type": "Main",
     "name": {
-      "zh_CN": "6-4 行动后"
+      "zh_CN": "6-4 溃烂的疮疤 行动后"
     },
     "zone": "main_6"
   },
@@ -559,7 +559,7 @@
     "id": "obt/main/level_main_06-05_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "6-5 行动前"
+      "zh_CN": "6-5 解决谁？ 行动前"
     },
     "zone": "main_6"
   },
@@ -667,7 +667,7 @@
     "id": "obt/main/level_main_06-05_end",
     "type": "Main",
     "name": {
-      "zh_CN": "6-5 行动后"
+      "zh_CN": "6-5 解决谁？ 行动后"
     },
     "zone": "main_6"
   },
@@ -775,7 +775,7 @@
     "id": "obt/main/level_main_06-06_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "6-7 行动前"
+      "zh_CN": "6-7 断弦 行动前"
     },
     "zone": "main_6"
   },
@@ -883,7 +883,7 @@
     "id": "obt/main/level_main_06-06_end",
     "type": "Main",
     "name": {
-      "zh_CN": "6-7 行动后"
+      "zh_CN": "6-7 断弦 行动后"
     },
     "zone": "main_6"
   },
@@ -991,7 +991,7 @@
     "id": "obt/main/level_main_06-07_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "6-8 行动前"
+      "zh_CN": "6-8 只是从天而降！ 行动前"
     },
     "zone": "main_6"
   },
@@ -1099,7 +1099,7 @@
     "id": "obt/main/level_main_00-10_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "0-10 行动前"
+      "zh_CN": "0-10 困境 行动前"
     },
     "zone": "main_0"
   },
@@ -1107,7 +1107,7 @@
     "id": "obt/main/level_main_06-07_end",
     "type": "Main",
     "name": {
-      "zh_CN": "6-8 行动后"
+      "zh_CN": "6-8 只是从天而降！ 行动后"
     },
     "zone": "main_6"
   },
@@ -1215,7 +1215,7 @@
     "id": "obt/main/level_main_06-08_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "6-9 行动前"
+      "zh_CN": "6-9 换一个角度 行动前"
     },
     "zone": "main_6"
   },
@@ -1323,7 +1323,7 @@
     "id": "obt/main/level_main_06-09_end",
     "type": "Main",
     "name": {
-      "zh_CN": "6-10 行动后"
+      "zh_CN": "6-10 解开铃铛 行动后"
     },
     "zone": "main_6"
   },
@@ -1427,7 +1427,7 @@
     "id": "obt/main/level_main_06-10_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "6-11 行动前"
+      "zh_CN": "6-11 “这种事” 行动前"
     },
     "zone": "main_6"
   },
@@ -1515,7 +1515,7 @@
     "id": "obt/main/level_main_06-10_end",
     "type": "Main",
     "name": {
-      "zh_CN": "6-11 行动后"
+      "zh_CN": "6-11 “这种事” 行动后"
     },
     "zone": "main_6"
   },
@@ -1603,7 +1603,7 @@
     "id": "obt/main/level_main_06-11_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "6-12 行动前"
+      "zh_CN": "6-12 冰原之雪 行动前"
     },
     "zone": "main_6"
   },
@@ -1691,7 +1691,7 @@
     "id": "obt/main/level_main_06-12_end",
     "type": "Main",
     "name": {
-      "zh_CN": "6-14 行动后"
+      "zh_CN": "6-14 冰原之霜 行动后"
     },
     "zone": "main_6"
   },
@@ -1779,7 +1779,7 @@
     "id": "obt/main/level_main_06-13_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "6-15 行动前"
+      "zh_CN": "6-15 不错的回忆 行动前"
     },
     "zone": "main_6"
   },
@@ -1867,7 +1867,7 @@
     "id": "obt/main/level_main_06-13_end",
     "type": "Main",
     "name": {
-      "zh_CN": "6-15 行动后"
+      "zh_CN": "6-15 不错的回忆 行动后"
     },
     "zone": "main_6"
   },
@@ -1971,7 +1971,7 @@
     "id": "obt/main/level_main_06-14_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "6-16 行动前"
+      "zh_CN": "6-16 黑兔子,白兔子 行动前"
     },
     "zone": "main_6"
   },
@@ -2079,7 +2079,7 @@
     "id": "obt/main/level_main_00-11_end",
     "type": "Main",
     "name": {
-      "zh_CN": "0-11 行动后"
+      "zh_CN": "0-11 突围 行动后"
     },
     "zone": "main_0"
   },
@@ -2087,7 +2087,7 @@
     "id": "obt/main/level_main_06-15_end",
     "type": "Main",
     "name": {
-      "zh_CN": "6-17 行动后"
+      "zh_CN": "6-17 冬逝 行动后"
     },
     "zone": "main_6"
   },
@@ -2195,7 +2195,7 @@
     "id": "obt/main/level_main_07-01_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "7-2 行动前"
+      "zh_CN": "7-2 别离之夜 行动前"
     },
     "zone": "main_7"
   },
@@ -2293,7 +2293,7 @@
     "id": "obt/main/level_main_07-01_end",
     "type": "Main",
     "name": {
-      "zh_CN": "7-2 行动后"
+      "zh_CN": "7-2 别离之夜 行动后"
     },
     "zone": "main_7"
   },
@@ -2381,7 +2381,7 @@
     "id": "obt/main/level_main_07-02_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "7-3 行动前"
+      "zh_CN": "7-3 变节之刃 行动前"
     },
     "zone": "main_7"
   },
@@ -2437,7 +2437,7 @@
     "id": "obt/main/level_main_07-02_end",
     "type": "Main",
     "name": {
-      "zh_CN": "7-3 行动后"
+      "zh_CN": "7-3 变节之刃 行动后"
     },
     "zone": "main_7"
   },
@@ -2445,7 +2445,7 @@
     "id": "obt/main/level_main_07-03_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "7-4 行动前"
+      "zh_CN": "7-4 并肩之约-1 行动前"
     },
     "zone": "main_7"
   },
@@ -2453,7 +2453,7 @@
     "id": "obt/main/level_main_07-04_end",
     "type": "Main",
     "name": {
-      "zh_CN": "7-5 行动后"
+      "zh_CN": "7-5 并肩之约-2 行动后"
     },
     "zone": "main_7"
   },
@@ -2461,7 +2461,7 @@
     "id": "obt/main/level_main_07-05_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "7-6 行动前"
+      "zh_CN": "7-6 遗忘之地 行动前"
     },
     "zone": "main_7"
   },
@@ -2469,7 +2469,7 @@
     "id": "obt/main/level_main_07-05_end",
     "type": "Main",
     "name": {
-      "zh_CN": "7-6 行动后"
+      "zh_CN": "7-6 遗忘之地 行动后"
     },
     "zone": "main_7"
   },
@@ -2477,7 +2477,7 @@
     "id": "obt/main/level_main_07-06_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "7-8 行动前"
+      "zh_CN": "7-8 沉默者之怒-1 行动前"
     },
     "zone": "main_7"
   },
@@ -2485,7 +2485,7 @@
     "id": "obt/main/level_main_01-01_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "1-1 行动前"
+      "zh_CN": "1-1 孤岛 行动前"
     },
     "zone": "main_1"
   },
@@ -2493,7 +2493,7 @@
     "id": "obt/main/level_main_07-07_end",
     "type": "Main",
     "name": {
-      "zh_CN": "7-9 行动后"
+      "zh_CN": "7-9 沉默者之怒-2 行动后"
     },
     "zone": "main_7"
   },
@@ -2501,7 +2501,7 @@
     "id": "obt/main/level_main_07-08_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "7-10 行动前"
+      "zh_CN": "7-10 暗淡者之火 行动前"
     },
     "zone": "main_7"
   },
@@ -2509,7 +2509,7 @@
     "id": "obt/main/level_main_07-08_end",
     "type": "Main",
     "name": {
-      "zh_CN": "7-10 行动后"
+      "zh_CN": "7-10 暗淡者之火 行动后"
     },
     "zone": "main_7"
   },
@@ -2517,7 +2517,7 @@
     "id": "obt/main/level_main_07-11_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "7-13 行动前"
+      "zh_CN": "7-13 感染者之盾-1 行动前"
     },
     "zone": "main_7"
   },
@@ -2525,7 +2525,7 @@
     "id": "obt/main/level_main_07-15_end",
     "type": "Main",
     "name": {
-      "zh_CN": "7-17 行动后"
+      "zh_CN": "7-17 感染者之盾-2 行动后"
     },
     "zone": "main_7"
   },
@@ -2533,7 +2533,7 @@
     "id": "obt/main/level_main_07-16_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "7-18 行动前"
+      "zh_CN": "7-18 爱国者之死 行动前"
     },
     "zone": "main_7"
   },
@@ -2541,7 +2541,7 @@
     "id": "obt/main/level_main_07-16_end",
     "type": "Main",
     "name": {
-      "zh_CN": "7-18 行动后"
+      "zh_CN": "7-18 爱国者之死 行动后"
     },
     "zone": "main_7"
   },
@@ -2549,7 +2549,7 @@
     "id": "obt/main/level_main_08-01_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "R8-1 行动前"
+      "zh_CN": "R8-1 昨日，谷壳将裂 行动前"
     },
     "zone": "main_8"
   },
@@ -2557,7 +2557,7 @@
     "id": "obt/main/level_main_08-01_end",
     "type": "Main",
     "name": {
-      "zh_CN": "R8-1 行动后"
+      "zh_CN": "R8-1 昨日，谷壳将裂 行动后"
     },
     "zone": "main_8"
   },
@@ -2565,7 +2565,7 @@
     "id": "obt/main/level_main_08-03_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "R8-3 行动前"
+      "zh_CN": "R8-3 麦秆，极易燃烧 行动前"
     },
     "zone": "main_8"
   },
@@ -2573,7 +2573,7 @@
     "id": "obt/main/level_main_01-01_end",
     "type": "Main",
     "name": {
-      "zh_CN": "1-1 行动后"
+      "zh_CN": "1-1 孤岛 行动后"
     },
     "zone": "main_1"
   },
@@ -2581,7 +2581,7 @@
     "id": "obt/main/level_main_08-03_end",
     "type": "Main",
     "name": {
-      "zh_CN": "R8-3 行动后"
+      "zh_CN": "R8-3 麦秆，极易燃烧 行动后"
     },
     "zone": "main_8"
   },
@@ -2589,7 +2589,7 @@
     "id": "obt/main/level_main_08-04_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "R8-4 行动前"
+      "zh_CN": "R8-4 火种，一触即灭 行动前"
     },
     "zone": "main_8"
   },
@@ -2597,7 +2597,7 @@
     "id": "obt/main/level_main_08-04_end",
     "type": "Main",
     "name": {
-      "zh_CN": "R8-4 行动后"
+      "zh_CN": "R8-4 火种，一触即灭 行动后"
     },
     "zone": "main_8"
   },
@@ -2605,7 +2605,7 @@
     "id": "obt/main/level_main_08-05_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "R8-5 行动前"
+      "zh_CN": "R8-5 寒冷，某种温度  行动前"
     },
     "zone": "main_8"
   },
@@ -2613,7 +2613,7 @@
     "id": "obt/main/level_main_08-05_end",
     "type": "Main",
     "name": {
-      "zh_CN": "R8-5 行动后"
+      "zh_CN": "R8-5 寒冷，某种温度  行动后"
     },
     "zone": "main_8"
   },
@@ -2621,7 +2621,7 @@
     "id": "obt/main/level_main_08-06_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "R8-6 行动前"
+      "zh_CN": "R8-6 战场，蔓延不止 行动前"
     },
     "zone": "main_8"
   },
@@ -2629,7 +2629,7 @@
     "id": "obt/main/level_main_08-06_end",
     "type": "Main",
     "name": {
-      "zh_CN": "R8-6 行动后"
+      "zh_CN": "R8-6 战场，蔓延不止 行动后"
     },
     "zone": "main_8"
   },
@@ -2637,7 +2637,7 @@
     "id": "obt/main/level_main_08-08_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "R8-8 行动前"
+      "zh_CN": "R8-8 人心，向背无常 行动前"
     },
     "zone": "main_8"
   },
@@ -2645,7 +2645,7 @@
     "id": "obt/main/level_main_08-08_end",
     "type": "Main",
     "name": {
-      "zh_CN": "R8-8 行动后"
+      "zh_CN": "R8-8 人心，向背无常 行动后"
     },
     "zone": "main_8"
   },
@@ -2653,7 +2653,7 @@
     "id": "obt/main/level_main_08-09_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "M8-6 行动前"
+      "zh_CN": "M8-6 再见，只为再见 行动前"
     },
     "zone": "main_8"
   },
@@ -2661,7 +2661,7 @@
     "id": "obt/main/level_main_01-03_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "1-3 行动前"
+      "zh_CN": "1-3 狂奔 行动前"
     },
     "zone": "main_1"
   },
@@ -2669,7 +2669,7 @@
     "id": "obt/main/level_main_08-09_end",
     "type": "Main",
     "name": {
-      "zh_CN": "M8-6 行动后"
+      "zh_CN": "M8-6 再见，只为再见 行动后"
     },
     "zone": "main_8"
   },
@@ -2677,7 +2677,7 @@
     "id": "obt/main/level_main_08-10_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "R8-9 行动前"
+      "zh_CN": "R8-9 相逢，总是离别 行动前"
     },
     "zone": "main_8"
   },
@@ -2685,7 +2685,7 @@
     "id": "obt/main/level_main_08-10_end",
     "type": "Main",
     "name": {
-      "zh_CN": "R8-9 行动后"
+      "zh_CN": "R8-9 相逢，总是离别 行动后"
     },
     "zone": "main_8"
   },
@@ -2693,7 +2693,7 @@
     "id": "obt/main/level_main_08-12_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "M8-7 行动前"
+      "zh_CN": "M8-7 恶言，报应不爽 行动前"
     },
     "zone": "main_8"
   },
@@ -2701,7 +2701,7 @@
     "id": "obt/main/level_main_08-12_end",
     "type": "Main",
     "name": {
-      "zh_CN": "M8-7 行动后"
+      "zh_CN": "M8-7 恶言，报应不爽 行动后"
     },
     "zone": "main_8"
   },
@@ -2709,7 +2709,7 @@
     "id": "obt/main/level_main_08-13_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "R8-11 行动前"
+      "zh_CN": "R8-11 落雪，浸黑国土 行动前"
     },
     "zone": "main_8"
   },
@@ -2717,7 +2717,7 @@
     "id": "obt/main/level_main_08-13_end",
     "type": "Main",
     "name": {
-      "zh_CN": "R8-11 行动后"
+      "zh_CN": "R8-11 落雪，浸黑国土 行动后"
     },
     "zone": "main_8"
   },
@@ -2725,7 +2725,7 @@
     "id": "obt/main/level_main_08-14_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "M8-8 行动前"
+      "zh_CN": "M8-8 苏醒，浮出梦乡 行动前"
     },
     "zone": "main_8"
   },
@@ -2733,7 +2733,7 @@
     "id": "obt/main/level_main_08-14_end",
     "type": "Main",
     "name": {
-      "zh_CN": "M8-8 行动后"
+      "zh_CN": "M8-8 苏醒，浮出梦乡 行动后"
     },
     "zone": "main_8"
   },
@@ -2741,7 +2741,7 @@
     "id": "obt/main/level_main_08-15_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "JT8-1 行动前"
+      "zh_CN": "JT8-1 恨火，流向原野 行动前"
     },
     "zone": "main_8"
   },
@@ -2749,7 +2749,7 @@
     "id": "obt/main/level_main_01-03_end",
     "type": "Main",
     "name": {
-      "zh_CN": "1-3 行动后"
+      "zh_CN": "1-3 狂奔 行动后"
     },
     "zone": "main_1"
   },
@@ -2757,7 +2757,7 @@
     "id": "obt/main/level_main_08-15_end",
     "type": "Main",
     "name": {
-      "zh_CN": "JT8-1 行动后"
+      "zh_CN": "JT8-1 恨火，流向原野 行动后"
     },
     "zone": "main_8"
   },
@@ -2765,7 +2765,7 @@
     "id": "obt/main/level_main_08-16_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "JT8-2 行动前"
+      "zh_CN": "JT8-2 睁眼，便是日暮 行动前"
     },
     "zone": "main_8"
   },
@@ -2773,7 +2773,7 @@
     "id": "obt/main/level_main_08-16_end",
     "type": "Main",
     "name": {
-      "zh_CN": "JT8-2 行动后"
+      "zh_CN": "JT8-2 睁眼，便是日暮 行动后"
     },
     "zone": "main_8"
   },
@@ -2781,7 +2781,7 @@
     "id": "obt/main/level_main_08-17_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "JT8-3 行动前"
+      "zh_CN": "JT8-3 昂首，足践烈焰 行动前"
     },
     "zone": "main_8"
   },
@@ -2789,7 +2789,7 @@
     "id": "obt/main/level_main_08-17_end",
     "type": "Main",
     "name": {
-      "zh_CN": "JT8-3 行动后"
+      "zh_CN": "JT8-3 昂首，足践烈焰 行动后"
     },
     "zone": "main_8"
   },
@@ -2797,7 +2797,7 @@
     "id": "obt/main/level_main_09-01_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "9-2 行动前"
+      "zh_CN": "9-2 鬼魂危机 行动前"
     },
     "zone": "main_9"
   },
@@ -2805,7 +2805,7 @@
     "id": "obt/main/level_main_09-02_end",
     "type": "Main",
     "name": {
-      "zh_CN": "9-3 行动后"
+      "zh_CN": "9-3 牌局 行动后"
     },
     "zone": "main_9"
   },
@@ -2813,7 +2813,7 @@
     "id": "obt/main/level_main_09-03_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "9-4 行动前"
+      "zh_CN": "9-4 暗火四起 行动前"
     },
     "zone": "main_9"
   },
@@ -2821,7 +2821,7 @@
     "id": "obt/main/level_main_09-03_end",
     "type": "Main",
     "name": {
-      "zh_CN": "9-4 行动后"
+      "zh_CN": "9-4 暗火四起 行动后"
     },
     "zone": "main_9"
   },
@@ -2829,7 +2829,7 @@
     "id": "obt/main/level_main_09-04_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "9-5 行动前"
+      "zh_CN": "9-5 临界值 行动前"
     },
     "zone": "main_9"
   },
@@ -2837,7 +2837,7 @@
     "id": "obt/main/level_main_01-04_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "1-4 行动前"
+      "zh_CN": "1-4 先兆 行动前"
     },
     "zone": "main_1"
   },
@@ -2845,7 +2845,7 @@
     "id": "obt/main/level_main_09-04_end",
     "type": "Main",
     "name": {
-      "zh_CN": "9-5 行动后"
+      "zh_CN": "9-5 临界值 行动后"
     },
     "zone": "main_9"
   },
@@ -2853,7 +2853,7 @@
     "id": "obt/main/level_main_09-05_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "9-6 行动前"
+      "zh_CN": "9-6 深池 行动前"
     },
     "zone": "main_9"
   },
@@ -2861,7 +2861,7 @@
     "id": "obt/main/level_main_09-06_end",
     "type": "Main",
     "name": {
-      "zh_CN": "9-7 行动后"
+      "zh_CN": "9-7 捉迷藏 行动后"
     },
     "zone": "main_9"
   },
@@ -2869,7 +2869,7 @@
     "id": "obt/main/level_main_09-07_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "9-9 行动前"
+      "zh_CN": "9-9 无辜者 行动前"
     },
     "zone": "main_9"
   },
@@ -2877,7 +2877,7 @@
     "id": "obt/main/level_main_09-08_end",
     "type": "Main",
     "name": {
-      "zh_CN": "9-10 行动后"
+      "zh_CN": "9-10 雷声轰鸣 行动后"
     },
     "zone": "main_9"
   },
@@ -2885,7 +2885,7 @@
     "id": "obt/main/level_main_09-10_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "9-12 行动前"
+      "zh_CN": "9-12 鬼影如潮 行动前"
     },
     "zone": "main_9"
   },
@@ -2893,7 +2893,7 @@
     "id": "obt/main/level_main_09-11_end",
     "type": "Main",
     "name": {
-      "zh_CN": "9-13 行动后"
+      "zh_CN": "9-13 战地救援 行动后"
     },
     "zone": "main_9"
   },
@@ -2901,7 +2901,7 @@
     "id": "obt/main/level_main_09-12_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "9-14 行动前"
+      "zh_CN": "9-14 风中旗帜 行动前"
     },
     "zone": "main_9"
   },
@@ -2909,7 +2909,7 @@
     "id": "obt/main/level_main_09-16_end",
     "type": "Main",
     "name": {
-      "zh_CN": "9-18 行动后"
+      "zh_CN": "9-18 “破晓” 行动后"
     },
     "zone": "main_9"
   },
@@ -2917,7 +2917,7 @@
     "id": "obt/main/level_main_09-17_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "9-19 行动前"
+      "zh_CN": "9-19 长夜枪火 行动前"
     },
     "zone": "main_9"
   },
@@ -2925,7 +2925,7 @@
     "id": "obt/main/level_main_01-06_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "1-6 行动前"
+      "zh_CN": "1-6 灾难 行动前"
     },
     "zone": "main_1"
   },
@@ -2933,7 +2933,7 @@
     "id": "obt/main/level_main_09-17_end",
     "type": "Main",
     "name": {
-      "zh_CN": "9-19 行动后"
+      "zh_CN": "9-19 长夜枪火 行动后"
     },
     "zone": "main_9"
   },
@@ -2941,7 +2941,7 @@
     "id": "obt/main/level_main_10-01_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "10-2 行动前"
+      "zh_CN": "10-2 抢夺目标 行动前"
     },
     "zone": "main_10"
   },
@@ -2949,7 +2949,7 @@
     "id": "obt/main/level_main_10-01_end",
     "type": "Main",
     "name": {
-      "zh_CN": "10-2 行动后"
+      "zh_CN": "10-2 抢夺目标 行动后"
     },
     "zone": "main_10"
   },
@@ -2957,7 +2957,7 @@
     "id": "obt/main/level_main_10-02_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "10-3 行动前"
+      "zh_CN": "10-3 低下头 行动前"
     },
     "zone": "main_10"
   },
@@ -2965,7 +2965,7 @@
     "id": "obt/main/level_main_10-02_end",
     "type": "Main",
     "name": {
-      "zh_CN": "10-3 行动后"
+      "zh_CN": "10-3 低下头 行动后"
     },
     "zone": "main_10"
   },
@@ -2973,7 +2973,7 @@
     "id": "obt/main/level_main_10-03_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "10-4 行动前"
+      "zh_CN": "10-4 鸣铳示警 行动前"
     },
     "zone": "main_10"
   },
@@ -2981,7 +2981,7 @@
     "id": "obt/main/level_main_10-03_end",
     "type": "Main",
     "name": {
-      "zh_CN": "10-4 行动后"
+      "zh_CN": "10-4 鸣铳示警 行动后"
     },
     "zone": "main_10"
   },
@@ -2989,7 +2989,7 @@
     "id": "obt/main/level_main_10-04_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "10-5 行动前"
+      "zh_CN": "10-5 城市的呼吸 行动前"
     },
     "zone": "main_10"
   },
@@ -2997,7 +2997,7 @@
     "id": "obt/main/level_main_10-04_end",
     "type": "Main",
     "name": {
-      "zh_CN": "10-5 行动后"
+      "zh_CN": "10-5 城市的呼吸 行动后"
     },
     "zone": "main_10"
   },
@@ -3005,7 +3005,7 @@
     "id": "obt/main/level_main_10-05_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "10-6 行动前"
+      "zh_CN": "10-6 虽非同族 行动前"
     },
     "zone": "main_10"
   },
@@ -3013,7 +3013,7 @@
     "id": "obt/main/level_main_01-07_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "1-7 行动前"
+      "zh_CN": "1-7 暴君 行动前"
     },
     "zone": "main_1"
   },
@@ -3021,7 +3021,7 @@
     "id": "obt/main/level_main_10-05_end",
     "type": "Main",
     "name": {
-      "zh_CN": "10-6 行动后"
+      "zh_CN": "10-6 虽非同族 行动后"
     },
     "zone": "main_10"
   },
@@ -3029,7 +3029,7 @@
     "id": "obt/main/level_main_10-06_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "10-7 行动前"
+      "zh_CN": "10-7 痛觉相连 行动前"
     },
     "zone": "main_10"
   },
@@ -3037,7 +3037,7 @@
     "id": "obt/main/level_main_10-07_end",
     "type": "Main",
     "name": {
-      "zh_CN": "10-8 行动后"
+      "zh_CN": "10-8 无暇哀悼 行动后"
     },
     "zone": "main_10"
   },
@@ -3045,7 +3045,7 @@
     "id": "obt/main/level_main_10-08_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "10-9 行动前"
+      "zh_CN": "10-9 他乡故知 行动前"
     },
     "zone": "main_10"
   },
@@ -3053,7 +3053,7 @@
     "id": "obt/main/level_main_10-08_end",
     "type": "Main",
     "name": {
-      "zh_CN": "10-9 行动后"
+      "zh_CN": "10-9 他乡故知 行动后"
     },
     "zone": "main_10"
   },
@@ -3061,7 +3061,7 @@
     "id": "obt/main/level_main_10-09_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "10-10 行动前"
+      "zh_CN": "10-10 旧日之影 行动前"
     },
     "zone": "main_10"
   },
@@ -3069,7 +3069,7 @@
     "id": "obt/main/level_main_10-09_end",
     "type": "Main",
     "name": {
-      "zh_CN": "10-10 行动后"
+      "zh_CN": "10-10 旧日之影 行动后"
     },
     "zone": "main_10"
   },
@@ -3077,7 +3077,7 @@
     "id": "obt/main/level_main_10-10_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "10-11 行动前"
+      "zh_CN": "10-11 千疮百孔 行动前"
     },
     "zone": "main_10"
   },
@@ -3085,7 +3085,7 @@
     "id": "obt/main/level_main_10-11_end",
     "type": "Main",
     "name": {
-      "zh_CN": "10-12 行动后"
+      "zh_CN": "10-12 仇怨的尽头 行动后"
     },
     "zone": "main_10"
   },
@@ -3093,7 +3093,7 @@
     "id": "obt/main/level_main_10-12_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "10-14 行动前"
+      "zh_CN": "10-14 瞄准 行动前"
     },
     "zone": "main_10"
   },
@@ -3101,7 +3101,7 @@
     "id": "obt/main/level_main_00-01_end",
     "type": "Main",
     "name": {
-      "zh_CN": "0-1 行动后"
+      "zh_CN": "0-1 坍塌 行动后"
     },
     "zone": "main_0"
   },
@@ -3109,7 +3109,7 @@
     "id": "obt/main/level_main_01-07_end",
     "type": "Main",
     "name": {
-      "zh_CN": "1-7 行动后"
+      "zh_CN": "1-7 暴君 行动后"
     },
     "zone": "main_1"
   },
@@ -3117,7 +3117,7 @@
     "id": "obt/main/level_main_10-12_end",
     "type": "Main",
     "name": {
-      "zh_CN": "10-14 行动后"
+      "zh_CN": "10-14 瞄准 行动后"
     },
     "zone": "main_10"
   },
@@ -3125,7 +3125,7 @@
     "id": "obt/main/level_main_10-13_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "10-15 行动前"
+      "zh_CN": "10-15 逃离炮火 行动前"
     },
     "zone": "main_10"
   },
@@ -3133,7 +3133,7 @@
     "id": "obt/main/level_main_10-14_end",
     "type": "Main",
     "name": {
-      "zh_CN": "10-16 行动后"
+      "zh_CN": "10-16 血刃高悬 行动后"
     },
     "zone": "main_10"
   },
@@ -3141,7 +3141,7 @@
     "id": "obt/main/level_main_10-15_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "10-17 行动前"
+      "zh_CN": "10-17 坚城高墙 行动前"
     },
     "zone": "main_10"
   },
@@ -3149,7 +3149,7 @@
     "id": "obt/main/level_main_10-15_end",
     "type": "Main",
     "name": {
-      "zh_CN": "10-17 行动后"
+      "zh_CN": "10-17 坚城高墙 行动后"
     },
     "zone": "main_10"
   },
@@ -3157,7 +3157,7 @@
     "id": "obt/main/level_main_11-01_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "11-1 行动前"
+      "zh_CN": "11-1 维护荣耀 行动前"
     },
     "zone": "main_11"
   },
@@ -3165,7 +3165,7 @@
     "id": "obt/main/level_main_11-01_end",
     "type": "Main",
     "name": {
-      "zh_CN": "11-1 行动后"
+      "zh_CN": "11-1 维护荣耀 行动后"
     },
     "zone": "main_11"
   },
@@ -3173,7 +3173,7 @@
     "id": "obt/main/level_main_11-02_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "11-2 行动前"
+      "zh_CN": "11-2 一丝光亮 行动前"
     },
     "zone": "main_11"
   },
@@ -3181,7 +3181,7 @@
     "id": "obt/main/level_main_11-02_end",
     "type": "Main",
     "name": {
-      "zh_CN": "11-2 行动后"
+      "zh_CN": "11-2 一丝光亮 行动后"
     },
     "zone": "main_11"
   },
@@ -3189,7 +3189,7 @@
     "id": "obt/main/level_main_11-03_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "11-3 行动前"
+      "zh_CN": "11-3 蒸汽升腾 行动前"
     },
     "zone": "main_11"
   },
@@ -3197,7 +3197,7 @@
     "id": "obt/main/level_main_01-08_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "1-8 行动前"
+      "zh_CN": "1-8 意志 行动前"
     },
     "zone": "main_1"
   },
@@ -3205,7 +3205,7 @@
     "id": "obt/main/level_main_11-03_end",
     "type": "Main",
     "name": {
-      "zh_CN": "11-3 行动后"
+      "zh_CN": "11-3 蒸汽升腾 行动后"
     },
     "zone": "main_11"
   },
@@ -3213,7 +3213,7 @@
     "id": "obt/main/level_main_11-04_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "11-5 行动前"
+      "zh_CN": "11-5 等价交换 行动前"
     },
     "zone": "main_11"
   },
@@ -3221,7 +3221,7 @@
     "id": "obt/main/level_main_11-04_end",
     "type": "Main",
     "name": {
-      "zh_CN": "11-5 行动后"
+      "zh_CN": "11-5 等价交换 行动后"
     },
     "zone": "main_11"
   },
@@ -3229,7 +3229,7 @@
     "id": "obt/main/level_main_11-05_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "11-6 行动前"
+      "zh_CN": "11-6 演绎文明 行动前"
     },
     "zone": "main_11"
   },
@@ -3237,7 +3237,7 @@
     "id": "obt/main/level_main_11-06_end",
     "type": "Main",
     "name": {
-      "zh_CN": "11-7 行动后"
+      "zh_CN": "11-7 卷入洪流 行动后"
     },
     "zone": "main_11"
   },
@@ -3245,7 +3245,7 @@
     "id": "obt/main/level_main_11-07_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "11-8 行动前"
+      "zh_CN": "11-8 停滞 行动前"
     },
     "zone": "main_11"
   },
@@ -3253,7 +3253,7 @@
     "id": "obt/main/level_main_11-07_end",
     "type": "Main",
     "name": {
-      "zh_CN": "11-8 行动后"
+      "zh_CN": "11-8 停滞 行动后"
     },
     "zone": "main_11"
   },
@@ -3261,7 +3261,7 @@
     "id": "obt/main/level_main_11-08_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "11-9 行动前"
+      "zh_CN": "11-9 以命换命 行动前"
     },
     "zone": "main_11"
   },
@@ -3269,7 +3269,7 @@
     "id": "obt/main/level_main_11-08_end",
     "type": "Main",
     "name": {
-      "zh_CN": "11-9 行动后"
+      "zh_CN": "11-9 以命换命 行动后"
     },
     "zone": "main_11"
   },
@@ -3277,7 +3277,7 @@
     "id": "obt/main/level_main_11-09_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "11-11 行动前"
+      "zh_CN": "11-11 立场不同 行动前"
     },
     "zone": "main_11"
   },
@@ -3285,7 +3285,7 @@
     "id": "obt/main/level_main_01-10_end",
     "type": "Main",
     "name": {
-      "zh_CN": "1-10 行动后"
+      "zh_CN": "1-10 残留 行动后"
     },
     "zone": "main_1"
   },
@@ -3293,7 +3293,7 @@
     "id": "obt/main/level_main_11-10_end",
     "type": "Main",
     "name": {
-      "zh_CN": "11-12 行动后"
+      "zh_CN": "11-12 汹涌而来 行动后"
     },
     "zone": "main_11"
   },
@@ -3301,7 +3301,7 @@
     "id": "obt/main/level_main_11-12_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "11-14 行动前"
+      "zh_CN": "11-14 一场相见 行动前"
     },
     "zone": "main_11"
   },
@@ -3309,7 +3309,7 @@
     "id": "obt/main/level_main_11-12_end",
     "type": "Main",
     "name": {
-      "zh_CN": "11-14 行动后"
+      "zh_CN": "11-14 一场相见 行动后"
     },
     "zone": "main_11"
   },
@@ -3317,7 +3317,7 @@
     "id": "obt/main/level_main_11-13_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "11-15 行动前"
+      "zh_CN": "11-15 土地震颤 行动前"
     },
     "zone": "main_11"
   },
@@ -3325,7 +3325,7 @@
     "id": "obt/main/level_main_11-14_end",
     "type": "Main",
     "name": {
-      "zh_CN": "11-16 行动后"
+      "zh_CN": "11-16 荣光猎场 行动后"
     },
     "zone": "main_11"
   },
@@ -3333,7 +3333,7 @@
     "id": "obt/main/level_main_11-15_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "11-17 行动前"
+      "zh_CN": "11-17 回答我 行动前"
     },
     "zone": "main_11"
   },
@@ -3341,7 +3341,7 @@
     "id": "obt/main/level_main_11-15_end",
     "type": "Main",
     "name": {
-      "zh_CN": "11-17 行动后"
+      "zh_CN": "11-17 回答我 行动后"
     },
     "zone": "main_11"
   },
@@ -3349,7 +3349,7 @@
     "id": "obt/main/level_main_11-17_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "11-19 行动前"
+      "zh_CN": "11-19 直指命运 行动前"
     },
     "zone": "main_11"
   },
@@ -3357,7 +3357,7 @@
     "id": "obt/main/level_main_11-17_end",
     "type": "Main",
     "name": {
-      "zh_CN": "11-19 行动后"
+      "zh_CN": "11-19 直指命运 行动后"
     },
     "zone": "main_11"
   },
@@ -3365,7 +3365,7 @@
     "id": "obt/main/level_main_12-01_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "12-2 行动前"
+      "zh_CN": "12-2 静候驾临 行动前"
     },
     "zone": "main_12"
   },
@@ -3373,7 +3373,7 @@
     "id": "obt/main/level_main_01-12_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "1-12 行动前"
+      "zh_CN": "1-12 代价 行动前"
     },
     "zone": "main_1"
   },
@@ -3381,7 +3381,7 @@
     "id": "obt/main/level_main_12-01_end",
     "type": "Main",
     "name": {
-      "zh_CN": "12-2 行动后"
+      "zh_CN": "12-2 静候驾临 行动后"
     },
     "zone": "main_12"
   },
@@ -3389,7 +3389,7 @@
     "id": "obt/main/level_main_12-02_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "12-3 行动前"
+      "zh_CN": "12-3 善意背叛 行动前"
     },
     "zone": "main_12"
   },
@@ -3397,7 +3397,7 @@
     "id": "obt/main/level_main_12-02_end",
     "type": "Main",
     "name": {
-      "zh_CN": "12-3 行动后"
+      "zh_CN": "12-3 善意背叛 行动后"
     },
     "zone": "main_12"
   },
@@ -3405,7 +3405,7 @@
     "id": "obt/main/level_main_12-03_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "12-4 行动前"
+      "zh_CN": "12-4 团结就是奢望 行动前"
     },
     "zone": "main_12"
   },
@@ -3413,7 +3413,7 @@
     "id": "obt/main/level_main_12-03_end",
     "type": "Main",
     "name": {
-      "zh_CN": "12-4 行动后"
+      "zh_CN": "12-4 团结就是奢望 行动后"
     },
     "zone": "main_12"
   },
@@ -3421,7 +3421,7 @@
     "id": "obt/main/level_main_12-04_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "12-5 行动前"
+      "zh_CN": "12-5 脆钢 行动前"
     },
     "zone": "main_12"
   },
@@ -3429,7 +3429,7 @@
     "id": "obt/main/level_main_12-05_end",
     "type": "Main",
     "name": {
-      "zh_CN": "12-6 行动后"
+      "zh_CN": "12-6 谁的战争 行动后"
     },
     "zone": "main_12"
   },
@@ -3437,7 +3437,7 @@
     "id": "obt/main/level_main_12-06_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "12-7 行动前"
+      "zh_CN": "12-7 平议生死 行动前"
     },
     "zone": "main_12"
   },
@@ -3445,7 +3445,7 @@
     "id": "obt/main/level_main_12-07_end",
     "type": "Main",
     "name": {
-      "zh_CN": "12-8 行动后"
+      "zh_CN": "12-8 火线重逢 行动后"
     },
     "zone": "main_12"
   },
@@ -3453,7 +3453,7 @@
     "id": "obt/main/level_main_12-08_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "12-9 行动前"
+      "zh_CN": "12-9 热血年华 行动前"
     },
     "zone": "main_12"
   },
@@ -3461,7 +3461,7 @@
     "id": "obt/main/level_main_01-12_end",
     "type": "Main",
     "name": {
-      "zh_CN": "1-12 行动后"
+      "zh_CN": "1-12 代价 行动后"
     },
     "zone": "main_1"
   },
@@ -3469,7 +3469,7 @@
     "id": "obt/main/level_main_12-09_end",
     "type": "Main",
     "name": {
-      "zh_CN": "12-10 行动后"
+      "zh_CN": "12-10 广播热线正繁忙 行动后"
     },
     "zone": "main_12"
   },
@@ -3477,7 +3477,7 @@
     "id": "obt/main/level_main_12-10_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "12-12 行动前"
+      "zh_CN": "12-12 脱帽致敬 行动前"
     },
     "zone": "main_12"
   },
@@ -3485,7 +3485,7 @@
     "id": "obt/main/level_main_12-11_end",
     "type": "Main",
     "name": {
-      "zh_CN": "12-13 行动后"
+      "zh_CN": "12-13 逆光阴影 行动后"
     },
     "zone": "main_12"
   },
@@ -3493,7 +3493,7 @@
     "id": "obt/main/level_main_12-12_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "12-14 行动前"
+      "zh_CN": "12-14 捂住耳朵 行动前"
     },
     "zone": "main_12"
   },
@@ -3501,7 +3501,7 @@
     "id": "obt/main/level_main_12-12_end",
     "type": "Main",
     "name": {
-      "zh_CN": "12-14 行动后"
+      "zh_CN": "12-14 捂住耳朵 行动后"
     },
     "zone": "main_12"
   },
@@ -3509,7 +3509,7 @@
     "id": "obt/main/level_main_12-13_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "12-15 行动前"
+      "zh_CN": "12-15 千疮百孔 行动前"
     },
     "zone": "main_12"
   },
@@ -3517,7 +3517,7 @@
     "id": "obt/main/level_main_12-13_end",
     "type": "Main",
     "name": {
-      "zh_CN": "12-15 行动后"
+      "zh_CN": "12-15 千疮百孔 行动后"
     },
     "zone": "main_12"
   },
@@ -3525,7 +3525,7 @@
     "id": "obt/main/level_main_12-14_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "12-16 行动前"
+      "zh_CN": "12-16 天边的火烧云 行动前"
     },
     "zone": "main_12"
   },
@@ -3533,7 +3533,7 @@
     "id": "obt/main/level_main_12-15_end",
     "type": "Main",
     "name": {
-      "zh_CN": "12-17 行动后"
+      "zh_CN": "12-17 被弃之人 行动后"
     },
     "zone": "main_12"
   },
@@ -3541,7 +3541,7 @@
     "id": "obt/main/level_main_12-16_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "12-18 行动前"
+      "zh_CN": "12-18 晚安 行动前"
     },
     "zone": "main_12"
   },
@@ -3549,7 +3549,7 @@
     "id": "obt/main/level_main_02-01_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "2-1 行动前"
+      "zh_CN": "2-1 龙门之行 行动前"
     },
     "zone": "main_2"
   },
@@ -3557,7 +3557,7 @@
     "id": "obt/main/level_main_12-17_end",
     "type": "Main",
     "name": {
-      "zh_CN": "12-19 行动后"
+      "zh_CN": "12-19 飞跃，烟火 行动后"
     },
     "zone": "main_12"
   },
@@ -3565,7 +3565,7 @@
     "id": "obt/main/level_main_12-18_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "12-20 行动前"
+      "zh_CN": "12-20 诚挚邀请 行动前"
     },
     "zone": "main_12"
   },
@@ -3573,7 +3573,7 @@
     "id": "obt/main/level_main_12-18_end",
     "type": "Main",
     "name": {
-      "zh_CN": "12-20 行动后"
+      "zh_CN": "12-20 诚挚邀请 行动后"
     },
     "zone": "main_12"
   },
@@ -3581,7 +3581,7 @@
     "id": "obt/main/level_st_05-01",
     "type": "Main",
     "name": {
-      "zh_CN": "5-11"
+      "zh_CN": "5-11 棋胜后着"
     },
     "zone": "main_5"
   },
@@ -3589,7 +3589,7 @@
     "id": "obt/main/level_st_06-01",
     "type": "Main",
     "name": {
-      "zh_CN": "6-6"
+      "zh_CN": "6-6 别说过去的事"
     },
     "zone": "main_6"
   },
@@ -3597,7 +3597,7 @@
     "id": "obt/main/level_st_06-02",
     "type": "Main",
     "name": {
-      "zh_CN": "6-13"
+      "zh_CN": "6-13 没有火,没有光"
     },
     "zone": "main_6"
   },
@@ -3605,7 +3605,7 @@
     "id": "obt/main/level_st_06-03",
     "type": "Main",
     "name": {
-      "zh_CN": "6-18"
+      "zh_CN": "6-18 只有你知道"
     },
     "zone": "main_6"
   },
@@ -3613,7 +3613,7 @@
     "id": "obt/main/level_st_07-01",
     "type": "Main",
     "name": {
-      "zh_CN": "7-1"
+      "zh_CN": "7-1 32:00:00"
     },
     "zone": "main_7"
   },
@@ -3621,7 +3621,7 @@
     "id": "obt/main/level_st_07-02",
     "type": "Main",
     "name": {
-      "zh_CN": "7-7"
+      "zh_CN": "7-7 26:37:14"
     },
     "zone": "main_7"
   },
@@ -3629,7 +3629,7 @@
     "id": "obt/main/level_st_07-03",
     "type": "Main",
     "name": {
-      "zh_CN": "7-19"
+      "zh_CN": "7-19 11:15:38"
     },
     "zone": "main_7"
   },
@@ -3637,7 +3637,7 @@
     "id": "obt/main/level_main_02-01_end",
     "type": "Main",
     "name": {
-      "zh_CN": "2-1 行动后"
+      "zh_CN": "2-1 龙门之行 行动后"
     },
     "zone": "main_2"
   },
@@ -3645,7 +3645,7 @@
     "id": "obt/main/level_st_07-04",
     "type": "Main",
     "name": {
-      "zh_CN": "7-20"
+      "zh_CN": "7-20 ??:??:??"
     },
     "zone": "main_7"
   },
@@ -3653,7 +3653,7 @@
     "id": "obt/main/level_st_08-01",
     "type": "Main",
     "name": {
-      "zh_CN": "M8-1"
+      "zh_CN": "M8-1 今日，血色满溢"
     },
     "zone": "main_8"
   },
@@ -3661,7 +3661,7 @@
     "id": "obt/main/level_st_08-02",
     "type": "Main",
     "name": {
-      "zh_CN": "M8-2"
+      "zh_CN": "M8-2 失语，产自多言"
     },
     "zone": "main_8"
   },
@@ -3669,7 +3669,7 @@
     "id": "obt/main/level_st_08-03",
     "type": "Main",
     "name": {
-      "zh_CN": "M8-3"
+      "zh_CN": "M8-3 死亡，召之即来"
     },
     "zone": "main_8"
   },
@@ -3677,7 +3677,7 @@
     "id": "obt/main/level_st_08-04",
     "type": "Main",
     "name": {
-      "zh_CN": "M8-4"
+      "zh_CN": "M8-4 意志，半缕幻影"
     },
     "zone": "main_8"
   },
@@ -3685,7 +3685,7 @@
     "id": "obt/main/level_st_08-05",
     "type": "Main",
     "name": {
-      "zh_CN": "M8-5"
+      "zh_CN": "M8-5 厄运，等候已久"
     },
     "zone": "main_8"
   },
@@ -3693,7 +3693,7 @@
     "id": "obt/main/level_st_08-06",
     "type": "Main",
     "name": {
-      "zh_CN": "END8-1"
+      "zh_CN": "END8-1 尾声，抑或开始"
     },
     "zone": "main_8"
   },
@@ -3701,7 +3701,7 @@
     "id": "obt/main/level_st_09-01",
     "type": "Main",
     "name": {
-      "zh_CN": "9-1"
+      "zh_CN": "9-1 风暴突击"
     },
     "zone": "main_9"
   },
@@ -3709,7 +3709,7 @@
     "id": "obt/main/level_st_09-02",
     "type": "Main",
     "name": {
-      "zh_CN": "9-8"
+      "zh_CN": "9-8 灰烬中的诗"
     },
     "zone": "main_9"
   },
@@ -3717,7 +3717,7 @@
     "id": "obt/main/level_st_09-03",
     "type": "Main",
     "name": {
-      "zh_CN": "9-20"
+      "zh_CN": "9-20 临近的暴风"
     },
     "zone": "main_9"
   },
@@ -3725,7 +3725,7 @@
     "id": "obt/main/level_main_02-02_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "2-2 行动前"
+      "zh_CN": "2-2 兵不接刃 行动前"
     },
     "zone": "main_2"
   },
@@ -3733,7 +3733,7 @@
     "id": "obt/main/level_st_09-04",
     "type": "Main",
     "name": {
-      "zh_CN": "9-21"
+      "zh_CN": "9-21 重燃"
     },
     "zone": "main_9"
   },
@@ -3741,7 +3741,7 @@
     "id": "obt/main/level_st_10-01",
     "type": "Main",
     "name": {
-      "zh_CN": "10-1"
+      "zh_CN": "10-1 被追逐者"
     },
     "zone": "main_10"
   },
@@ -3749,7 +3749,7 @@
     "id": "obt/main/level_st_10-02",
     "type": "Main",
     "name": {
-      "zh_CN": "10-13"
+      "zh_CN": "10-13 交叉路口"
     },
     "zone": "main_10"
   },
@@ -3757,7 +3757,7 @@
     "id": "obt/main/level_st_10-03",
     "type": "Main",
     "name": {
-      "zh_CN": "10-18"
+      "zh_CN": "10-18 理想的倒影"
     },
     "zone": "main_10"
   },
@@ -3765,7 +3765,7 @@
     "id": "obt/main/level_st_10-04",
     "type": "Main",
     "name": {
-      "zh_CN": "10-19"
+      "zh_CN": "10-19 远方星火"
     },
     "zone": "main_10"
   },
@@ -3773,7 +3773,7 @@
     "id": "obt/main/level_st_11-01",
     "type": "Main",
     "name": {
-      "zh_CN": "11-4"
+      "zh_CN": "11-4 何谓理想"
     },
     "zone": "main_11"
   },
@@ -3781,7 +3781,7 @@
     "id": "obt/main/level_st_11-02",
     "type": "Main",
     "name": {
-      "zh_CN": "11-10"
+      "zh_CN": "11-10 异路相对"
     },
     "zone": "main_11"
   },
@@ -3789,7 +3789,7 @@
     "id": "obt/main/level_st_11-03",
     "type": "Main",
     "name": {
-      "zh_CN": "11-21"
+      "zh_CN": "11-21 不可避免"
     },
     "zone": "main_11"
   },
@@ -3797,7 +3797,7 @@
     "id": "obt/main/level_st_12-01",
     "type": "Main",
     "name": {
-      "zh_CN": "12-1"
+      "zh_CN": "12-1 火光热浪"
     },
     "zone": "main_12"
   },
@@ -3805,7 +3805,7 @@
     "id": "obt/main/level_st_12-02",
     "type": "Main",
     "name": {
-      "zh_CN": "12-11"
+      "zh_CN": "12-11 时不我待"
     },
     "zone": "main_12"
   },
@@ -3813,7 +3813,7 @@
     "id": "obt/main/level_main_02-02_end",
     "type": "Main",
     "name": {
-      "zh_CN": "2-2 行动后"
+      "zh_CN": "2-2 兵不接刃 行动后"
     },
     "zone": "main_2"
   },
@@ -3821,7 +3821,7 @@
     "id": "obt/main/level_st_12-03",
     "type": "Main",
     "name": {
-      "zh_CN": "12-21"
+      "zh_CN": "12-21 战场静悄悄"
     },
     "zone": "main_12"
   },
@@ -3829,7 +3829,7 @@
     "id": "obt/main/level_spst_08-01",
     "type": "Main",
     "name": {
-      "zh_CN": "EG-3"
+      "zh_CN": "EG-3 燃烧的片段3"
     },
     "zone": "main_8"
   },
@@ -3837,7 +3837,7 @@
     "id": "obt/main/level_spst_08-02",
     "type": "Main",
     "name": {
-      "zh_CN": "EG-2"
+      "zh_CN": "EG-2 燃烧的片段2"
     },
     "zone": "main_8"
   },
@@ -3845,7 +3845,7 @@
     "id": "obt/main/level_spst_08-03",
     "type": "Main",
     "name": {
-      "zh_CN": "EG-1"
+      "zh_CN": "EG-1 燃烧的片段1"
     },
     "zone": "main_8"
   },
@@ -3853,7 +3853,7 @@
     "id": "obt/main/level_spst_08-04",
     "type": "Main",
     "name": {
-      "zh_CN": "EG-4"
+      "zh_CN": "EG-4 燃烧的片段4"
     },
     "zone": "main_8"
   },
@@ -3861,7 +3861,7 @@
     "id": "obt/main/level_spst_08-05",
     "type": "Main",
     "name": {
-      "zh_CN": "EG-5"
+      "zh_CN": "EG-5 燃烧的片段5"
     },
     "zone": "main_8"
   },
@@ -3885,7 +3885,7 @@
     "id": "activities/act27side/level_act27side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "SL-ST-1"
+      "zh_CN": "SL-ST-1 到站旁"
     },
     "zone": "act27side"
   },
@@ -3893,7 +3893,7 @@
     "id": "activities/act27side/level_act27side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "SL-1 行动前"
+      "zh_CN": "SL-1 你的耳朵长不长？ 行动前"
     },
     "zone": "act27side"
   },
@@ -3901,7 +3901,7 @@
     "id": "obt/main/level_main_02-03_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "2-3 行动前"
+      "zh_CN": "2-3 无罪推定 行动前"
     },
     "zone": "main_2"
   },
@@ -3909,7 +3909,7 @@
     "id": "activities/act27side/level_act27side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SL-1 行动后"
+      "zh_CN": "SL-1 你的耳朵长不长？ 行动后"
     },
     "zone": "act27side"
   },
@@ -3917,7 +3917,7 @@
     "id": "activities/act27side/level_act27side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "SL-2 行动前"
+      "zh_CN": "SL-2 小蓝孩 行动前"
     },
     "zone": "act27side"
   },
@@ -3925,7 +3925,7 @@
     "id": "activities/act27side/level_act27side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SL-2 行动后"
+      "zh_CN": "SL-2 小蓝孩 行动后"
     },
     "zone": "act27side"
   },
@@ -3933,7 +3933,7 @@
     "id": "activities/act27side/level_act27side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "SL-3 行动前"
+      "zh_CN": "SL-3 手指之家 行动前"
     },
     "zone": "act27side"
   },
@@ -3941,7 +3941,7 @@
     "id": "activities/act27side/level_act27side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SL-3 行动后"
+      "zh_CN": "SL-3 手指之家 行动后"
     },
     "zone": "act27side"
   },
@@ -3949,7 +3949,7 @@
     "id": "activities/act27side/level_act27side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "SL-ST-2"
+      "zh_CN": "SL-ST-2 雨啊，雨啊，快离开"
     },
     "zone": "act27side"
   },
@@ -3957,7 +3957,7 @@
     "id": "activities/act27side/level_act27side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "SL-4 行动前"
+      "zh_CN": "SL-4 一个水手出海了 行动前"
     },
     "zone": "act27side"
   },
@@ -3965,7 +3965,7 @@
     "id": "activities/act27side/level_act27side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SL-4 行动后"
+      "zh_CN": "SL-4 一个水手出海了 行动后"
     },
     "zone": "act27side"
   },
@@ -3973,7 +3973,7 @@
     "id": "activities/act27side/level_act27side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "SL-5 行动前"
+      "zh_CN": "SL-5 我会唱一首彩虹 行动前"
     },
     "zone": "act27side"
   },
@@ -3981,7 +3981,7 @@
     "id": "activities/act27side/level_act27side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SL-5 行动后"
+      "zh_CN": "SL-5 我会唱一首彩虹 行动后"
     },
     "zone": "act27side"
   },
@@ -3989,7 +3989,7 @@
     "id": "obt/main/level_main_00-02_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "0-2 行动前"
+      "zh_CN": "0-2 守卫 行动前"
     },
     "zone": "main_0"
   },
@@ -3997,7 +3997,7 @@
     "id": "obt/main/level_main_02-03_end",
     "type": "Main",
     "name": {
-      "zh_CN": "2-3 行动后"
+      "zh_CN": "2-3 无罪推定 行动后"
     },
     "zone": "main_2"
   },
@@ -4005,7 +4005,7 @@
     "id": "activities/act27side/level_act27side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "SL-6 行动前"
+      "zh_CN": "SL-6 林中小木屋 行动前"
     },
     "zone": "act27side"
   },
@@ -4013,7 +4013,7 @@
     "id": "activities/act27side/level_act27side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SL-6 行动后"
+      "zh_CN": "SL-6 林中小木屋 行动后"
     },
     "zone": "act27side"
   },
@@ -4021,7 +4021,7 @@
     "id": "activities/act27side/level_act27side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "SL-7 行动前"
+      "zh_CN": "SL-7 靠着我的肩膀哭泣 行动前"
     },
     "zone": "act27side"
   },
@@ -4029,7 +4029,7 @@
     "id": "activities/act27side/level_act27side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SL-7 行动后"
+      "zh_CN": "SL-7 靠着我的肩膀哭泣 行动后"
     },
     "zone": "act27side"
   },
@@ -4037,7 +4037,7 @@
     "id": "activities/act27side/level_act27side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "SL-8 行动前"
+      "zh_CN": "SL-8 爱之歌 行动前"
     },
     "zone": "act27side"
   },
@@ -4045,7 +4045,7 @@
     "id": "activities/act27side/level_act27side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SL-8 行动后"
+      "zh_CN": "SL-8 爱之歌 行动后"
     },
     "zone": "act27side"
   },
@@ -4053,7 +4053,7 @@
     "id": "activities/act27side/level_act27side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "SL-ST-3"
+      "zh_CN": "SL-ST-3 晴天"
     },
     "zone": "act27side"
   },
@@ -4085,7 +4085,7 @@
     "id": "obt/main/level_main_02-04_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "2-4 行动前"
+      "zh_CN": "2-4 企鹅物流 行动前"
     },
     "zone": "main_2"
   },
@@ -4133,7 +4133,7 @@
     "id": "activities/act26side/level_act26side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "HE-ST-1"
+      "zh_CN": "HE-ST-1 奉上冠冕"
     },
     "zone": "act26side"
   },
@@ -4141,7 +4141,7 @@
     "id": "activities/act26side/level_act26side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "HE-1 行动前"
+      "zh_CN": "HE-1 我有一个荣美家乡 行动前"
     },
     "zone": "act26side"
   },
@@ -4149,7 +4149,7 @@
     "id": "activities/act26side/level_act26side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "HE-1 行动后"
+      "zh_CN": "HE-1 我有一个荣美家乡 行动后"
     },
     "zone": "act26side"
   },
@@ -4157,7 +4157,7 @@
     "id": "activities/act26side/level_act26side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "HE-2 行动前"
+      "zh_CN": "HE-2 生命运河 行动前"
     },
     "zone": "act26side"
   },
@@ -4165,7 +4165,7 @@
     "id": "activities/act26side/level_act26side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "HE-2 行动后"
+      "zh_CN": "HE-2 生命运河 行动后"
     },
     "zone": "act26side"
   },
@@ -4173,7 +4173,7 @@
     "id": "obt/main/level_main_02-04_end",
     "type": "Main",
     "name": {
-      "zh_CN": "2-4 行动后"
+      "zh_CN": "2-4 企鹅物流 行动后"
     },
     "zone": "main_2"
   },
@@ -4181,7 +4181,7 @@
     "id": "activities/act26side/level_act26side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "HE-3 行动前"
+      "zh_CN": "HE-3 岂可空手回天府？ 行动前"
     },
     "zone": "act26side"
   },
@@ -4189,7 +4189,7 @@
     "id": "activities/act26side/level_act26side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "HE-3 行动后"
+      "zh_CN": "HE-3 岂可空手回天府？ 行动后"
     },
     "zone": "act26side"
   },
@@ -4197,7 +4197,7 @@
     "id": "activities/act26side/level_act26side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "HE-4 行动前"
+      "zh_CN": "HE-4 我曾舍命为你 行动前"
     },
     "zone": "act26side"
   },
@@ -4205,7 +4205,7 @@
     "id": "activities/act26side/level_act26side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "HE-4 行动后"
+      "zh_CN": "HE-4 我曾舍命为你 行动后"
     },
     "zone": "act26side"
   },
@@ -4213,7 +4213,7 @@
     "id": "activities/act26side/level_act26side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "HE-5 行动前"
+      "zh_CN": "HE-5 主在圣殿中 行动前"
     },
     "zone": "act26side"
   },
@@ -4221,7 +4221,7 @@
     "id": "activities/act26side/level_act26side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "HE-5 行动后"
+      "zh_CN": "HE-5 主在圣殿中 行动后"
     },
     "zone": "act26side"
   },
@@ -4229,7 +4229,7 @@
     "id": "activities/act26side/level_act26side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "HE-6 行动前"
+      "zh_CN": "HE-6 夜半歌声 行动前"
     },
     "zone": "act26side"
   },
@@ -4237,7 +4237,7 @@
     "id": "activities/act26side/level_act26side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "HE-6 行动后"
+      "zh_CN": "HE-6 夜半歌声 行动后"
     },
     "zone": "act26side"
   },
@@ -4245,7 +4245,7 @@
     "id": "activities/act26side/level_act26side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "HE-ST-2"
+      "zh_CN": "HE-ST-2 在花园里"
     },
     "zone": "act26side"
   },
@@ -4253,7 +4253,7 @@
     "id": "activities/act26side/level_act26side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "HE-7 行动前"
+      "zh_CN": "HE-7 以爱相连 行动前"
     },
     "zone": "act26side"
   },
@@ -4261,7 +4261,7 @@
     "id": "obt/main/level_main_02-05_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "2-5 行动前"
+      "zh_CN": "2-5 高空坠物 行动前"
     },
     "zone": "main_2"
   },
@@ -4269,7 +4269,7 @@
     "id": "activities/act26side/level_act26side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "HE-7 行动后"
+      "zh_CN": "HE-7 以爱相连 行动后"
     },
     "zone": "act26side"
   },
@@ -4277,7 +4277,7 @@
     "id": "activities/act26side/level_act26side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "HE-8 行动前"
+      "zh_CN": "HE-8 愿跟随主 行动前"
     },
     "zone": "act26side"
   },
@@ -4285,7 +4285,7 @@
     "id": "activities/act26side/level_act26side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "HE-8 行动后"
+      "zh_CN": "HE-8 愿跟随主 行动后"
     },
     "zone": "act26side"
   },
@@ -4293,7 +4293,7 @@
     "id": "activities/act26side/level_act26side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "HE-ST-3"
+      "zh_CN": "HE-ST-3 慈光引导"
     },
     "zone": "act26side"
   },
@@ -4301,7 +4301,7 @@
     "id": "activities/act25side/level_act25side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-ST-1"
+      "zh_CN": "CW-ST-1 阴云密布"
     },
     "zone": "act25side"
   },
@@ -4309,7 +4309,7 @@
     "id": "activities/act25side/level_act25side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-1 行动前"
+      "zh_CN": "CW-1 迷雾重重 行动前"
     },
     "zone": "act25side"
   },
@@ -4317,7 +4317,7 @@
     "id": "activities/act25side/level_act25side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-1 行动后"
+      "zh_CN": "CW-1 迷雾重重 行动后"
     },
     "zone": "act25side"
   },
@@ -4325,7 +4325,7 @@
     "id": "activities/act25side/level_act25side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-2 行动前"
+      "zh_CN": "CW-2 无迹可寻 行动前"
     },
     "zone": "act25side"
   },
@@ -4333,7 +4333,7 @@
     "id": "activities/act25side/level_act25side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-2 行动后"
+      "zh_CN": "CW-2 无迹可寻 行动后"
     },
     "zone": "act25side"
   },
@@ -4341,7 +4341,7 @@
     "id": "activities/act25side/level_act25side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-3 行动前"
+      "zh_CN": "CW-3 台前幕后 行动前"
     },
     "zone": "act25side"
   },
@@ -4349,7 +4349,7 @@
     "id": "obt/main/level_main_02-05_end",
     "type": "Main",
     "name": {
-      "zh_CN": "2-5 行动后"
+      "zh_CN": "2-5 高空坠物 行动后"
     },
     "zone": "main_2"
   },
@@ -4357,7 +4357,7 @@
     "id": "activities/act25side/level_act25side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-3 行动后"
+      "zh_CN": "CW-3 台前幕后 行动后"
     },
     "zone": "act25side"
   },
@@ -4365,7 +4365,7 @@
     "id": "activities/act25side/level_act25side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-ST-2"
+      "zh_CN": "CW-ST-2 一波未平"
     },
     "zone": "act25side"
   },
@@ -4373,7 +4373,7 @@
     "id": "activities/act25side/level_act25side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-4 行动前"
+      "zh_CN": "CW-4 一波又起 行动前"
     },
     "zone": "act25side"
   },
@@ -4381,7 +4381,7 @@
     "id": "activities/act25side/level_act25side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-4 行动后"
+      "zh_CN": "CW-4 一波又起 行动后"
     },
     "zone": "act25side"
   },
@@ -4389,7 +4389,7 @@
     "id": "activities/act25side/level_act25side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-5 行动前"
+      "zh_CN": "CW-5 柳暗花明 行动前"
     },
     "zone": "act25side"
   },
@@ -4397,7 +4397,7 @@
     "id": "activities/act25side/level_act25side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-5 行动后"
+      "zh_CN": "CW-5 柳暗花明 行动后"
     },
     "zone": "act25side"
   },
@@ -4405,7 +4405,7 @@
     "id": "activities/act25side/level_act25side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-6 行动前"
+      "zh_CN": "CW-6 群英荟萃 行动前"
     },
     "zone": "act25side"
   },
@@ -4413,7 +4413,7 @@
     "id": "activities/act25side/level_act25side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-6 行动后"
+      "zh_CN": "CW-6 群英荟萃 行动后"
     },
     "zone": "act25side"
   },
@@ -4421,7 +4421,7 @@
     "id": "activities/act25side/level_act25side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-7 行动前"
+      "zh_CN": "CW-7 空中楼阁 行动前"
     },
     "zone": "act25side"
   },
@@ -4429,7 +4429,7 @@
     "id": "activities/act25side/level_act25side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-7 行动后"
+      "zh_CN": "CW-7 空中楼阁 行动后"
     },
     "zone": "act25side"
   },
@@ -4437,7 +4437,7 @@
     "id": "obt/main/level_main_02-06_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "2-6 行动前"
+      "zh_CN": "2-6 握紧扶手 行动前"
     },
     "zone": "main_2"
   },
@@ -4445,7 +4445,7 @@
     "id": "activities/act25side/level_act25side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-8 行动前"
+      "zh_CN": "CW-8 过去与现在的交会 行动前"
     },
     "zone": "act25side"
   },
@@ -4453,7 +4453,7 @@
     "id": "activities/act25side/level_act25side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-8 行动后"
+      "zh_CN": "CW-8 过去与现在的交会 行动后"
     },
     "zone": "act25side"
   },
@@ -4461,7 +4461,7 @@
     "id": "activities/act25side/level_act25side_09_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-9 行动前"
+      "zh_CN": "CW-9 恩怨纠葛 行动前"
     },
     "zone": "act25side"
   },
@@ -4469,7 +4469,7 @@
     "id": "activities/act25side/level_act25side_09_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-9 行动后"
+      "zh_CN": "CW-9 恩怨纠葛 行动后"
     },
     "zone": "act25side"
   },
@@ -4477,7 +4477,7 @@
     "id": "activities/act25side/level_act25side_10_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-10 行动前"
+      "zh_CN": "CW-10 散于星辰之间 行动前"
     },
     "zone": "act25side"
   },
@@ -4485,7 +4485,7 @@
     "id": "activities/act25side/level_act25side_10_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-10 行动后"
+      "zh_CN": "CW-10 散于星辰之间 行动后"
     },
     "zone": "act25side"
   },
@@ -4493,7 +4493,7 @@
     "id": "activities/act25side/level_act25side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-ST-3"
+      "zh_CN": "CW-ST-3 留下的人"
     },
     "zone": "act25side"
   },
@@ -4501,7 +4501,7 @@
     "id": "activities/act25side/level_act25side_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "CW-ST-4"
+      "zh_CN": "CW-ST-4 推开未来之门"
     },
     "zone": "act25side"
   },
@@ -4525,7 +4525,7 @@
     "id": "obt/main/level_main_02-06_end",
     "type": "Main",
     "name": {
-      "zh_CN": "2-6 行动后"
+      "zh_CN": "2-6 握紧扶手 行动后"
     },
     "zone": "main_2"
   },
@@ -4589,7 +4589,7 @@
     "id": "activities/act24side/level_act24side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "CF-ST-1"
+      "zh_CN": "CF-ST-1 噩梦"
     },
     "zone": "act24side"
   },
@@ -4597,7 +4597,7 @@
     "id": "activities/act24side/level_act24side_tr01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CF-TR-1 行动前"
+      "zh_CN": "CF-TR-1 来袭！天空的王者！ 行动前"
     },
     "zone": "act24side"
   },
@@ -4605,7 +4605,7 @@
     "id": "activities/act24side/level_act24side_tr01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CF-TR-1 行动后"
+      "zh_CN": "CF-TR-1 来袭！天空的王者！ 行动后"
     },
     "zone": "act24side"
   },
@@ -4613,7 +4613,7 @@
     "id": "obt/main/level_main_02-07_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "2-7 行动前"
+      "zh_CN": "2-7 注意卫生 行动前"
     },
     "zone": "main_2"
   },
@@ -4621,7 +4621,7 @@
     "id": "activities/act24side/level_act24side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CF-2 行动前"
+      "zh_CN": "CF-2 坚硬磐石 行动前"
     },
     "zone": "act24side"
   },
@@ -4629,7 +4629,7 @@
     "id": "activities/act24side/level_act24side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CF-2 行动后"
+      "zh_CN": "CF-2 坚硬磐石 行动后"
     },
     "zone": "act24side"
   },
@@ -4637,7 +4637,7 @@
     "id": "activities/act24side/level_act24side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CF-3 行动前"
+      "zh_CN": "CF-3 迎头痛击 行动前"
     },
     "zone": "act24side"
   },
@@ -4645,7 +4645,7 @@
     "id": "activities/act24side/level_act24side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CF-4 行动后"
+      "zh_CN": "CF-4 破空的飞羽 行动后"
     },
     "zone": "act24side"
   },
@@ -4653,7 +4653,7 @@
     "id": "activities/act24side/level_act24side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "CF-ST-2"
+      "zh_CN": "CF-ST-2 林昏焰明"
     },
     "zone": "act24side"
   },
@@ -4661,7 +4661,7 @@
     "id": "activities/act24side/level_act24side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CF-5 行动前"
+      "zh_CN": "CF-5 野蛮肇事者 行动前"
     },
     "zone": "act24side"
   },
@@ -4669,7 +4669,7 @@
     "id": "activities/act24side/level_act24side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CF-5 行动后"
+      "zh_CN": "CF-5 野蛮肇事者 行动后"
     },
     "zone": "act24side"
   },
@@ -4677,7 +4677,7 @@
     "id": "activities/act24side/level_act24side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CF-6 行动前"
+      "zh_CN": "CF-6 禁飞区 行动前"
     },
     "zone": "act24side"
   },
@@ -4685,7 +4685,7 @@
     "id": "activities/act24side/level_act24side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CF-6 行动后"
+      "zh_CN": "CF-6 禁飞区 行动后"
     },
     "zone": "act24side"
   },
@@ -4693,7 +4693,7 @@
     "id": "activities/act24side/level_act24side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CF-7 行动前"
+      "zh_CN": "CF-7 锥心之刺 行动前"
     },
     "zone": "act24side"
   },
@@ -4701,7 +4701,7 @@
     "id": "obt/main/level_main_02-07_end",
     "type": "Main",
     "name": {
-      "zh_CN": "2-7 行动后"
+      "zh_CN": "2-7 注意卫生 行动后"
     },
     "zone": "main_2"
   },
@@ -4709,7 +4709,7 @@
     "id": "activities/act24side/level_act24side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CF-7 行动后"
+      "zh_CN": "CF-7 锥心之刺 行动后"
     },
     "zone": "act24side"
   },
@@ -4717,7 +4717,7 @@
     "id": "activities/act24side/level_act24side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CF-8 行动前"
+      "zh_CN": "CF-8 奸诈者必自食恶果 行动前"
     },
     "zone": "act24side"
   },
@@ -4725,7 +4725,7 @@
     "id": "activities/act24side/level_act24side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CF-8 行动后"
+      "zh_CN": "CF-8 奸诈者必自食恶果 行动后"
     },
     "zone": "act24side"
   },
@@ -4733,7 +4733,7 @@
     "id": "activities/act24side/level_act24side_09_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CF-9 行动前"
+      "zh_CN": "CF-9 决战！燃烧的狩魂！ 行动前"
     },
     "zone": "act24side"
   },
@@ -4741,7 +4741,7 @@
     "id": "activities/act24side/level_act24side_09_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CF-9 行动后"
+      "zh_CN": "CF-9 决战！燃烧的狩魂！ 行动后"
     },
     "zone": "act24side"
   },
@@ -4749,7 +4749,7 @@
     "id": "activities/act24side/level_act24side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "CF-ST-3"
+      "zh_CN": "CF-ST-3 晨曦"
     },
     "zone": "act24side"
   },
@@ -4789,7 +4789,7 @@
     "id": "obt/main/level_main_02-08_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "2-8 行动前"
+      "zh_CN": "2-8 不做约定 行动前"
     },
     "zone": "main_2"
   },
@@ -4813,7 +4813,7 @@
     "id": "activities/act23side/level_act23side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "WB-ST-1"
+      "zh_CN": "WB-ST-1 忽梦少年事"
     },
     "zone": "act23side"
   },
@@ -4821,7 +4821,7 @@
     "id": "activities/act23side/level_act23side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "WB-1 行动前"
+      "zh_CN": "WB-1 塞上春来 行动前"
     },
     "zone": "act23side"
   },
@@ -4829,7 +4829,7 @@
     "id": "activities/act23side/level_act23side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "WB-1 行动后"
+      "zh_CN": "WB-1 塞上春来 行动后"
     },
     "zone": "act23side"
   },
@@ -4837,7 +4837,7 @@
     "id": "activities/act23side/level_act23side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "WB-2 行动前"
+      "zh_CN": "WB-2 沙海黄尘 行动前"
     },
     "zone": "act23side"
   },
@@ -4845,7 +4845,7 @@
     "id": "activities/act23side/level_act23side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "WB-2 行动后"
+      "zh_CN": "WB-2 沙海黄尘 行动后"
     },
     "zone": "act23side"
   },
@@ -4853,7 +4853,7 @@
     "id": "activities/act23side/level_act23side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "WB-3 行动前"
+      "zh_CN": "WB-3 树犹如此 行动前"
     },
     "zone": "act23side"
   },
@@ -4861,7 +4861,7 @@
     "id": "activities/act23side/level_act23side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "WB-3 行动后"
+      "zh_CN": "WB-3 树犹如此 行动后"
     },
     "zone": "act23side"
   },
@@ -4869,7 +4869,7 @@
     "id": "activities/act23side/level_act23side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "WB-4 行动前"
+      "zh_CN": "WB-4 不念往昔 行动前"
     },
     "zone": "act23side"
   },
@@ -4877,7 +4877,7 @@
     "id": "obt/main/level_main_00-02_end",
     "type": "Main",
     "name": {
-      "zh_CN": "0-2 行动后"
+      "zh_CN": "0-2 守卫 行动后"
     },
     "zone": "main_0"
   },
@@ -4885,7 +4885,7 @@
     "id": "obt/main/level_main_02-08_end",
     "type": "Main",
     "name": {
-      "zh_CN": "2-8 行动后"
+      "zh_CN": "2-8 不做约定 行动后"
     },
     "zone": "main_2"
   },
@@ -4893,7 +4893,7 @@
     "id": "activities/act23side/level_act23side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "WB-4 行动后"
+      "zh_CN": "WB-4 不念往昔 行动后"
     },
     "zone": "act23side"
   },
@@ -4901,7 +4901,7 @@
     "id": "activities/act23side/level_act23side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "WB-ST-2"
+      "zh_CN": "WB-ST-2 信我所信"
     },
     "zone": "act23side"
   },
@@ -4909,7 +4909,7 @@
     "id": "activities/act23side/level_act23side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "WB-5 行动前"
+      "zh_CN": "WB-5 风雨欲来 行动前"
     },
     "zone": "act23side"
   },
@@ -4917,7 +4917,7 @@
     "id": "activities/act23side/level_act23side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "WB-6 行动后"
+      "zh_CN": "WB-6 瑟瑟秋华 行动后"
     },
     "zone": "act23side"
   },
@@ -4925,7 +4925,7 @@
     "id": "activities/act23side/level_act23side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "WB-7 行动前"
+      "zh_CN": "WB-7 “屏风卫” 行动前"
     },
     "zone": "act23side"
   },
@@ -4933,7 +4933,7 @@
     "id": "activities/act23side/level_act23side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "WB-7 行动后"
+      "zh_CN": "WB-7 “屏风卫” 行动后"
     },
     "zone": "act23side"
   },
@@ -4941,7 +4941,7 @@
     "id": "activities/act23side/level_act23side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "WB-8 行动前"
+      "zh_CN": "WB-8 旷古之晤 行动前"
     },
     "zone": "act23side"
   },
@@ -4949,7 +4949,7 @@
     "id": "activities/act23side/level_act23side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "WB-8 行动后"
+      "zh_CN": "WB-8 旷古之晤 行动后"
     },
     "zone": "act23side"
   },
@@ -4957,7 +4957,7 @@
     "id": "activities/act23side/level_act23side_09_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "WB-9 行动前"
+      "zh_CN": "WB-9 “冬藏” 行动前"
     },
     "zone": "act23side"
   },
@@ -4965,7 +4965,7 @@
     "id": "activities/act23side/level_act23side_09_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "WB-9 行动后"
+      "zh_CN": "WB-9 “冬藏” 行动后"
     },
     "zone": "act23side"
   },
@@ -4973,7 +4973,7 @@
     "id": "obt/main/level_main_02-09_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "2-9 行动前"
+      "zh_CN": "2-9 操作暗箱 行动前"
     },
     "zone": "main_2"
   },
@@ -4981,7 +4981,7 @@
     "id": "activities/act23side/level_act23side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "WB-ST-3"
+      "zh_CN": "WB-ST-3 粘劫收后"
     },
     "zone": "act23side"
   },
@@ -4997,7 +4997,7 @@
     "id": "activities/act22side/level_act22side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "FC-ST-1"
+      "zh_CN": "FC-ST-1 荒地钟声"
     },
     "zone": "act22side"
   },
@@ -5005,7 +5005,7 @@
     "id": "activities/act22side/level_act22side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "FC-1 行动前"
+      "zh_CN": "FC-1 逃离与追逐 行动前"
     },
     "zone": "act22side"
   },
@@ -5013,7 +5013,7 @@
     "id": "activities/act22side/level_act22side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "FC-1 行动后"
+      "zh_CN": "FC-1 逃离与追逐 行动后"
     },
     "zone": "act22side"
   },
@@ -5021,7 +5021,7 @@
     "id": "activities/act22side/level_act22side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "FC-2 行动前"
+      "zh_CN": "FC-2 不幸重逢 行动前"
     },
     "zone": "act22side"
   },
@@ -5029,7 +5029,7 @@
     "id": "activities/act22side/level_act22side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "FC-2 行动后"
+      "zh_CN": "FC-2 不幸重逢 行动后"
     },
     "zone": "act22side"
   },
@@ -5037,7 +5037,7 @@
     "id": "activities/act22side/level_act22side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "FC-3 行动前"
+      "zh_CN": "FC-3 引燃草垛 行动前"
     },
     "zone": "act22side"
   },
@@ -5045,7 +5045,7 @@
     "id": "activities/act22side/level_act22side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "FC-3 行动后"
+      "zh_CN": "FC-3 引燃草垛 行动后"
     },
     "zone": "act22side"
   },
@@ -5053,7 +5053,7 @@
     "id": "activities/act22side/level_act22side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "FC-4 行动前"
+      "zh_CN": "FC-4 热灼梦 行动前"
     },
     "zone": "act22side"
   },
@@ -5061,7 +5061,7 @@
     "id": "obt/main/level_main_02-09_end",
     "type": "Main",
     "name": {
-      "zh_CN": "2-9 行动后"
+      "zh_CN": "2-9 操作暗箱 行动后"
     },
     "zone": "main_2"
   },
@@ -5069,7 +5069,7 @@
     "id": "activities/act22side/level_act22side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "FC-4 行动后"
+      "zh_CN": "FC-4 热灼梦 行动后"
     },
     "zone": "act22side"
   },
@@ -5077,7 +5077,7 @@
     "id": "activities/act22side/level_act22side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "FC-5 行动前"
+      "zh_CN": "FC-5 祝福的歌谣 行动前"
     },
     "zone": "act22side"
   },
@@ -5085,7 +5085,7 @@
     "id": "activities/act22side/level_act22side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "FC-5 行动后"
+      "zh_CN": "FC-5 祝福的歌谣 行动后"
     },
     "zone": "act22side"
   },
@@ -5093,7 +5093,7 @@
     "id": "activities/act22side/level_act22side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "FC-6 行动后"
+      "zh_CN": "FC-6 无人知晓 行动后"
     },
     "zone": "act22side"
   },
@@ -5101,7 +5101,7 @@
     "id": "activities/act22side/level_act22side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "FC-7 行动前"
+      "zh_CN": "FC-7 生灵火花 行动前"
     },
     "zone": "act22side"
   },
@@ -5109,7 +5109,7 @@
     "id": "activities/act22side/level_act22side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "FC-7 行动后"
+      "zh_CN": "FC-7 生灵火花 行动后"
     },
     "zone": "act22side"
   },
@@ -5117,7 +5117,7 @@
     "id": "activities/act22side/level_act22side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "FC-ST-2"
+      "zh_CN": "FC-ST-2 自灰烬之中"
     },
     "zone": "act22side"
   },
@@ -5125,7 +5125,7 @@
     "id": "activities/act22side/level_act22side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "FC-8 行动前"
+      "zh_CN": "FC-8 她的影子 行动前"
     },
     "zone": "act22side"
   },
@@ -5133,7 +5133,7 @@
     "id": "activities/act22side/level_act22side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "FC-8 行动后"
+      "zh_CN": "FC-8 她的影子 行动后"
     },
     "zone": "act22side"
   },
@@ -5141,7 +5141,7 @@
     "id": "activities/act22side/level_act22side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "FC-ST-3"
+      "zh_CN": "FC-ST-3 一声呜咽"
     },
     "zone": "act22side"
   },
@@ -5149,7 +5149,7 @@
     "id": "obt/main/level_main_02-10_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "2-10 行动前"
+      "zh_CN": "2-10 病入膏肓 行动前"
     },
     "zone": "main_2"
   },
@@ -5157,7 +5157,7 @@
     "id": "activities/act21side/level_act21side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-ST-1"
+      "zh_CN": "IS-ST-1 沉疴"
     },
     "zone": "act21side"
   },
@@ -5165,7 +5165,7 @@
     "id": "activities/act21side/level_act21side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-1 行动前"
+      "zh_CN": "IS-1 雨落无声 行动前"
     },
     "zone": "act21side"
   },
@@ -5173,7 +5173,7 @@
     "id": "activities/act21side/level_act21side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-1 行动后"
+      "zh_CN": "IS-1 雨落无声 行动后"
     },
     "zone": "act21side"
   },
@@ -5181,7 +5181,7 @@
     "id": "activities/act21side/level_act21side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-2 行动前"
+      "zh_CN": "IS-2 荣誉之人 行动前"
     },
     "zone": "act21side"
   },
@@ -5189,7 +5189,7 @@
     "id": "activities/act21side/level_act21side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-2 行动后"
+      "zh_CN": "IS-2 荣誉之人 行动后"
     },
     "zone": "act21side"
   },
@@ -5197,7 +5197,7 @@
     "id": "activities/act21side/level_act21side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-3 行动前"
+      "zh_CN": "IS-3 万箭所指 行动前"
     },
     "zone": "act21side"
   },
@@ -5205,7 +5205,7 @@
     "id": "activities/act21side/level_act21side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-3 行动后"
+      "zh_CN": "IS-3 万箭所指 行动后"
     },
     "zone": "act21side"
   },
@@ -5213,7 +5213,7 @@
     "id": "activities/act21side/level_act21side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-4 行动前"
+      "zh_CN": "IS-4 苦夜惊雷 行动前"
     },
     "zone": "act21side"
   },
@@ -5221,7 +5221,7 @@
     "id": "activities/act21side/level_act21side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-4 行动后"
+      "zh_CN": "IS-4 苦夜惊雷 行动后"
     },
     "zone": "act21side"
   },
@@ -5229,7 +5229,7 @@
     "id": "activities/act21side/level_act21side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-ST-2"
+      "zh_CN": "IS-ST-2 切开"
     },
     "zone": "act21side"
   },
@@ -5237,7 +5237,7 @@
     "id": "obt/main/level_main_02-10_end",
     "type": "Main",
     "name": {
-      "zh_CN": "2-10 行动后"
+      "zh_CN": "2-10 病入膏肓 行动后"
     },
     "zone": "main_2"
   },
@@ -5245,7 +5245,7 @@
     "id": "activities/act21side/level_act21side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-5 行动前"
+      "zh_CN": "IS-5 恒久法则 行动前"
     },
     "zone": "act21side"
   },
@@ -5253,7 +5253,7 @@
     "id": "activities/act21side/level_act21side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-5 行动后"
+      "zh_CN": "IS-5 恒久法则 行动后"
     },
     "zone": "act21side"
   },
@@ -5261,7 +5261,7 @@
     "id": "activities/act21side/level_act21side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-6 行动前"
+      "zh_CN": "IS-6 旧日碾轧 行动前"
     },
     "zone": "act21side"
   },
@@ -5269,7 +5269,7 @@
     "id": "activities/act21side/level_act21side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-6 行动后"
+      "zh_CN": "IS-6 旧日碾轧 行动后"
     },
     "zone": "act21side"
   },
@@ -5277,7 +5277,7 @@
     "id": "activities/act21side/level_act21side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-7 行动前"
+      "zh_CN": "IS-7 何以忘却 行动前"
     },
     "zone": "act21side"
   },
@@ -5285,7 +5285,7 @@
     "id": "activities/act21side/level_act21side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-7 行动后"
+      "zh_CN": "IS-7 何以忘却 行动后"
     },
     "zone": "act21side"
   },
@@ -5293,7 +5293,7 @@
     "id": "activities/act21side/level_act21side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-8 行动前"
+      "zh_CN": "IS-8 危如累卵 行动前"
     },
     "zone": "act21side"
   },
@@ -5301,7 +5301,7 @@
     "id": "activities/act21side/level_act21side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-8 行动后"
+      "zh_CN": "IS-8 危如累卵 行动后"
     },
     "zone": "act21side"
   },
@@ -5309,7 +5309,7 @@
     "id": "activities/act21side/level_act21side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-ST-3"
+      "zh_CN": "IS-ST-3 剜刺"
     },
     "zone": "act21side"
   },
@@ -5317,7 +5317,7 @@
     "id": "activities/act21side/level_act21side_09_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-9 行动前"
+      "zh_CN": "IS-9 文明的谎言 行动前"
     },
     "zone": "act21side"
   },
@@ -5325,7 +5325,7 @@
     "id": "obt/main/level_main_03-01_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "3-1 行动前"
+      "zh_CN": "3-1 会合 行动前"
     },
     "zone": "main_3"
   },
@@ -5333,7 +5333,7 @@
     "id": "activities/act21side/level_act21side_09_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-9 行动后"
+      "zh_CN": "IS-9 文明的谎言 行动后"
     },
     "zone": "act21side"
   },
@@ -5341,7 +5341,7 @@
     "id": "activities/act21side/level_act21side_10_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-10 行动前"
+      "zh_CN": "IS-10 “狼之主” 行动前"
     },
     "zone": "act21side"
   },
@@ -5349,7 +5349,7 @@
     "id": "activities/act21side/level_act21side_10_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-10 行动后"
+      "zh_CN": "IS-10 “狼之主” 行动后"
     },
     "zone": "act21side"
   },
@@ -5357,7 +5357,7 @@
     "id": "activities/act21side/level_act21side_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "IS-ST-4"
+      "zh_CN": "IS-ST-4 缝合"
     },
     "zone": "act21side"
   },
@@ -5423,7 +5423,7 @@
     "id": "obt/main/level_main_03-01_end",
     "type": "Main",
     "name": {
-      "zh_CN": "3-1 行动后"
+      "zh_CN": "3-1 会合 行动后"
     },
     "zone": "main_3"
   },
@@ -5511,7 +5511,7 @@
     "id": "activities/act20side/level_act20side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "IC-ST-1"
+      "zh_CN": "IC-ST-1 旅行前夕"
     },
     "zone": "act20side"
   },
@@ -5519,7 +5519,7 @@
     "id": "activities/act20side/level_act20side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IC-1 行动前"
+      "zh_CN": "IC-1 沉浸式游览 行动前"
     },
     "zone": "act20side"
   },
@@ -5527,7 +5527,7 @@
     "id": "obt/main/level_main_03-02_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "3-2 行动前"
+      "zh_CN": "3-2 记忆 行动前"
     },
     "zone": "main_3"
   },
@@ -5535,7 +5535,7 @@
     "id": "activities/act20side/level_act20side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IC-1 行动后"
+      "zh_CN": "IC-1 沉浸式游览 行动后"
     },
     "zone": "act20side"
   },
@@ -5543,7 +5543,7 @@
     "id": "activities/act20side/level_act20side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IC-2 行动前"
+      "zh_CN": "IC-2 下坠 行动前"
     },
     "zone": "act20side"
   },
@@ -5551,7 +5551,7 @@
     "id": "activities/act20side/level_act20side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IC-2 行动后"
+      "zh_CN": "IC-2 下坠 行动后"
     },
     "zone": "act20side"
   },
@@ -5559,7 +5559,7 @@
     "id": "activities/act20side/level_act20side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IC-3 行动前"
+      "zh_CN": "IC-3 奇谈怪论 行动前"
     },
     "zone": "act20side"
   },
@@ -5567,7 +5567,7 @@
     "id": "activities/act20side/level_act20side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IC-3 行动后"
+      "zh_CN": "IC-3 奇谈怪论 行动后"
     },
     "zone": "act20side"
   },
@@ -5575,7 +5575,7 @@
     "id": "activities/act20side/level_act20side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IC-4 行动前"
+      "zh_CN": "IC-4 “大水坑” 行动前"
     },
     "zone": "act20side"
   },
@@ -5583,7 +5583,7 @@
     "id": "activities/act20side/level_act20side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IC-4 行动后"
+      "zh_CN": "IC-4 “大水坑” 行动后"
     },
     "zone": "act20side"
   },
@@ -5591,7 +5591,7 @@
     "id": "activities/act20side/level_act20side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IC-5 行动前"
+      "zh_CN": "IC-5 加速冲线 行动前"
     },
     "zone": "act20side"
   },
@@ -5599,7 +5599,7 @@
     "id": "activities/act20side/level_act20side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IC-5 行动后"
+      "zh_CN": "IC-5 加速冲线 行动后"
     },
     "zone": "act20side"
   },
@@ -5607,7 +5607,7 @@
     "id": "activities/act20side/level_act20side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IC-6 行动前"
+      "zh_CN": "IC-6 战逃反应 行动前"
     },
     "zone": "act20side"
   },
@@ -5615,7 +5615,7 @@
     "id": "obt/main/level_main_03-02_end",
     "type": "Main",
     "name": {
-      "zh_CN": "3-2 行动后"
+      "zh_CN": "3-2 记忆 行动后"
     },
     "zone": "main_3"
   },
@@ -5623,7 +5623,7 @@
     "id": "activities/act20side/level_act20side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IC-6 行动后"
+      "zh_CN": "IC-6 战逃反应 行动后"
     },
     "zone": "act20side"
   },
@@ -5631,7 +5631,7 @@
     "id": "activities/act20side/level_act20side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IC-7 行动前"
+      "zh_CN": "IC-7 生活之道 行动前"
     },
     "zone": "act20side"
   },
@@ -5639,7 +5639,7 @@
     "id": "activities/act20side/level_act20side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IC-7 行动后"
+      "zh_CN": "IC-7 生活之道 行动后"
     },
     "zone": "act20side"
   },
@@ -5647,7 +5647,7 @@
     "id": "activities/act20side/level_act20side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IC-8 行动前"
+      "zh_CN": "IC-8 金属气味 行动前"
     },
     "zone": "act20side"
   },
@@ -5655,7 +5655,7 @@
     "id": "activities/act20side/level_act20side_09_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IC-9 行动后"
+      "zh_CN": "IC-9 穹顶之上 行动后"
     },
     "zone": "act20side"
   },
@@ -5663,7 +5663,7 @@
     "id": "activities/act20side/level_act20side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "IC-ST-2"
+      "zh_CN": "IC-ST-2 失乐园"
     },
     "zone": "act20side"
   },
@@ -5709,7 +5709,7 @@
     "id": "obt/main/level_main_03-03_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "3-3 行动前"
+      "zh_CN": "3-3 回旋 行动前"
     },
     "zone": "main_3"
   },
@@ -5747,7 +5747,7 @@
     "id": "activities/act19side/level_act19side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "DV-ST-1"
+      "zh_CN": "DV-ST-1 逆行"
     },
     "zone": "act19side"
   },
@@ -5755,7 +5755,7 @@
     "id": "activities/act19side/level_act19side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "DV-1 行动前"
+      "zh_CN": "DV-1 特里蒙街道 行动前"
     },
     "zone": "act19side"
   },
@@ -5763,7 +5763,7 @@
     "id": "activities/act19side/level_act19side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DV-1 行动后"
+      "zh_CN": "DV-1 特里蒙街道 行动后"
     },
     "zone": "act19side"
   },
@@ -5771,7 +5771,7 @@
     "id": "activities/act19side/level_act19side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "DV-2 行动前"
+      "zh_CN": "DV-2 拓荒者小屋 行动前"
     },
     "zone": "act19side"
   },
@@ -5779,7 +5779,7 @@
     "id": "activities/act19side/level_act19side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DV-2 行动后"
+      "zh_CN": "DV-2 拓荒者小屋 行动后"
     },
     "zone": "act19side"
   },
@@ -5787,7 +5787,7 @@
     "id": "activities/act19side/level_act19side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "DV-3 行动前"
+      "zh_CN": "DV-3 动力装甲 行动前"
     },
     "zone": "act19side"
   },
@@ -5795,7 +5795,7 @@
     "id": "activities/act19side/level_act19side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DV-3 行动后"
+      "zh_CN": "DV-3 动力装甲 行动后"
     },
     "zone": "act19side"
   },
@@ -5803,7 +5803,7 @@
     "id": "obt/main/level_main_00-04_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "0-4 行动前"
+      "zh_CN": "0-4 混战 行动前"
     },
     "zone": "main_0"
   },
@@ -5811,7 +5811,7 @@
     "id": "obt/main/level_main_03-03_end",
     "type": "Main",
     "name": {
-      "zh_CN": "3-3 行动后"
+      "zh_CN": "3-3 回旋 行动后"
     },
     "zone": "main_3"
   },
@@ -5819,7 +5819,7 @@
     "id": "activities/act19side/level_act19side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "DV-4 行动前"
+      "zh_CN": "DV-4 无人的小巷 行动前"
     },
     "zone": "act19side"
   },
@@ -5827,7 +5827,7 @@
     "id": "activities/act19side/level_act19side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DV-4 行动后"
+      "zh_CN": "DV-4 无人的小巷 行动后"
     },
     "zone": "act19side"
   },
@@ -5835,7 +5835,7 @@
     "id": "activities/act19side/level_act19side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "DV-5 行动前"
+      "zh_CN": "DV-5 多萝西的承诺 行动前"
     },
     "zone": "act19side"
   },
@@ -5843,7 +5843,7 @@
     "id": "activities/act19side/level_act19side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DV-5 行动后"
+      "zh_CN": "DV-5 多萝西的承诺 行动后"
     },
     "zone": "act19side"
   },
@@ -5851,7 +5851,7 @@
     "id": "activities/act19side/level_act19side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "DV-6 行动前"
+      "zh_CN": "DV-6 挣脱美梦 行动前"
     },
     "zone": "act19side"
   },
@@ -5859,7 +5859,7 @@
     "id": "activities/act19side/level_act19side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DV-6 行动后"
+      "zh_CN": "DV-6 挣脱美梦 行动后"
     },
     "zone": "act19side"
   },
@@ -5867,7 +5867,7 @@
     "id": "activities/act19side/level_act19side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "DV-7 行动前"
+      "zh_CN": "DV-7 疯狂的信号 行动前"
     },
     "zone": "act19side"
   },
@@ -5875,7 +5875,7 @@
     "id": "activities/act19side/level_act19side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DV-7 行动后"
+      "zh_CN": "DV-7 疯狂的信号 行动后"
     },
     "zone": "act19side"
   },
@@ -5883,7 +5883,7 @@
     "id": "activities/act19side/level_act19side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "DV-8 行动前"
+      "zh_CN": "DV-8 连接内心 行动前"
     },
     "zone": "act19side"
   },
@@ -5891,7 +5891,7 @@
     "id": "activities/act19side/level_act19side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DV-8 行动后"
+      "zh_CN": "DV-8 连接内心 行动后"
     },
     "zone": "act19side"
   },
@@ -5899,7 +5899,7 @@
     "id": "obt/main/level_main_03-04_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "3-4 行动前"
+      "zh_CN": "3-4 龟裂 行动前"
     },
     "zone": "main_3"
   },
@@ -5907,7 +5907,7 @@
     "id": "activities/act19side/level_act19side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "DV-ST-2"
+      "zh_CN": "DV-ST-2 启程"
     },
     "zone": "act19side"
   },
@@ -5915,7 +5915,7 @@
     "id": "activities/act18side/level_act18side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "LE-ST-1"
+      "zh_CN": "LE-ST-1 华丽大圆舞曲"
     },
     "zone": "act18side"
   },
@@ -5923,7 +5923,7 @@
     "id": "activities/act18side/level_act18side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "LE-1 行动前"
+      "zh_CN": "LE-1 闲聊波尔卡 行动前"
     },
     "zone": "act18side"
   },
@@ -5931,7 +5931,7 @@
     "id": "activities/act18side/level_act18side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "LE-1 行动后"
+      "zh_CN": "LE-1 闲聊波尔卡 行动后"
     },
     "zone": "act18side"
   },
@@ -5939,7 +5939,7 @@
     "id": "activities/act18side/level_act18side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "LE-2 行动前"
+      "zh_CN": "LE-2 热情，或悲怆 行动前"
     },
     "zone": "act18side"
   },
@@ -5947,7 +5947,7 @@
     "id": "activities/act18side/level_act18side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "LE-2 行动后"
+      "zh_CN": "LE-2 热情，或悲怆 行动后"
     },
     "zone": "act18side"
   },
@@ -5955,7 +5955,7 @@
     "id": "activities/act18side/level_act18side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "LE-3 行动前"
+      "zh_CN": "LE-3 自由射手 行动前"
     },
     "zone": "act18side"
   },
@@ -5963,7 +5963,7 @@
     "id": "activities/act18side/level_act18side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "LE-3 行动后"
+      "zh_CN": "LE-3 自由射手 行动后"
     },
     "zone": "act18side"
   },
@@ -5971,7 +5971,7 @@
     "id": "activities/act18side/level_act18side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "LE-4 行动前"
+      "zh_CN": "LE-4 惊愕 行动前"
     },
     "zone": "act18side"
   },
@@ -5979,7 +5979,7 @@
     "id": "activities/act18side/level_act18side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "LE-4 行动后"
+      "zh_CN": "LE-4 惊愕 行动后"
     },
     "zone": "act18side"
   },
@@ -5987,7 +5987,7 @@
     "id": "obt/main/level_main_03-04_end",
     "type": "Main",
     "name": {
-      "zh_CN": "3-4 行动后"
+      "zh_CN": "3-4 龟裂 行动后"
     },
     "zone": "main_3"
   },
@@ -5995,7 +5995,7 @@
     "id": "activities/act18side/level_act18side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "LE-ST-2"
+      "zh_CN": "LE-ST-2 春之祭"
     },
     "zone": "act18side"
   },
@@ -6003,7 +6003,7 @@
     "id": "activities/act18side/level_act18side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "LE-5 行动前"
+      "zh_CN": "LE-5 月光 行动前"
     },
     "zone": "act18side"
   },
@@ -6011,7 +6011,7 @@
     "id": "activities/act18side/level_act18side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "LE-5 行动后"
+      "zh_CN": "LE-5 月光 行动后"
     },
     "zone": "act18side"
   },
@@ -6019,7 +6019,7 @@
     "id": "activities/act18side/level_act18side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "LE-6 行动前"
+      "zh_CN": "LE-6 骷髅之舞 行动前"
     },
     "zone": "act18side"
   },
@@ -6027,7 +6027,7 @@
     "id": "activities/act18side/level_act18side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "LE-6 行动后"
+      "zh_CN": "LE-6 骷髅之舞 行动后"
     },
     "zone": "act18side"
   },
@@ -6035,7 +6035,7 @@
     "id": "activities/act18side/level_act18side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "LE-7 行动前"
+      "zh_CN": "LE-7 升华之夜 行动前"
     },
     "zone": "act18side"
   },
@@ -6043,7 +6043,7 @@
     "id": "activities/act18side/level_act18side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "LE-7 行动后"
+      "zh_CN": "LE-7 升华之夜 行动后"
     },
     "zone": "act18side"
   },
@@ -6051,7 +6051,7 @@
     "id": "activities/act18side/level_act18side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "LE-8 行动前"
+      "zh_CN": "LE-8 命运 行动前"
     },
     "zone": "act18side"
   },
@@ -6059,7 +6059,7 @@
     "id": "activities/act18side/level_act18side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "LE-8 行动后"
+      "zh_CN": "LE-8 命运 行动后"
     },
     "zone": "act18side"
   },
@@ -6067,7 +6067,7 @@
     "id": "activities/act18side/level_act18side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "LE-ST-3"
+      "zh_CN": "LE-ST-3 自新大陆"
     },
     "zone": "act18side"
   },
@@ -6075,7 +6075,7 @@
     "id": "obt/main/level_main_03-05_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "3-5 行动前"
+      "zh_CN": "3-5 呼叫 行动前"
     },
     "zone": "main_3"
   },
@@ -6083,7 +6083,7 @@
     "id": "activities/act17side/level_act17side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-ST-1"
+      "zh_CN": "SN-ST-1 古井"
     },
     "zone": "act17side"
   },
@@ -6091,7 +6091,7 @@
     "id": "activities/act17side/level_act17side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-1 行动前"
+      "zh_CN": "SN-1 中心广场 行动前"
     },
     "zone": "act17side"
   },
@@ -6099,7 +6099,7 @@
     "id": "activities/act17side/level_act17side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-1 行动后"
+      "zh_CN": "SN-1 中心广场 行动后"
     },
     "zone": "act17side"
   },
@@ -6107,7 +6107,7 @@
     "id": "activities/act17side/level_act17side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-ST-2"
+      "zh_CN": "SN-ST-2 海滨小道"
     },
     "zone": "act17side"
   },
@@ -6115,7 +6115,7 @@
     "id": "activities/act17side/level_act17side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-2 行动后"
+      "zh_CN": "SN-2 广场南路 行动后"
     },
     "zone": "act17side"
   },
@@ -6123,7 +6123,7 @@
     "id": "activities/act17side/level_act17side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-ST-3"
+      "zh_CN": "SN-ST-3 空旷的大街"
     },
     "zone": "act17side"
   },
@@ -6131,7 +6131,7 @@
     "id": "activities/act17side/level_act17side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-3 行动后"
+      "zh_CN": "SN-3 安静的步道 行动后"
     },
     "zone": "act17side"
   },
@@ -6139,7 +6139,7 @@
     "id": "activities/act17side/level_act17side_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-ST-4"
+      "zh_CN": "SN-ST-4 临海长街"
     },
     "zone": "act17side"
   },
@@ -6147,7 +6147,7 @@
     "id": "activities/act17side/level_act17side_st05",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-ST-5"
+      "zh_CN": "SN-ST-5 登陆点"
     },
     "zone": "act17side"
   },
@@ -6155,7 +6155,7 @@
     "id": "activities/act17side/level_act17side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-4 行动后"
+      "zh_CN": "SN-4 灯塔入口 行动后"
     },
     "zone": "act17side"
   },
@@ -6163,7 +6163,7 @@
     "id": "obt/main/level_main_03-05_end",
     "type": "Main",
     "name": {
-      "zh_CN": "3-5 行动后"
+      "zh_CN": "3-5 呼叫 行动后"
     },
     "zone": "main_3"
   },
@@ -6171,7 +6171,7 @@
     "id": "activities/act17side/level_act17side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-5 行动前"
+      "zh_CN": "SN-5 灯塔控制室 行动前"
     },
     "zone": "act17side"
   },
@@ -6179,7 +6179,7 @@
     "id": "activities/act17side/level_act17side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-5 行动后"
+      "zh_CN": "SN-5 灯塔控制室 行动后"
     },
     "zone": "act17side"
   },
@@ -6187,7 +6187,7 @@
     "id": "activities/act17side/level_act17side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-6 行动前"
+      "zh_CN": "SN-6 中央通道 行动前"
     },
     "zone": "act17side"
   },
@@ -6195,7 +6195,7 @@
     "id": "activities/act17side/level_act17side_st06",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-ST-6"
+      "zh_CN": "SN-ST-6 下层大厅"
     },
     "zone": "act17side"
   },
@@ -6203,7 +6203,7 @@
     "id": "activities/act17side/level_act17side_st07",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-ST-7"
+      "zh_CN": "SN-ST-7 宴会厅"
     },
     "zone": "act17side"
   },
@@ -6211,7 +6211,7 @@
     "id": "activities/act17side/level_act17side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-7 行动后"
+      "zh_CN": "SN-7 黄金回廊 行动后"
     },
     "zone": "act17side"
   },
@@ -6219,7 +6219,7 @@
     "id": "activities/act17side/level_act17side_st08",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-ST-8"
+      "zh_CN": "SN-ST-8 指挥大厅"
     },
     "zone": "act17side"
   },
@@ -6227,7 +6227,7 @@
     "id": "activities/act17side/level_act17side_st09",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-ST-9"
+      "zh_CN": "SN-ST-9 主舰桥"
     },
     "zone": "act17side"
   },
@@ -6235,7 +6235,7 @@
     "id": "activities/act17side/level_act17side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-8 行动后"
+      "zh_CN": "SN-8 观测所 行动后"
     },
     "zone": "act17side"
   },
@@ -6243,7 +6243,7 @@
     "id": "activities/act17side/level_act17side_st10",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-ST-10"
+      "zh_CN": "SN-ST-10 甲板室"
     },
     "zone": "act17side"
   },
@@ -6251,7 +6251,7 @@
     "id": "obt/main/level_main_03-06_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "3-6 行动前"
+      "zh_CN": "3-6 决定 行动前"
     },
     "zone": "main_3"
   },
@@ -6259,7 +6259,7 @@
     "id": "activities/act17side/level_act17side_st11",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-ST-11"
+      "zh_CN": "SN-ST-11 主桅杆"
     },
     "zone": "act17side"
   },
@@ -6267,7 +6267,7 @@
     "id": "activities/act17side/level_act17side_10_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-10 行动前"
+      "zh_CN": "SN-10 礼仪广场 行动前"
     },
     "zone": "act17side"
   },
@@ -6275,7 +6275,7 @@
     "id": "activities/act17side/level_act17side_10_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-10 行动后"
+      "zh_CN": "SN-10 礼仪广场 行动后"
     },
     "zone": "act17side"
   },
@@ -6283,7 +6283,7 @@
     "id": "activities/act17side/level_act17side_st12",
     "type": "Activity",
     "name": {
-      "zh_CN": "SN-ST-12"
+      "zh_CN": "SN-ST-12 格兰法洛"
     },
     "zone": "act17side"
   },
@@ -6315,7 +6315,7 @@
     "id": "activities/act16side/level_act16side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "GA-ST-1"
+      "zh_CN": "GA-ST-1 风云际会"
     },
     "zone": "act16side"
   },
@@ -6323,7 +6323,7 @@
     "id": "activities/act16side/level_act16side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "GA-1 行动前"
+      "zh_CN": "GA-1 灯下黑 行动前"
     },
     "zone": "act16side"
   },
@@ -6331,7 +6331,7 @@
     "id": "activities/act16side/level_act16side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "GA-1 行动后"
+      "zh_CN": "GA-1 灯下黑 行动后"
     },
     "zone": "act16side"
   },
@@ -6339,7 +6339,7 @@
     "id": "obt/main/level_main_03-06_end",
     "type": "Main",
     "name": {
-      "zh_CN": "3-6 行动后"
+      "zh_CN": "3-6 决定 行动后"
     },
     "zone": "main_3"
   },
@@ -6347,7 +6347,7 @@
     "id": "activities/act16side/level_act16side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "GA-2 行动前"
+      "zh_CN": "GA-2 散步时光 行动前"
     },
     "zone": "act16side"
   },
@@ -6355,7 +6355,7 @@
     "id": "activities/act16side/level_act16side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "GA-2 行动后"
+      "zh_CN": "GA-2 散步时光 行动后"
     },
     "zone": "act16side"
   },
@@ -6363,7 +6363,7 @@
     "id": "activities/act16side/level_act16side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "GA-3 行动前"
+      "zh_CN": "GA-3 混血儿 行动前"
     },
     "zone": "act16side"
   },
@@ -6371,7 +6371,7 @@
     "id": "activities/act16side/level_act16side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "GA-3 行动后"
+      "zh_CN": "GA-3 混血儿 行动后"
     },
     "zone": "act16side"
   },
@@ -6379,7 +6379,7 @@
     "id": "activities/act16side/level_act16side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "GA-4 行动前"
+      "zh_CN": "GA-4 安魂教堂 行动前"
     },
     "zone": "act16side"
   },
@@ -6387,7 +6387,7 @@
     "id": "activities/act16side/level_act16side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "GA-4 行动后"
+      "zh_CN": "GA-4 安魂教堂 行动后"
     },
     "zone": "act16side"
   },
@@ -6395,7 +6395,7 @@
     "id": "activities/act16side/level_act16side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "GA-5 行动前"
+      "zh_CN": "GA-5 葬礼 行动前"
     },
     "zone": "act16side"
   },
@@ -6403,7 +6403,7 @@
     "id": "activities/act16side/level_act16side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "GA-5 行动后"
+      "zh_CN": "GA-5 葬礼 行动后"
     },
     "zone": "act16side"
   },
@@ -6411,7 +6411,7 @@
     "id": "activities/act16side/level_act16side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "GA-6 行动前"
+      "zh_CN": "GA-6 安魂曲 行动前"
     },
     "zone": "act16side"
   },
@@ -6419,7 +6419,7 @@
     "id": "activities/act16side/level_act16side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "GA-6 行动后"
+      "zh_CN": "GA-6 安魂曲 行动后"
     },
     "zone": "act16side"
   },
@@ -6427,7 +6427,7 @@
     "id": "obt/main/level_main_03-07_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "3-7 行动前"
+      "zh_CN": "3-7 轰鸣 行动前"
     },
     "zone": "main_3"
   },
@@ -6435,7 +6435,7 @@
     "id": "activities/act16side/level_act16side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "GA-7 行动前"
+      "zh_CN": "GA-7 光与影 行动前"
     },
     "zone": "act16side"
   },
@@ -6443,7 +6443,7 @@
     "id": "activities/act16side/level_act16side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "GA-7 行动后"
+      "zh_CN": "GA-7 光与影 行动后"
     },
     "zone": "act16side"
   },
@@ -6451,7 +6451,7 @@
     "id": "activities/act16side/level_act16side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "GA-8 行动前"
+      "zh_CN": "GA-8 影与灰 行动前"
     },
     "zone": "act16side"
   },
@@ -6459,7 +6459,7 @@
     "id": "activities/act16side/level_act16side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "GA-8 行动后"
+      "zh_CN": "GA-8 影与灰 行动后"
     },
     "zone": "act16side"
   },
@@ -6467,7 +6467,7 @@
     "id": "activities/act16side/level_act16side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "GA-ST-2"
+      "zh_CN": "GA-ST-2 鸢尾花"
     },
     "zone": "act16side"
   },
@@ -6525,7 +6525,7 @@
     "id": "obt/main/level_main_03-07_end",
     "type": "Main",
     "name": {
-      "zh_CN": "3-7 行动后"
+      "zh_CN": "3-7 轰鸣 行动后"
     },
     "zone": "main_3"
   },
@@ -6543,7 +6543,7 @@
     "id": "activities/act15side/level_act15side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "IW-ST-1"
+      "zh_CN": "IW-ST-1 客将至"
     },
     "zone": "act15side"
   },
@@ -6551,7 +6551,7 @@
     "id": "activities/act15side/level_act15side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IW-1 行动前"
+      "zh_CN": "IW-1 化物 行动前"
     },
     "zone": "act15side"
   },
@@ -6559,7 +6559,7 @@
     "id": "activities/act15side/level_act15side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IW-1 行动后"
+      "zh_CN": "IW-1 化物 行动后"
     },
     "zone": "act15side"
   },
@@ -6567,7 +6567,7 @@
     "id": "activities/act15side/level_act15side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IW-2 行动前"
+      "zh_CN": "IW-2 无寻处 行动前"
     },
     "zone": "act15side"
   },
@@ -6575,7 +6575,7 @@
     "id": "activities/act15side/level_act15side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IW-2 行动后"
+      "zh_CN": "IW-2 无寻处 行动后"
     },
     "zone": "act15side"
   },
@@ -6583,7 +6583,7 @@
     "id": "activities/act15side/level_act15side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IW-3 行动前"
+      "zh_CN": "IW-3 光与影 行动前"
     },
     "zone": "act15side"
   },
@@ -6591,7 +6591,7 @@
     "id": "activities/act15side/level_act15side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IW-3 行动后"
+      "zh_CN": "IW-3 光与影 行动后"
     },
     "zone": "act15side"
   },
@@ -6599,7 +6599,7 @@
     "id": "activities/act15side/level_act15side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IW-4 行动前"
+      "zh_CN": "IW-4 秉烛 行动前"
     },
     "zone": "act15side"
   },
@@ -6607,7 +6607,7 @@
     "id": "activities/act15side/level_act15side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IW-4 行动后"
+      "zh_CN": "IW-4 秉烛 行动后"
     },
     "zone": "act15side"
   },
@@ -6615,7 +6615,7 @@
     "id": "obt/main/level_main_03-08_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "3-8 行动前"
+      "zh_CN": "3-8 黄昏 行动前"
     },
     "zone": "main_3"
   },
@@ -6623,7 +6623,7 @@
     "id": "activities/act15side/level_act15side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "IW-ST-2"
+      "zh_CN": "IW-ST-2 万物有灵"
     },
     "zone": "act15side"
   },
@@ -6631,7 +6631,7 @@
     "id": "activities/act15side/level_act15side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IW-5 行动前"
+      "zh_CN": "IW-5 货与人 行动前"
     },
     "zone": "act15side"
   },
@@ -6639,7 +6639,7 @@
     "id": "activities/act15side/level_act15side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IW-5 行动后"
+      "zh_CN": "IW-5 货与人 行动后"
     },
     "zone": "act15side"
   },
@@ -6647,7 +6647,7 @@
     "id": "activities/act15side/level_act15side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IW-6 行动前"
+      "zh_CN": "IW-6 传说 行动前"
     },
     "zone": "act15side"
   },
@@ -6655,7 +6655,7 @@
     "id": "activities/act15side/level_act15side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IW-6 行动后"
+      "zh_CN": "IW-6 传说 行动后"
     },
     "zone": "act15side"
   },
@@ -6663,7 +6663,7 @@
     "id": "activities/act15side/level_act15side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IW-7 行动前"
+      "zh_CN": "IW-7 乱局 行动前"
     },
     "zone": "act15side"
   },
@@ -6671,7 +6671,7 @@
     "id": "activities/act15side/level_act15side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IW-7 行动后"
+      "zh_CN": "IW-7 乱局 行动后"
     },
     "zone": "act15side"
   },
@@ -6679,7 +6679,7 @@
     "id": "activities/act15side/level_act15side_09_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "IW-9 行动前"
+      "zh_CN": "IW-9 岁相 行动前"
     },
     "zone": "act15side"
   },
@@ -6687,7 +6687,7 @@
     "id": "activities/act15side/level_act15side_09_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "IW-9 行动后"
+      "zh_CN": "IW-9 岁相 行动后"
     },
     "zone": "act15side"
   },
@@ -6695,7 +6695,7 @@
     "id": "activities/act15side/level_act15side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "IW-ST-3"
+      "zh_CN": "IW-ST-3 再弈"
     },
     "zone": "act15side"
   },
@@ -6703,7 +6703,7 @@
     "id": "obt/main/level_main_00-06_end",
     "type": "Main",
     "name": {
-      "zh_CN": "0-6 行动后"
+      "zh_CN": "0-6 强击 行动后"
     },
     "zone": "main_0"
   },
@@ -6711,7 +6711,7 @@
     "id": "obt/main/level_main_03-08_end",
     "type": "Main",
     "name": {
-      "zh_CN": "3-8 行动后"
+      "zh_CN": "3-8 黄昏 行动后"
     },
     "zone": "main_3"
   },
@@ -6727,7 +6727,7 @@
     "id": "activities/act14side/level_act14side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "BI-1 行动前"
+      "zh_CN": "BI-1 不欢而聚 行动前"
     },
     "zone": "act14side"
   },
@@ -6735,7 +6735,7 @@
     "id": "activities/act14side/level_act14side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "BI-1 行动后"
+      "zh_CN": "BI-1 不欢而聚 行动后"
     },
     "zone": "act14side"
   },
@@ -6743,7 +6743,7 @@
     "id": "activities/act14side/level_act14side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "BI-ST-1"
+      "zh_CN": "BI-ST-1 入乡随俗"
     },
     "zone": "act14side"
   },
@@ -6751,7 +6751,7 @@
     "id": "activities/act14side/level_act14side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "BI-2 行动前"
+      "zh_CN": "BI-2 息事宁人 行动前"
     },
     "zone": "act14side"
   },
@@ -6759,7 +6759,7 @@
     "id": "activities/act14side/level_act14side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "BI-2 行动后"
+      "zh_CN": "BI-2 息事宁人 行动后"
     },
     "zone": "act14side"
   },
@@ -6767,7 +6767,7 @@
     "id": "activities/act14side/level_act14side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "BI-3 行动前"
+      "zh_CN": "BI-3 人心难测 行动前"
     },
     "zone": "act14side"
   },
@@ -6775,7 +6775,7 @@
     "id": "activities/act14side/level_act14side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "BI-3 行动后"
+      "zh_CN": "BI-3 人心难测 行动后"
     },
     "zone": "act14side"
   },
@@ -6783,7 +6783,7 @@
     "id": "activities/act14side/level_act14side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "BI-ST-2"
+      "zh_CN": "BI-ST-2 山雪欲来"
     },
     "zone": "act14side"
   },
@@ -6791,7 +6791,7 @@
     "id": "activities/act14side/level_act14side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "BI-4 行动前"
+      "zh_CN": "BI-4 立雪求道 行动前"
     },
     "zone": "act14side"
   },
@@ -6799,7 +6799,7 @@
     "id": "obt/main/level_main_04-01_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "4-1 行动前"
+      "zh_CN": "4-1 免费拥抱 行动前"
     },
     "zone": "main_4"
   },
@@ -6807,7 +6807,7 @@
     "id": "activities/act14side/level_act14side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "BI-4 行动后"
+      "zh_CN": "BI-4 立雪求道 行动后"
     },
     "zone": "act14side"
   },
@@ -6815,7 +6815,7 @@
     "id": "activities/act14side/level_act14side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "BI-5 行动前"
+      "zh_CN": "BI-5 猎场 行动前"
     },
     "zone": "act14side"
   },
@@ -6823,7 +6823,7 @@
     "id": "activities/act14side/level_act14side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "BI-5 行动后"
+      "zh_CN": "BI-5 猎场 行动后"
     },
     "zone": "act14side"
   },
@@ -6831,7 +6831,7 @@
     "id": "activities/act14side/level_act14side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "BI-ST-3"
+      "zh_CN": "BI-ST-3 一着不慎"
     },
     "zone": "act14side"
   },
@@ -6839,7 +6839,7 @@
     "id": "activities/act14side/level_act14side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "BI-6 行动前"
+      "zh_CN": "BI-6 歧路 行动前"
     },
     "zone": "act14side"
   },
@@ -6847,7 +6847,7 @@
     "id": "activities/act14side/level_act14side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "BI-6 行动后"
+      "zh_CN": "BI-6 歧路 行动后"
     },
     "zone": "act14side"
   },
@@ -6855,7 +6855,7 @@
     "id": "activities/act14side/level_act14side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "BI-7 行动前"
+      "zh_CN": "BI-7 破冰 行动前"
     },
     "zone": "act14side"
   },
@@ -6863,7 +6863,7 @@
     "id": "activities/act14side/level_act14side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "BI-7 行动后"
+      "zh_CN": "BI-7 破冰 行动后"
     },
     "zone": "act14side"
   },
@@ -6871,7 +6871,7 @@
     "id": "activities/act14side/level_act14side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "BI-8 行动前"
+      "zh_CN": "BI-8 将军 行动前"
     },
     "zone": "act14side"
   },
@@ -6879,7 +6879,7 @@
     "id": "activities/act14side/level_act14side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "BI-8 行动后"
+      "zh_CN": "BI-8 将军 行动后"
     },
     "zone": "act14side"
   },
@@ -6887,7 +6887,7 @@
     "id": "obt/main/level_main_04-01_end",
     "type": "Main",
     "name": {
-      "zh_CN": "4-1 行动后"
+      "zh_CN": "4-1 免费拥抱 行动后"
     },
     "zone": "main_4"
   },
@@ -6895,7 +6895,7 @@
     "id": "activities/act14side/level_act14side_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "BI-ST-4"
+      "zh_CN": "BI-ST-4 封盘"
     },
     "zone": "act14side"
   },
@@ -6903,7 +6903,7 @@
     "id": "activities/act13side/level_act13side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-ST-1"
+      "zh_CN": "NL-ST-1 欣欣向荣"
     },
     "zone": "act13side"
   },
@@ -6911,7 +6911,7 @@
     "id": "activities/act13side/level_act13side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-1 行动前"
+      "zh_CN": "NL-1 金盏花 行动前"
     },
     "zone": "act13side"
   },
@@ -6919,7 +6919,7 @@
     "id": "activities/act13side/level_act13side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-1 行动后"
+      "zh_CN": "NL-1 金盏花 行动后"
     },
     "zone": "act13side"
   },
@@ -6927,7 +6927,7 @@
     "id": "activities/act13side/level_act13side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-2 行动前"
+      "zh_CN": "NL-2 垂死的刺 行动前"
     },
     "zone": "act13side"
   },
@@ -6935,7 +6935,7 @@
     "id": "activities/act13side/level_act13side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-2 行动后"
+      "zh_CN": "NL-2 垂死的刺 行动后"
     },
     "zone": "act13side"
   },
@@ -6943,7 +6943,7 @@
     "id": "activities/act13side/level_act13side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-3 行动前"
+      "zh_CN": "NL-3 筹备着 行动前"
     },
     "zone": "act13side"
   },
@@ -6951,7 +6951,7 @@
     "id": "activities/act13side/level_act13side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-3 行动后"
+      "zh_CN": "NL-3 筹备着 行动后"
     },
     "zone": "act13side"
   },
@@ -6959,7 +6959,7 @@
     "id": "activities/act13side/level_act13side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-4 行动前"
+      "zh_CN": "NL-4 诗的容貌 行动前"
     },
     "zone": "act13side"
   },
@@ -6967,7 +6967,7 @@
     "id": "activities/act13side/level_act13side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-4 行动后"
+      "zh_CN": "NL-4 诗的容貌 行动后"
     },
     "zone": "act13side"
   },
@@ -6975,7 +6975,7 @@
     "id": "obt/main/level_main_04-02_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "4-2 行动前"
+      "zh_CN": "4-2 雨中漫步 行动前"
     },
     "zone": "main_4"
   },
@@ -6983,7 +6983,7 @@
     "id": "activities/act13side/level_act13side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-ST-2"
+      "zh_CN": "NL-ST-2 权与力"
     },
     "zone": "act13side"
   },
@@ -6991,7 +6991,7 @@
     "id": "activities/act13side/level_act13side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-5 行动前"
+      "zh_CN": "NL-5 人言可畏 行动前"
     },
     "zone": "act13side"
   },
@@ -6999,7 +6999,7 @@
     "id": "activities/act13side/level_act13side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-5 行动后"
+      "zh_CN": "NL-5 人言可畏 行动后"
     },
     "zone": "act13side"
   },
@@ -7007,7 +7007,7 @@
     "id": "activities/act13side/level_act13side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-6 行动前"
+      "zh_CN": "NL-6 被包围者 行动前"
     },
     "zone": "act13side"
   },
@@ -7015,7 +7015,7 @@
     "id": "activities/act13side/level_act13side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-6 行动后"
+      "zh_CN": "NL-6 被包围者 行动后"
     },
     "zone": "act13side"
   },
@@ -7023,7 +7023,7 @@
     "id": "activities/act13side/level_act13side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-ST-3"
+      "zh_CN": "NL-ST-3 酣眠的城市"
     },
     "zone": "act13side"
   },
@@ -7031,7 +7031,7 @@
     "id": "activities/act13side/level_act13side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-7 行动前"
+      "zh_CN": "NL-7 梦的余韵 行动前"
     },
     "zone": "act13side"
   },
@@ -7039,7 +7039,7 @@
     "id": "activities/act13side/level_act13side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-7 行动后"
+      "zh_CN": "NL-7 梦的余韵 行动后"
     },
     "zone": "act13side"
   },
@@ -7047,7 +7047,7 @@
     "id": "activities/act13side/level_act13side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-8 行动前"
+      "zh_CN": "NL-8 最后的怯薛 行动前"
     },
     "zone": "act13side"
   },
@@ -7055,7 +7055,7 @@
     "id": "activities/act13side/level_act13side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-8 行动后"
+      "zh_CN": "NL-8 最后的怯薛 行动后"
     },
     "zone": "act13side"
   },
@@ -7063,7 +7063,7 @@
     "id": "obt/main/level_main_04-02_end",
     "type": "Main",
     "name": {
-      "zh_CN": "4-2 行动后"
+      "zh_CN": "4-2 雨中漫步 行动后"
     },
     "zone": "main_4"
   },
@@ -7071,7 +7071,7 @@
     "id": "activities/act13side/level_act13side_09_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-9 行动前"
+      "zh_CN": "NL-9 叹息 行动前"
     },
     "zone": "act13side"
   },
@@ -7079,7 +7079,7 @@
     "id": "activities/act13side/level_act13side_09_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-9 行动后"
+      "zh_CN": "NL-9 叹息 行动后"
     },
     "zone": "act13side"
   },
@@ -7087,7 +7087,7 @@
     "id": "activities/act13side/level_act13side_10_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-10 行动前"
+      "zh_CN": "NL-10 耀骑士 行动前"
     },
     "zone": "act13side"
   },
@@ -7095,7 +7095,7 @@
     "id": "activities/act13side/level_act13side_10_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-10 行动后"
+      "zh_CN": "NL-10 耀骑士 行动后"
     },
     "zone": "act13side"
   },
@@ -7103,7 +7103,7 @@
     "id": "activities/act13side/level_act13side_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "NL-ST-4"
+      "zh_CN": "NL-ST-4 未知与未来"
     },
     "zone": "act13side"
   },
@@ -7161,7 +7161,7 @@
     "id": "obt/main/level_main_04-03_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "4-3 行动前"
+      "zh_CN": "4-3 人工制冷 行动前"
     },
     "zone": "main_4"
   },
@@ -7189,7 +7189,7 @@
     "id": "activities/act12side/level_act12side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "DH-ST-1"
+      "zh_CN": "DH-ST-1 不期而遇"
     },
     "zone": "act12side"
   },
@@ -7197,7 +7197,7 @@
     "id": "activities/act12side/level_act12side_tr01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DH-TR-1 行动后"
+      "zh_CN": "DH-TR-1  行动后"
     },
     "zone": "act12side"
   },
@@ -7205,7 +7205,7 @@
     "id": "activities/act12side/level_act12side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "DH-1 行动前"
+      "zh_CN": "DH-1 意外入选 行动前"
     },
     "zone": "act12side"
   },
@@ -7213,7 +7213,7 @@
     "id": "activities/act12side/level_act12side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DH-1 行动后"
+      "zh_CN": "DH-1 意外入选 行动后"
     },
     "zone": "act12side"
   },
@@ -7221,7 +7221,7 @@
     "id": "activities/act12side/level_act12side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "DH-2 行动前"
+      "zh_CN": "DH-2 首轮竞赛 行动前"
     },
     "zone": "act12side"
   },
@@ -7229,7 +7229,7 @@
     "id": "activities/act12side/level_act12side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DH-2 行动后"
+      "zh_CN": "DH-2 首轮竞赛 行动后"
     },
     "zone": "act12side"
   },
@@ -7237,7 +7237,7 @@
     "id": "activities/act12side/level_act12side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "DH-3 行动前"
+      "zh_CN": "DH-3 拔铳相助 行动前"
     },
     "zone": "act12side"
   },
@@ -7245,7 +7245,7 @@
     "id": "activities/act12side/level_act12side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DH-3 行动后"
+      "zh_CN": "DH-3 拔铳相助 行动后"
     },
     "zone": "act12side"
   },
@@ -7253,7 +7253,7 @@
     "id": "obt/main/level_main_04-03_end",
     "type": "Main",
     "name": {
-      "zh_CN": "4-3 行动后"
+      "zh_CN": "4-3 人工制冷 行动后"
     },
     "zone": "main_4"
   },
@@ -7261,7 +7261,7 @@
     "id": "activities/act12side/level_act12side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "DH-ST-2"
+      "zh_CN": "DH-ST-2 中场休息"
     },
     "zone": "act12side"
   },
@@ -7269,7 +7269,7 @@
     "id": "activities/act12side/level_act12side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "DH-4 行动前"
+      "zh_CN": "DH-4 铁人三项 行动前"
     },
     "zone": "act12side"
   },
@@ -7277,7 +7277,7 @@
     "id": "activities/act12side/level_act12side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DH-4 行动后"
+      "zh_CN": "DH-4 铁人三项 行动后"
     },
     "zone": "act12side"
   },
@@ -7285,7 +7285,7 @@
     "id": "activities/act12side/level_act12side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "DH-5 行动前"
+      "zh_CN": "DH-5 曲径求胜 行动前"
     },
     "zone": "act12side"
   },
@@ -7293,7 +7293,7 @@
     "id": "activities/act12side/level_act12side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DH-5 行动后"
+      "zh_CN": "DH-5 曲径求胜 行动后"
     },
     "zone": "act12side"
   },
@@ -7301,7 +7301,7 @@
     "id": "activities/act12side/level_act12side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "DH-6 行动前"
+      "zh_CN": "DH-6 紧追猛赶 行动前"
     },
     "zone": "act12side"
   },
@@ -7309,7 +7309,7 @@
     "id": "activities/act12side/level_act12side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DH-6 行动后"
+      "zh_CN": "DH-6 紧追猛赶 行动后"
     },
     "zone": "act12side"
   },
@@ -7317,7 +7317,7 @@
     "id": "activities/act12side/level_act12side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "DH-ST-3"
+      "zh_CN": "DH-ST-3 请君入瓮"
     },
     "zone": "act12side"
   },
@@ -7325,7 +7325,7 @@
     "id": "activities/act12side/level_act12side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "DH-7 行动前"
+      "zh_CN": "DH-7 沙滩阻击 行动前"
     },
     "zone": "act12side"
   },
@@ -7333,7 +7333,7 @@
     "id": "activities/act12side/level_act12side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DH-8 行动后"
+      "zh_CN": "DH-8 抢滩登陆 行动后"
     },
     "zone": "act12side"
   },
@@ -7341,7 +7341,7 @@
     "id": "obt/main/level_main_04-04_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "4-4 行动前"
+      "zh_CN": "4-4 不要恐慌 行动前"
     },
     "zone": "main_4"
   },
@@ -7349,7 +7349,7 @@
     "id": "activities/act12side/level_act12side_09_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "DH-9 行动前"
+      "zh_CN": "DH-9 鼠胆龙威 行动前"
     },
     "zone": "act12side"
   },
@@ -7357,7 +7357,7 @@
     "id": "activities/act12side/level_act12side_09_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DH-9 行动后"
+      "zh_CN": "DH-9 鼠胆龙威 行动后"
     },
     "zone": "act12side"
   },
@@ -7365,7 +7365,7 @@
     "id": "activities/act12side/level_act12side_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "DH-ST-4"
+      "zh_CN": "DH-ST-4 海浪照常拍岸"
     },
     "zone": "act12side"
   },
@@ -7441,7 +7441,7 @@
     "id": "obt/main/level_main_04-04_end",
     "type": "Main",
     "name": {
-      "zh_CN": "4-4 行动后"
+      "zh_CN": "4-4 不要恐慌 行动后"
     },
     "zone": "main_4"
   },
@@ -7517,7 +7517,7 @@
     "id": "activities/act18d3/level_act18d3_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "SV-1 行动前"
+      "zh_CN": "SV-1 闯入者 行动前"
     },
     "zone": "act18d3"
   },
@@ -7525,7 +7525,7 @@
     "id": "activities/act18d3/level_act18d3_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SV-1 行动后"
+      "zh_CN": "SV-1 闯入者 行动后"
     },
     "zone": "act18d3"
   },
@@ -7533,7 +7533,7 @@
     "id": "activities/act18d3/level_act18d3_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "SV-2 行动前"
+      "zh_CN": "SV-2 歌手 行动前"
     },
     "zone": "act18d3"
   },
@@ -7541,7 +7541,7 @@
     "id": "obt/main/level_main_04-05_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "4-5 行动前"
+      "zh_CN": "4-5 官僚主义 行动前"
     },
     "zone": "main_4"
   },
@@ -7549,7 +7549,7 @@
     "id": "activities/act18d3/level_act18d3_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SV-2 行动后"
+      "zh_CN": "SV-2 歌手 行动后"
     },
     "zone": "act18d3"
   },
@@ -7557,7 +7557,7 @@
     "id": "activities/act18d3/level_act18d3_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "SV-3 行动前"
+      "zh_CN": "SV-3 外来者 行动前"
     },
     "zone": "act18d3"
   },
@@ -7565,7 +7565,7 @@
     "id": "activities/act18d3/level_act18d3_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SV-3 行动后"
+      "zh_CN": "SV-3 外来者 行动后"
     },
     "zone": "act18d3"
   },
@@ -7573,7 +7573,7 @@
     "id": "activities/act18d3/level_act18d3_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "SV-4 行动前"
+      "zh_CN": "SV-4 海洋 行动前"
     },
     "zone": "act18d3"
   },
@@ -7581,7 +7581,7 @@
     "id": "activities/act18d3/level_act18d3_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SV-5 行动后"
+      "zh_CN": "SV-5 遭弃者 行动后"
     },
     "zone": "act18d3"
   },
@@ -7589,7 +7589,7 @@
     "id": "activities/act18d3/level_act18d3_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "SV-6 行动前"
+      "zh_CN": "SV-6 厌食 行动前"
     },
     "zone": "act18d3"
   },
@@ -7597,7 +7597,7 @@
     "id": "activities/act18d3/level_act18d3_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SV-6 行动后"
+      "zh_CN": "SV-6 厌食 行动后"
     },
     "zone": "act18d3"
   },
@@ -7605,7 +7605,7 @@
     "id": "activities/act18d3/level_act18d3_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "SV-7 行动前"
+      "zh_CN": "SV-7 守护者 行动前"
     },
     "zone": "act18d3"
   },
@@ -7613,7 +7613,7 @@
     "id": "activities/act18d3/level_act18d3_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SV-7 行动后"
+      "zh_CN": "SV-7 守护者 行动后"
     },
     "zone": "act18d3"
   },
@@ -7621,7 +7621,7 @@
     "id": "activities/act18d3/level_act18d3_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "SV-ST-1"
+      "zh_CN": "SV-ST-1 唤醒噩梦"
     },
     "zone": "act18d3"
   },
@@ -7629,7 +7629,7 @@
     "id": "obt/main/level_main_00-07_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "0-7 行动前"
+      "zh_CN": "0-7 感染 行动前"
     },
     "zone": "main_0"
   },
@@ -7637,7 +7637,7 @@
     "id": "obt/main/level_main_04-05_end",
     "type": "Main",
     "name": {
-      "zh_CN": "4-5 行动后"
+      "zh_CN": "4-5 官僚主义 行动后"
     },
     "zone": "main_4"
   },
@@ -7645,7 +7645,7 @@
     "id": "activities/act18d3/level_act18d3_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "SV-8 行动前"
+      "zh_CN": "SV-8 亲族 行动前"
     },
     "zone": "act18d3"
   },
@@ -7653,7 +7653,7 @@
     "id": "activities/act18d3/level_act18d3_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SV-8 行动后"
+      "zh_CN": "SV-8 亲族 行动后"
     },
     "zone": "act18d3"
   },
@@ -7661,7 +7661,7 @@
     "id": "activities/act18d3/level_act18d3_09_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "SV-9 行动前"
+      "zh_CN": "SV-9 笃信者 行动前"
     },
     "zone": "act18d3"
   },
@@ -7669,7 +7669,7 @@
     "id": "activities/act18d3/level_act18d3_09_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "SV-9 行动后"
+      "zh_CN": "SV-9 笃信者 行动后"
     },
     "zone": "act18d3"
   },
@@ -7677,7 +7677,7 @@
     "id": "activities/act18d3/level_act18d3_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "SV-ST-2"
+      "zh_CN": "SV-ST-2 侥幸离去"
     },
     "zone": "act18d3"
   },
@@ -7685,7 +7685,7 @@
     "id": "activities/act18d0/level_act18d0_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "WD-1 行动前"
+      "zh_CN": "WD-1 赤角小镇之围 行动前"
     },
     "zone": "act18d0"
   },
@@ -7693,7 +7693,7 @@
     "id": "activities/act18d0/level_act18d0_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "WD-1 行动后"
+      "zh_CN": "WD-1 赤角小镇之围 行动后"
     },
     "zone": "act18d0"
   },
@@ -7701,7 +7701,7 @@
     "id": "activities/act18d0/level_act18d0_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "WD-2 行动前"
+      "zh_CN": "WD-2 绿洲惊雷 行动前"
     },
     "zone": "act18d0"
   },
@@ -7709,7 +7709,7 @@
     "id": "activities/act18d0/level_act18d0_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "WD-2 行动后"
+      "zh_CN": "WD-2 绿洲惊雷 行动后"
     },
     "zone": "act18d0"
   },
@@ -7717,7 +7717,7 @@
     "id": "activities/act18d0/level_act18d0_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "WD-3 行动前"
+      "zh_CN": "WD-3 仙人掌沙丘 行动前"
     },
     "zone": "act18d0"
   },
@@ -7725,7 +7725,7 @@
     "id": "obt/main/level_main_04-06_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "4-6 行动前"
+      "zh_CN": "4-6 少见多怪 行动前"
     },
     "zone": "main_4"
   },
@@ -7733,7 +7733,7 @@
     "id": "activities/act18d0/level_act18d0_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "WD-3 行动后"
+      "zh_CN": "WD-3 仙人掌沙丘 行动后"
     },
     "zone": "act18d0"
   },
@@ -7741,7 +7741,7 @@
     "id": "activities/act18d0/level_act18d0_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "WD-ST-1"
+      "zh_CN": "WD-ST-1 松心百合"
     },
     "zone": "act18d0"
   },
@@ -7749,7 +7749,7 @@
     "id": "activities/act18d0/level_act18d0_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "WD-5 行动前"
+      "zh_CN": "WD-5 沁礁之地 行动前"
     },
     "zone": "act18d0"
   },
@@ -7757,7 +7757,7 @@
     "id": "activities/act18d0/level_act18d0_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "WD-5 行动后"
+      "zh_CN": "WD-5 沁礁之地 行动后"
     },
     "zone": "act18d0"
   },
@@ -7765,7 +7765,7 @@
     "id": "activities/act18d0/level_act18d0_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "WD-7 行动前"
+      "zh_CN": "WD-7 家园 行动前"
     },
     "zone": "act18d0"
   },
@@ -7773,7 +7773,7 @@
     "id": "activities/act18d0/level_act18d0_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "WD-7 行动后"
+      "zh_CN": "WD-7 家园 行动后"
     },
     "zone": "act18d0"
   },
@@ -7781,7 +7781,7 @@
     "id": "activities/act18d0/level_act18d0_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "WD-8 行动前"
+      "zh_CN": "WD-8 大雪将至 行动前"
     },
     "zone": "act18d0"
   },
@@ -7789,7 +7789,7 @@
     "id": "activities/act18d0/level_act18d0_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "WD-8 行动后"
+      "zh_CN": "WD-8 大雪将至 行动后"
     },
     "zone": "act18d0"
   },
@@ -7797,7 +7797,7 @@
     "id": "activities/act18d0/level_act18d0_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "WD-ST-2"
+      "zh_CN": "WD-ST-2 异乡来客"
     },
     "zone": "act18d0"
   },
@@ -7813,7 +7813,7 @@
     "id": "obt/main/level_main_04-06_end",
     "type": "Main",
     "name": {
-      "zh_CN": "4-6 行动后"
+      "zh_CN": "4-6 少见多怪 行动后"
     },
     "zone": "main_4"
   },
@@ -7837,7 +7837,7 @@
     "id": "activities/act17d0/level_act17d0_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "OD-ST-1"
+      "zh_CN": "OD-ST-1 拉马克行动"
     },
     "zone": "act17d0"
   },
@@ -7845,7 +7845,7 @@
     "id": "activities/act17d0/level_act17d0_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "OD-1 行动前"
+      "zh_CN": "OD-1 外勤记录 行动前"
     },
     "zone": "act17d0"
   },
@@ -7853,7 +7853,7 @@
     "id": "activities/act17d0/level_act17d0_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "OD-1 行动后"
+      "zh_CN": "OD-1 外勤记录 行动后"
     },
     "zone": "act17d0"
   },
@@ -7861,7 +7861,7 @@
     "id": "activities/act17d0/level_act17d0_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "OD-2 行动前"
+      "zh_CN": "OD-2 扩大防守范围 行动前"
     },
     "zone": "act17d0"
   },
@@ -7869,7 +7869,7 @@
     "id": "activities/act17d0/level_act17d0_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "OD-2 行动后"
+      "zh_CN": "OD-2 扩大防守范围 行动后"
     },
     "zone": "act17d0"
   },
@@ -7877,7 +7877,7 @@
     "id": "activities/act17d0/level_act17d0_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "OD-3 行动前"
+      "zh_CN": "OD-3 安全屋攻防战 行动前"
     },
     "zone": "act17d0"
   },
@@ -7885,7 +7885,7 @@
     "id": "activities/act17d0/level_act17d0_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "OD-3 行动后"
+      "zh_CN": "OD-3 安全屋攻防战 行动后"
     },
     "zone": "act17d0"
   },
@@ -7893,7 +7893,7 @@
     "id": "activities/act17d0/level_act17d0_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "OD-5 行动前"
+      "zh_CN": "OD-5 物资回收计划 行动前"
     },
     "zone": "act17d0"
   },
@@ -7901,7 +7901,7 @@
     "id": "obt/main/level_main_04-07_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "4-7 行动前"
+      "zh_CN": "4-7 各取所需 行动前"
     },
     "zone": "main_4"
   },
@@ -7909,7 +7909,7 @@
     "id": "activities/act17d0/level_act17d0_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "OD-5 行动后"
+      "zh_CN": "OD-5 物资回收计划 行动后"
     },
     "zone": "act17d0"
   },
@@ -7917,7 +7917,7 @@
     "id": "activities/act17d0/level_act17d0_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "OD-ST-2"
+      "zh_CN": "OD-ST-2 一场葬礼"
     },
     "zone": "act17d0"
   },
@@ -7925,7 +7925,7 @@
     "id": "activities/act17d0/level_act17d0_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "OD-6 行动前"
+      "zh_CN": "OD-6 领主宅邸攻防战 行动前"
     },
     "zone": "act17d0"
   },
@@ -7933,7 +7933,7 @@
     "id": "activities/act17d0/level_act17d0_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "OD-6 行动后"
+      "zh_CN": "OD-6 领主宅邸攻防战 行动后"
     },
     "zone": "act17d0"
   },
@@ -7941,7 +7941,7 @@
     "id": "activities/act17d0/level_act17d0_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "OD-7 行动前"
+      "zh_CN": "OD-7 地堡防线 行动前"
     },
     "zone": "act17d0"
   },
@@ -7949,7 +7949,7 @@
     "id": "activities/act17d0/level_act17d0_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "OD-7 行动后"
+      "zh_CN": "OD-7 地堡防线 行动后"
     },
     "zone": "act17d0"
   },
@@ -7957,7 +7957,7 @@
     "id": "activities/act17d0/level_act17d0_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "OD-8 行动前"
+      "zh_CN": "OD-8 渗透作战 行动前"
     },
     "zone": "act17d0"
   },
@@ -7965,7 +7965,7 @@
     "id": "activities/act17d0/level_act17d0_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "OD-8 行动后"
+      "zh_CN": "OD-8 渗透作战 行动后"
     },
     "zone": "act17d0"
   },
@@ -7973,7 +7973,7 @@
     "id": "activities/act17d0/level_act17d0_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "OD-ST-3"
+      "zh_CN": "OD-ST-3 行走于大地之上"
     },
     "zone": "act17d0"
   },
@@ -7981,7 +7981,7 @@
     "id": "activities/act16d5/level_act16d5_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "WR-ST-1"
+      "zh_CN": "WR-ST-1 一钳之恩"
     },
     "zone": "act16d5"
   },
@@ -7989,7 +7989,7 @@
     "id": "obt/main/level_main_04-07_end",
     "type": "Main",
     "name": {
-      "zh_CN": "4-7 行动后"
+      "zh_CN": "4-7 各取所需 行动后"
     },
     "zone": "main_4"
   },
@@ -7997,7 +7997,7 @@
     "id": "activities/act16d5/level_act16d5_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "WR-1 行动前"
+      "zh_CN": "WR-1 初醒 行动前"
     },
     "zone": "act16d5"
   },
@@ -8005,7 +8005,7 @@
     "id": "activities/act16d5/level_act16d5_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "WR-1 行动后"
+      "zh_CN": "WR-1 初醒 行动后"
     },
     "zone": "act16d5"
   },
@@ -8013,7 +8013,7 @@
     "id": "activities/act16d5/level_act16d5_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "WR-2 行动前"
+      "zh_CN": "WR-2 墨魉 行动前"
     },
     "zone": "act16d5"
   },
@@ -8021,7 +8021,7 @@
     "id": "activities/act16d5/level_act16d5_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "WR-2 行动后"
+      "zh_CN": "WR-2 墨魉 行动后"
     },
     "zone": "act16d5"
   },
@@ -8029,7 +8029,7 @@
     "id": "activities/act16d5/level_act16d5_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "WR-4 行动前"
+      "zh_CN": "WR-4 掌柜 行动前"
     },
     "zone": "act16d5"
   },
@@ -8037,7 +8037,7 @@
     "id": "activities/act16d5/level_act16d5_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "WR-4 行动后"
+      "zh_CN": "WR-4 掌柜 行动后"
     },
     "zone": "act16d5"
   },
@@ -8045,7 +8045,7 @@
     "id": "activities/act16d5/level_act16d5_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "WR-5 行动前"
+      "zh_CN": "WR-5 拙山 行动前"
     },
     "zone": "act16d5"
   },
@@ -8053,7 +8053,7 @@
     "id": "activities/act16d5/level_act16d5_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "WR-5 行动后"
+      "zh_CN": "WR-5 拙山 行动后"
     },
     "zone": "act16d5"
   },
@@ -8061,7 +8061,7 @@
     "id": "activities/act16d5/level_act16d5_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "WR-ST-2"
+      "zh_CN": "WR-ST-2 一日之祸"
     },
     "zone": "act16d5"
   },
@@ -8069,7 +8069,7 @@
     "id": "activities/act16d5/level_act16d5_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "WR-6 行动前"
+      "zh_CN": "WR-6 画中 行动前"
     },
     "zone": "act16d5"
   },
@@ -8077,7 +8077,7 @@
     "id": "obt/main/level_main_04-08_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "4-8 行动前"
+      "zh_CN": "4-8 应激反应 行动前"
     },
     "zone": "main_4"
   },
@@ -8085,7 +8085,7 @@
     "id": "activities/act16d5/level_act16d5_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "WR-6 行动后"
+      "zh_CN": "WR-6 画中 行动后"
     },
     "zone": "act16d5"
   },
@@ -8093,7 +8093,7 @@
     "id": "activities/act16d5/level_act16d5_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "WR-8 行动前"
+      "zh_CN": "WR-8 大梦 行动前"
     },
     "zone": "act16d5"
   },
@@ -8101,7 +8101,7 @@
     "id": "activities/act16d5/level_act16d5_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "WR-8 行动后"
+      "zh_CN": "WR-8 大梦 行动后"
     },
     "zone": "act16d5"
   },
@@ -8109,7 +8109,7 @@
     "id": "activities/act16d5/level_act16d5_10_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "WR-10 行动前"
+      "zh_CN": "WR-10  夕 行动前"
     },
     "zone": "act16d5"
   },
@@ -8117,7 +8117,7 @@
     "id": "activities/act16d5/level_act16d5_10_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "WR-10 行动后"
+      "zh_CN": "WR-10  夕 行动后"
     },
     "zone": "act16d5"
   },
@@ -8125,7 +8125,7 @@
     "id": "activities/act16d5/level_act16d5_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "WR-ST-3"
+      "zh_CN": "WR-ST-3 一问之答"
     },
     "zone": "act16d5"
   },
@@ -8173,7 +8173,7 @@
     "id": "obt/main/level_main_04-08_end",
     "type": "Main",
     "name": {
-      "zh_CN": "4-8 行动后"
+      "zh_CN": "4-8 应激反应 行动后"
     },
     "zone": "main_4"
   },
@@ -8211,7 +8211,7 @@
     "id": "activities/act15d0/level_act15d0_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "MB-1 行动前"
+      "zh_CN": "MB-1 密会 行动前"
     },
     "zone": "act15d0"
   },
@@ -8219,7 +8219,7 @@
     "id": "activities/act15d0/level_act15d0_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "MB-1 行动后"
+      "zh_CN": "MB-1 密会 行动后"
     },
     "zone": "act15d0"
   },
@@ -8227,7 +8227,7 @@
     "id": "activities/act15d0/level_act15d0_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "MB-2 行动前"
+      "zh_CN": "MB-2 另一个视角 行动前"
     },
     "zone": "act15d0"
   },
@@ -8235,7 +8235,7 @@
     "id": "activities/act15d0/level_act15d0_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "MB-2 行动后"
+      "zh_CN": "MB-2 另一个视角 行动后"
     },
     "zone": "act15d0"
   },
@@ -8243,7 +8243,7 @@
     "id": "activities/act15d0/level_act15d0_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "MB-3 行动前"
+      "zh_CN": "MB-3 首次遇袭 行动前"
     },
     "zone": "act15d0"
   },
@@ -8251,7 +8251,7 @@
     "id": "activities/act15d0/level_act15d0_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "MB-3 行动后"
+      "zh_CN": "MB-3 首次遇袭 行动后"
     },
     "zone": "act15d0"
   },
@@ -8259,7 +8259,7 @@
     "id": "activities/act15d0/level_act15d0_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "MB-ST-1"
+      "zh_CN": "MB-ST-1 邀请"
     },
     "zone": "act15d0"
   },
@@ -8267,7 +8267,7 @@
     "id": "obt/main/level_main_04-09_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "4-9 行动前"
+      "zh_CN": "4-9 彻入骨髓 行动前"
     },
     "zone": "main_4"
   },
@@ -8275,7 +8275,7 @@
     "id": "activities/act15d0/level_act15d0_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "MB-4 行动前"
+      "zh_CN": "MB-4 勇敢，莽撞 行动前"
     },
     "zone": "act15d0"
   },
@@ -8283,7 +8283,7 @@
     "id": "activities/act15d0/level_act15d0_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "MB-4 行动后"
+      "zh_CN": "MB-4 勇敢，莽撞 行动后"
     },
     "zone": "act15d0"
   },
@@ -8291,7 +8291,7 @@
     "id": "activities/act15d0/level_act15d0_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "MB-5 行动前"
+      "zh_CN": "MB-5 危险交易 行动前"
     },
     "zone": "act15d0"
   },
@@ -8299,7 +8299,7 @@
     "id": "activities/act15d0/level_act15d0_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "MB-5 行动后"
+      "zh_CN": "MB-5 危险交易 行动后"
     },
     "zone": "act15d0"
   },
@@ -8307,7 +8307,7 @@
     "id": "activities/act15d0/level_act15d0_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "MB-6 行动前"
+      "zh_CN": "MB-6 制定计划 行动前"
     },
     "zone": "act15d0"
   },
@@ -8315,7 +8315,7 @@
     "id": "activities/act15d0/level_act15d0_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "MB-6 行动后"
+      "zh_CN": "MB-6 制定计划 行动后"
     },
     "zone": "act15d0"
   },
@@ -8323,7 +8323,7 @@
     "id": "activities/act15d0/level_act15d0_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "MB-7 行动前"
+      "zh_CN": "MB-7 背叛 行动前"
     },
     "zone": "act15d0"
   },
@@ -8331,7 +8331,7 @@
     "id": "activities/act15d0/level_act15d0_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "MB-7 行动后"
+      "zh_CN": "MB-7 背叛 行动后"
     },
     "zone": "act15d0"
   },
@@ -8339,7 +8339,7 @@
     "id": "activities/act15d0/level_act15d0_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "MB-8 行动前"
+      "zh_CN": "MB-8 激战之末 行动前"
     },
     "zone": "act15d0"
   },
@@ -8347,7 +8347,7 @@
     "id": "activities/act15d0/level_act15d0_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "MB-8 行动后"
+      "zh_CN": "MB-8 激战之末 行动后"
     },
     "zone": "act15d0"
   },
@@ -8355,7 +8355,7 @@
     "id": "obt/main/level_main_04-09_end",
     "type": "Main",
     "name": {
-      "zh_CN": "4-9 行动后"
+      "zh_CN": "4-9 彻入骨髓 行动后"
     },
     "zone": "main_4"
   },
@@ -8363,7 +8363,7 @@
     "id": "activities/act15d0/level_act15d0_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "MB-ST-2"
+      "zh_CN": "MB-ST-2 正确的代价"
     },
     "zone": "act15d0"
   },
@@ -8371,7 +8371,7 @@
     "id": "activities/act13d5/level_act13d5_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "MN-ST-1"
+      "zh_CN": "MN-ST-1 亮相"
     },
     "zone": "act13d5"
   },
@@ -8379,7 +8379,7 @@
     "id": "activities/act13d5/level_act13d5_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "MN-1 行动前"
+      "zh_CN": "MN-1 艾伦精选 行动前"
     },
     "zone": "act13d5"
   },
@@ -8387,7 +8387,7 @@
     "id": "activities/act13d5/level_act13d5_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "MN-1 行动后"
+      "zh_CN": "MN-1 艾伦精选 行动后"
     },
     "zone": "act13d5"
   },
@@ -8395,7 +8395,7 @@
     "id": "activities/act13d5/level_act13d5_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "MN-2 行动前"
+      "zh_CN": "MN-2 呼啸守卫 行动前"
     },
     "zone": "act13d5"
   },
@@ -8403,7 +8403,7 @@
     "id": "activities/act13d5/level_act13d5_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "MN-2 行动后"
+      "zh_CN": "MN-2 呼啸守卫 行动后"
     },
     "zone": "act13d5"
   },
@@ -8411,7 +8411,7 @@
     "id": "activities/act13d5/level_act13d5_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "MN-3 行动前"
+      "zh_CN": "MN-3 玫瑰报业 行动前"
     },
     "zone": "act13d5"
   },
@@ -8419,7 +8419,7 @@
     "id": "activities/act13d5/level_act13d5_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "MN-3 行动后"
+      "zh_CN": "MN-3 玫瑰报业 行动后"
     },
     "zone": "act13d5"
   },
@@ -8427,7 +8427,7 @@
     "id": "activities/act13d5/level_act13d5_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "MN-4 行动前"
+      "zh_CN": "MN-4 辉煌盾工业 行动前"
     },
     "zone": "act13d5"
   },
@@ -8435,7 +8435,7 @@
     "id": "activities/act13d5/level_act13d5_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "MN-4 行动后"
+      "zh_CN": "MN-4 辉煌盾工业 行动后"
     },
     "zone": "act13d5"
   },
@@ -8443,7 +8443,7 @@
     "id": "obt/main/level_main_04-10_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "4-10 行动前"
+      "zh_CN": "4-10 灯火将熄 行动前"
     },
     "zone": "main_4"
   },
@@ -8451,7 +8451,7 @@
     "id": "activities/act13d5/level_act13d5_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "MN-5 行动前"
+      "zh_CN": "MN-5 斯沃玛视频 行动前"
     },
     "zone": "act13d5"
   },
@@ -8459,7 +8459,7 @@
     "id": "activities/act13d5/level_act13d5_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "MN-5 行动后"
+      "zh_CN": "MN-5 斯沃玛视频 行动后"
     },
     "zone": "act13d5"
   },
@@ -8467,7 +8467,7 @@
     "id": "activities/act13d5/level_act13d5_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "MN-6 行动前"
+      "zh_CN": "MN-6 蓝耳酒窖 行动前"
     },
     "zone": "act13d5"
   },
@@ -8475,7 +8475,7 @@
     "id": "activities/act13d5/level_act13d5_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "MN-6 行动后"
+      "zh_CN": "MN-6 蓝耳酒窖 行动后"
     },
     "zone": "act13d5"
   },
@@ -8483,7 +8483,7 @@
     "id": "activities/act13d5/level_act13d5_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "MN-7 行动前"
+      "zh_CN": "MN-7 梅什科集团 行动前"
     },
     "zone": "act13d5"
   },
@@ -8491,7 +8491,7 @@
     "id": "activities/act13d5/level_act13d5_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "MN-7 行动后"
+      "zh_CN": "MN-7 梅什科集团 行动后"
     },
     "zone": "act13d5"
   },
@@ -8499,7 +8499,7 @@
     "id": "activities/act13d5/level_act13d5_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "MN-ST-2"
+      "zh_CN": "MN-ST-2 酒杯"
     },
     "zone": "act13d5"
   },
@@ -8507,7 +8507,7 @@
     "id": "activities/act13d5/level_act13d5_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "MN-8 行动前"
+      "zh_CN": "MN-8 商业联合 行动前"
     },
     "zone": "act13d5"
   },
@@ -8515,7 +8515,7 @@
     "id": "activities/act13d5/level_act13d5_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "MN-8 行动后"
+      "zh_CN": "MN-8 商业联合 行动后"
     },
     "zone": "act13d5"
   },
@@ -8523,7 +8523,7 @@
     "id": "activities/act13d5/level_act13d5_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "MN-ST-3"
+      "zh_CN": "MN-ST-3 缄默启程"
     },
     "zone": "act13d5"
   },
@@ -8531,7 +8531,7 @@
     "id": "obt/main/level_main_00-07_end",
     "type": "Main",
     "name": {
-      "zh_CN": "0-7 行动后"
+      "zh_CN": "0-7 感染 行动后"
     },
     "zone": "main_0"
   },
@@ -8539,7 +8539,7 @@
     "id": "obt/main/level_main_04-10_end",
     "type": "Main",
     "name": {
-      "zh_CN": "4-10 行动后"
+      "zh_CN": "4-10 灯火将熄 行动后"
     },
     "zone": "main_4"
   },
@@ -8617,7 +8617,7 @@
     "id": "activities/act12d0/level_act12d0_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "RI-1 行动前"
+      "zh_CN": "RI-1 高空坠物 行动前"
     },
     "zone": "act12d0"
   },
@@ -8625,7 +8625,7 @@
     "id": "activities/act12d0/level_act12d0_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "RI-1 行动后"
+      "zh_CN": "RI-1 高空坠物 行动后"
     },
     "zone": "act12d0"
   },
@@ -8633,7 +8633,7 @@
     "id": "activities/act12d0/level_act12d0_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "RI-2 行动前"
+      "zh_CN": "RI-2 粗细有别 行动前"
     },
     "zone": "act12d0"
   },
@@ -8641,7 +8641,7 @@
     "id": "obt/main/level_main_05-01_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "5-1 行动前"
+      "zh_CN": "5-1 冤家易结 行动前"
     },
     "zone": "main_5"
   },
@@ -8649,7 +8649,7 @@
     "id": "activities/act12d0/level_act12d0_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "RI-2 行动后"
+      "zh_CN": "RI-2 粗细有别 行动后"
     },
     "zone": "act12d0"
   },
@@ -8657,7 +8657,7 @@
     "id": "activities/act12d0/level_act12d0_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "RI-3 行动前"
+      "zh_CN": "RI-3 往昔 行动前"
     },
     "zone": "act12d0"
   },
@@ -8665,7 +8665,7 @@
     "id": "activities/act12d0/level_act12d0_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "RI-3 行动后"
+      "zh_CN": "RI-3 往昔 行动后"
     },
     "zone": "act12d0"
   },
@@ -8673,7 +8673,7 @@
     "id": "activities/act12d0/level_act12d0_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "RI-4 行动前"
+      "zh_CN": "RI-4 机兽咆哮 行动前"
     },
     "zone": "act12d0"
   },
@@ -8681,7 +8681,7 @@
     "id": "activities/act12d0/level_act12d0_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "RI-4 行动后"
+      "zh_CN": "RI-4 机兽咆哮 行动后"
     },
     "zone": "act12d0"
   },
@@ -8689,7 +8689,7 @@
     "id": "activities/act12d0/level_act12d0_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "RI-ST-1"
+      "zh_CN": "RI-ST-1 悍将之心"
     },
     "zone": "act12d0"
   },
@@ -8697,7 +8697,7 @@
     "id": "activities/act12d0/level_act12d0_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "RI-5 行动前"
+      "zh_CN": "RI-5 各有所长 行动前"
     },
     "zone": "act12d0"
   },
@@ -8705,7 +8705,7 @@
     "id": "activities/act12d0/level_act12d0_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "RI-5 行动后"
+      "zh_CN": "RI-5 各有所长 行动后"
     },
     "zone": "act12d0"
   },
@@ -8713,7 +8713,7 @@
     "id": "activities/act12d0/level_act12d0_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "RI-6 行动前"
+      "zh_CN": "RI-6 邂逅 行动前"
     },
     "zone": "act12d0"
   },
@@ -8721,7 +8721,7 @@
     "id": "activities/act12d0/level_act12d0_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "RI-6 行动后"
+      "zh_CN": "RI-6 邂逅 行动后"
     },
     "zone": "act12d0"
   },
@@ -8729,7 +8729,7 @@
     "id": "obt/main/level_main_05-01_end",
     "type": "Main",
     "name": {
-      "zh_CN": "5-1 行动后"
+      "zh_CN": "5-1 冤家易结 行动后"
     },
     "zone": "main_5"
   },
@@ -8737,7 +8737,7 @@
     "id": "activities/act12d0/level_act12d0_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "RI-ST-2"
+      "zh_CN": "RI-ST-2 休息时间"
     },
     "zone": "act12d0"
   },
@@ -8745,7 +8745,7 @@
     "id": "activities/act12d0/level_act12d0_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "RI-7 行动前"
+      "zh_CN": "RI-7 有客先来 行动前"
     },
     "zone": "act12d0"
   },
@@ -8753,7 +8753,7 @@
     "id": "activities/act12d0/level_act12d0_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "RI-7 行动后"
+      "zh_CN": "RI-7 有客先来 行动后"
     },
     "zone": "act12d0"
   },
@@ -8761,7 +8761,7 @@
     "id": "activities/act12d0/level_act12d0_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "RI-8 行动前"
+      "zh_CN": "RI-8 嘉维尔之拳 行动前"
     },
     "zone": "act12d0"
   },
@@ -8769,7 +8769,7 @@
     "id": "activities/act12d0/level_act12d0_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "RI-8 行动后"
+      "zh_CN": "RI-8 嘉维尔之拳 行动后"
     },
     "zone": "act12d0"
   },
@@ -8777,7 +8777,7 @@
     "id": "activities/act12d0/level_act12d0_09_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "RI-9 行动前"
+      "zh_CN": "RI-9 走出密林 行动前"
     },
     "zone": "act12d0"
   },
@@ -8785,7 +8785,7 @@
     "id": "activities/act12d0/level_act12d0_09_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "RI-9 行动后"
+      "zh_CN": "RI-9 走出密林 行动后"
     },
     "zone": "act12d0"
   },
@@ -8793,7 +8793,7 @@
     "id": "activities/act12d0/level_act12d0_ex01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "RI-EX-1 行动后"
+      "zh_CN": "RI-EX-1 声东击西 行动后"
     },
     "zone": "act12d0"
   },
@@ -8801,7 +8801,7 @@
     "id": "activities/act11d7/level_act11d7_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-ST6"
+      "zh_CN": "OF-ST6 邂逅潮声"
     },
     "zone": "act11d7"
   },
@@ -8809,7 +8809,7 @@
     "id": "activities/act11d0/level_act11d0_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "TW-ST-1"
+      "zh_CN": "TW-ST-1 老栎树下"
     },
     "zone": "act11d0"
   },
@@ -8817,7 +8817,7 @@
     "id": "obt/main/level_main_05-02_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "5-2 行动前"
+      "zh_CN": "5-2 有口难言 行动前"
     },
     "zone": "main_5"
   },
@@ -8825,7 +8825,7 @@
     "id": "activities/act11d0/level_act11d0_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "TW-1 行动前"
+      "zh_CN": "TW-1 缄默不言 行动前"
     },
     "zone": "act11d0"
   },
@@ -8833,7 +8833,7 @@
     "id": "activities/act11d0/level_act11d0_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "TW-1 行动后"
+      "zh_CN": "TW-1 缄默不言 行动后"
     },
     "zone": "act11d0"
   },
@@ -8841,7 +8841,7 @@
     "id": "activities/act11d0/level_act11d0_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "TW-2 行动前"
+      "zh_CN": "TW-2 叛乱前哨 行动前"
     },
     "zone": "act11d0"
   },
@@ -8849,7 +8849,7 @@
     "id": "activities/act11d0/level_act11d0_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "TW-2 行动后"
+      "zh_CN": "TW-2 叛乱前哨 行动后"
     },
     "zone": "act11d0"
   },
@@ -8857,7 +8857,7 @@
     "id": "activities/act11d0/level_act11d0_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "TW-3 行动前"
+      "zh_CN": "TW-3 高塔烟火 行动前"
     },
     "zone": "act11d0"
   },
@@ -8865,7 +8865,7 @@
     "id": "activities/act11d0/level_act11d0_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "TW-3 行动后"
+      "zh_CN": "TW-3 高塔烟火 行动后"
     },
     "zone": "act11d0"
   },
@@ -8873,7 +8873,7 @@
     "id": "activities/act11d0/level_act11d0_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "TW-4 行动前"
+      "zh_CN": "TW-4 复仇之魂 行动前"
     },
     "zone": "act11d0"
   },
@@ -8881,7 +8881,7 @@
     "id": "activities/act11d0/level_act11d0_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "TW-4 行动后"
+      "zh_CN": "TW-4 复仇之魂 行动后"
     },
     "zone": "act11d0"
   },
@@ -8889,7 +8889,7 @@
     "id": "activities/act11d0/level_act11d0_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "TW-5 行动前"
+      "zh_CN": "TW-5 冬灵挽歌 行动前"
     },
     "zone": "act11d0"
   },
@@ -8897,7 +8897,7 @@
     "id": "activities/act11d0/level_act11d0_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "TW-5 行动后"
+      "zh_CN": "TW-5 冬灵挽歌 行动后"
     },
     "zone": "act11d0"
   },
@@ -8905,7 +8905,7 @@
     "id": "obt/main/level_main_05-02_end",
     "type": "Main",
     "name": {
-      "zh_CN": "5-2 行动后"
+      "zh_CN": "5-2 有口难言 行动后"
     },
     "zone": "main_5"
   },
@@ -8913,7 +8913,7 @@
     "id": "activities/act11d0/level_act11d0_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "TW-6 行动前"
+      "zh_CN": "TW-6 怒意漫延 行动前"
     },
     "zone": "act11d0"
   },
@@ -8921,7 +8921,7 @@
     "id": "activities/act11d0/level_act11d0_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "TW-6 行动后"
+      "zh_CN": "TW-6 怒意漫延 行动后"
     },
     "zone": "act11d0"
   },
@@ -8929,7 +8929,7 @@
     "id": "activities/act11d0/level_act11d0_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "TW-7 行动前"
+      "zh_CN": "TW-7 群峦崩塌 行动前"
     },
     "zone": "act11d0"
   },
@@ -8937,7 +8937,7 @@
     "id": "activities/act11d0/level_act11d0_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "TW-7 行动后"
+      "zh_CN": "TW-7 群峦崩塌 行动后"
     },
     "zone": "act11d0"
   },
@@ -8945,7 +8945,7 @@
     "id": "activities/act11d0/level_act11d0_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "TW-8 行动前"
+      "zh_CN": "TW-8 月光沉沦 行动前"
     },
     "zone": "act11d0"
   },
@@ -8953,7 +8953,7 @@
     "id": "activities/act11d0/level_act11d0_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "TW-8 行动后"
+      "zh_CN": "TW-8 月光沉沦 行动后"
     },
     "zone": "act11d0"
   },
@@ -8961,7 +8961,7 @@
     "id": "activities/act11d0/level_act11d0_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "TW-ST-2"
+      "zh_CN": "TW-ST-2 余烬之上"
     },
     "zone": "act11d0"
   },
@@ -8969,7 +8969,7 @@
     "id": "activities/act11d0/level_act11d0_sub-1-1_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "TW-S-1 行动后"
+      "zh_CN": "TW-S-1 三座巨像 行动后"
     },
     "zone": "act11d0"
   },
@@ -8977,7 +8977,7 @@
     "id": "activities/act11d0/level_act11d0_sub-1-2_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "TW-S-2 行动后"
+      "zh_CN": "TW-S-2 一束哀悼 行动后"
     },
     "zone": "act11d0"
   },
@@ -8995,7 +8995,7 @@
     "id": "obt/main/level_main_05-03_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "5-3 行动前"
+      "zh_CN": "5-3 义胆凡躯 行动前"
     },
     "zone": "main_5"
   },
@@ -9063,7 +9063,7 @@
     "id": "activities/act9d0/level_act9d0_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "DM-ST-1"
+      "zh_CN": "DM-ST-1 求生"
     },
     "zone": "act9d0"
   },
@@ -9071,7 +9071,7 @@
     "id": "activities/act9d0/level_act9d0_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "DM-1 行动前"
+      "zh_CN": "DM-1 埋藏 行动前"
     },
     "zone": "act9d0"
   },
@@ -9079,7 +9079,7 @@
     "id": "activities/act9d0/level_act9d0_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DM-1 行动后"
+      "zh_CN": "DM-1 埋藏 行动后"
     },
     "zone": "act9d0"
   },
@@ -9087,7 +9087,7 @@
     "id": "activities/act9d0/level_act9d0_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "DM-2 行动前"
+      "zh_CN": "DM-2 偶然 行动前"
     },
     "zone": "act9d0"
   },
@@ -9095,7 +9095,7 @@
     "id": "obt/main/level_main_05-03_end",
     "type": "Main",
     "name": {
-      "zh_CN": "5-3 行动后"
+      "zh_CN": "5-3 义胆凡躯 行动后"
     },
     "zone": "main_5"
   },
@@ -9103,7 +9103,7 @@
     "id": "activities/act9d0/level_act9d0_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DM-2 行动后"
+      "zh_CN": "DM-2 偶然 行动后"
     },
     "zone": "act9d0"
   },
@@ -9111,7 +9111,7 @@
     "id": "activities/act9d0/level_act9d0_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "DM-3 行动前"
+      "zh_CN": "DM-3 挤压 行动前"
     },
     "zone": "act9d0"
   },
@@ -9119,7 +9119,7 @@
     "id": "activities/act9d0/level_act9d0_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DM-5 行动后"
+      "zh_CN": "DM-5 旗帜 行动后"
     },
     "zone": "act9d0"
   },
@@ -9127,7 +9127,7 @@
     "id": "activities/act9d0/level_act9d0_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "DM-6 行动前"
+      "zh_CN": "DM-6 远遁 行动前"
     },
     "zone": "act9d0"
   },
@@ -9135,7 +9135,7 @@
     "id": "activities/act9d0/level_act9d0_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DM-6 行动后"
+      "zh_CN": "DM-6 远遁 行动后"
     },
     "zone": "act9d0"
   },
@@ -9143,7 +9143,7 @@
     "id": "activities/act9d0/level_act9d0_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "DM-7 行动前"
+      "zh_CN": "DM-7 龟裂 行动前"
     },
     "zone": "act9d0"
   },
@@ -9151,7 +9151,7 @@
     "id": "activities/act9d0/level_act9d0_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DM-7 行动后"
+      "zh_CN": "DM-7 龟裂 行动后"
     },
     "zone": "act9d0"
   },
@@ -9159,7 +9159,7 @@
     "id": "activities/act9d0/level_act9d0_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "DM-8 行动前"
+      "zh_CN": "DM-8 离散 行动前"
     },
     "zone": "act9d0"
   },
@@ -9167,7 +9167,7 @@
     "id": "activities/act9d0/level_act9d0_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "DM-8 行动后"
+      "zh_CN": "DM-8 离散 行动后"
     },
     "zone": "act9d0"
   },
@@ -9183,7 +9183,7 @@
     "id": "obt/main/level_main_05-04_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "5-4 行动前"
+      "zh_CN": "5-4 没人在家 行动前"
     },
     "zone": "main_5"
   },
@@ -9281,7 +9281,7 @@
     "id": "activities/act5d0/level_act5d0_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-ST1"
+      "zh_CN": "CB-ST1 晚风轻拂"
     },
     "zone": "act5d0"
   },
@@ -9289,7 +9289,7 @@
     "id": "obt/main/level_main_05-04_end",
     "type": "Main",
     "name": {
-      "zh_CN": "5-4 行动后"
+      "zh_CN": "5-4 没人在家 行动后"
     },
     "zone": "main_5"
   },
@@ -9297,7 +9297,7 @@
     "id": "activities/act5d0/level_act5d0_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-ST2"
+      "zh_CN": "CB-ST2 午夜龙门"
     },
     "zone": "act5d0"
   },
@@ -9305,7 +9305,7 @@
     "id": "activities/act5d0/level_act5d0_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-ST3"
+      "zh_CN": "CB-ST3 破晓时分"
     },
     "zone": "act5d0"
   },
@@ -9313,7 +9313,7 @@
     "id": "activities/act5d0/level_act5d0_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-1 行动前"
+      "zh_CN": "CB-1 6:44P.M. 行动前"
     },
     "zone": "act5d0"
   },
@@ -9321,7 +9321,7 @@
     "id": "activities/act5d0/level_act5d0_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-1 行动后"
+      "zh_CN": "CB-1 6:44P.M. 行动后"
     },
     "zone": "act5d0"
   },
@@ -9329,7 +9329,7 @@
     "id": "activities/act5d0/level_act5d0_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-2 行动前"
+      "zh_CN": "CB-2 7:15P.M. 行动前"
     },
     "zone": "act5d0"
   },
@@ -9337,7 +9337,7 @@
     "id": "activities/act5d0/level_act5d0_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-2 行动后"
+      "zh_CN": "CB-2 7:15P.M. 行动后"
     },
     "zone": "act5d0"
   },
@@ -9345,7 +9345,7 @@
     "id": "activities/act5d0/level_act5d0_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-3 行动前"
+      "zh_CN": "CB-3 7:22P.M. 行动前"
     },
     "zone": "act5d0"
   },
@@ -9353,7 +9353,7 @@
     "id": "activities/act5d0/level_act5d0_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-3 行动后"
+      "zh_CN": "CB-3 7:22P.M. 行动后"
     },
     "zone": "act5d0"
   },
@@ -9361,7 +9361,7 @@
     "id": "activities/act5d0/level_act5d0_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-4 行动前"
+      "zh_CN": "CB-4 7:59P.M. 行动前"
     },
     "zone": "act5d0"
   },
@@ -9369,7 +9369,7 @@
     "id": "activities/act5d0/level_act5d0_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-4 行动后"
+      "zh_CN": "CB-4 7:59P.M. 行动后"
     },
     "zone": "act5d0"
   },
@@ -9377,7 +9377,7 @@
     "id": "obt/main/level_main_05-06_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "5-6 行动前"
+      "zh_CN": "5-6 疑兵之计 行动前"
     },
     "zone": "main_5"
   },
@@ -9385,7 +9385,7 @@
     "id": "activities/act5d0/level_act5d0_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-5 行动前"
+      "zh_CN": "CB-5 8:31P.M. 行动前"
     },
     "zone": "act5d0"
   },
@@ -9393,7 +9393,7 @@
     "id": "activities/act5d0/level_act5d0_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-5 行动后"
+      "zh_CN": "CB-5 8:31P.M. 行动后"
     },
     "zone": "act5d0"
   },
@@ -9401,7 +9401,7 @@
     "id": "activities/act5d0/level_act5d0_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-6 行动前"
+      "zh_CN": "CB-6 10:26P.M. 行动前"
     },
     "zone": "act5d0"
   },
@@ -9409,7 +9409,7 @@
     "id": "activities/act5d0/level_act5d0_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-6 行动后"
+      "zh_CN": "CB-6 10:26P.M. 行动后"
     },
     "zone": "act5d0"
   },
@@ -9417,7 +9417,7 @@
     "id": "activities/act5d0/level_act5d0_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-7 行动前"
+      "zh_CN": "CB-7 11:08P.M. 行动前"
     },
     "zone": "act5d0"
   },
@@ -9425,7 +9425,7 @@
     "id": "activities/act5d0/level_act5d0_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-7 行动后"
+      "zh_CN": "CB-7 11:08P.M. 行动后"
     },
     "zone": "act5d0"
   },
@@ -9433,7 +9433,7 @@
     "id": "activities/act5d0/level_act5d0_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-8 行动前"
+      "zh_CN": "CB-8 11:41P.M. 行动前"
     },
     "zone": "act5d0"
   },
@@ -9441,7 +9441,7 @@
     "id": "activities/act5d0/level_act5d0_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-8 行动后"
+      "zh_CN": "CB-8 11:41P.M. 行动后"
     },
     "zone": "act5d0"
   },
@@ -9449,7 +9449,7 @@
     "id": "activities/act5d0/level_act5d0_09_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-9 行动前"
+      "zh_CN": "CB-9 0:01A.M. 行动前"
     },
     "zone": "act5d0"
   },
@@ -9457,7 +9457,7 @@
     "id": "activities/act5d0/level_act5d0_09_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-9 行动后"
+      "zh_CN": "CB-9 0:01A.M. 行动后"
     },
     "zone": "act5d0"
   },
@@ -9465,7 +9465,7 @@
     "id": "obt/main/level_main_00-08_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "0-8 行动前"
+      "zh_CN": "0-8 狩猎 行动前"
     },
     "zone": "main_0"
   },
@@ -9473,7 +9473,7 @@
     "id": "obt/main/level_main_05-06_end",
     "type": "Main",
     "name": {
-      "zh_CN": "5-6 行动后"
+      "zh_CN": "5-6 疑兵之计 行动后"
     },
     "zone": "main_5"
   },
@@ -9481,7 +9481,7 @@
     "id": "activities/act5d0/level_act5d0_10_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-10 行动前"
+      "zh_CN": "CB-10 1:11A.M. 行动前"
     },
     "zone": "act5d0"
   },
@@ -9489,7 +9489,7 @@
     "id": "activities/act5d0/level_act5d0_10_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-10 行动后"
+      "zh_CN": "CB-10 1:11A.M. 行动后"
     },
     "zone": "act5d0"
   },
@@ -9497,7 +9497,7 @@
     "id": "activities/act5d0/level_act5d0_ex01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-EX1 行动后"
+      "zh_CN": "CB-EX1 群架诀窍 行动后"
     },
     "zone": "act5d0"
   },
@@ -9505,7 +9505,7 @@
     "id": "activities/act5d0/level_act5d0_ex02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-EX2 行动后"
+      "zh_CN": "CB-EX2 南辕北辙 行动后"
     },
     "zone": "act5d0"
   },
@@ -9513,7 +9513,7 @@
     "id": "activities/act5d0/level_act5d0_ex03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "CB-EX3 行动后"
+      "zh_CN": "CB-EX3 林中小屋 行动后"
     },
     "zone": "act5d0"
   },
@@ -9571,7 +9571,7 @@
     "id": "obt/main/level_main_05-07_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "5-7 行动前"
+      "zh_CN": "5-7 生死与共 行动前"
     },
     "zone": "main_5"
   },
@@ -9599,7 +9599,7 @@
     "id": "activities/act3d0/level_act3d0_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-ST1"
+      "zh_CN": "OF-ST1 摇滚起来"
     },
     "zone": "act3d0"
   },
@@ -9607,7 +9607,7 @@
     "id": "activities/act3d0/level_act3d0_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-ST2"
+      "zh_CN": "OF-ST2 冲破藩篱"
     },
     "zone": "act3d0"
   },
@@ -9615,7 +9615,7 @@
     "id": "activities/act3d0/level_act3d0_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-ST3"
+      "zh_CN": "OF-ST3 压力之下"
     },
     "zone": "act3d0"
   },
@@ -9623,7 +9623,7 @@
     "id": "activities/act3d0/level_act3d0_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-ST4"
+      "zh_CN": "OF-ST4 爱某个人"
     },
     "zone": "act3d0"
   },
@@ -9631,7 +9631,7 @@
     "id": "activities/act3d0/level_act3d0_st05",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-ST5"
+      "zh_CN": "OF-ST5 此生挚爱"
     },
     "zone": "act3d0"
   },
@@ -9639,7 +9639,7 @@
     "id": "activities/act3d0/level_act3d0_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-1 行动前"
+      "zh_CN": "OF-1 火山制造 行动前"
     },
     "zone": "act3d0"
   },
@@ -9647,7 +9647,7 @@
     "id": "activities/act3d0/level_act3d0_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-1 行动后"
+      "zh_CN": "OF-1 火山制造 行动后"
     },
     "zone": "act3d0"
   },
@@ -9655,7 +9655,7 @@
     "id": "activities/act3d0/level_act3d0_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-2 行动前"
+      "zh_CN": "OF-2 演出继续 行动前"
     },
     "zone": "act3d0"
   },
@@ -9663,7 +9663,7 @@
     "id": "obt/main/level_main_05-07_end",
     "type": "Main",
     "name": {
-      "zh_CN": "5-7 行动后"
+      "zh_CN": "5-7 生死与共 行动后"
     },
     "zone": "main_5"
   },
@@ -9671,7 +9671,7 @@
     "id": "activities/act3d0/level_act3d0_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-2 行动后"
+      "zh_CN": "OF-2 演出继续 行动后"
     },
     "zone": "act3d0"
   },
@@ -9679,7 +9679,7 @@
     "id": "activities/act3d0/level_act3d0_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-3 行动前"
+      "zh_CN": "OF-3 竞走赛 行动前"
     },
     "zone": "act3d0"
   },
@@ -9687,7 +9687,7 @@
     "id": "activities/act3d0/level_act3d0_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-3 行动后"
+      "zh_CN": "OF-3 竞走赛 行动后"
     },
     "zone": "act3d0"
   },
@@ -9695,7 +9695,7 @@
     "id": "activities/act3d0/level_act3d0_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-4 行动前"
+      "zh_CN": "OF-4 他是将军 行动前"
     },
     "zone": "act3d0"
   },
@@ -9703,7 +9703,7 @@
     "id": "activities/act3d0/level_act3d0_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-4 行动后"
+      "zh_CN": "OF-4 他是将军 行动后"
     },
     "zone": "act3d0"
   },
@@ -9711,7 +9711,7 @@
     "id": "activities/act3d0/level_act3d0_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-5 行动前"
+      "zh_CN": "OF-5 别阻止我 行动前"
     },
     "zone": "act3d0"
   },
@@ -9719,7 +9719,7 @@
     "id": "activities/act3d0/level_act3d0_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-5 行动后"
+      "zh_CN": "OF-5 别阻止我 行动后"
     },
     "zone": "act3d0"
   },
@@ -9727,7 +9727,7 @@
     "id": "activities/act3d0/level_act3d0_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-6 行动前"
+      "zh_CN": "OF-6 杀手女皇 行动前"
     },
     "zone": "act3d0"
   },
@@ -9735,7 +9735,7 @@
     "id": "activities/act3d0/level_act3d0_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-6 行动后"
+      "zh_CN": "OF-6 杀手女皇 行动后"
     },
     "zone": "act3d0"
   },
@@ -9743,7 +9743,7 @@
     "id": "activities/act3d0/level_act3d0_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-7 行动前"
+      "zh_CN": "OF-7 一锤定音 行动前"
     },
     "zone": "act3d0"
   },
@@ -9751,7 +9751,7 @@
     "id": "obt/main/level_main_05-09_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "5-9 行动前"
+      "zh_CN": "5-9 孽生恶物 行动前"
     },
     "zone": "main_5"
   },
@@ -9759,7 +9759,7 @@
     "id": "activities/act3d0/level_act3d0_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-7 行动后"
+      "zh_CN": "OF-7 一锤定音 行动后"
     },
     "zone": "act3d0"
   },
@@ -9767,7 +9767,7 @@
     "id": "activities/act3d0/level_act3d0_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-8 行动前"
+      "zh_CN": "OF-8 汐斯塔狂想曲 行动前"
     },
     "zone": "act3d0"
   },
@@ -9775,7 +9775,7 @@
     "id": "activities/act3d0/level_act3d0_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-8 行动后"
+      "zh_CN": "OF-8 汐斯塔狂想曲 行动后"
     },
     "zone": "act3d0"
   },
@@ -9783,7 +9783,7 @@
     "id": "activities/act3d0/level_act3d0_ex01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-EX1 行动后"
+      "zh_CN": "OF-EX1 预热活动 行动后"
     },
     "zone": "act3d0"
   },
@@ -9791,7 +9791,7 @@
     "id": "activities/act3d0/level_act3d0_ex03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-EX3 行动后"
+      "zh_CN": "OF-EX3 采访环节 行动后"
     },
     "zone": "act3d0"
   },
@@ -9799,7 +9799,7 @@
     "id": "activities/act3d0/level_act3d0_ex06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "OF-EX6 行动后"
+      "zh_CN": "OF-EX6 完美落幕 行动后"
     },
     "zone": "act3d0"
   },
@@ -9807,7 +9807,7 @@
     "id": "activities/a001/level_a001_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "GT-1 行动前"
+      "zh_CN": "GT-1 日正当中 行动前"
     },
     "zone": "1stact"
   },
@@ -9815,7 +9815,7 @@
     "id": "activities/a001/level_a001_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "GT-1 行动后"
+      "zh_CN": "GT-1 日正当中 行动后"
     },
     "zone": "1stact"
   },
@@ -9823,7 +9823,7 @@
     "id": "activities/a001/level_a001_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "GT-2 行动前"
+      "zh_CN": "GT-2 察言观色 行动前"
     },
     "zone": "1stact"
   },
@@ -9831,7 +9831,7 @@
     "id": "activities/a001/level_a001_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "GT-2 行动后"
+      "zh_CN": "GT-2 察言观色 行动后"
     },
     "zone": "1stact"
   },
@@ -9839,7 +9839,7 @@
     "id": "obt/main/level_main_05-09_end",
     "type": "Main",
     "name": {
-      "zh_CN": "5-9 行动后"
+      "zh_CN": "5-9 孽生恶物 行动后"
     },
     "zone": "main_5"
   },
@@ -9847,7 +9847,7 @@
     "id": "activities/a001/level_a001_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "GT-3 行动前"
+      "zh_CN": "GT-3 意外之旅 行动前"
     },
     "zone": "1stact"
   },
@@ -9855,7 +9855,7 @@
     "id": "activities/a001/level_a001_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "GT-3 行动后"
+      "zh_CN": "GT-3 意外之旅 行动后"
     },
     "zone": "1stact"
   },
@@ -9863,7 +9863,7 @@
     "id": "activities/a001/level_a001_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "GT-4 行动前"
+      "zh_CN": "GT-4 污点证人 行动前"
     },
     "zone": "1stact"
   },
@@ -9871,7 +9871,7 @@
     "id": "activities/a001/level_a001_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "GT-4 行动后"
+      "zh_CN": "GT-4 污点证人 行动后"
     },
     "zone": "1stact"
   },
@@ -9879,7 +9879,7 @@
     "id": "activities/a001/level_a001_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "GT-5 行动前"
+      "zh_CN": "GT-5 各抒己见 行动前"
     },
     "zone": "1stact"
   },
@@ -9887,7 +9887,7 @@
     "id": "activities/a001/level_a001_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "GT-5 行动后"
+      "zh_CN": "GT-5 各抒己见 行动后"
     },
     "zone": "1stact"
   },
@@ -9895,7 +9895,7 @@
     "id": "activities/a001/level_a001_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "GT-6 行动前"
+      "zh_CN": "GT-6 黄金三角 行动前"
     },
     "zone": "1stact"
   },
@@ -9903,7 +9903,7 @@
     "id": "activities/a001/level_a001_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "GT-6 行动后"
+      "zh_CN": "GT-6 黄金三角 行动后"
     },
     "zone": "1stact"
   },
@@ -9911,7 +9911,7 @@
     "id": "activities/a001/level_a001_ex01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "GT-EX-1 行动后"
+      "zh_CN": "GT-EX-1 大地惊雷 行动后"
     },
     "zone": "1stact"
   },
@@ -9919,7 +9919,7 @@
     "id": "activities/a001/level_a001_ex03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "GT-EX-3 行动后"
+      "zh_CN": "GT-EX-3 与狼共舞 行动后"
     },
     "zone": "1stact"
   },
@@ -9927,7 +9927,7 @@
     "id": "obt/main/level_main_05-10_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "5-10 行动前"
+      "zh_CN": "5-10 长夜终尽 行动前"
     },
     "zone": "main_5"
   },
@@ -9935,7 +9935,7 @@
     "id": "activities/a001/level_a001_ex04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "GT-HX-1 行动后"
+      "zh_CN": "GT-HX-1 碧血金沙 行动后"
     },
     "zone": "1stact"
   },
@@ -9943,7 +9943,7 @@
     "id": "activities/a001/level_a001_ex06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "GT-HX-3 行动后"
+      "zh_CN": "GT-HX-3 西部往事 行动后"
     },
     "zone": "1stact"
   },
@@ -10031,7 +10031,7 @@
     "id": "obt/main/level_main_05-10_end",
     "type": "Main",
     "name": {
-      "zh_CN": "5-10 行动后"
+      "zh_CN": "5-10 长夜终尽 行动后"
     },
     "zone": "main_5"
   },
@@ -10139,7 +10139,7 @@
     "id": "obt/main/level_main_06-01_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "6-1 行动前"
+      "zh_CN": "6-1 僵局 行动前"
     },
     "zone": "main_6"
   },
@@ -10247,7 +10247,7 @@
     "id": "obt/main/level_main_06-01_end",
     "type": "Main",
     "name": {
-      "zh_CN": "6-1 行动后"
+      "zh_CN": "6-1 僵局 行动后"
     },
     "zone": "main_6"
   },
@@ -10355,7 +10355,7 @@
     "id": "obt/main/level_main_06-02_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "6-2 行动前"
+      "zh_CN": "6-2 一些误会 行动前"
     },
     "zone": "main_6"
   },
