@@ -1587,7 +1587,8 @@
     "id": "obt/memory/story_blkngt_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "荒地生灵"
+      "zh_CN": "荒地生灵",
+      "ja_JP": "荒野に生まれ"
     },
     "code": null,
     "zone": "blkngt"
@@ -1596,7 +1597,8 @@
     "id": "obt/memory/story_quercu_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "终途"
+      "zh_CN": "终途",
+      "ja_JP": "終の道"
     },
     "code": null,
     "zone": "quercu"
@@ -1616,7 +1618,8 @@
     "id": "obt/memory/story_quercu_2_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "生命的萌芽"
+      "zh_CN": "生命的萌芽",
+      "ja_JP": "命の芽吹き"
     },
     "code": null,
     "zone": "quercu"
@@ -1625,7 +1628,8 @@
     "id": "obt/memory/story_iris_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "糖果屋"
+      "zh_CN": "糖果屋",
+      "ja_JP": "お菓子の家"
     },
     "code": null,
     "zone": "iris"
@@ -1634,7 +1638,8 @@
     "id": "obt/memory/story_chiave_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "代表作"
+      "zh_CN": "代表作",
+      "ja_JP": "代表作"
     },
     "code": null,
     "zone": "chiave"
@@ -2546,7 +2551,8 @@
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_4_1",
     "type": "Rogue",
     "name": {
-      "zh_CN": "星辰泡沫 Part.01"
+      "zh_CN": "星辰泡沫 Part.01",
+      "ja_JP": "星海の泡沫 Part.01"
     },
     "code": null,
     "zone": "rogue_2"
@@ -2555,7 +2561,8 @@
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_4_2",
     "type": "Rogue",
     "name": {
-      "zh_CN": "星辰泡沫 Part.02"
+      "zh_CN": "星辰泡沫 Part.02",
+      "ja_JP": "星海の泡沫 Part.02"
     },
     "code": null,
     "zone": "rogue_2"
@@ -2564,7 +2571,8 @@
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_4_3",
     "type": "Rogue",
     "name": {
-      "zh_CN": "星辰泡沫 Part.03"
+      "zh_CN": "星辰泡沫 Part.03",
+      "ja_JP": "星海の泡沫 Part.03"
     },
     "code": null,
     "zone": "rogue_2"
@@ -5693,7 +5701,8 @@
     "id": "activities/act14mini/level_act14mini_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "近乡情怯"
+      "zh_CN": "近乡情怯",
+      "ja_JP": "郷心というもの"
     },
     "code": "DC-ST1",
     "zone": "act14mini"
@@ -5702,7 +5711,8 @@
     "id": "activities/act14mini/level_act14mini_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "中庭旅谷"
+      "zh_CN": "中庭旅谷",
+      "ja_JP": "茫々たる庭"
     },
     "code": "DC-ST2",
     "zone": "act14mini"
@@ -5711,7 +5721,8 @@
     "id": "activities/act14mini/level_act14mini_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "不问鬼神"
+      "zh_CN": "不问鬼神",
+      "ja_JP": "鬼神を問わず"
     },
     "code": "DC-ST3",
     "zone": "act14mini"
@@ -5720,7 +5731,8 @@
     "id": "activities/act14mini/level_act14mini_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "出入平安"
+      "zh_CN": "出入平安",
+      "ja_JP": "平穏を願い"
     },
     "code": "DC-ST4",
     "zone": "act14mini"
@@ -5740,7 +5752,8 @@
     "id": "activities/act14mini/level_act14mini_st05",
     "type": "Activity",
     "name": {
-      "zh_CN": "无名之辈"
+      "zh_CN": "无名之辈",
+      "ja_JP": "無名の輩"
     },
     "code": "DC-ST5",
     "zone": "act14mini"
@@ -5749,7 +5762,8 @@
     "id": "activities/act14mini/level_act14mini_st06",
     "type": "Activity",
     "name": {
-      "zh_CN": "独见寒山"
+      "zh_CN": "独见寒山",
+      "ja_JP": "独り寒山を見る"
     },
     "code": "DC-ST6",
     "zone": "act14mini"
