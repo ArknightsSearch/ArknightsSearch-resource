@@ -1588,7 +1588,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "荒地生灵",
-      "ja_JP": "荒野に生まれ"
+      "ja_JP": "荒野に生まれ",
+      "en_US": "Souls of the Wilderness"
     },
     "code": null,
     "zone": "blkngt"
@@ -1598,7 +1599,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "终途",
-      "ja_JP": "終の道"
+      "ja_JP": "終の道",
+      "en_US": "Final Moments"
     },
     "code": null,
     "zone": "quercu"
@@ -1619,7 +1621,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "生命的萌芽",
-      "ja_JP": "命の芽吹き"
+      "ja_JP": "命の芽吹き",
+      "en_US": "The Sprouts of Life"
     },
     "code": null,
     "zone": "quercu"
@@ -1629,7 +1632,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "糖果屋",
-      "ja_JP": "お菓子の家"
+      "ja_JP": "お菓子の家",
+      "en_US": "The Candy House"
     },
     "code": null,
     "zone": "iris"
@@ -1639,7 +1643,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "代表作",
-      "ja_JP": "代表作"
+      "ja_JP": "代表作",
+      "en_US": "Masterpiece"
     },
     "code": null,
     "zone": "chiave"
@@ -2552,7 +2557,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "星辰泡沫 Part.01",
-      "ja_JP": "星海の泡沫 Part.01"
+      "ja_JP": "星海の泡沫 Part.01",
+      "en_US": "Starry Seafoam Part.01"
     },
     "code": null,
     "zone": "rogue_2"
@@ -2562,7 +2568,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "星辰泡沫 Part.02",
-      "ja_JP": "星海の泡沫 Part.02"
+      "ja_JP": "星海の泡沫 Part.02",
+      "en_US": "Starry Seafoam Part.02"
     },
     "code": null,
     "zone": "rogue_2"
@@ -2572,7 +2579,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "星辰泡沫 Part.03",
-      "ja_JP": "星海の泡沫 Part.03"
+      "ja_JP": "星海の泡沫 Part.03",
+      "en_US": "Starry Seafoam Part.03"
     },
     "code": null,
     "zone": "rogue_2"
@@ -5702,7 +5710,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "近乡情怯",
-      "ja_JP": "郷心というもの"
+      "ja_JP": "郷心というもの",
+      "en_US": "Afraid to Return Home"
     },
     "code": "DC-ST1",
     "zone": "act14mini"
@@ -5712,7 +5721,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "中庭旅谷",
-      "ja_JP": "茫々たる庭"
+      "ja_JP": "茫々たる庭",
+      "en_US": "Courtyard Valley"
     },
     "code": "DC-ST2",
     "zone": "act14mini"
@@ -5722,7 +5732,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "不问鬼神",
-      "ja_JP": "鬼神を問わず"
+      "ja_JP": "鬼神を問わず",
+      "en_US": "Neither Gods Nor Demons"
     },
     "code": "DC-ST3",
     "zone": "act14mini"
@@ -5732,7 +5743,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "出入平安",
-      "ja_JP": "平穏を願い"
+      "ja_JP": "平穏を願い",
+      "en_US": "Health and Safety"
     },
     "code": "DC-ST4",
     "zone": "act14mini"
@@ -5753,7 +5765,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "无名之辈",
-      "ja_JP": "無名の輩"
+      "ja_JP": "無名の輩",
+      "en_US": "Nameless Minion"
     },
     "code": "DC-ST5",
     "zone": "act14mini"
@@ -5763,7 +5776,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "独见寒山",
-      "ja_JP": "独り寒山を見る"
+      "ja_JP": "独り寒山を見る",
+      "en_US": "Lone Mountain"
     },
     "code": "DC-ST6",
     "zone": "act14mini"
