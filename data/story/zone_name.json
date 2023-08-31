@@ -426,6 +426,11 @@
     "ja_JP": "キアーベ",
     "zh_CN": "贾维"
   },
+  "chnut": {
+    "en_US": "Chestnut",
+    "ja_JP": "チェストナット",
+    "zh_CN": "褐果"
+  },
   "chyue": {
     "en_US": "Chongyue",
     "ja_JP": "チョンユエ",
@@ -586,6 +591,11 @@
     "ja_JP": "ハニーベリー",
     "zh_CN": "蜜莓"
   },
+  "grani": {
+    "en_US": "Grani",
+    "ja_JP": "グラニ",
+    "zh_CN": "格拉尼"
+  },
   "gravel": {
     "en_US": "Gravel",
     "ja_JP": "グラベル",
@@ -635,6 +645,11 @@
     "en_US": "Hellagur",
     "ja_JP": "ヘラグ",
     "zh_CN": "赫拉格"
+  },
+  "hibisc": {
+    "en_US": "Hibiscus",
+    "ja_JP": "ハイビスカス",
+    "zh_CN": "芙蓉"
   },
   "hmau": {
     "en_US": "Hung",
@@ -814,6 +829,11 @@
     "en_US": "Stormwatch",
     "ja_JP": "暴風眺望",
     "zh_CN": "风暴瞭望"
+  },
+  "malist": {
+    "en_US": "Minimalist",
+    "ja_JP": "ミニマリスト",
+    "zh_CN": "至简"
   },
   "mantic": {
     "en_US": "Manticore",
