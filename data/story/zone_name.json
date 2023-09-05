@@ -192,6 +192,9 @@
   "act27side": {
     "zh_CN": "火山旅梦"
   },
+  "act28side": {
+    "zh_CN": "不义之财"
+  },
   "act3d0": {
     "en_US": "Heart of Surging Flame",
     "ja_JP": "青く燃ゆる心",
@@ -436,6 +439,11 @@
     "ja_JP": "チョンユエ",
     "zh_CN": "重岳"
   },
+  "crow": {
+    "en_US": "La Pluma",
+    "ja_JP": "ラ・プルマ",
+    "zh_CN": "羽毛笔"
+  },
   "ctable": {
     "en_US": "Cantabile",
     "ja_JP": "カンタービレ",
@@ -501,6 +509,9 @@
     "ja_JP": "イグゼキュター",
     "zh_CN": "送葬人"
   },
+  "excu2": {
+    "zh_CN": "圣约送葬人"
+  },
   "f12yin": {
     "en_US": "Mountain",
     "ja_JP": "マウンテン",
@@ -515,6 +526,11 @@
     "en_US": "Fang",
     "ja_JP": "フェン",
     "zh_CN": "芬"
+  },
+  "finlpp": {
+    "en_US": "Purestream",
+    "ja_JP": "セイリュウ",
+    "zh_CN": "清流"
   },
   "firwhl": {
     "en_US": "Firewhistle",
@@ -701,6 +717,9 @@
     "en_US": "Jackie",
     "ja_JP": "ジャッキー",
     "zh_CN": "杰克"
+  },
+  "jesca2": {
+    "zh_CN": "涤火杰西卡"
   },
   "jesica": {
     "en_US": "Jessica",
