@@ -1786,7 +1786,7 @@
     "type": "Memory",
     "name": {
       "zh_CN": "惊弓一夜",
-      "ja_JP": "肝を冷やす夜　",
+      "ja_JP": "肝を冷やす夜",
       "en_US": "A Night of Terror"
     },
     "code": null,
@@ -1884,7 +1884,8 @@
     "id": "obt/memory/story_bgsnow_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "墨迹已落"
+      "zh_CN": "墨迹已落",
+      "ja_JP": "インクの染み"
     },
     "code": null,
     "zone": "bgsnow"
@@ -1893,7 +1894,8 @@
     "id": "obt/memory/story_tknogi_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "寻常夕阳"
+      "zh_CN": "寻常夕阳",
+      "ja_JP": "いつもの夕日"
     },
     "code": null,
     "zone": "tknogi"
@@ -1902,7 +1904,8 @@
     "id": "obt/memory/story_snsant_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "数字问题"
+      "zh_CN": "数字问题",
+      "ja_JP": "数字の問題"
     },
     "code": null,
     "zone": "snsant"
@@ -1911,7 +1914,8 @@
     "id": "obt/memory/story_acdrop_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "一面墙"
+      "zh_CN": "一面墙",
+      "ja_JP": "壁"
     },
     "code": null,
     "zone": "acdrop"
@@ -6026,7 +6030,8 @@
     "id": "activities/act24side/level_act24side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "噩梦"
+      "zh_CN": "噩梦",
+      "ja_JP": "悪夢"
     },
     "code": "CF-ST-1",
     "zone": "act24side"
@@ -6035,7 +6040,8 @@
     "id": "activities/act24side/level_act24side_tr01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "来袭！天空的王者！"
+      "zh_CN": "来袭！天空的王者！",
+      "ja_JP": "襲来！天空の王者！"
     },
     "code": "CF-TR-1",
     "zone": "act24side"
@@ -6044,7 +6050,8 @@
     "id": "activities/act24side/level_act24side_tr01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "来袭！天空的王者！"
+      "zh_CN": "来袭！天空的王者！",
+      "ja_JP": "襲来！天空の王者！"
     },
     "code": "CF-TR-1",
     "zone": "act24side"
@@ -6053,7 +6060,8 @@
     "id": "activities/act24side/level_act24side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "坚硬磐石"
+      "zh_CN": "坚硬磐石",
+      "ja_JP": "盤石の守り"
     },
     "code": "CF-2",
     "zone": "act24side"
@@ -6073,7 +6081,8 @@
     "id": "activities/act24side/level_act24side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "坚硬磐石"
+      "zh_CN": "坚硬磐石",
+      "ja_JP": "盤石の守り"
     },
     "code": "CF-2",
     "zone": "act24side"
@@ -6082,7 +6091,8 @@
     "id": "activities/act24side/level_act24side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "迎头痛击"
+      "zh_CN": "迎头痛击",
+      "ja_JP": "向き合いて斬れ"
     },
     "code": "CF-3",
     "zone": "act24side"
@@ -6091,7 +6101,8 @@
     "id": "activities/act24side/level_act24side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "破空的飞羽"
+      "zh_CN": "破空的飞羽",
+      "ja_JP": "風掴む羽"
     },
     "code": "CF-4",
     "zone": "act24side"
@@ -6100,7 +6111,8 @@
     "id": "activities/act24side/level_act24side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "林昏焰明"
+      "zh_CN": "林昏焰明",
+      "ja_JP": "燃ゆる焔と昏き森"
     },
     "code": "CF-ST-2",
     "zone": "act24side"
@@ -6109,7 +6121,8 @@
     "id": "activities/act24side/level_act24side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "野蛮肇事者"
+      "zh_CN": "野蛮肇事者",
+      "ja_JP": "猛る荒くれ者"
     },
     "code": "CF-5",
     "zone": "act24side"
@@ -6118,7 +6131,8 @@
     "id": "activities/act24side/level_act24side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "野蛮肇事者"
+      "zh_CN": "野蛮肇事者",
+      "ja_JP": "猛る荒くれ者"
     },
     "code": "CF-5",
     "zone": "act24side"
@@ -6127,7 +6141,8 @@
     "id": "activities/act24side/level_act24side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "禁飞区"
+      "zh_CN": "禁飞区",
+      "ja_JP": "「飛ぶな」の禁"
     },
     "code": "CF-6",
     "zone": "act24side"
@@ -6136,7 +6151,8 @@
     "id": "activities/act24side/level_act24side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "禁飞区"
+      "zh_CN": "禁飞区",
+      "ja_JP": "「飛ぶな」の禁"
     },
     "code": "CF-6",
     "zone": "act24side"
@@ -6145,7 +6161,8 @@
     "id": "activities/act24side/level_act24side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "锥心之刺"
+      "zh_CN": "锥心之刺",
+      "ja_JP": "心刺す棘"
     },
     "code": "CF-7",
     "zone": "act24side"
@@ -6154,7 +6171,8 @@
     "id": "activities/act24side/level_act24side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "锥心之刺"
+      "zh_CN": "锥心之刺",
+      "ja_JP": "心刺す棘"
     },
     "code": "CF-7",
     "zone": "act24side"
@@ -6185,7 +6203,8 @@
     "id": "activities/act24side/level_act24side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "奸诈者必自食恶果"
+      "zh_CN": "奸诈者必自食恶果",
+      "ja_JP": "悪童への報い"
     },
     "code": "CF-8",
     "zone": "act24side"
@@ -6194,7 +6213,8 @@
     "id": "activities/act24side/level_act24side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "奸诈者必自食恶果"
+      "zh_CN": "奸诈者必自食恶果",
+      "ja_JP": "悪童への報い"
     },
     "code": "CF-8",
     "zone": "act24side"
@@ -6203,7 +6223,8 @@
     "id": "activities/act24side/level_act24side_09_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "决战！燃烧的狩魂！"
+      "zh_CN": "决战！燃烧的狩魂！",
+      "ja_JP": "決戦！燃える狩猟魂！"
     },
     "code": "CF-9",
     "zone": "act24side"
@@ -6212,7 +6233,8 @@
     "id": "activities/act24side/level_act24side_09_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "决战！燃烧的狩魂！"
+      "zh_CN": "决战！燃烧的狩魂！",
+      "ja_JP": "決戦！燃える狩猟魂！"
     },
     "code": "CF-9",
     "zone": "act24side"
@@ -6221,7 +6243,8 @@
     "id": "activities/act24side/level_act24side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "晨曦"
+      "zh_CN": "晨曦",
+      "ja_JP": "夜明け"
     },
     "code": "CF-ST-3",
     "zone": "act24side"
