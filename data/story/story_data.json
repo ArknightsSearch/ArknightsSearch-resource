@@ -1928,7 +1928,8 @@
     "id": "obt/memory/story_bison_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "充实的假期"
+      "zh_CN": "充实的假期",
+      "ja_JP": "充実した休み"
     },
     "code": null,
     "zone": "bison"
@@ -1937,7 +1938,8 @@
     "id": "obt/memory/story_breeze_2_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "囚徒的幻梦"
+      "zh_CN": "囚徒的幻梦",
+      "ja_JP": "囚われ人のゆめ"
     },
     "code": null,
     "zone": "breeze"
@@ -1946,7 +1948,8 @@
     "id": "obt/memory/story_vodfox_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "无字诅咒"
+      "zh_CN": "无字诅咒",
+      "ja_JP": "文字なき呪い"
     },
     "code": null,
     "zone": "vodfox"
@@ -1955,7 +1958,8 @@
     "id": "obt/memory/story_sophia_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "独家访谈"
+      "zh_CN": "独家访谈",
+      "ja_JP": "独占インタビュー"
     },
     "code": null,
     "zone": "sophia"
@@ -2920,7 +2924,8 @@
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_5_1",
     "type": "Rogue",
     "name": {
-      "zh_CN": "自虚无中 Part.01"
+      "zh_CN": "自虚无中 Part.01",
+      "ja_JP": "虚無より来たる Part.01"
     },
     "code": null,
     "zone": "rogue_2"
@@ -2929,7 +2934,8 @@
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_5_2",
     "type": "Rogue",
     "name": {
-      "zh_CN": "自虚无中 Part.02"
+      "zh_CN": "自虚无中 Part.02",
+      "ja_JP": "虚無より来たる Part.02"
     },
     "code": null,
     "zone": "rogue_2"
@@ -2938,7 +2944,8 @@
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_5_3",
     "type": "Rogue",
     "name": {
-      "zh_CN": "自虚无中 Part.03"
+      "zh_CN": "自虚无中 Part.03",
+      "ja_JP": "虚無より来たる Part.03"
     },
     "code": null,
     "zone": "rogue_2"
