@@ -1929,7 +1929,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "充实的假期",
-      "ja_JP": "充実した休み"
+      "ja_JP": "充実した休み",
+      "en_US": "A Fulfilling Holiday"
     },
     "code": null,
     "zone": "bison"
@@ -1939,7 +1940,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "囚徒的幻梦",
-      "ja_JP": "囚われ人のゆめ"
+      "ja_JP": "囚われ人のゆめ",
+      "en_US": "Prisoner's Dream"
     },
     "code": null,
     "zone": "breeze"
@@ -1949,7 +1951,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "无字诅咒",
-      "ja_JP": "文字なき呪い"
+      "ja_JP": "文字なき呪い",
+      "en_US": "A Curse Without Words"
     },
     "code": null,
     "zone": "vodfox"
@@ -1959,7 +1962,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "独家访谈",
-      "ja_JP": "独占インタビュー"
+      "ja_JP": "独占インタビュー",
+      "en_US": "Exclusive Interview"
     },
     "code": null,
     "zone": "sophia"
@@ -2925,7 +2929,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "自虚无中 Part.01",
-      "ja_JP": "虚無より来たる Part.01"
+      "ja_JP": "虚無より来たる Part.01",
+      "en_US": "Lost in Oblivion Part.01"
     },
     "code": null,
     "zone": "rogue_2"
@@ -2935,7 +2940,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "自虚无中 Part.02",
-      "ja_JP": "虚無より来たる Part.02"
+      "ja_JP": "虚無より来たる Part.02",
+      "en_US": "Lost in Oblivion Part.02"
     },
     "code": null,
     "zone": "rogue_2"
@@ -2945,7 +2951,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "自虚无中 Part.03",
-      "ja_JP": "虚無より来たる Part.03"
+      "ja_JP": "虚無より来たる Part.03",
+      "en_US": "Lost in Oblivion Part.03"
     },
     "code": null,
     "zone": "rogue_2"
