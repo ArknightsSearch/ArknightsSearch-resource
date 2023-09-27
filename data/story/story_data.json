@@ -2449,37 +2449,37 @@
     "zone": "crow"
   },
   "1206": {
+    "id": "obt/memory/story_clour_1_1",
+    "type": "Memory",
+    "name": {
+      "zh_CN": "安身之处"
+    },
+    "code": null,
+    "zone": "clour"
+  },
+  "1207": {
+    "id": "obt/memory/story_bena_1_1",
+    "type": "Memory",
+    "name": {
+      "zh_CN": "简单的愿望"
+    },
+    "code": null,
+    "zone": "bena"
+  },
+  "1208": {
+    "id": "obt/memory/story_dagda_1_1",
+    "type": "Memory",
+    "name": {
+      "zh_CN": "脚步不停"
+    },
+    "code": null,
+    "zone": "dagda"
+  },
+  "1209": {
     "id": "activities/act1sandbox/level_act1sandbox_ending_1",
     "type": "Activity",
     "name": {
       "zh_CN": "结局 1"
-    },
-    "code": null,
-    "zone": "act1sandbox"
-  },
-  "1207": {
-    "id": "activities/act1sandbox/level_act1sandbox_ending_2",
-    "type": "Activity",
-    "name": {
-      "zh_CN": "结局 2"
-    },
-    "code": null,
-    "zone": "act1sandbox"
-  },
-  "1208": {
-    "id": "activities/act1sandbox/level_act1sandbox_ending_3",
-    "type": "Activity",
-    "name": {
-      "zh_CN": "结局 3"
-    },
-    "code": null,
-    "zone": "act1sandbox"
-  },
-  "1209": {
-    "id": "activities/act1sandbox/level_act1sandbox_entry",
-    "type": "Activity",
-    "name": {
-      "zh_CN": "进入活动"
     },
     "code": null,
     "zone": "act1sandbox"
@@ -2496,6 +2496,33 @@
     "zone": "main_7"
   },
   "1210": {
+    "id": "activities/act1sandbox/level_act1sandbox_ending_2",
+    "type": "Activity",
+    "name": {
+      "zh_CN": "结局 2"
+    },
+    "code": null,
+    "zone": "act1sandbox"
+  },
+  "1211": {
+    "id": "activities/act1sandbox/level_act1sandbox_ending_3",
+    "type": "Activity",
+    "name": {
+      "zh_CN": "结局 3"
+    },
+    "code": null,
+    "zone": "act1sandbox"
+  },
+  "1212": {
+    "id": "activities/act1sandbox/level_act1sandbox_entry",
+    "type": "Activity",
+    "name": {
+      "zh_CN": "进入活动"
+    },
+    "code": null,
+    "zone": "act1sandbox"
+  },
+  "1213": {
     "id": "obt/rogue/month_chat_rogue_1_1/month_chat_rogue_1_1_1",
     "type": "Rogue",
     "name": {
@@ -2506,7 +2533,7 @@
     "code": null,
     "zone": "rogue_1"
   },
-  "1211": {
+  "1214": {
     "id": "obt/rogue/month_chat_rogue_1_1/month_chat_rogue_1_1_2",
     "type": "Rogue",
     "name": {
@@ -2517,7 +2544,7 @@
     "code": null,
     "zone": "rogue_1"
   },
-  "1212": {
+  "1215": {
     "id": "obt/rogue/month_chat_rogue_1_1/month_chat_rogue_1_1_3",
     "type": "Rogue",
     "name": {
@@ -2528,7 +2555,7 @@
     "code": null,
     "zone": "rogue_1"
   },
-  "1213": {
+  "1216": {
     "id": "obt/rogue/month_chat_rogue_1_2/month_chat_rogue_1_2_1",
     "type": "Rogue",
     "name": {
@@ -2539,7 +2566,7 @@
     "code": null,
     "zone": "rogue_1"
   },
-  "1214": {
+  "1217": {
     "id": "obt/rogue/month_chat_rogue_1_2/month_chat_rogue_1_2_2",
     "type": "Rogue",
     "name": {
@@ -2550,7 +2577,7 @@
     "code": null,
     "zone": "rogue_1"
   },
-  "1215": {
+  "1218": {
     "id": "obt/rogue/month_chat_rogue_1_2/month_chat_rogue_1_2_3",
     "type": "Rogue",
     "name": {
@@ -2561,46 +2588,13 @@
     "code": null,
     "zone": "rogue_1"
   },
-  "1216": {
+  "1219": {
     "id": "obt/rogue/month_chat_rogue_1_3/month_chat_rogue_1_3_1",
     "type": "Rogue",
     "name": {
       "zh_CN": "超级叙拉古人 Part.01",
       "ja_JP": "超シラクーザ人 Part.01",
       "en_US": "Super Siracusan Part.01"
-    },
-    "code": null,
-    "zone": "rogue_1"
-  },
-  "1217": {
-    "id": "obt/rogue/month_chat_rogue_1_3/month_chat_rogue_1_3_2",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "超级叙拉古人 Part.02",
-      "ja_JP": "超シラクーザ人 Part.02",
-      "en_US": "Super Siracusan Part.02"
-    },
-    "code": null,
-    "zone": "rogue_1"
-  },
-  "1218": {
-    "id": "obt/rogue/month_chat_rogue_1_3/month_chat_rogue_1_3_3",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "超级叙拉古人 Part.03",
-      "ja_JP": "超シラクーザ人 Part.03",
-      "en_US": "Super Siracusan Part.03"
-    },
-    "code": null,
-    "zone": "rogue_1"
-  },
-  "1219": {
-    "id": "obt/rogue/month_chat_rogue_1_4/month_chat_rogue_1_4_1",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "荒野大爆炸 Part.01",
-      "ja_JP": "荒野大爆発 Part.01",
-      "en_US": "Explosion in the Wilderness Part.01"
     },
     "code": null,
     "zone": "rogue_1"
@@ -2617,6 +2611,39 @@
     "zone": "main_7"
   },
   "1220": {
+    "id": "obt/rogue/month_chat_rogue_1_3/month_chat_rogue_1_3_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "超级叙拉古人 Part.02",
+      "ja_JP": "超シラクーザ人 Part.02",
+      "en_US": "Super Siracusan Part.02"
+    },
+    "code": null,
+    "zone": "rogue_1"
+  },
+  "1221": {
+    "id": "obt/rogue/month_chat_rogue_1_3/month_chat_rogue_1_3_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "超级叙拉古人 Part.03",
+      "ja_JP": "超シラクーザ人 Part.03",
+      "en_US": "Super Siracusan Part.03"
+    },
+    "code": null,
+    "zone": "rogue_1"
+  },
+  "1222": {
+    "id": "obt/rogue/month_chat_rogue_1_4/month_chat_rogue_1_4_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "荒野大爆炸 Part.01",
+      "ja_JP": "荒野大爆発 Part.01",
+      "en_US": "Explosion in the Wilderness Part.01"
+    },
+    "code": null,
+    "zone": "rogue_1"
+  },
+  "1223": {
     "id": "obt/rogue/month_chat_rogue_1_4/month_chat_rogue_1_4_2",
     "type": "Rogue",
     "name": {
@@ -2627,7 +2654,7 @@
     "code": null,
     "zone": "rogue_1"
   },
-  "1221": {
+  "1224": {
     "id": "obt/rogue/month_chat_rogue_1_4/month_chat_rogue_1_4_3",
     "type": "Rogue",
     "name": {
@@ -2638,7 +2665,7 @@
     "code": null,
     "zone": "rogue_1"
   },
-  "1222": {
+  "1225": {
     "id": "obt/rogue/month_chat_rogue_1_5/month_chat_rogue_1_5_1",
     "type": "Rogue",
     "name": {
@@ -2649,7 +2676,7 @@
     "code": null,
     "zone": "rogue_1"
   },
-  "1223": {
+  "1226": {
     "id": "obt/rogue/month_chat_rogue_1_5/month_chat_rogue_1_5_2",
     "type": "Rogue",
     "name": {
@@ -2660,7 +2687,7 @@
     "code": null,
     "zone": "rogue_1"
   },
-  "1224": {
+  "1227": {
     "id": "obt/rogue/month_chat_rogue_1_5/month_chat_rogue_1_5_3",
     "type": "Rogue",
     "name": {
@@ -2671,7 +2698,7 @@
     "code": null,
     "zone": "rogue_1"
   },
-  "1225": {
+  "1228": {
     "id": "obt/rogue/month_chat_rogue_1_6/month_chat_rogue_1_6_1",
     "type": "Rogue",
     "name": {
@@ -2682,46 +2709,13 @@
     "code": null,
     "zone": "rogue_1"
   },
-  "1226": {
+  "1229": {
     "id": "obt/rogue/month_chat_rogue_1_6/month_chat_rogue_1_6_2",
     "type": "Rogue",
     "name": {
       "zh_CN": "直到春天来临 Part.02",
       "ja_JP": "春が来るまで Part.02",
       "en_US": "Until Spring Comes Part.02"
-    },
-    "code": null,
-    "zone": "rogue_1"
-  },
-  "1227": {
-    "id": "obt/rogue/month_chat_rogue_1_6/month_chat_rogue_1_6_3",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "直到春天来临 Part.03",
-      "ja_JP": "春が来るまで Part.03",
-      "en_US": "Until Spring Comes Part.03"
-    },
-    "code": null,
-    "zone": "rogue_1"
-  },
-  "1228": {
-    "id": "obt/rogue/month_chat_rogue_1_7/month_chat_rogue_1_7_1",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": " 今日下午茶 Part.01",
-      "ja_JP": " 本日のお茶会 Part.01",
-      "en_US": " Today's Teatime Part.01"
-    },
-    "code": null,
-    "zone": "rogue_1"
-  },
-  "1229": {
-    "id": "obt/rogue/month_chat_rogue_1_7/month_chat_rogue_1_7_2",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": " 今日下午茶 Part.02",
-      "ja_JP": " 本日のお茶会 Part.02",
-      "en_US": " Today's Teatime Part.02"
     },
     "code": null,
     "zone": "rogue_1"
@@ -2738,6 +2732,39 @@
     "zone": "main_7"
   },
   "1230": {
+    "id": "obt/rogue/month_chat_rogue_1_6/month_chat_rogue_1_6_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "直到春天来临 Part.03",
+      "ja_JP": "春が来るまで Part.03",
+      "en_US": "Until Spring Comes Part.03"
+    },
+    "code": null,
+    "zone": "rogue_1"
+  },
+  "1231": {
+    "id": "obt/rogue/month_chat_rogue_1_7/month_chat_rogue_1_7_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": " 今日下午茶 Part.01",
+      "ja_JP": " 本日のお茶会 Part.01",
+      "en_US": " Today's Teatime Part.01"
+    },
+    "code": null,
+    "zone": "rogue_1"
+  },
+  "1232": {
+    "id": "obt/rogue/month_chat_rogue_1_7/month_chat_rogue_1_7_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": " 今日下午茶 Part.02",
+      "ja_JP": " 本日のお茶会 Part.02",
+      "en_US": " Today's Teatime Part.02"
+    },
+    "code": null,
+    "zone": "rogue_1"
+  },
+  "1233": {
     "id": "obt/rogue/month_chat_rogue_1_7/month_chat_rogue_1_7_3",
     "type": "Rogue",
     "name": {
@@ -2748,7 +2775,7 @@
     "code": null,
     "zone": "rogue_1"
   },
-  "1231": {
+  "1234": {
     "id": "obt/rogue/month_chat_rogue_1_8/month_chat_rogue_1_8_1",
     "type": "Rogue",
     "name": {
@@ -2759,7 +2786,7 @@
     "code": null,
     "zone": "rogue_1"
   },
-  "1232": {
+  "1235": {
     "id": "obt/rogue/month_chat_rogue_1_8/month_chat_rogue_1_8_2",
     "type": "Rogue",
     "name": {
@@ -2770,7 +2797,7 @@
     "code": null,
     "zone": "rogue_1"
   },
-  "1233": {
+  "1236": {
     "id": "obt/rogue/month_chat_rogue_1_8/month_chat_rogue_1_8_3",
     "type": "Rogue",
     "name": {
@@ -2781,7 +2808,7 @@
     "code": null,
     "zone": "rogue_1"
   },
-  "1234": {
+  "1237": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_1_1",
     "type": "Rogue",
     "name": {
@@ -2792,7 +2819,7 @@
     "code": null,
     "zone": "rogue_2"
   },
-  "1235": {
+  "1238": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_1_2",
     "type": "Rogue",
     "name": {
@@ -2803,46 +2830,13 @@
     "code": null,
     "zone": "rogue_2"
   },
-  "1236": {
+  "1239": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_1_3",
     "type": "Rogue",
     "name": {
       "zh_CN": "危险注药 Part.03",
       "ja_JP": "危険な試薬 Part.03",
       "en_US": "Dangerous Injection Part.03"
-    },
-    "code": null,
-    "zone": "rogue_2"
-  },
-  "1237": {
-    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_2_1",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "提灯之人 Part.01",
-      "ja_JP": "灯りを持つ者 Part.01",
-      "en_US": "Lantern Bearers Part.01"
-    },
-    "code": null,
-    "zone": "rogue_2"
-  },
-  "1238": {
-    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_2_2",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "提灯之人 Part.02",
-      "ja_JP": "灯りを持つ者 Part.02",
-      "en_US": "Lantern Bearers Part.02"
-    },
-    "code": null,
-    "zone": "rogue_2"
-  },
-  "1239": {
-    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_2_3",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "提灯之人 Part.03",
-      "ja_JP": "灯りを持つ者 Part.03",
-      "en_US": "Lantern Bearers Part.03"
     },
     "code": null,
     "zone": "rogue_2"
@@ -2859,6 +2853,39 @@
     "zone": "main_7"
   },
   "1240": {
+    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_2_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "提灯之人 Part.01",
+      "ja_JP": "灯りを持つ者 Part.01",
+      "en_US": "Lantern Bearers Part.01"
+    },
+    "code": null,
+    "zone": "rogue_2"
+  },
+  "1241": {
+    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_2_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "提灯之人 Part.02",
+      "ja_JP": "灯りを持つ者 Part.02",
+      "en_US": "Lantern Bearers Part.02"
+    },
+    "code": null,
+    "zone": "rogue_2"
+  },
+  "1242": {
+    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_2_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "提灯之人 Part.03",
+      "ja_JP": "灯りを持つ者 Part.03",
+      "en_US": "Lantern Bearers Part.03"
+    },
+    "code": null,
+    "zone": "rogue_2"
+  },
+  "1243": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_3_1",
     "type": "Rogue",
     "name": {
@@ -2869,7 +2896,7 @@
     "code": null,
     "zone": "rogue_2"
   },
-  "1241": {
+  "1244": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_3_2",
     "type": "Rogue",
     "name": {
@@ -2880,7 +2907,7 @@
     "code": null,
     "zone": "rogue_2"
   },
-  "1242": {
+  "1245": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_3_3",
     "type": "Rogue",
     "name": {
@@ -2891,7 +2918,7 @@
     "code": null,
     "zone": "rogue_2"
   },
-  "1243": {
+  "1246": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_4_1",
     "type": "Rogue",
     "name": {
@@ -2902,7 +2929,7 @@
     "code": null,
     "zone": "rogue_2"
   },
-  "1244": {
+  "1247": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_4_2",
     "type": "Rogue",
     "name": {
@@ -2913,7 +2940,7 @@
     "code": null,
     "zone": "rogue_2"
   },
-  "1245": {
+  "1248": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_4_3",
     "type": "Rogue",
     "name": {
@@ -2924,44 +2951,13 @@
     "code": null,
     "zone": "rogue_2"
   },
-  "1246": {
+  "1249": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_5_1",
     "type": "Rogue",
     "name": {
       "zh_CN": "自虚无中 Part.01",
       "ja_JP": "虚無より来たる Part.01",
       "en_US": "Lost in Oblivion Part.01"
-    },
-    "code": null,
-    "zone": "rogue_2"
-  },
-  "1247": {
-    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_5_2",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "自虚无中 Part.02",
-      "ja_JP": "虚無より来たる Part.02",
-      "en_US": "Lost in Oblivion Part.02"
-    },
-    "code": null,
-    "zone": "rogue_2"
-  },
-  "1248": {
-    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_5_3",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "自虚无中 Part.03",
-      "ja_JP": "虚無より来たる Part.03",
-      "en_US": "Lost in Oblivion Part.03"
-    },
-    "code": null,
-    "zone": "rogue_2"
-  },
-  "1249": {
-    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_6_1",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "海葬 Part.01"
     },
     "code": null,
     "zone": "rogue_2"
@@ -2978,6 +2974,37 @@
     "zone": "main_7"
   },
   "1250": {
+    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_5_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "自虚无中 Part.02",
+      "ja_JP": "虚無より来たる Part.02",
+      "en_US": "Lost in Oblivion Part.02"
+    },
+    "code": null,
+    "zone": "rogue_2"
+  },
+  "1251": {
+    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_5_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "自虚无中 Part.03",
+      "ja_JP": "虚無より来たる Part.03",
+      "en_US": "Lost in Oblivion Part.03"
+    },
+    "code": null,
+    "zone": "rogue_2"
+  },
+  "1252": {
+    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_6_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "海葬 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_2"
+  },
+  "1253": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_6_2",
     "type": "Rogue",
     "name": {
@@ -2986,7 +3013,7 @@
     "code": null,
     "zone": "rogue_2"
   },
-  "1251": {
+  "1254": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_6_3",
     "type": "Rogue",
     "name": {
@@ -2995,7 +3022,7 @@
     "code": null,
     "zone": "rogue_2"
   },
-  "1252": {
+  "1255": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_7_1",
     "type": "Rogue",
     "name": {
@@ -3004,7 +3031,7 @@
     "code": null,
     "zone": "rogue_2"
   },
-  "1253": {
+  "1256": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_7_2",
     "type": "Rogue",
     "name": {
@@ -3013,7 +3040,7 @@
     "code": null,
     "zone": "rogue_2"
   },
-  "1254": {
+  "1257": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_7_3",
     "type": "Rogue",
     "name": {
@@ -3022,7 +3049,7 @@
     "code": null,
     "zone": "rogue_2"
   },
-  "1255": {
+  "1258": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_8_1",
     "type": "Rogue",
     "name": {
@@ -3031,7 +3058,7 @@
     "code": null,
     "zone": "rogue_2"
   },
-  "1256": {
+  "1259": {
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_8_2",
     "type": "Rogue",
     "name": {
@@ -3039,33 +3066,6 @@
     },
     "code": null,
     "zone": "rogue_2"
-  },
-  "1257": {
-    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_8_3",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "童年的终结 Part.03"
-    },
-    "code": null,
-    "zone": "rogue_2"
-  },
-  "1258": {
-    "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_1_1",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "探足 Part.01"
-    },
-    "code": null,
-    "zone": "rogue_3"
-  },
-  "1259": {
-    "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_1_2",
-    "type": "Rogue",
-    "name": {
-      "zh_CN": "探足 Part.02"
-    },
-    "code": null,
-    "zone": "rogue_3"
   },
   "126": {
     "id": "obt/main/level_main_07-04_end",
@@ -3079,6 +3079,33 @@
     "zone": "main_7"
   },
   "1260": {
+    "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_8_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "童年的终结 Part.03"
+    },
+    "code": null,
+    "zone": "rogue_2"
+  },
+  "1261": {
+    "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_1_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "探足 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_3"
+  },
+  "1262": {
+    "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_1_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "探足 Part.02"
+    },
+    "code": null,
+    "zone": "rogue_3"
+  },
+  "1263": {
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_1_3",
     "type": "Rogue",
     "name": {
@@ -3087,7 +3114,7 @@
     "code": null,
     "zone": "rogue_3"
   },
-  "1261": {
+  "1264": {
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_2_1",
     "type": "Rogue",
     "name": {
@@ -3096,7 +3123,7 @@
     "code": null,
     "zone": "rogue_3"
   },
-  "1262": {
+  "1265": {
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_2_2",
     "type": "Rogue",
     "name": {
@@ -3105,7 +3132,7 @@
     "code": null,
     "zone": "rogue_3"
   },
-  "1263": {
+  "1266": {
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_2_3",
     "type": "Rogue",
     "name": {
@@ -3114,7 +3141,7 @@
     "code": null,
     "zone": "rogue_3"
   },
-  "1264": {
+  "1267": {
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_3_1",
     "type": "Rogue",
     "name": {
@@ -3123,7 +3150,7 @@
     "code": null,
     "zone": "rogue_3"
   },
-  "1265": {
+  "1268": {
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_3_2",
     "type": "Rogue",
     "name": {
@@ -3132,7 +3159,7 @@
     "code": null,
     "zone": "rogue_3"
   },
-  "1266": {
+  "1269": {
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_3_3",
     "type": "Rogue",
     "name": {
@@ -3151,6 +3178,33 @@
     },
     "code": "7-6",
     "zone": "main_7"
+  },
+  "1270": {
+    "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_4_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "未见终局 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_3"
+  },
+  "1271": {
+    "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_4_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "未见终局 Part.02"
+    },
+    "code": null,
+    "zone": "rogue_3"
+  },
+  "1272": {
+    "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_4_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "未见终局 Part.03"
+    },
+    "code": null,
+    "zone": "rogue_3"
   },
   "128": {
     "id": "obt/main/level_main_07-05_end",

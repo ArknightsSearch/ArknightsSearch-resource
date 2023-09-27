@@ -320,6 +320,11 @@
     "ja_JP": "ビーズワクス",
     "zh_CN": "蜜蜡"
   },
+  "bena": {
+    "en_US": "Bena",
+    "ja_JP": "ベナ",
+    "zh_CN": "贝娜"
+  },
   "bgsnow": {
     "en_US": "Pozëmka",
     "ja_JP": "パゼオンカ",
@@ -443,6 +448,11 @@
     "ja_JP": "チョンユエ",
     "zh_CN": "重岳"
   },
+  "clour": {
+    "en_US": "Vermeil",
+    "ja_JP": "ヴァーミル",
+    "zh_CN": "红云"
+  },
   "crow": {
     "en_US": "La Pluma",
     "ja_JP": "ラ・プルマ",
@@ -457,6 +467,11 @@
     "en_US": "Cutter",
     "ja_JP": "カッター",
     "zh_CN": "刻刀"
+  },
+  "dagda": {
+    "en_US": "Dagda",
+    "ja_JP": "ダグザ",
+    "zh_CN": "达格达"
   },
   "deepcl": {
     "en_US": "Deepcolor",
