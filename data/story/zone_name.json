@@ -199,6 +199,9 @@
   "act28side": {
     "zh_CN": "不义之财"
   },
+  "act29side": {
+    "zh_CN": "崔林特尔梅之金"
+  },
   "act3d0": {
     "en_US": "Heart of Surging Flame",
     "ja_JP": "青く燃ゆる心",
@@ -287,6 +290,11 @@
     "en_US": "April",
     "ja_JP": "エイプリル",
     "zh_CN": "四月"
+  },
+  "aprot2": {
+    "en_US": "Shalem",
+    "ja_JP": "シャレム",
+    "zh_CN": "暮落"
   },
   "archet": {
     "en_US": "Archetto",
@@ -410,6 +418,9 @@
     "en_US": "Catapult",
     "ja_JP": "カタパルト",
     "zh_CN": "空爆"
+  },
+  "cello": {
+    "zh_CN": "塑心"
   },
   "cerber": {
     "en_US": "Ceobe",
@@ -758,6 +769,9 @@
     "ja_JP": "カフカ",
     "zh_CN": "卡夫卡"
   },
+  "kaitou": {
+    "zh_CN": "折光"
+  },
   "kazema": {
     "en_US": "Kazemaru",
     "ja_JP": "カゼマル",
@@ -1030,6 +1044,11 @@
     "ja_JP": "フィアメッタ",
     "zh_CN": "菲亚梅塔"
   },
+  "pianst": {
+    "en_US": "Czerny",
+    "ja_JP": "ツェルニー",
+    "zh_CN": "车尔尼"
+  },
   "pinecn": {
     "en_US": "Pinecone",
     "ja_JP": "パインコーン",
@@ -1044,6 +1063,11 @@
     "en_US": "Ptilopsis",
     "ja_JP": "フィリオプシス",
     "zh_CN": "白面鸮"
+  },
+  "poca": {
+    "en_US": "Rosa",
+    "ja_JP": "ロサ",
+    "zh_CN": "早露"
   },
   "podego": {
     "en_US": "Podenco",
@@ -1197,6 +1221,9 @@
     "en_US": "Snowsant",
     "ja_JP": "スノーズント",
     "zh_CN": "雪雉"
+  },
+  "sntlla": {
+    "zh_CN": "寒檀"
   },
   "sophia": {
     "en_US": "Whislash",
