@@ -2610,7 +2610,9 @@
     "id": "obt/memory/story_morgan_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "巨轮之下"
+      "zh_CN": "巨轮之下",
+      "ja_JP": "巨輪の下",
+      "en_US": "Beneath the Worthy Wheel"
     },
     "code": null,
     "zone": "morgan"
@@ -2619,7 +2621,9 @@
     "id": "obt/memory/story_cammou_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "无人工房"
+      "zh_CN": "无人工房",
+      "ja_JP": "無人工場",
+      "en_US": "Unmanned Workshop"
     },
     "code": null,
     "zone": "cammou"
@@ -2628,7 +2632,9 @@
     "id": "obt/memory/story_strong_2_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "关键人物"
+      "zh_CN": "关键人物",
+      "ja_JP": "キーパーソン",
+      "en_US": "VIP"
     },
     "code": null,
     "zone": "strong"
@@ -2673,7 +2679,9 @@
     "id": "obt/memory/story_doroth_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "何处是我朋友的家"
+      "zh_CN": "何处是我朋友的家",
+      "ja_JP": "友の故郷はいずこ",
+      "en_US": "Where is the Friend's House?"
     },
     "code": null,
     "zone": "doroth"
@@ -2682,7 +2690,9 @@
     "id": "obt/memory/story_peper_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "少年雇佣兵"
+      "zh_CN": "少年雇佣兵",
+      "ja_JP": "傭兵の少女",
+      "en_US": "Mercenary Youth"
     },
     "code": null,
     "zone": "peper"
@@ -2702,7 +2712,9 @@
     "id": "obt/memory/story_sesa_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "致命诱惑"
+      "zh_CN": "致命诱惑",
+      "ja_JP": "死に至らしめる誘惑",
+      "en_US": "Fatal Attraction"
     },
     "code": null,
     "zone": "sesa"
@@ -2711,7 +2723,9 @@
     "id": "obt/memory/story_glacus_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "以我双腿"
+      "zh_CN": "以我双腿",
+      "ja_JP": "この両足で",
+      "en_US": "On My Own Two Legs"
     },
     "code": null,
     "zone": "glacus"
@@ -2720,7 +2734,9 @@
     "id": "obt/memory/story_frostl_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "识字本"
+      "zh_CN": "识字本",
+      "ja_JP": "学習帳",
+      "en_US": "Learning to Read"
     },
     "code": null,
     "zone": "frostl"
@@ -3727,7 +3743,9 @@
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_6_1",
     "type": "Rogue",
     "name": {
-      "zh_CN": "海葬 Part.01"
+      "zh_CN": "海葬 Part.01",
+      "ja_JP": "海葬 Part.01",
+      "en_US": "Burial at Sea Part.01"
     },
     "code": null,
     "zone": "rogue_2"
@@ -3736,7 +3754,9 @@
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_6_2",
     "type": "Rogue",
     "name": {
-      "zh_CN": "海葬 Part.02"
+      "zh_CN": "海葬 Part.02",
+      "ja_JP": "海葬 Part.02",
+      "en_US": "Burial at Sea Part.02"
     },
     "code": null,
     "zone": "rogue_2"
@@ -3745,7 +3765,9 @@
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_6_3",
     "type": "Rogue",
     "name": {
-      "zh_CN": "海葬 Part.03"
+      "zh_CN": "海葬 Part.03",
+      "ja_JP": "海葬 Part.03",
+      "en_US": "Burial at Sea Part.03"
     },
     "code": null,
     "zone": "rogue_2"
@@ -5147,7 +5169,9 @@
     "id": "obt/main/level_main_12-01_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "静候驾临"
+      "zh_CN": "静候驾临",
+      "ja_JP": "待ちわびた降臨",
+      "en_US": "Reception Party"
     },
     "code": "12-2",
     "zone": "main_12"
@@ -5167,7 +5191,9 @@
     "id": "obt/main/level_main_12-01_end",
     "type": "Main",
     "name": {
-      "zh_CN": "静候驾临"
+      "zh_CN": "静候驾临",
+      "ja_JP": "待ちわびた降臨",
+      "en_US": "Reception Party"
     },
     "code": "12-2",
     "zone": "main_12"
@@ -5176,7 +5202,9 @@
     "id": "obt/main/level_main_12-02_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "善意背叛"
+      "zh_CN": "善意背叛",
+      "ja_JP": "善意の裏切り",
+      "en_US": "Benevolent Betrayal"
     },
     "code": "12-3",
     "zone": "main_12"
@@ -5185,7 +5213,9 @@
     "id": "obt/main/level_main_12-02_end",
     "type": "Main",
     "name": {
-      "zh_CN": "善意背叛"
+      "zh_CN": "善意背叛",
+      "ja_JP": "善意の裏切り",
+      "en_US": "Benevolent Betrayal"
     },
     "code": "12-3",
     "zone": "main_12"
@@ -5194,7 +5224,9 @@
     "id": "obt/main/level_main_12-03_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "团结就是奢望"
+      "zh_CN": "团结就是奢望",
+      "ja_JP": "高望みの団結",
+      "en_US": "Unity is Luxury"
     },
     "code": "12-4",
     "zone": "main_12"
@@ -5203,7 +5235,9 @@
     "id": "obt/main/level_main_12-03_end",
     "type": "Main",
     "name": {
-      "zh_CN": "团结就是奢望"
+      "zh_CN": "团结就是奢望",
+      "ja_JP": "高望みの団結",
+      "en_US": "Unity is Luxury"
     },
     "code": "12-4",
     "zone": "main_12"
@@ -5212,7 +5246,9 @@
     "id": "obt/main/level_main_12-04_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "脆钢"
+      "zh_CN": "脆钢",
+      "ja_JP": "脆い鋼",
+      "en_US": "Brittle Steel"
     },
     "code": "12-5",
     "zone": "main_12"
@@ -5221,7 +5257,9 @@
     "id": "obt/main/level_main_12-05_end",
     "type": "Main",
     "name": {
-      "zh_CN": "谁的战争"
+      "zh_CN": "谁的战争",
+      "ja_JP": "誰が為の戦争",
+      "en_US": "Whose War"
     },
     "code": "12-6",
     "zone": "main_12"
@@ -5230,7 +5268,9 @@
     "id": "obt/main/level_main_12-06_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "平议生死"
+      "zh_CN": "平议生死",
+      "ja_JP": "生死の論争",
+      "en_US": "Discourse of Life and Death"
     },
     "code": "12-7",
     "zone": "main_12"
@@ -5239,7 +5279,9 @@
     "id": "obt/main/level_main_12-07_end",
     "type": "Main",
     "name": {
-      "zh_CN": "火线重逢"
+      "zh_CN": "火线重逢",
+      "ja_JP": "前線での再会",
+      "en_US": "Reunion Under Fire"
     },
     "code": "12-8",
     "zone": "main_12"
@@ -5248,7 +5290,9 @@
     "id": "obt/main/level_main_12-08_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "热血年华"
+      "zh_CN": "热血年华",
+      "ja_JP": "情熱に満ちた頃",
+      "en_US": "Years of Passion"
     },
     "code": "12-9",
     "zone": "main_12"
@@ -5268,7 +5312,9 @@
     "id": "obt/main/level_main_12-09_end",
     "type": "Main",
     "name": {
-      "zh_CN": "广播热线正繁忙"
+      "zh_CN": "广播热线正繁忙",
+      "ja_JP": "放送線混雑中",
+      "en_US": "Broadcast Hotline is Busy"
     },
     "code": "12-10",
     "zone": "main_12"
@@ -5277,7 +5323,9 @@
     "id": "obt/main/level_main_12-10_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "脱帽致敬"
+      "zh_CN": "脱帽致敬",
+      "ja_JP": "脱帽の礼",
+      "en_US": "Hats Off"
     },
     "code": "12-12",
     "zone": "main_12"
@@ -5286,7 +5334,9 @@
     "id": "obt/main/level_main_12-11_end",
     "type": "Main",
     "name": {
-      "zh_CN": "逆光阴影"
+      "zh_CN": "逆光阴影",
+      "ja_JP": "逆光の影",
+      "en_US": "Against the Light"
     },
     "code": "12-13",
     "zone": "main_12"
@@ -5295,7 +5345,9 @@
     "id": "obt/main/level_main_12-12_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "捂住耳朵"
+      "zh_CN": "捂住耳朵",
+      "ja_JP": "耳を塞ぐ",
+      "en_US": "Ears Muffed"
     },
     "code": "12-14",
     "zone": "main_12"
@@ -5304,7 +5356,9 @@
     "id": "obt/main/level_main_12-12_end",
     "type": "Main",
     "name": {
-      "zh_CN": "捂住耳朵"
+      "zh_CN": "捂住耳朵",
+      "ja_JP": "耳を塞ぐ",
+      "en_US": "Ears Muffed"
     },
     "code": "12-14",
     "zone": "main_12"
@@ -5313,7 +5367,9 @@
     "id": "obt/main/level_main_12-13_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "千疮百孔"
+      "zh_CN": "千疮百孔",
+      "ja_JP": "穴だらけ",
+      "en_US": "Battered and Bruised"
     },
     "code": "12-15",
     "zone": "main_12"
@@ -5322,7 +5378,9 @@
     "id": "obt/main/level_main_12-13_end",
     "type": "Main",
     "name": {
-      "zh_CN": "千疮百孔"
+      "zh_CN": "千疮百孔",
+      "ja_JP": "穴だらけ",
+      "en_US": "Battered and Bruised"
     },
     "code": "12-15",
     "zone": "main_12"
@@ -5331,7 +5389,9 @@
     "id": "obt/main/level_main_12-14_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "天边的火烧云"
+      "zh_CN": "天边的火烧云",
+      "ja_JP": "空際の夕焼け雲",
+      "en_US": "Clouds Burn Red"
     },
     "code": "12-16",
     "zone": "main_12"
@@ -5340,7 +5400,9 @@
     "id": "obt/main/level_main_12-15_end",
     "type": "Main",
     "name": {
-      "zh_CN": "被弃之人"
+      "zh_CN": "被弃之人",
+      "ja_JP": "見捨てられた者",
+      "en_US": "The Abandoned"
     },
     "code": "12-17",
     "zone": "main_12"
@@ -5349,7 +5411,9 @@
     "id": "obt/main/level_main_12-16_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "晚安"
+      "zh_CN": "晚安",
+      "ja_JP": "おやすみなさい",
+      "en_US": "Good Night"
     },
     "code": "12-18",
     "zone": "main_12"
@@ -5369,7 +5433,9 @@
     "id": "obt/main/level_main_12-17_end",
     "type": "Main",
     "name": {
-      "zh_CN": "飞跃，烟火"
+      "zh_CN": "飞跃，烟火",
+      "ja_JP": "火種、飛び越えて",
+      "en_US": "Fly, Fireworks"
     },
     "code": "12-19",
     "zone": "main_12"
@@ -5378,7 +5444,9 @@
     "id": "obt/main/level_main_12-18_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "诚挚邀请"
+      "zh_CN": "诚挚邀请",
+      "ja_JP": "真摯な誘い",
+      "en_US": "Sincere Invitation"
     },
     "code": "12-20",
     "zone": "main_12"
@@ -5387,7 +5455,9 @@
     "id": "obt/main/level_main_12-18_end",
     "type": "Main",
     "name": {
-      "zh_CN": "诚挚邀请"
+      "zh_CN": "诚挚邀请",
+      "ja_JP": "真摯な誘い",
+      "en_US": "Sincere Invitation"
     },
     "code": "12-20",
     "zone": "main_12"
@@ -5953,7 +6023,9 @@
     "id": "obt/main/level_st_12-01",
     "type": "Main",
     "name": {
-      "zh_CN": "火光热浪"
+      "zh_CN": "火光热浪",
+      "ja_JP": "火と熱風",
+      "en_US": "Heat Wave"
     },
     "code": "12-1",
     "zone": "main_12"
@@ -5962,7 +6034,9 @@
     "id": "obt/main/level_st_12-02",
     "type": "Main",
     "name": {
-      "zh_CN": "时不我待"
+      "zh_CN": "时不我待",
+      "ja_JP": "時は待たず",
+      "en_US": "Ticking Clock"
     },
     "code": "12-11",
     "zone": "main_12"
@@ -5971,7 +6045,9 @@
     "id": "obt/main/level_st_12-03",
     "type": "Main",
     "name": {
-      "zh_CN": "战场静悄悄"
+      "zh_CN": "战场静悄悄",
+      "ja_JP": "嵐の前の静けさ",
+      "en_US": "Quiet On the Front"
     },
     "code": "12-21",
     "zone": "main_12"
@@ -7002,7 +7078,9 @@
     "id": "activities/act25side/level_act25side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "阴云密布"
+      "zh_CN": "阴云密布",
+      "ja_JP": "立ち込める暗雲",
+      "en_US": "Dark Clouds"
     },
     "code": "CW-ST-1",
     "zone": "act25side"
@@ -7011,7 +7089,9 @@
     "id": "activities/act25side/level_act25side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "迷雾重重"
+      "zh_CN": "迷雾重重",
+      "ja_JP": "深い霧",
+      "en_US": "Dense Fog"
     },
     "code": "CW-1",
     "zone": "act25side"
@@ -7020,7 +7100,9 @@
     "id": "activities/act25side/level_act25side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "迷雾重重"
+      "zh_CN": "迷雾重重",
+      "ja_JP": "深い霧",
+      "en_US": "Dense Fog"
     },
     "code": "CW-1",
     "zone": "act25side"
@@ -7029,7 +7111,9 @@
     "id": "activities/act25side/level_act25side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "无迹可寻"
+      "zh_CN": "无迹可寻",
+      "ja_JP": "追跡不能",
+      "en_US": "Without a Trace"
     },
     "code": "CW-2",
     "zone": "act25side"
@@ -7038,7 +7122,9 @@
     "id": "activities/act25side/level_act25side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "无迹可寻"
+      "zh_CN": "无迹可寻",
+      "ja_JP": "追跡不能",
+      "en_US": "Without a Trace"
     },
     "code": "CW-2",
     "zone": "act25side"
@@ -7047,7 +7133,9 @@
     "id": "activities/act25side/level_act25side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "台前幕后"
+      "zh_CN": "台前幕后",
+      "ja_JP": "表舞台と舞台裏",
+      "en_US": "Front Stage, Back Stage"
     },
     "code": "CW-3",
     "zone": "act25side"
@@ -7067,7 +7155,9 @@
     "id": "activities/act25side/level_act25side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "台前幕后"
+      "zh_CN": "台前幕后",
+      "ja_JP": "表舞台と舞台裏",
+      "en_US": "Front Stage, Back Stage"
     },
     "code": "CW-3",
     "zone": "act25side"
@@ -7076,7 +7166,9 @@
     "id": "activities/act25side/level_act25side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "一波未平"
+      "zh_CN": "一波未平",
+      "ja_JP": "迫る荒波",
+      "en_US": "Restless Waves"
     },
     "code": "CW-ST-2",
     "zone": "act25side"
@@ -7085,7 +7177,9 @@
     "id": "activities/act25side/level_act25side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "一波又起"
+      "zh_CN": "一波又起",
+      "ja_JP": "荒波再び",
+      "en_US": "Rising Waves"
     },
     "code": "CW-4",
     "zone": "act25side"
@@ -7094,7 +7188,9 @@
     "id": "activities/act25side/level_act25side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "一波又起"
+      "zh_CN": "一波又起",
+      "ja_JP": "荒波再び",
+      "en_US": "Rising Waves"
     },
     "code": "CW-4",
     "zone": "act25side"
@@ -7103,7 +7199,9 @@
     "id": "activities/act25side/level_act25side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "柳暗花明"
+      "zh_CN": "柳暗花明",
+      "ja_JP": "開く活路",
+      "en_US": "Beyond the Veil"
     },
     "code": "CW-5",
     "zone": "act25side"
@@ -7112,7 +7210,9 @@
     "id": "activities/act25side/level_act25side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "柳暗花明"
+      "zh_CN": "柳暗花明",
+      "ja_JP": "開く活路",
+      "en_US": "Beyond the Veil"
     },
     "code": "CW-5",
     "zone": "act25side"
@@ -7121,7 +7221,9 @@
     "id": "activities/act25side/level_act25side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "群英荟萃"
+      "zh_CN": "群英荟萃",
+      "ja_JP": "集う者たち",
+      "en_US": "Gathering of Heroes"
     },
     "code": "CW-6",
     "zone": "act25side"
@@ -7130,7 +7232,9 @@
     "id": "activities/act25side/level_act25side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "群英荟萃"
+      "zh_CN": "群英荟萃",
+      "ja_JP": "集う者たち",
+      "en_US": "Gathering of Heroes"
     },
     "code": "CW-6",
     "zone": "act25side"
@@ -7139,7 +7243,9 @@
     "id": "activities/act25side/level_act25side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "空中楼阁"
+      "zh_CN": "空中楼阁",
+      "ja_JP": "空に浮かぶ城",
+      "en_US": "Castle in the Sky"
     },
     "code": "CW-7",
     "zone": "act25side"
@@ -7148,7 +7254,9 @@
     "id": "activities/act25side/level_act25side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "空中楼阁"
+      "zh_CN": "空中楼阁",
+      "ja_JP": "空に浮かぶ城",
+      "en_US": "Castle in the Sky"
     },
     "code": "CW-7",
     "zone": "act25side"
@@ -7168,7 +7276,9 @@
     "id": "activities/act25side/level_act25side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "过去与现在的交会"
+      "zh_CN": "过去与现在的交会",
+      "ja_JP": "交差する今昔",
+      "en_US": "Between Past and Present"
     },
     "code": "CW-8",
     "zone": "act25side"
@@ -7177,7 +7287,9 @@
     "id": "activities/act25side/level_act25side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "过去与现在的交会"
+      "zh_CN": "过去与现在的交会",
+      "ja_JP": "交差する今昔",
+      "en_US": "Between Past and Present"
     },
     "code": "CW-8",
     "zone": "act25side"
@@ -7186,7 +7298,9 @@
     "id": "activities/act25side/level_act25side_09_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "恩怨纠葛"
+      "zh_CN": "恩怨纠葛",
+      "ja_JP": "渦巻く恩讐",
+      "en_US": "Love and Hatred"
     },
     "code": "CW-9",
     "zone": "act25side"
@@ -7195,7 +7309,9 @@
     "id": "activities/act25side/level_act25side_09_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "恩怨纠葛"
+      "zh_CN": "恩怨纠葛",
+      "ja_JP": "渦巻く恩讐",
+      "en_US": "Love and Hatred"
     },
     "code": "CW-9",
     "zone": "act25side"
@@ -7204,7 +7320,9 @@
     "id": "activities/act25side/level_act25side_10_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "散于星辰之间"
+      "zh_CN": "散于星辰之间",
+      "ja_JP": "星間に散る",
+      "en_US": "Lost Amongst the Stars"
     },
     "code": "CW-10",
     "zone": "act25side"
@@ -7213,7 +7331,9 @@
     "id": "activities/act25side/level_act25side_10_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "散于星辰之间"
+      "zh_CN": "散于星辰之间",
+      "ja_JP": "星間に散る",
+      "en_US": "Lost Amongst the Stars"
     },
     "code": "CW-10",
     "zone": "act25side"
@@ -7222,7 +7342,9 @@
     "id": "activities/act25side/level_act25side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "留下的人"
+      "zh_CN": "留下的人",
+      "ja_JP": "残された人",
+      "en_US": "Those Left Behind"
     },
     "code": "CW-ST-3",
     "zone": "act25side"
@@ -7231,7 +7353,9 @@
     "id": "activities/act25side/level_act25side_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "推开未来之门"
+      "zh_CN": "推开未来之门",
+      "ja_JP": "未来への扉",
+      "en_US": "Door to the Future"
     },
     "code": "CW-ST-4",
     "zone": "act25side"
@@ -7641,7 +7765,7 @@
     "type": "Activity",
     "name": {
       "zh_CN": "忽梦少年事",
-      "ja_JP": "忽ち夢むは年少の事",
+      "ja_JP": "俄かに少事を思う",
       "en_US": "Dream of Youth"
     },
     "code": "WB-ST-1",
@@ -7696,7 +7820,7 @@
     "type": "Activity",
     "name": {
       "zh_CN": "树犹如此",
-      "ja_JP": "樹も今や",
+      "ja_JP": "木々でさえ",
       "en_US": "How Old Trees Grow"
     },
     "code": "WB-3",
@@ -7707,7 +7831,7 @@
     "type": "Activity",
     "name": {
       "zh_CN": "树犹如此",
-      "ja_JP": "樹も今や",
+      "ja_JP": "木々でさえ",
       "en_US": "How Old Trees Grow"
     },
     "code": "WB-3",

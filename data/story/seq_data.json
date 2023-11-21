@@ -6,9 +6,11 @@
     ],
     [
       "Amiya",
+      "Amiya?",
       "Shining",
       "Warfarin",
       "アーミヤ",
+      "アーミヤ？",
       "シャイニング",
       "ワルファリン",
       "华法琳",
@@ -191,7 +193,6 @@
       "char_015_lmg"
     ],
     [
-      "Beckbeast Trainer",
       "Exhausted L.G.D. Officer",
       "Frivolous L.G.D. Officer",
       "Guard",
@@ -214,7 +215,6 @@
       "兵俑",
       "幻影兵",
       "循兽训练员",
-      "循獣訓練員",
       "疲弊した近衛局局員",
       "疲惫的近卫局成员",
       "真面目な近衛局隊員",
@@ -290,7 +290,6 @@
     ],
     [
       "Blaze",
-      "Ch'en",
       "ブレイズ",
       "煌"
     ]
@@ -301,6 +300,7 @@
       "char_1002_nsabr_2"
     ],
     [
+      "Crippled Reunion Fighter",
       "Gareth",
       "Reunion Blademaster",
       "Reunion Infected",
@@ -312,12 +312,15 @@
       "Reunion Warrior",
       "Silent Reunion Member",
       "Terracotta",
+      "Uneasy Reunion Fighter",
       "ガレス",
       "レユニオン",
       "レユニオン兵士",
       "レユニオン刀兵",
       "レユニオン感染者",
       "レユニオン戦士",
+      "レユニオン戦士A",
+      "レユニオン戦士B",
       "レユニオン構成員",
       "レユニオン構成員A",
       "レユニオン構成員B",
@@ -531,6 +534,8 @@
       "avg_1031_slent2_1"
     ],
     [
+      "Silence",
+      "サイレンス",
       "赫默"
     ]
   ],
@@ -603,11 +608,8 @@
     [
       "Franka",
       "Liskarm",
-      "もし向いてなかったら？　回り道をするのは怖くないんですか？",
-      "ジェシカ",
       "フランカ",
       "リスカム",
-      "レイジアン工業代表",
       "芙兰卡",
       "雷蛇"
     ]
@@ -618,6 +620,7 @@
       "char_108_silent_1"
     ],
     [
+      "Citizen?",
       "Silence",
       "サイレンス",
       "市民？",
@@ -661,6 +664,8 @@
     ],
     [
       "Misery",
+      "Siege",
+      "シージ",
       "推进之王"
     ]
   ],
@@ -1896,6 +1901,10 @@
       "avg_249_mlyss_1"
     ],
     [
+      "Muelsyse",
+      "Muelsyse?",
+      "ミュルジス",
+      "ミュルジス？",
       "缪尔赛思",
       "缪尔赛思？"
     ]
@@ -1986,17 +1995,9 @@
       "char_259_Jessica_1"
     ],
     [
-      "BSW中心メンバー",
       "Jessica",
-      "あの日父親の執務室の前でしたように、彼女は拳を握りしめた。",
       "ジェシカ",
-      "テスト責任者",
-      "リスカム",
-      "レイジアン工業代表",
-      "二年前、彼女は人生で初めて勇気を出し、これから踏み出す一歩のために父親と話をした。",
-      "彼女は、何ができるかまだわからないから、まずは自分を鍛えたいと父親に言った。",
-      "杰西卡",
-      "誰もいない屋外訓練場の一角で、ジェシカは目を閉じて、源石火薬の匂いが漂う空気を胸いっぱいに吸い込んだ。"
+      "杰西卡"
     ]
   ],
   [
@@ -2762,6 +2763,8 @@
       "avg_391_rosmon_1"
     ],
     [
+      "Rosmontis",
+      "ロスモンティス",
       "迷迭香"
     ]
   ],
@@ -3184,6 +3187,8 @@
       "avg_4087_ines_1"
     ],
     [
+      "Ines",
+      "イネス",
       "伊内丝"
     ]
   ],
@@ -3870,11 +3875,13 @@
       "Neighbor A",
       "Pondering Follower",
       "Strong Townsfolk",
+      "Tired Worker",
       "Townsfolk",
       "Villager A",
       "Weary-eyed Gravedigger",
       "Worker",
       "Young Hunter",
+      "くたびれた労働者",
       "たくましい町民",
       "フェロン",
       "住民",
@@ -3923,6 +3930,7 @@
       "A Kazimierz Villager",
       "Angry Villager",
       "Fast Food Joint Owner",
+      "Gangster Messenger",
       "Infected Employee",
       "Infected Worker",
       "Kazimierz Ruffian",
@@ -3943,6 +3951,7 @@
       "卡西米尔流氓",
       "卢卡",
       "地痞",
+      "報告に来る構成員",
       "店主",
       "店長",
       "强壮的拓荒者",
@@ -4028,6 +4037,7 @@
     ],
     [
       "A Kazimierz Villager",
+      "Aging Resident",
       "Aging Worker",
       "Elderly Villager",
       "Farm Owner",
@@ -4081,6 +4091,7 @@
       "沃廉",
       "王阿伯",
       "紧张的感染者",
+      "老いた住民",
       "老けている労働者",
       "老板",
       "老科特",
@@ -4102,6 +4113,7 @@
     [
       "A Spectating Infected",
       "Bar Owner",
+      "Depressed Worker",
       "Engineer Andrey",
       "Infected Employee B",
       "Merchant",
@@ -4126,6 +4138,7 @@
       "忧愁的工人",
       "感染者员工B",
       "感染者従業員B",
+      "憂鬱そうな労働者",
       "报刊亭主",
       "普通感染者A",
       "村長",
@@ -4156,6 +4169,7 @@
       "Apprehensive Bandit",
       "Bandit",
       "Bandit Leader",
+      "Black Market Brawler",
       "Black Market Merchant",
       "Black Market Merchant A",
       "Bounty Hunter",
@@ -4263,6 +4277,7 @@
       "醜い暴徒",
       "闇市の商人",
       "闇市の商人A",
+      "闇市の追っ手",
       "阴沉的赏金猎人",
       "雇佣兵",
       "雇佣兵A",
@@ -4281,6 +4296,7 @@
       "Abi",
       "Bandit",
       "Bandit Leader",
+      "Black Market Brawler B",
       "Black Market Merchant B",
       "Bounty Hunter",
       "Bounty Hunter B",
@@ -4311,6 +4327,7 @@
       "Wastelander",
       "Wounded Mercenary",
       "Wounded Warrior",
+      "Young Mercenary",
       "“上尉”",
       "アビーおじさん",
       "キャラバンの護衛",
@@ -4350,6 +4367,7 @@
       "探险者B",
       "搜索中的雇佣兵",
       "新人佣兵",
+      "新米傭兵",
       "暴徒雇佣兵",
       "未知の勢力の傭兵",
       "沉默的赏金猎人",
@@ -4379,6 +4397,7 @@
       "錆槌戦士",
       "锈锤战士",
       "闇市の商人B",
+      "闇市の追っ手B",
       "阿卜大叔",
       "雇佣兵A",
       "雇佣兵队长",
@@ -4611,18 +4630,23 @@
       "Charlie",
       "Cronin's Bodyguard",
       "Cronin's Henchman",
+      "Investigator",
       "Organizing Committee Member",
+      "Otti",
+      "Raythean Industries Security",
       "Security Chief",
       "Security Guard B",
       "Ship Guard",
       "Staff",
       "Staff Worker",
       "Worker A",
+      "オーティ",
       "クローニンの手下",
       "クローニンの護衛",
       "スタッフ",
       "チャーリー",
       "パンチョの護衛",
+      "レイジアン工業警備員",
       "主催側のスタッフ",
       "主办方人员",
       "保安B",
@@ -4641,6 +4665,7 @@
       "矿场打手",
       "社員A",
       "船长护卫",
+      "調査員",
       "警備員B",
       "警備隊長",
       "護衛",
@@ -4881,12 +4906,12 @@
       "Alba",
       "An Audience Member A",
       "An Enthusiastic Spectator",
+      "Camera Crew Leader",
       "Clerk",
       "Female Passerby",
       "Female Resident",
       "Female Tourist",
       "Girl",
-      "Neighbor",
       "Passerby Girl",
       "Passing Traveler",
       "Rinz",
@@ -4924,6 +4949,7 @@
       "愤怒的男人&恼怒的女人",
       "慎重な観客",
       "拍摄队长",
+      "撮影班の班長",
       "游客",
       "游客A",
       "琳兹",
@@ -4947,7 +4973,6 @@
       "通行人の女性",
       "邻居",
       "阿尔瓦",
-      "隣人",
       "青年市民A",
       "騒がしい観客"
     ]
@@ -4964,7 +4989,6 @@
       "An Audience Member B",
       "An Excited Spectator",
       "Angry Lou Seoi Member",
-      "Barkeep",
       "Confused Fan",
       "Doctor",
       "Drunk",
@@ -4974,6 +4998,7 @@
       "Infected Slum Dweller",
       "Injured Lou Seoi Member",
       "Innocent Passerby",
+      "Lighting Engineer",
       "Lungmen Agent",
       "Lungmen Tourist",
       "Lungmen Tourist?",
@@ -4999,7 +5024,6 @@
       "ケガした滷水幇",
       "スラム住民感染者",
       "スラム街住民",
-      "バーテンダー",
       "ロドス事務員",
       "一般龙门市民",
       "主持人",
@@ -5021,6 +5045,7 @@
       "愤怒的男人",
       "手下",
       "拍摄灯光师",
+      "撮影班の照明",
       "无辜的路人",
       "普通そうな住民",
       "普通办事员",
@@ -5259,13 +5284,11 @@
       "Lara",
       "Little 'Witch' Minnie",
       "Little Girl",
-      "Xiaoyuan",
       "“女巫”小敏",
       "「魔女」ミン",
       "ジェンナ",
       "ドーラ",
       "ピュアな女の子",
-      "ユアン",
       "ローラ",
       "吉安娜",
       "天真的小女孩",
@@ -5367,6 +5390,7 @@
       "Sarkaz Mercenary A",
       "Sarkaz Mercenary B",
       "Sarkaz Passerby",
+      "Sarkaz Soldier",
       "Sarkaz Teacher",
       "Sarkaz Warrior",
       "Sarkaz Warrior?",
@@ -5376,6 +5400,7 @@
       "サルカズ傭兵",
       "サルカズ傭兵A",
       "サルカズ傭兵B",
+      "サルカズ兵士",
       "サルカズ戦士",
       "サルカズ戦士？",
       "サルカズ教師",
@@ -5416,7 +5441,9 @@
     [
       "Burly Townsfolk",
       "Ferocious Sarkaz Bandit",
+      "Grimm",
       "Guerrilla Sarkaz",
+      "Mercenary Captain",
       "Panicking Sarkaz Bandit",
       "Sarkaz Assassin",
       "Sarkaz Mercenary",
@@ -5432,6 +5459,7 @@
       "Strange Townsfolk",
       "“矿工”",
       "ガタイの良い町民",
+      "グリン",
       "サルカズ傭兵",
       "サルカズ傭兵A",
       "サルカズ傭兵B",
@@ -5443,6 +5471,7 @@
       "サルカズ殺し屋",
       "サルカズ謀反者",
       "サルカズ頭目",
+      "傭兵隊長",
       "凶恶的萨卡兹劫匪",
       "凶悪なサルカズ強盗",
       "凶狠的萨卡兹",
@@ -5824,6 +5853,7 @@
       "avg_npc_072"
     ],
     [
+      "'Sargonian'",
       "Archosauria B",
       "Archosauria C",
       "Black Market Resident",
@@ -5833,6 +5863,7 @@
       "Sorrowful Villager",
       "Villager C",
       "“萨尔贡人”",
+      "「サルゴン人」",
       "アダクリス人B",
       "アダクリス人C",
       "サルゴン村人",
@@ -5953,11 +5984,13 @@
       "avg_npc_080"
     ],
     [
+      "Ah Wei",
       "Infected",
       "Infected Fighter",
       "Kevin",
       "Reunion Member",
       "Soda Hawker",
+      "アーウェイ",
       "ケヴィン",
       "サイダー売り",
       "レユニオンメンバー",
@@ -5978,6 +6011,7 @@
       "avg_npc_081"
     ],
     [
+      "Darrell",
       "Haggard Worker",
       "Muscular Man",
       "Raymond",
@@ -5988,6 +6022,7 @@
       "くたびれた労働者",
       "ウルサス村人",
       "ウルサス農民",
+      "ダレル",
       "レイモンド",
       "乌萨斯农民",
       "乌萨斯商队成员",
@@ -6034,6 +6069,10 @@
       "avg_npc_083"
     ],
     [
+      "Priestess",
+      "Priestess?",
+      "プリースティス",
+      "プリースティス？",
       "普瑞赛斯",
       "普瑞赛斯？"
     ]
@@ -6294,6 +6333,8 @@
     [
       "An Infected Refugee",
       "Infected",
+      "Timid Resident",
+      "小心者の住民",
       "感染者",
       "感染者难民",
       "感染者難民",
@@ -7196,10 +7237,12 @@
       "Jailer",
       "Jailer A",
       "Jailer B",
+      "Prison Supervisor",
       "狱警",
       "狱警A",
       "狱警B",
       "监狱负责人",
+      "監獄の責任者",
       "看守",
       "看守A",
       "看守B"
@@ -7346,7 +7389,6 @@
       "Terrified Villager",
       "Villager",
       "Villager B",
-      "Wife",
       "すくみ上がる村人",
       "報告した村人",
       "女侠？",
@@ -7536,6 +7578,7 @@
       "avg_npc_164"
     ],
     [
+      "Arrogant Merchant",
       "Belligerent Villager",
       "Disheveled Person",
       "Dispirited Straggler",
@@ -7546,6 +7589,7 @@
       "Vengeful Merchant",
       "だらしない兵士",
       "ボロを纏った人",
+      "傲慢な商人",
       "傲慢的商人",
       "奋战的部族人",
       "奮戦した部族民",
@@ -7762,11 +7806,13 @@
       "Slimy Noble",
       "Theater Manager",
       "Tipsy Businessman",
+      "Victorian Count",
       "Victorian Magnate",
       "おしゃべりな商人",
       "ほろ酔いな商人",
       "カジノのオーナー",
       "リターニア男性貴族",
+      "ヴィクトリアの伯爵",
       "ヴィクトリアの豪商",
       "主持人",
       "優雅な使節",
@@ -7807,6 +7853,7 @@
       "avg_npc_177"
     ],
     [
+      "Adulating Noble",
       "Astute Noble",
       "Bishmer",
       "Butler",
@@ -7820,10 +7867,12 @@
       "Pretentious Man",
       "Representative Cooper",
       "Senior Project Manager",
+      "Timid Citizen",
       "Wealthily-Dressed Man",
       "Wealthy Man",
       "Wildly Ambitious Baron",
       "William",
+      "こびへつらう貴族",
       "ウィリアム",
       "クーパー議員",
       "パフューマー",
@@ -7853,6 +7902,7 @@
       "管家",
       "精明的贵族",
       "胆怯的市民",
+      "臆病な市民",
       "衣着富贵的男人",
       "谄媚的贵族",
       "貴族の女性＆金持ちの男性",
@@ -7873,10 +7923,12 @@
       "avg_npc_178"
     ],
     [
+      "'Iberian'",
       "Inhabitant",
       "Male Inhabitant",
       "Male Inhabitant A",
       "“伊比利亚人”",
+      "「イベリア人」",
       "住民",
       "地方信使",
       "居民",
@@ -8195,7 +8247,6 @@
       "avg_npc_201"
     ],
     [
-      "Bolívarian Tourist",
       "Casino Guest",
       "Cheerful Male Tourist",
       "Impatient Male Tourist",
@@ -8204,7 +8255,6 @@
       "Tourist",
       "せっかちな男性選手",
       "カジノの客",
-      "ボリバルの観光客",
       "喜んでいる男性観光客",
       "害怕的男游客",
       "怖がっている男性観光客",
@@ -8603,6 +8653,7 @@
       "Commercial Agent",
       "Corporate Employee",
       "Customer Representative",
+      "HR Employee",
       "Hamm",
       "Haughty Official",
       "Kazimierz Representative",
@@ -8613,16 +8664,15 @@
       "Secretary",
       "Serious Corporate Employee",
       "Staff",
-      "そう、私だってあの子に大変な思いはさせたくない。この大地には辛いことが多すぎる。答えが見つからない疑問をたくさん抱えることになるだろう。",
       "カジミエーシュ代表",
       "クライアント代表",
-      "ジェシカ",
       "ジャン",
       "スーツ姿の男",
       "ハム",
       "マネージャー",
       "レイジアン工業代表",
       "人事部员工",
+      "人事部職員",
       "企业员工",
       "企業職員",
       "傲慢な役人",
@@ -8639,7 +8689,6 @@
       "怒った使節",
       "愤慨的使节",
       "真面目な企業職員",
-      "私の末娘が今後もBSWの「ジェシカ」でありたいと？　……その粘り強さ、それでこそブリンリー家の子供だ。",
       "秘书",
       "秘書",
       "竞技场员工",
@@ -8666,10 +8715,11 @@
       "A Corporate Employee A",
       "Boy",
       "Branch Office Manager",
-      "Funeral Parlor Staff",
       "Informant",
       "Knight Scout",
       "Mid-level Manager",
+      "Professor's Assistant",
+      "Researcher",
       "Snobby Official",
       "Staff Worker",
       "Tired Corporate Employee",
@@ -8698,6 +8748,7 @@
       "报案人",
       "支店長",
       "政府官员",
+      "教授の秘書",
       "教授助理",
       "无聊的银行员工",
       "権力に媚びる役人",
@@ -8705,11 +8756,11 @@
       "疲倦的企业员工",
       "疲労した企業職員",
       "研究员",
+      "研究員",
       "礼仪社员工",
       "红酒报实习记者",
       "线人",
       "職員",
-      "葬儀社社員",
       "通報者",
       "银行员工",
       "騎士スカウト",
@@ -8859,6 +8910,7 @@
       "avg_npc_240"
     ],
     [
+      "Child",
       "Craig",
       "Dirt-Poor Peddler",
       "Emaciated Child",
@@ -8875,6 +8927,7 @@
       "于里安",
       "克雷格",
       "埃里克",
+      "子供",
       "寒酸的小贩",
       "小孩子",
       "焦急的孩子",
@@ -8900,6 +8953,7 @@
       "Special Forces Soldier",
       "Victorian Officer",
       "Victorian Soldier",
+      "Young Soldier",
       "ヴィクトリア兵",
       "ヴィクトリア兵士",
       "ヴィクトリア士官",
@@ -8920,6 +8974,7 @@
       "维多利亚士兵",
       "维多利亚士兵A",
       "维多利亚士兵B",
+      "若い兵士",
       "警備隊員",
       "警備隊長",
       "警备人员",
@@ -8931,6 +8986,7 @@
       "avg_npc_242"
     ],
     [
+      "Angry Citizen",
       "Angry Youth",
       "Bent",
       "Busy Youth",
@@ -8938,9 +8994,12 @@
       "Embittered Man",
       "Excited Taran Refugee",
       "Frightened Youth",
+      "Gangster A",
       "Gentleman",
       "Grieving Man",
       "Hostile Man",
+      "Infected",
+      "Infected Citizen",
       "Jurian",
       "Merchant",
       "Messenger MacMartin",
@@ -8959,6 +9018,7 @@
       "Wounded Youth",
       "Young Volunteer",
       "「ランプライター」",
+      "ギャングの構成員A",
       "ターラーの流民",
       "バント",
       "マクマーティン",
@@ -8980,6 +9040,7 @@
       "志愿者青年",
       "忙しい青年",
       "忙碌的青年",
+      "怒った市民",
       "怒っている男性",
       "怖がる青年",
       "怯えきった青年",
@@ -9112,6 +9173,7 @@
       "Biting Officer",
       "Patrol Member",
       "Patrol Soldier",
+      "Staff Officer",
       "Stern Officer",
       "Victorian Soldier A",
       "Victorian Soldier B",
@@ -9121,6 +9183,7 @@
       "副官ヒル",
       "副官希尔",
       "厳しい将校",
+      "参謀",
       "参谋",
       "尖刻的军官",
       "巡回隊兵士",
@@ -9401,11 +9464,13 @@
       "avg_npc_279_1"
     ],
     [
+      "Elderly Pilgrim",
       "Hawker A",
       "Lara's Father",
       "Senior Subject",
       "ララの父",
       "小贩A",
+      "巡礼する老人",
       "年長の領民",
       "年长的领民",
       "朝拜的老者",
@@ -9825,6 +9890,8 @@
     ],
     [
       "Bean the Infected",
+      "Gordon",
+      "ゴードン",
       "感染者ビーン",
       "感染者毕恩",
       "戈登",
@@ -9850,10 +9917,8 @@
       "avg_npc_331_1"
     ],
     [
-      "Doc",
       "Phantom Crossbowman",
       "医生",
-      "医者",
       "幻影弩手",
       "迷彩狙撃兵"
     ]
@@ -10207,6 +10272,7 @@
     ],
     [
       "Hoederer",
+      "へドリー",
       "ヘドリー",
       "赫德雷"
     ]
@@ -10389,10 +10455,14 @@
       "avg_npc_408_1"
     ],
     [
+      "High-Ranking Officer",
+      "Veteran Officer",
       "Victorian Officer",
       "Victorian Soldier",
+      "ベテラン士官",
       "ヴィクトリア兵士",
       "ヴィクトリア士官",
+      "上級士官",
       "维多利亚军官",
       "维多利亚士兵",
       "维多利亚驻军",
@@ -10440,7 +10510,9 @@
     ],
     [
       "Mon3tr",
+      "Shining",
       "W",
+      "シャイニング",
       "闪灵"
     ]
   ],
@@ -10488,9 +10560,13 @@
       "avg_npc_416_1"
     ],
     [
+      "Desperate Thug",
       "Dublinn Messenger",
       "Londinium Citizen",
       "Londinium Citizen?",
+      "Starving Thug",
+      "Wary Man",
+      "Wary Smuggler",
       "ダブリンの伝令",
       "ロンディニウム市民",
       "ロンディニウム市民？",
@@ -10501,10 +10577,14 @@
       "深池信使",
       "烦躁的市民",
       "紧张的感染者",
+      "絶望した暴徒",
       "绝望的暴徒",
       "警惕的男人",
       "警惕的走私客",
+      "警戒心の強い密輸犯",
+      "警戒心の強い男",
       "诺伯特难民",
+      "飢えた暴徒",
       "饥饿的暴徒"
     ]
   ],
@@ -10513,12 +10593,17 @@
       "avg_npc_417_1"
     ],
     [
+      "Angry Thug",
+      "Calm Thug",
       "Londinium Citizen",
       "Newsagent",
+      "Worked-Up Thug",
       "ロンディニウム市民",
       "伦蒂尼姆市民",
+      "冷静な暴徒",
       "冷静的暴徒",
       "加利",
+      "怒った暴徒",
       "愤怒的暴徒",
       "报刊亭老板",
       "新聞露店オーナー",
@@ -10526,7 +10611,8 @@
       "激动的暴徒",
       "理发师",
       "疑惑的市民",
-      "疲惫的市民"
+      "疲惫的市民",
+      "興奮した暴徒"
     ]
   ],
   [
@@ -10560,10 +10646,14 @@
       "avg_npc_419_1"
     ],
     [
+      "Royal Court Soldier",
+      "Sarkaz Soldier",
       "Sarkaz Warrior",
+      "サルカズ兵士",
       "サルカズ戦士",
       "王庭军士兵",
       "王庭军尉官",
+      "王庭軍兵士",
       "脊椎守卫",
       "萨卡兹士兵",
       "萨卡兹战士"
@@ -10586,7 +10676,9 @@
     ],
     [
       "Apathetic Taran Man",
+      "Gangster B",
       "Skint Farmer",
+      "ギャングの構成員B",
       "冷漠的感染者",
       "小有积蓄的农场主",
       "少し蓄えのある農場主",
@@ -10627,9 +10719,9 @@
     ],
     [
       "Rock-17",
-      "Rock-27",
-      "ロック二十七号",
+      "Rock-18",
       "ロック十七号",
+      "ロック十八号",
       "洛克二十七",
       "洛克十七",
       "洛克十八"
@@ -11090,6 +11182,7 @@
       "Calm Noble",
       "Fretful Noble",
       "Leithanian Noble",
+      "Musician",
       "Nitpicking Critic",
       "Resplendently Dressed Noble",
       "Stoic-Looking Noble",
@@ -11107,7 +11200,8 @@
       "衣着华丽的贵族",
       "酷薄な批評家",
       "面无表情的贵族",
-      "音乐家"
+      "音乐家",
+      "音楽家"
     ]
   ],
   [
@@ -11137,6 +11231,7 @@
       "avg_npc_496_1"
     ],
     [
+      "Attendant",
       "Despondent Infected",
       "Mannered Infected",
       "Meddlesome Infected",
@@ -11145,6 +11240,7 @@
       "侍从",
       "围观的路人A",
       "好事的感染者",
+      "従者",
       "悲しむ感染者",
       "悲伤的感染者",
       "惴惴不安的乐手",
@@ -11292,26 +11388,38 @@
     ],
     [
       "Cheerful Columbian",
+      "Driver",
       "Drunkard",
       "Frivolous Columbian",
+      "Millais",
       "Morgue Worker",
       "Police Officer",
+      "Reporter B",
+      "Reporter?",
+      "Street Hawker",
+      "Vice President's Secretary",
       "ご機嫌なクルビア人",
+      "ミレース",
       "停尸间员工",
+      "副大統領秘書",
       "副总统秘书",
       "可疑的黎博利",
       "司机",
+      "屋台の店主",
       "愉快的哥伦比亚人",
       "无礼的记者",
       "死体安置所の従業員",
       "米莱斯",
       "街边摊贩",
+      "記者B",
+      "記者？",
       "警官",
       "警察",
       "记者B",
       "记者？",
       "軽薄なクルビア人",
       "轻佻的哥伦比亚人",
+      "運転手",
       "酔っぱらった男",
       "醉醺醺的男人"
     ]
@@ -11323,6 +11431,9 @@
     [
       "Bar Patron",
       "Cheery Woman",
+      "Nervous Entrepreneur",
+      "Reporter",
+      "Reporter A",
       "Staff Worker",
       "Tall Woman",
       "Trimountarian",
@@ -11337,6 +11448,9 @@
       "特里蒙市民",
       "痩せた長身の女性",
       "紧张的创业者",
+      "緊張気味の起業家",
+      "記者",
+      "記者A",
       "记者",
       "记者A",
       "酒吧客人",
@@ -11351,14 +11465,20 @@
     ],
     [
       "Columbian Soldier",
+      "Power Armor Operator",
+      "Power Armor Operator?",
+      "Quiet Power Armor",
       "Strange Power Armor",
       "Strange power armor",
       "クルビア兵",
+      "パワードスーツ兵",
+      "パワードスーツ兵？",
       "动力甲士兵",
       "动力甲士兵？",
       "哥伦比亚士兵",
       "奇妙なパワードスーツ",
       "奇怪的动力甲",
+      "沈黙するパワードスーツ",
       "沉默的动力甲"
     ]
   ],
@@ -11377,10 +11497,14 @@
       "avg_npc_528_1"
     ],
     [
+      "Defense Section Employee",
+      "Defense Section Employee?",
       "Rhine Defense Member",
       "Rhine Defense Section Employee",
       "ライン生命警備課職員",
       "莱茵防卫科成员",
+      "警備課職員",
+      "警備課職員？",
       "防卫科成员",
       "防卫科成员？"
     ]
@@ -11390,14 +11514,20 @@
       "avg_npc_529_1"
     ],
     [
+      "Business Clerk",
       "Luli",
       "Researcher B",
       "Researcher D",
       "Rhine Lab Tech",
       "Rhine Researcher",
+      "Rhine Staff",
+      "Rhine Staff A",
       "ライン生命研究員",
+      "ライン生命職員",
+      "ライン生命職員A",
       "ルーリー",
       "商务科文员",
+      "商務課の事務員",
       "生态科研究员",
       "生态科研究员B",
       "研究员B",
@@ -11418,15 +11548,23 @@
       "avg_npc_530_1"
     ],
     [
+      "Energy Section Researcher",
+      "Researcher",
       "Researcher A",
       "Researcher C",
       "Rhine Lab Tech",
+      "Rhine Staff B",
+      "Rhine Staff?",
+      "エネルギー課研究員",
       "ライン生命研究員",
+      "ライン生命職員B",
+      "ライン生命職員？",
       "焦虑的莱茵实验员",
       "生态科研究员A",
       "研究员",
       "研究员A",
       "研究员C",
+      "研究員",
       "研究員A",
       "研究員C",
       "科考科成员",
@@ -11463,6 +11601,8 @@
     ],
     [
       "Strange Entity",
+      "Transmitter",
+      "伝達物質",
       "奇妙な形状の物体",
       "形状奇特的物体",
       "递质"
@@ -11473,10 +11613,14 @@
       "avg_npc_534_1"
     ],
     [
+      "Citizen?",
       "Contestant B",
       "Frontier Team Member",
+      "Homeless Resident",
+      "Ordinary citizens?",
       "Pioneer",
       "Pioneer Team Member",
+      "一般市民？",
       "参加者B",
       "参赛者B",
       "市民？",
@@ -11484,6 +11628,7 @@
       "无家可归的居民",
       "普通市民？",
       "莱茵生命特遣信使",
+      "行く当てのない市民",
       "開拓隊の隊員"
     ]
   ],
@@ -11839,8 +11984,6 @@
       "avg_npc_598_1"
     ],
     [
-      "Ah Gen",
-      "アグン",
       "阿根"
     ]
   ],
@@ -11849,12 +11992,8 @@
       "avg_npc_599_1"
     ],
     [
-      "Sixty-Seven",
-      "Storm Cloudbeast",
-      "ロクナナ",
       "乌云兽",
-      "六十七",
-      "烏雲獣"
+      "六十七"
     ]
   ],
   [
@@ -11876,8 +12015,6 @@
       "Impoverished Young Man",
       "Layton's Henchman",
       "Muscular Man",
-      "Shelter Owner",
-      "オーナー",
       "スラム街の青年",
       "リントンの腹心",
       "大柄な男",
@@ -11894,8 +12031,6 @@
       "avg_npc_602_1"
     ],
     [
-      "Yangni",
-      "ヤニー",
       "扬尼"
     ]
   ],
@@ -11904,11 +12039,11 @@
       "avg_npc_603_1"
     ],
     [
-      "Musbeast",
+      "'Life'",
       "“生命”",
+      "「生命」",
       "麦哲伦",
-      "鼷兽",
-      "鼷獣"
+      "鼷兽"
     ]
   ],
   [
@@ -11916,8 +12051,6 @@
       "avg_npc_604_1"
     ],
     [
-      "Biu",
-      "ビジュー",
       "比丢"
     ]
   ],
@@ -11958,9 +12091,11 @@
       "avg_npc_624_1"
     ],
     [
+      "'Kazimierzian'",
       "Campaign Knight",
       "Marsov",
       "“卡西米尔人”",
+      "「カジミエーシュ人」",
       "マルショフ",
       "征战骑士",
       "征戦騎士",
@@ -12110,6 +12245,7 @@
       "Molly",
       "“茉莉”",
       "「モリ―」",
+      "「モリー」",
       "モリー",
       "变形者集群",
       "変形者",
@@ -12132,7 +12268,11 @@
     ],
     [
       "Londinium Worker",
+      "Londinium Worker B",
+      "Victorian Worker",
       "ロンディニウム工員",
+      "ロンディニウム工員B",
+      "ヴィクトリア人労働者",
       "伦蒂尼姆工人",
       "伦蒂尼姆工人B",
       "维多利亚工人"
@@ -12144,7 +12284,9 @@
     ],
     [
       "Londinium Worker",
+      "Londinium Worker A",
       "ロンディニウム工員",
+      "ロンディニウム工員A",
       "伦蒂尼姆工人",
       "伦蒂尼姆工人A",
       "慌乱的难民",
@@ -12557,13 +12699,15 @@
     ],
     [
       "Injured Refugee",
+      "Maimed Citizen",
       "Wounded Taran",
       "受伤的塔拉人",
       "受伤的流民",
       "小克鲁斯",
       "負傷したターラー人",
       "負傷した流民",
-      "重伤的市民"
+      "重伤的市民",
+      "重傷の市民"
     ]
   ],
   [
@@ -13122,6 +13266,8 @@
       "avg_npc_862_1"
     ],
     [
+      "Cador",
+      "カドール",
       "卡铎尔"
     ]
   ],
@@ -13130,6 +13276,8 @@
       "avg_npc_863_1"
     ],
     [
+      "Baird",
+      "ベアード",
       "贝尔德"
     ]
   ],
@@ -13138,6 +13286,10 @@
       "avg_npc_864_1"
     ],
     [
+      "Feline Woman",
+      "Percival",
+      "パーシヴァル",
+      "フェリーンの女性",
       "珀茜瓦尔",
       "菲林女性"
     ]
@@ -13147,6 +13299,10 @@
       "avg_npc_865_1"
     ],
     [
+      "Colbert",
+      "Elderly Sarkaz",
+      "コルバート",
+      "サルカズの老人",
       "考伯特",
       "萨卡兹老人"
     ]
@@ -13156,6 +13312,8 @@
       "avg_npc_866_1"
     ],
     [
+      "Delphine",
+      "デルフィーン",
       "变形者集群",
       "戴菲恩"
     ]
@@ -13165,7 +13323,9 @@
       "avg_npc_867_1"
     ],
     [
+      "'Trilby Asher'",
       "“灰礼帽”",
+      "「グレーシルクハット」",
       "戴着礼帽的人"
     ]
   ],
@@ -13174,6 +13334,8 @@
       "avg_npc_868_1"
     ],
     [
+      "Duke of Windermere",
+      "ウィンダミア公爵",
       "变形者集群",
       "温德米尔公爵"
     ]
@@ -13183,6 +13345,8 @@
       "avg_npc_869_1"
     ],
     [
+      "Ermengarde",
+      "エルマンガルド",
       "埃芒加德"
     ]
   ],
@@ -13191,6 +13355,8 @@
       "avg_npc_890_1"
     ],
     [
+      "Ferdinand",
+      "フェルディナンド",
       "斐尔迪南"
     ]
   ],
@@ -13199,6 +13365,8 @@
       "avg_npc_891_1"
     ],
     [
+      "Nasti",
+      "ナスティ",
       "娜斯提"
     ]
   ],
@@ -13207,8 +13375,12 @@
       "avg_npc_892_1"
     ],
     [
+      "Finely Dressed Man",
+      "Justin Jr.",
+      "ジャスティンJr.",
       "小贾斯汀",
-      "精英打扮的男性"
+      "精英打扮的男性",
+      "身なりの良い男"
     ]
   ],
   [
@@ -13216,6 +13388,10 @@
       "avg_npc_893_1"
     ],
     [
+      "Jara",
+      "Marianne",
+      "マリアンナ",
+      "ヤラ",
       "玛丽安娜",
       "雅拉"
     ]
@@ -13225,8 +13401,16 @@
       "avg_npc_894_1"
     ],
     [
+      "'Loken'",
+      "Familiar Silhouette",
+      "Loken",
+      "No. 30",
       "“洛肯”",
+      "「ローキャン」",
+      "ローキャン",
       "三十号",
+      "三十番",
+      "慣れ親しんだ影",
       "洛肯",
       "熟悉的影子"
     ]
@@ -13236,6 +13420,8 @@
       "avg_npc_895_1"
     ],
     [
+      "Ifrit",
+      "イフリータ",
       "伊芙利特"
     ]
   ],
@@ -13244,6 +13430,8 @@
       "avg_npc_896_1"
     ],
     [
+      "Saria",
+      "サリア",
       "塞雷娅"
     ]
   ],
@@ -13252,6 +13440,8 @@
       "avg_npc_897_1"
     ],
     [
+      "Jackson",
+      "ジャクソン",
       "杰克逊"
     ]
   ],
@@ -13260,6 +13450,9 @@
       "avg_npc_899_1"
     ],
     [
+      "Blake",
+      "Man in Military Uniform",
+      "ブレイク",
       "军士模样的人",
       "布莱克"
     ]
@@ -13269,6 +13462,8 @@
       "avg_npc_900_1"
     ],
     [
+      "Tin Man",
+      "ブリキ",
       "锡人"
     ]
   ],
@@ -13277,12 +13472,24 @@
       "avg_npc_901_1"
     ],
     [
+      "Agent A",
+      "Agent B",
+      "Columbian Soldier",
+      "Columbian Soldier A",
+      "Columbian Soldier B",
+      "Sniper",
+      "クルビア兵",
+      "クルビア兵A",
+      "クルビア兵B",
       "哥伦比亚士兵",
       "哥伦比亚士兵A",
       "哥伦比亚士兵B",
+      "工作員A",
+      "工作員B",
       "特工A",
       "特工B",
-      "狙击手"
+      "狙击手",
+      "狙撃手"
     ]
   ],
   [
@@ -13290,10 +13497,18 @@
       "avg_npc_902_1"
     ],
     [
+      "Components Control Section Employee",
+      "Components Control Section Employee A",
+      "Components Control Section Employee B",
+      "Components Control Section Employee C",
       "总辖构件科雇员",
       "总辖构件科雇员A",
       "总辖构件科雇员B",
-      "总辖构件科雇员C"
+      "总辖构件科雇员C",
+      "統括課職員",
+      "統括課職員A",
+      "統括課職員B",
+      "統括課職員C"
     ]
   ],
   [

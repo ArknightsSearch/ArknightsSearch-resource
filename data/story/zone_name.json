@@ -188,6 +188,8 @@
     "zh_CN": "落叶逐火"
   },
   "act25side": {
+    "en_US": "Lone Trail",
+    "ja_JP": "孤星",
     "zh_CN": "孤星"
   },
   "act26side": {
@@ -726,6 +728,8 @@
     "zh_CN": "煌"
   },
   "humus": {
+    "en_US": "Humus",
+    "ja_JP": "ヒューマス",
     "zh_CN": "休谟斯"
   },
   "ifrit": {
@@ -848,6 +852,8 @@
     "zh_CN": "淬火尘霾"
   },
   "main_12": {
+    "en_US": "All Quiet Under the Thunder",
+    "ja_JP": "驚靂蕭然",
     "zh_CN": "惊霆无声"
   },
   "main_13": {
@@ -949,6 +955,8 @@
     "zh_CN": "水月"
   },
   "mlyss": {
+    "en_US": "Muelsyse",
+    "ja_JP": "ミュルジス",
     "zh_CN": "缪尔赛思"
   },
   "mm": {
@@ -962,6 +970,8 @@
     "zh_CN": "可颂"
   },
   "morgan": {
+    "en_US": "Morgan",
+    "ja_JP": "モーガン",
     "zh_CN": "摩根"
   },
   "mostma": {
