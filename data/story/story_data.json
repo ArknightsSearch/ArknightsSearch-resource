@@ -3961,6 +3961,33 @@
     "code": null,
     "zone": "rogue_3"
   },
+  "1337": {
+    "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_6_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "血脉 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_3"
+  },
+  "1338": {
+    "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_6_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "血脉 Part.02"
+    },
+    "code": null,
+    "zone": "rogue_3"
+  },
+  "1339": {
+    "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_6_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "血脉 Part.03"
+    },
+    "code": null,
+    "zone": "rogue_3"
+  },
   "134": {
     "id": "obt/main/level_main_07-15_end",
     "type": "Main",
