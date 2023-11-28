@@ -3081,6 +3081,7 @@
       "avg_4063_quartz_1"
     ],
     [
+      "Quartz",
       "クォーツ",
       "石英"
     ]
@@ -3876,6 +3877,7 @@
       "Neighbor A",
       "Pondering Follower",
       "Strong Townsfolk",
+      "Timid Miner",
       "Tired Worker",
       "Townsfolk",
       "Villager A",
@@ -3930,6 +3932,7 @@
     ],
     [
       "A Kazimierz Villager",
+      "Angry Miner",
       "Angry Villager",
       "Fast Food Joint Owner",
       "Gangster Messenger",
@@ -3937,6 +3940,7 @@
       "Infected Worker",
       "Kazimierz Ruffian",
       "Local Ruffian",
+      "Luca",
       "Neighbor B",
       "Rhodes Island Messenger",
       "Search Team Member",
@@ -4123,12 +4127,14 @@
       "Merchant",
       "Militiaman B",
       "Newsstand Owner",
+      "Old Officer Vincent",
       "Old Worker",
       "Ordinary Infected A",
       "Passerby B",
       "Passing Merchant",
       "Produce Vendor",
       "Rowdy Stowaway",
+      "Tired Miner",
       "Village Headman",
       "Wastelander B",
       "くたびれた労働者",
@@ -4317,6 +4323,7 @@
       "Infected Hooligan",
       "Lord Ameer's Officer",
       "Mercenary A",
+      "Mercenary B",
       "Mercenary Captain",
       "Old Captain",
       "Quiet Bounty Hunter",
@@ -4638,6 +4645,7 @@
       "Cronin's Bodyguard",
       "Cronin's Henchman",
       "Investigator",
+      "Mine Guard",
       "Organizing Committee Member",
       "Otti",
       "Raythean Industries Security",
@@ -6025,6 +6033,7 @@
       "Raymond",
       "Shadow",
       "Stranger",
+      "Uncle Pickett",
       "Ursus Farmer",
       "Ursus Villager",
       "くたびれた労働者",
@@ -7809,6 +7818,7 @@
       "Genial Noble",
       "Greedy Businessman",
       "Local Judge A",
+      "Mayor",
       "Noble Gentleman",
       "Plump Merchant",
       "Pompous Merchant",
@@ -7867,6 +7877,7 @@
       "Astute Noble",
       "Bishmer",
       "Butler",
+      "Cowell",
       "Hughes",
       "Local Judge B",
       "Londinium Merchant",
@@ -7936,6 +7947,7 @@
     [
       "'Iberian'",
       "Inhabitant",
+      "Local Messenger",
       "Male Inhabitant",
       "Male Inhabitant A",
       "“伊比利亚人”",
@@ -7979,6 +7991,7 @@
     ],
     [
       "Old José",
+      "Old Panhandler",
       "ホセ",
       "老いた乞食",
       "老乞丐",
@@ -9004,6 +9017,7 @@
       "Bent",
       "Busy Youth",
       "Chef MacMartin",
+      "Cruise Jr.",
       "Embittered Man",
       "Excited Taran Refugee",
       "Frightened Youth",
@@ -10634,10 +10648,15 @@
       "avg_npc_418_1"
     ],
     [
+      "Catastrophe Messenger",
+      "Catastrophe Messenger?",
       "Earl's Attendant",
       "Fleeing Londinier",
+      "Ivy",
       "Londinium Citizen",
       "Londinium Citizen B",
+      "Strange Woman",
+      "Tamika",
       "アイビー",
       "タメカ",
       "ロンディニウム市民",
@@ -10997,6 +11016,7 @@
       "Panicky Villager",
       "Tense Townsperson",
       "Terrified Townsperson",
+      "Young Priest",
       "年轻的教士",
       "忙しそうな町民",
       "惊疑不定的镇民",
@@ -11029,6 +11049,7 @@
       "avg_npc_462_1"
     ],
     [
+      "Excitable Townsfolk",
       "Friendly Villager",
       "Helping Townsfolk",
       "Indiscreet Townsfolk",
@@ -12719,6 +12740,7 @@
       "avg_npc_729_1"
     ],
     [
+      "Cruise Jr.",
       "Injured Refugee",
       "Maimed Citizen",
       "Wounded Taran",
