@@ -2644,7 +2644,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "直到灯火明亮",
-      "ja_JP": "灯火が照らすまで"
+      "ja_JP": "灯火が照らすまで",
+      "en_US": "Till the Lights Shine Bright"
     },
     "code": null,
     "zone": "lumen"
@@ -2654,7 +2655,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "黄沙觅迹",
-      "ja_JP": "黄砂の追跡"
+      "ja_JP": "黄砂の追跡",
+      "en_US": "Seeker in the Sands"
     },
     "code": null,
     "zone": "ayer"
@@ -2664,7 +2666,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "暗境求生",
-      "ja_JP": "暗闇の生還"
+      "ja_JP": "暗闇の生還",
+      "en_US": "Living in Darkness"
     },
     "code": null,
     "zone": "lionhd"
@@ -2674,7 +2677,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "无需遗憾",
-      "ja_JP": "惜しむ必要なし"
+      "ja_JP": "惜しむ必要なし",
+      "en_US": "No Regrets"
     },
     "code": null,
     "zone": "quartz"
