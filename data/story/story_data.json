@@ -3784,7 +3784,8 @@
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_7_1",
     "type": "Rogue",
     "name": {
-      "zh_CN": "碑文倒影 Part.01"
+      "zh_CN": "碑文倒影 Part.01",
+      "en_US": "Inscription's Mirror Part.01"
     },
     "code": null,
     "zone": "rogue_2"
@@ -3793,7 +3794,8 @@
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_7_2",
     "type": "Rogue",
     "name": {
-      "zh_CN": "碑文倒影 Part.02"
+      "zh_CN": "碑文倒影 Part.02",
+      "en_US": "Inscription's Mirror Part.02"
     },
     "code": null,
     "zone": "rogue_2"
@@ -3802,7 +3804,8 @@
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_7_3",
     "type": "Rogue",
     "name": {
-      "zh_CN": "碑文倒影 Part.03"
+      "zh_CN": "碑文倒影 Part.03",
+      "en_US": "Inscription's Mirror Part.03"
     },
     "code": null,
     "zone": "rogue_2"
