@@ -204,6 +204,9 @@
   "act29side": {
     "zh_CN": "崔林特尔梅之金"
   },
+  "act30side": {
+    "zh_CN": "银心湖列车"
+  },
   "act3d0": {
     "en_US": "Heart of Surging Flame",
     "ja_JP": "青く燃ゆる心",
@@ -642,6 +645,11 @@
     "ja_JP": "ハニーベリー",
     "zh_CN": "蜜莓"
   },
+  "gnosis": {
+    "en_US": "Gnosis",
+    "ja_JP": "ノーシス",
+    "zh_CN": "灵知"
+  },
   "grani": {
     "en_US": "Grani",
     "ja_JP": "グラニ",
@@ -786,6 +794,11 @@
     "ja_JP": "キララ",
     "zh_CN": "绮良"
   },
+  "kjera": {
+    "en_US": "Kjera",
+    "ja_JP": "イェラ",
+    "zh_CN": "耶拉"
+  },
   "kroos": {
     "en_US": "Kroos",
     "ja_JP": "クルース",
@@ -800,6 +813,9 @@
     "en_US": "Leizi",
     "ja_JP": "レイズ",
     "zh_CN": "惊蛰"
+  },
+  "leto": {
+    "zh_CN": "烈夏"
   },
   "ling": {
     "en_US": "Ling",
