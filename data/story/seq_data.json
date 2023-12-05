@@ -2986,6 +2986,7 @@
       "avg_4043_erato_1"
     ],
     [
+      "Erato",
       "エラト",
       "埃拉托"
     ]
@@ -3727,6 +3728,7 @@
       "avg_482_pallas_1"
     ],
     [
+      "Erato & Pallas",
       "Pallas",
       "ウィリアム",
       "エラト&パラス",
@@ -3825,6 +3827,7 @@
       "avg_497_ctable_1"
     ],
     [
+      "Cantabile",
       "カンタービレ",
       "晓歌"
     ]
@@ -4219,9 +4222,11 @@
       "Brutish Mercenary",
       "Cowardly Mercenary",
       "Crumbling Bandit",
+      "Daniil",
       "Diminutive Mercenary",
       "Elder Hunter",
       "Hunter",
+      "Indifferent Bandit",
       "Indignant Mercenary",
       "Infected Henchman",
       "Infected Thug",
@@ -4241,6 +4246,7 @@
       "Strange Hunter",
       "Strange Townsfolk",
       "Sullen Bounty Hunter",
+      "Surly Bandit",
       "Ugly Hooligan",
       "Violent Bounty Hunter",
       "Violent Mercenary",
@@ -4529,6 +4535,7 @@
       "Rhodes Island Field Personnel",
       "Rhodes Island Guard",
       "Rhodes Island Operator",
+      "Rhodes Island Operator B",
       "Sandwheel",
       "Tired Rhodes Island Operator",
       "Vanguard Operator A",
@@ -6074,6 +6081,7 @@
       "Uncle Pickett",
       "Ursus Farmer",
       "Ursus Villager",
+      "Villager",
       "くたびれた労働者",
       "ウルサス村人",
       "ウルサス農民",
@@ -6194,6 +6202,7 @@
       "Navigator A",
       "Rhodes Island Field Operator",
       "Rhodes Island Operator",
+      "Rhodes Island Operator A",
       "Steady Rhodes Island Operator",
       "Young Studying Operator",
       "エンジニアオペレーター",
@@ -6250,6 +6259,7 @@
       "Operator Shredder",
       "Rhodes Island Logistics Operator",
       "Rhodes Island Operator",
+      "Seanson",
       "Seasoned Rhodes Island Operator",
       "Sniper Operator",
       "シュレッダー",
@@ -6285,9 +6295,11 @@
     ],
     [
       "Chard",
+      "Defender Operator",
       "Engineering Operator",
       "Engineering Operator A",
       "Engineering Operator B",
+      "Lucci",
       "Office Operator",
       "Office Operator A",
       "Operator Barty",
@@ -7858,6 +7870,7 @@
     [
       "Actress",
       "Beautiful Noble",
+      "Calm Councilor",
       "Caravan Head",
       "Cheery Actress",
       "Hesitant Ambassador",
@@ -7918,6 +7931,7 @@
       "Announcer",
       "Casino Boss",
       "Elegant Ambassador",
+      "Emotional Councilor",
       "Enthusiastic Merchant",
       "Genial Noble",
       "Greedy Businessman",
@@ -7983,9 +7997,11 @@
       "Bishmer",
       "Butler",
       "Cowell",
+      "Extremely Serious Councilor",
       "Hughes",
       "Local Judge B",
       "Londinium Merchant",
+      "Mayor",
       "Noble Man",
       "Noblewoman and Wealthy Man",
       "Obscured Merchant",
@@ -8850,6 +8866,7 @@
       "A Corporate Employee A",
       "Boy",
       "Branch Office Manager",
+      "Government Official",
       "Informant",
       "Knight Scout",
       "Mid-level Manager",
@@ -9122,6 +9139,7 @@
       "avg_npc_242"
     ],
     [
+      "Amazed Passerby",
       "Angry Citizen",
       "Angry Youth",
       "Bent",
@@ -9135,6 +9153,7 @@
       "Gentleman",
       "Grieving Man",
       "Hostile Man",
+      "Independent Reporter",
       "Infected",
       "Infected Citizen",
       "Jurian",
@@ -9230,6 +9249,7 @@
       "avg_npc_243"
     ],
     [
+      "Apathetic Passerby",
       "Cautious Servant",
       "Feeble Woman",
       "Infected Citizen",
@@ -11584,6 +11604,7 @@
     ],
     [
       "Andante",
+      "Medic Operator",
       "Rhodes Island Operator",
       "Woman in Operator Attire",
       "アンダンテ",
@@ -11629,6 +11650,7 @@
       "Police Officer",
       "Reporter B",
       "Reporter?",
+      "Rude Reporter",
       "Street Hawker",
       "Vice President's Secretary",
       "ご機嫌なクルビア人",
@@ -11667,6 +11689,7 @@
     [
       "Bar Patron",
       "Cheery Woman",
+      "Impatient Reporter",
       "Nervous Entrepreneur",
       "Reporter",
       "Reporter A",
