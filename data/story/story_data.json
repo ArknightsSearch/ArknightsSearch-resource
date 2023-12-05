@@ -2985,7 +2985,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "在冬夜里燃烧",
-      "ja_JP": "冬の夜に燃える"
+      "ja_JP": "冬の夜に燃える",
+      "en_US": "Burning on a Winter Night"
     },
     "code": null,
     "zone": "headbr"
@@ -2995,7 +2996,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "英雄们的叙事诗",
-      "ja_JP": "英雄たちの叙事詩"
+      "ja_JP": "英雄たちの叙事詩",
+      "en_US": "The Epic of Heroes"
     },
     "code": null,
     "zone": "erato"
@@ -3005,7 +3007,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "飞进窗的羽兽",
-      "ja_JP": "窓から飛び込んだ羽獣"
+      "ja_JP": "窓から飛び込んだ羽獣",
+      "en_US": "A Fowl Through the Window"
     },
     "code": null,
     "zone": "ctable"
@@ -3015,7 +3018,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "应为必为",
-      "ja_JP": "為すべきこと"
+      "ja_JP": "為すべきこと",
+      "en_US": "One Should, One Must"
     },
     "code": null,
     "zone": "kazema"
@@ -3025,7 +3029,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "无价的勋章",
-      "ja_JP": "価値のない勲章"
+      "ja_JP": "価値のない勲章",
+      "en_US": "A Priceless Medal"
     },
     "code": null,
     "zone": "jaksel"
