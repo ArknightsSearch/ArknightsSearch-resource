@@ -2984,7 +2984,8 @@
     "id": "obt/memory/story_headbr_2_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "在冬夜里燃烧"
+      "zh_CN": "在冬夜里燃烧",
+      "ja_JP": "冬の夜に燃える"
     },
     "code": null,
     "zone": "headbr"
@@ -2993,7 +2994,8 @@
     "id": "obt/memory/story_erato_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "英雄们的叙事诗"
+      "zh_CN": "英雄们的叙事诗",
+      "ja_JP": "英雄たちの叙事詩"
     },
     "code": null,
     "zone": "erato"
@@ -3002,7 +3004,8 @@
     "id": "obt/memory/story_ctable_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "飞进窗的羽兽"
+      "zh_CN": "飞进窗的羽兽",
+      "ja_JP": "窓から飛び込んだ羽獣"
     },
     "code": null,
     "zone": "ctable"
@@ -3011,7 +3014,8 @@
     "id": "obt/memory/story_kazema_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "应为必为"
+      "zh_CN": "应为必为",
+      "ja_JP": "為すべきこと"
     },
     "code": null,
     "zone": "kazema"
@@ -3020,7 +3024,8 @@
     "id": "obt/memory/story_jaksel_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "无价的勋章"
+      "zh_CN": "无价的勋章",
+      "ja_JP": "価値のない勲章"
     },
     "code": null,
     "zone": "jaksel"
