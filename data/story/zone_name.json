@@ -193,6 +193,7 @@
     "zh_CN": "孤星"
   },
   "act26side": {
+    "en_US": "Hortus de Escapismo",
     "ja_JP": "空想の花庭",
     "zh_CN": "空想花庭"
   },
@@ -549,6 +550,7 @@
     "zh_CN": "送葬人"
   },
   "excu2": {
+    "en_US": "Executor the Ex Foedere",
     "ja_JP": "聖約イグゼキュター",
     "zh_CN": "圣约送葬人"
   },
@@ -753,6 +755,7 @@
     "zh_CN": "深靛"
   },
   "inside": {
+    "en_US": "Insider",
     "ja_JP": "インサイダー",
     "zh_CN": "隐现"
   },

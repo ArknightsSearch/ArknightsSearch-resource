@@ -3040,7 +3040,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "送葬人",
-      "ja_JP": "執行人"
+      "ja_JP": "執行人",
+      "en_US": "Executor"
     },
     "code": null,
     "zone": "excu"
@@ -3050,7 +3051,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "机密任务",
-      "ja_JP": "極秘任務"
+      "ja_JP": "極秘任務",
+      "en_US": "Secret Mission"
     },
     "code": null,
     "zone": "inside"
@@ -3060,7 +3062,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "司雷霆者",
-      "ja_JP": "雷を司る者"
+      "ja_JP": "雷を司る者",
+      "en_US": "One Who Controls Lightning"
     },
     "code": null,
     "zone": "leizi"
@@ -3081,7 +3084,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "出行计划",
-      "ja_JP": "出発の準備"
+      "ja_JP": "出発の準備",
+      "en_US": "Departure Plans"
     },
     "code": null,
     "zone": "forcer"
@@ -3091,7 +3095,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "独行之人",
-      "ja_JP": "独り行く者"
+      "ja_JP": "独り行く者",
+      "en_US": "The Lone Goer"
     },
     "code": null,
     "zone": "firwhl"
@@ -3101,7 +3106,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "许以秘密",
-      "ja_JP": "秘密を交わして"
+      "ja_JP": "秘密を交わして",
+      "en_US": "Let's Keep That a Secret"
     },
     "code": null,
     "zone": "kafka"
@@ -3111,7 +3117,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "远方的雪",
-      "ja_JP": "彼方の雪"
+      "ja_JP": "彼方の雪",
+      "en_US": "What the Snow's Like Far Away"
     },
     "code": null,
     "zone": "pudd"
@@ -3121,7 +3128,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "时髦把戏",
-      "ja_JP": "トレンディ・トリック"
+      "ja_JP": "トレンディ・トリック",
+      "en_US": "The Game of Chic"
     },
     "code": null,
     "zone": "utage"
@@ -4114,7 +4122,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "童年的终结 Part.01",
-      "ja_JP": "幼少期の終わり Part.01"
+      "ja_JP": "幼少期の終わり Part.01",
+      "en_US": "Childhood's End Part.01"
     },
     "code": null,
     "zone": "rogue_2"
@@ -4124,7 +4133,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "童年的终结 Part.02",
-      "ja_JP": "幼少期の終わり Part.02"
+      "ja_JP": "幼少期の終わり Part.02",
+      "en_US": "Childhood's End Part.02"
     },
     "code": null,
     "zone": "rogue_2"
@@ -4134,7 +4144,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "童年的终结 Part.03",
-      "ja_JP": "幼少期の終わり Part.03"
+      "ja_JP": "幼少期の終わり Part.03",
+      "en_US": "Childhood's End Part.03"
     },
     "code": null,
     "zone": "rogue_2"
@@ -7359,7 +7370,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "奉上冠冕",
-      "ja_JP": "栄えの冠を捧げ奉らん"
+      "ja_JP": "栄えの冠を捧げ奉らん",
+      "en_US": "Crown Offering"
     },
     "code": "HE-ST-1",
     "zone": "act26side"
@@ -7369,7 +7381,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "我有一个荣美家乡",
-      "ja_JP": "麗しの我が故郷"
+      "ja_JP": "麗しの我が故郷",
+      "en_US": "Home Sweet Home"
     },
     "code": "HE-1",
     "zone": "act26side"
@@ -7379,7 +7392,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "我有一个荣美家乡",
-      "ja_JP": "麗しの我が故郷"
+      "ja_JP": "麗しの我が故郷",
+      "en_US": "Home Sweet Home"
     },
     "code": "HE-1",
     "zone": "act26side"
@@ -7389,7 +7403,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "生命运河",
-      "ja_JP": "生命の運河"
+      "ja_JP": "生命の運河",
+      "en_US": "River of Life"
     },
     "code": "HE-2",
     "zone": "act26side"
@@ -7399,7 +7414,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "生命运河",
-      "ja_JP": "生命の運河"
+      "ja_JP": "生命の運河",
+      "en_US": "River of Life"
     },
     "code": "HE-2",
     "zone": "act26side"
@@ -7409,7 +7425,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "岂可空手回天府？",
-      "ja_JP": "徒手では天へ還られぬ"
+      "ja_JP": "徒手では天へ還られぬ",
+      "en_US": "No Empty Hands"
     },
     "code": "HE-3",
     "zone": "act26side"
@@ -7430,7 +7447,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "岂可空手回天府？",
-      "ja_JP": "徒手では天へ還られぬ"
+      "ja_JP": "徒手では天へ還られぬ",
+      "en_US": "No Empty Hands"
     },
     "code": "HE-3",
     "zone": "act26side"
@@ -7440,7 +7458,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "我曾舍命为你",
-      "ja_JP": "命を懸けし者"
+      "ja_JP": "命を懸けし者",
+      "en_US": "My Life I Gave for You"
     },
     "code": "HE-4",
     "zone": "act26side"
@@ -7450,7 +7469,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "我曾舍命为你",
-      "ja_JP": "命を懸けし者"
+      "ja_JP": "命を懸けし者",
+      "en_US": "My Life I Gave for You"
     },
     "code": "HE-4",
     "zone": "act26side"
@@ -7460,7 +7480,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "主在圣殿中",
-      "ja_JP": "主は御座におられる"
+      "ja_JP": "主は御座におられる",
+      "en_US": "God in His Temple"
     },
     "code": "HE-5",
     "zone": "act26side"
@@ -7470,7 +7491,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "主在圣殿中",
-      "ja_JP": "主は御座におられる"
+      "ja_JP": "主は御座におられる",
+      "en_US": "God in His Temple"
     },
     "code": "HE-5",
     "zone": "act26side"
@@ -7480,7 +7502,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "夜半歌声",
-      "ja_JP": "夜半の歌声"
+      "ja_JP": "夜半の歌声",
+      "en_US": "Serenade"
     },
     "code": "HE-6",
     "zone": "act26side"
@@ -7490,7 +7513,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "夜半歌声",
-      "ja_JP": "夜半の歌声"
+      "ja_JP": "夜半の歌声",
+      "en_US": "Serenade"
     },
     "code": "HE-6",
     "zone": "act26side"
@@ -7500,7 +7524,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "在花园里",
-      "ja_JP": "祈りの園生を"
+      "ja_JP": "祈りの園生を",
+      "en_US": "In the Garden"
     },
     "code": "HE-ST-2",
     "zone": "act26side"
@@ -7510,7 +7535,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "以爱相连",
-      "ja_JP": "愛に結び合いし"
+      "ja_JP": "愛に結び合いし",
+      "en_US": "Joined by Love"
     },
     "code": "HE-7",
     "zone": "act26side"
@@ -7520,7 +7546,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "以爱相连",
-      "ja_JP": "愛に結び合いし"
+      "ja_JP": "愛に結び合いし",
+      "en_US": "Joined by Love"
     },
     "code": "HE-7",
     "zone": "act26side"
@@ -7541,7 +7568,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "愿跟随主",
-      "ja_JP": "主に従い行くは"
+      "ja_JP": "主に従い行くは",
+      "en_US": "Devout Follower"
     },
     "code": "HE-8",
     "zone": "act26side"
@@ -7551,7 +7579,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "愿跟随主",
-      "ja_JP": "主に従い行くは"
+      "ja_JP": "主に従い行くは",
+      "en_US": "Devout Follower"
     },
     "code": "HE-8",
     "zone": "act26side"
@@ -7561,7 +7590,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "慈光引导",
-      "ja_JP": "導き行かせ給え"
+      "ja_JP": "導き行かせ給え",
+      "en_US": "Guide by Light"
     },
     "code": "HE-ST-3",
     "zone": "act26side"
