@@ -3039,7 +3039,8 @@
     "id": "obt/memory/story_excu_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "送葬人"
+      "zh_CN": "送葬人",
+      "ja_JP": "執行人"
     },
     "code": null,
     "zone": "excu"
@@ -3048,7 +3049,8 @@
     "id": "obt/memory/story_inside_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "机密任务"
+      "zh_CN": "机密任务",
+      "ja_JP": "極秘任務"
     },
     "code": null,
     "zone": "inside"
@@ -3057,7 +3059,8 @@
     "id": "obt/memory/story_leizi_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "司雷霆者"
+      "zh_CN": "司雷霆者",
+      "ja_JP": "雷を司る者"
     },
     "code": null,
     "zone": "leizi"
@@ -3077,7 +3080,8 @@
     "id": "obt/memory/story_forcer_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "出行计划"
+      "zh_CN": "出行计划",
+      "ja_JP": "出発の準備"
     },
     "code": null,
     "zone": "forcer"
@@ -3086,7 +3090,8 @@
     "id": "obt/memory/story_firwhl_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "独行之人"
+      "zh_CN": "独行之人",
+      "ja_JP": "独り行く者"
     },
     "code": null,
     "zone": "firwhl"
@@ -3095,7 +3100,8 @@
     "id": "obt/memory/story_kafka_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "许以秘密"
+      "zh_CN": "许以秘密",
+      "ja_JP": "秘密を交わして"
     },
     "code": null,
     "zone": "kafka"
@@ -3104,7 +3110,8 @@
     "id": "obt/memory/story_pudd_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "远方的雪"
+      "zh_CN": "远方的雪",
+      "ja_JP": "彼方の雪"
     },
     "code": null,
     "zone": "pudd"
@@ -3113,7 +3120,8 @@
     "id": "obt/memory/story_utage_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "时髦把戏"
+      "zh_CN": "时髦把戏",
+      "ja_JP": "トレンディ・トリック"
     },
     "code": null,
     "zone": "utage"
@@ -4105,7 +4113,8 @@
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_8_1",
     "type": "Rogue",
     "name": {
-      "zh_CN": "童年的终结 Part.01"
+      "zh_CN": "童年的终结 Part.01",
+      "ja_JP": "幼少期の終わり Part.01"
     },
     "code": null,
     "zone": "rogue_2"
@@ -4114,7 +4123,8 @@
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_8_2",
     "type": "Rogue",
     "name": {
-      "zh_CN": "童年的终结 Part.02"
+      "zh_CN": "童年的终结 Part.02",
+      "ja_JP": "幼少期の終わり Part.02"
     },
     "code": null,
     "zone": "rogue_2"
@@ -4123,7 +4133,8 @@
     "id": "obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_8_3",
     "type": "Rogue",
     "name": {
-      "zh_CN": "童年的终结 Part.03"
+      "zh_CN": "童年的终结 Part.03",
+      "ja_JP": "幼少期の終わり Part.03"
     },
     "code": null,
     "zone": "rogue_2"
@@ -7347,7 +7358,8 @@
     "id": "activities/act26side/level_act26side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "奉上冠冕"
+      "zh_CN": "奉上冠冕",
+      "ja_JP": "栄えの冠を捧げ奉らん"
     },
     "code": "HE-ST-1",
     "zone": "act26side"
@@ -7356,7 +7368,8 @@
     "id": "activities/act26side/level_act26side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "我有一个荣美家乡"
+      "zh_CN": "我有一个荣美家乡",
+      "ja_JP": "麗しの我が故郷"
     },
     "code": "HE-1",
     "zone": "act26side"
@@ -7365,7 +7378,8 @@
     "id": "activities/act26side/level_act26side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "我有一个荣美家乡"
+      "zh_CN": "我有一个荣美家乡",
+      "ja_JP": "麗しの我が故郷"
     },
     "code": "HE-1",
     "zone": "act26side"
@@ -7374,7 +7388,8 @@
     "id": "activities/act26side/level_act26side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "生命运河"
+      "zh_CN": "生命运河",
+      "ja_JP": "生命の運河"
     },
     "code": "HE-2",
     "zone": "act26side"
@@ -7383,7 +7398,8 @@
     "id": "activities/act26side/level_act26side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "生命运河"
+      "zh_CN": "生命运河",
+      "ja_JP": "生命の運河"
     },
     "code": "HE-2",
     "zone": "act26side"
@@ -7392,7 +7408,8 @@
     "id": "activities/act26side/level_act26side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "岂可空手回天府？"
+      "zh_CN": "岂可空手回天府？",
+      "ja_JP": "徒手では天へ還られぬ"
     },
     "code": "HE-3",
     "zone": "act26side"
@@ -7412,7 +7429,8 @@
     "id": "activities/act26side/level_act26side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "岂可空手回天府？"
+      "zh_CN": "岂可空手回天府？",
+      "ja_JP": "徒手では天へ還られぬ"
     },
     "code": "HE-3",
     "zone": "act26side"
@@ -7421,7 +7439,8 @@
     "id": "activities/act26side/level_act26side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "我曾舍命为你"
+      "zh_CN": "我曾舍命为你",
+      "ja_JP": "命を懸けし者"
     },
     "code": "HE-4",
     "zone": "act26side"
@@ -7430,7 +7449,8 @@
     "id": "activities/act26side/level_act26side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "我曾舍命为你"
+      "zh_CN": "我曾舍命为你",
+      "ja_JP": "命を懸けし者"
     },
     "code": "HE-4",
     "zone": "act26side"
@@ -7439,7 +7459,8 @@
     "id": "activities/act26side/level_act26side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "主在圣殿中"
+      "zh_CN": "主在圣殿中",
+      "ja_JP": "主は御座におられる"
     },
     "code": "HE-5",
     "zone": "act26side"
@@ -7448,7 +7469,8 @@
     "id": "activities/act26side/level_act26side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "主在圣殿中"
+      "zh_CN": "主在圣殿中",
+      "ja_JP": "主は御座におられる"
     },
     "code": "HE-5",
     "zone": "act26side"
@@ -7457,7 +7479,8 @@
     "id": "activities/act26side/level_act26side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "夜半歌声"
+      "zh_CN": "夜半歌声",
+      "ja_JP": "夜半の歌声"
     },
     "code": "HE-6",
     "zone": "act26side"
@@ -7466,7 +7489,8 @@
     "id": "activities/act26side/level_act26side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "夜半歌声"
+      "zh_CN": "夜半歌声",
+      "ja_JP": "夜半の歌声"
     },
     "code": "HE-6",
     "zone": "act26side"
@@ -7475,7 +7499,8 @@
     "id": "activities/act26side/level_act26side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "在花园里"
+      "zh_CN": "在花园里",
+      "ja_JP": "祈りの園生を"
     },
     "code": "HE-ST-2",
     "zone": "act26side"
@@ -7484,7 +7509,8 @@
     "id": "activities/act26side/level_act26side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "以爱相连"
+      "zh_CN": "以爱相连",
+      "ja_JP": "愛に結び合いし"
     },
     "code": "HE-7",
     "zone": "act26side"
@@ -7493,7 +7519,8 @@
     "id": "activities/act26side/level_act26side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "以爱相连"
+      "zh_CN": "以爱相连",
+      "ja_JP": "愛に結び合いし"
     },
     "code": "HE-7",
     "zone": "act26side"
@@ -7513,7 +7540,8 @@
     "id": "activities/act26side/level_act26side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "愿跟随主"
+      "zh_CN": "愿跟随主",
+      "ja_JP": "主に従い行くは"
     },
     "code": "HE-8",
     "zone": "act26side"
@@ -7522,7 +7550,8 @@
     "id": "activities/act26side/level_act26side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "愿跟随主"
+      "zh_CN": "愿跟随主",
+      "ja_JP": "主に従い行くは"
     },
     "code": "HE-8",
     "zone": "act26side"
@@ -7531,7 +7560,8 @@
     "id": "activities/act26side/level_act26side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "慈光引导"
+      "zh_CN": "慈光引导",
+      "ja_JP": "導き行かせ給え"
     },
     "code": "HE-ST-3",
     "zone": "act26side"
