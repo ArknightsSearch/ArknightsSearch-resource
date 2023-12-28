@@ -4334,6 +4334,33 @@
     "code": null,
     "zone": "rogue_3"
   },
+  "1363": {
+    "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_7_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "使命 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_3"
+  },
+  "1364": {
+    "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_7_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "使命 Part.02"
+    },
+    "code": null,
+    "zone": "rogue_3"
+  },
+  "1365": {
+    "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_7_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "使命 Part.03"
+    },
+    "code": null,
+    "zone": "rogue_3"
+  },
   "137": {
     "id": "obt/main/level_main_08-01_beg",
     "type": "Main",
