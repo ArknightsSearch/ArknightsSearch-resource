@@ -107,6 +107,9 @@
     "ja_JP": "画中人",
     "zh_CN": "画中人"
   },
+  "act16mini": {
+    "zh_CN": "去咧嘴谷"
+  },
   "act16side": {
     "en_US": "Guide Ahead",
     "ja_JP": "吾れ先導者たらん",
@@ -288,6 +291,11 @@
     "ja_JP": "エクシア",
     "zh_CN": "能天使"
   },
+  "ansel": {
+    "en_US": "Ansel",
+    "ja_JP": "アンセル",
+    "zh_CN": "安赛尔"
+  },
   "aosta": {
     "en_US": "Aosta",
     "ja_JP": "アオスタ",
@@ -410,6 +418,14 @@
     "en_US": "Beanstalk",
     "ja_JP": "ビーンストーク",
     "zh_CN": "豆苗"
+  },
+  "bubble": {
+    "en_US": "Bubble",
+    "ja_JP": "バブル",
+    "zh_CN": "泡泡"
+  },
+  "buildr": {
+    "zh_CN": "青枳"
   },
   "cammou": {
     "en_US": "Click",
@@ -945,6 +961,11 @@
     "en_US": "Melantha",
     "ja_JP": "メランサ",
     "zh_CN": "玫兰莎"
+  },
+  "melnte": {
+    "en_US": "Melanite",
+    "ja_JP": "メラナイト",
+    "zh_CN": "玫拉"
   },
   "meteo": {
     "en_US": "Meteorite",
