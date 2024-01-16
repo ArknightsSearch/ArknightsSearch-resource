@@ -3288,7 +3288,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "鬓旁的花",
-      "ja_JP": "耳元の花"
+      "ja_JP": "耳元の花",
+      "en_US": "Flowers by the Temples of Your Head"
     },
     "code": null,
     "zone": "sleach"
@@ -3309,7 +3310,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "风情街的日与夜",
-      "ja_JP": "商店街の日々"
+      "ja_JP": "商店街の日々",
+      "en_US": "Day & Night at Fashion Street"
     },
     "code": null,
     "zone": "bryota"
@@ -3319,7 +3321,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "任务报告填写指南",
-      "ja_JP": "任務報告書作成指南"
+      "ja_JP": "任務報告書作成指南",
+      "en_US": "Mission Report Filing Guide"
     },
     "code": null,
     "zone": "myrtle"
@@ -3329,7 +3332,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "荒地巧匠",
-      "ja_JP": "荒野の匠"
+      "ja_JP": "荒野の匠",
+      "en_US": "Wasteland Artisan"
     },
     "code": null,
     "zone": "humus"
@@ -7281,7 +7285,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "到站旁",
-      "ja_JP": "駅に到着"
+      "ja_JP": "駅に到着",
+      "en_US": "Down By the Station"
     },
     "code": "SL-ST-1",
     "zone": "act27side"
@@ -7291,7 +7296,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "你的耳朵长不长？",
-      "ja_JP": "お耳を垂らせる？"
+      "ja_JP": "お耳を垂らせる？",
+      "en_US": "Do Your Ears Hang Low?"
     },
     "code": "SL-1",
     "zone": "act27side"
@@ -7301,7 +7307,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "你的耳朵长不长？",
-      "ja_JP": "お耳を垂らせる？"
+      "ja_JP": "お耳を垂らせる？",
+      "en_US": "Do Your Ears Hang Low?"
     },
     "code": "SL-1",
     "zone": "act27side"
@@ -7311,7 +7318,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "小蓝孩",
-      "ja_JP": "リトル・ボーイ・ブルー"
+      "ja_JP": "リトル・ボーイ・ブルー",
+      "en_US": "Little Boy Blue"
     },
     "code": "SL-2",
     "zone": "act27side"
@@ -7321,7 +7329,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "小蓝孩",
-      "ja_JP": "リトル・ボーイ・ブルー"
+      "ja_JP": "リトル・ボーイ・ブルー",
+      "en_US": "Little Boy Blue"
     },
     "code": "SL-2",
     "zone": "act27side"
@@ -7331,7 +7340,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "手指之家",
-      "ja_JP": "指の家族"
+      "ja_JP": "指の家族",
+      "en_US": "Finger Family"
     },
     "code": "SL-3",
     "zone": "act27side"
@@ -7341,7 +7351,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "手指之家",
-      "ja_JP": "指の家族"
+      "ja_JP": "指の家族",
+      "en_US": "Finger Family"
     },
     "code": "SL-3",
     "zone": "act27side"
@@ -7362,7 +7373,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "雨啊，雨啊，快离开",
-      "ja_JP": "雨、雨、あっち行け"
+      "ja_JP": "雨、雨、あっち行け",
+      "en_US": "Rain, Rain, Go Away"
     },
     "code": "SL-ST-2",
     "zone": "act27side"
@@ -7372,7 +7384,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "一个水手出海了",
-      "ja_JP": "船乗りが海へ"
+      "ja_JP": "船乗りが海へ",
+      "en_US": "A Sailor Went to Sea"
     },
     "code": "SL-4",
     "zone": "act27side"
@@ -7382,7 +7395,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "一个水手出海了",
-      "ja_JP": "船乗りが海へ"
+      "ja_JP": "船乗りが海へ",
+      "en_US": "A Sailor Went to Sea"
     },
     "code": "SL-4",
     "zone": "act27side"
@@ -7392,7 +7406,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "我会唱一首彩虹",
-      "ja_JP": "虹を歌おう"
+      "ja_JP": "虹を歌おう",
+      "en_US": "I Can Sing a Rainbow"
     },
     "code": "SL-5",
     "zone": "act27side"
@@ -7402,7 +7417,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "我会唱一首彩虹",
-      "ja_JP": "虹を歌おう"
+      "ja_JP": "虹を歌おう",
+      "en_US": "I Can Sing a Rainbow"
     },
     "code": "SL-5",
     "zone": "act27side"
@@ -7412,7 +7428,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "林中小木屋",
-      "ja_JP": "森の中の小屋"
+      "ja_JP": "森の中の小屋",
+      "en_US": "Little Cabin in the Wood"
     },
     "code": "SL-6",
     "zone": "act27side"
@@ -7422,7 +7439,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "林中小木屋",
-      "ja_JP": "森の中の小屋"
+      "ja_JP": "森の中の小屋",
+      "en_US": "Little Cabin in the Wood"
     },
     "code": "SL-6",
     "zone": "act27side"
@@ -7432,7 +7450,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "靠着我的肩膀哭泣",
-      "ja_JP": "泣くときは私の肩で"
+      "ja_JP": "泣くときは私の肩で",
+      "en_US": "Cry On My Shoulder"
     },
     "code": "SL-7",
     "zone": "act27side"
@@ -7442,7 +7461,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "靠着我的肩膀哭泣",
-      "ja_JP": "泣くときは私の肩で"
+      "ja_JP": "泣くときは私の肩で",
+      "en_US": "Cry On My Shoulder"
     },
     "code": "SL-7",
     "zone": "act27side"
@@ -7452,7 +7472,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "爱之歌",
-      "ja_JP": "愛してる"
+      "ja_JP": "愛してる",
+      "en_US": "Skidamarink"
     },
     "code": "SL-8",
     "zone": "act27side"
@@ -7484,7 +7505,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "爱之歌",
-      "ja_JP": "愛してる"
+      "ja_JP": "愛してる",
+      "en_US": "Skidamarink"
     },
     "code": "SL-8",
     "zone": "act27side"
@@ -7494,7 +7516,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "晴天",
-      "ja_JP": "晴れの日"
+      "ja_JP": "晴れの日",
+      "en_US": "Sunny Day"
     },
     "code": "SL-ST-3",
     "zone": "act27side"
