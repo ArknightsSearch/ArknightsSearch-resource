@@ -3287,7 +3287,8 @@
     "id": "obt/memory/story_sleach_2_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "鬓旁的花"
+      "zh_CN": "鬓旁的花",
+      "ja_JP": "耳元の花"
     },
     "code": null,
     "zone": "sleach"
@@ -3307,7 +3308,8 @@
     "id": "obt/memory/story_bryota_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "风情街的日与夜"
+      "zh_CN": "风情街的日与夜",
+      "ja_JP": "商店街の日々"
     },
     "code": null,
     "zone": "bryota"
@@ -3316,7 +3318,8 @@
     "id": "obt/memory/story_myrtle_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "任务报告填写指南"
+      "zh_CN": "任务报告填写指南",
+      "ja_JP": "任務報告書作成指南"
     },
     "code": null,
     "zone": "myrtle"
@@ -3325,7 +3328,8 @@
     "id": "obt/memory/story_humus_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "荒地巧匠"
+      "zh_CN": "荒地巧匠",
+      "ja_JP": "荒野の匠"
     },
     "code": null,
     "zone": "humus"
@@ -7276,7 +7280,8 @@
     "id": "activities/act27side/level_act27side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "到站旁"
+      "zh_CN": "到站旁",
+      "ja_JP": "駅に到着"
     },
     "code": "SL-ST-1",
     "zone": "act27side"
@@ -7285,7 +7290,8 @@
     "id": "activities/act27side/level_act27side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "你的耳朵长不长？"
+      "zh_CN": "你的耳朵长不长？",
+      "ja_JP": "お耳を垂らせる？"
     },
     "code": "SL-1",
     "zone": "act27side"
@@ -7294,7 +7300,8 @@
     "id": "activities/act27side/level_act27side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "你的耳朵长不长？"
+      "zh_CN": "你的耳朵长不长？",
+      "ja_JP": "お耳を垂らせる？"
     },
     "code": "SL-1",
     "zone": "act27side"
@@ -7303,7 +7310,8 @@
     "id": "activities/act27side/level_act27side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "小蓝孩"
+      "zh_CN": "小蓝孩",
+      "ja_JP": "リトル・ボーイ・ブルー"
     },
     "code": "SL-2",
     "zone": "act27side"
@@ -7312,7 +7320,8 @@
     "id": "activities/act27side/level_act27side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "小蓝孩"
+      "zh_CN": "小蓝孩",
+      "ja_JP": "リトル・ボーイ・ブルー"
     },
     "code": "SL-2",
     "zone": "act27side"
@@ -7321,7 +7330,8 @@
     "id": "activities/act27side/level_act27side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "手指之家"
+      "zh_CN": "手指之家",
+      "ja_JP": "指の家族"
     },
     "code": "SL-3",
     "zone": "act27side"
@@ -7330,7 +7340,8 @@
     "id": "activities/act27side/level_act27side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "手指之家"
+      "zh_CN": "手指之家",
+      "ja_JP": "指の家族"
     },
     "code": "SL-3",
     "zone": "act27side"
@@ -7350,7 +7361,8 @@
     "id": "activities/act27side/level_act27side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "雨啊，雨啊，快离开"
+      "zh_CN": "雨啊，雨啊，快离开",
+      "ja_JP": "雨、雨、あっち行け"
     },
     "code": "SL-ST-2",
     "zone": "act27side"
@@ -7359,7 +7371,8 @@
     "id": "activities/act27side/level_act27side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "一个水手出海了"
+      "zh_CN": "一个水手出海了",
+      "ja_JP": "船乗りが海へ"
     },
     "code": "SL-4",
     "zone": "act27side"
@@ -7368,7 +7381,8 @@
     "id": "activities/act27side/level_act27side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "一个水手出海了"
+      "zh_CN": "一个水手出海了",
+      "ja_JP": "船乗りが海へ"
     },
     "code": "SL-4",
     "zone": "act27side"
@@ -7377,7 +7391,8 @@
     "id": "activities/act27side/level_act27side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "我会唱一首彩虹"
+      "zh_CN": "我会唱一首彩虹",
+      "ja_JP": "虹を歌おう"
     },
     "code": "SL-5",
     "zone": "act27side"
@@ -7386,7 +7401,8 @@
     "id": "activities/act27side/level_act27side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "我会唱一首彩虹"
+      "zh_CN": "我会唱一首彩虹",
+      "ja_JP": "虹を歌おう"
     },
     "code": "SL-5",
     "zone": "act27side"
@@ -7395,7 +7411,8 @@
     "id": "activities/act27side/level_act27side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "林中小木屋"
+      "zh_CN": "林中小木屋",
+      "ja_JP": "森の中の小屋"
     },
     "code": "SL-6",
     "zone": "act27side"
@@ -7404,7 +7421,8 @@
     "id": "activities/act27side/level_act27side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "林中小木屋"
+      "zh_CN": "林中小木屋",
+      "ja_JP": "森の中の小屋"
     },
     "code": "SL-6",
     "zone": "act27side"
@@ -7413,7 +7431,8 @@
     "id": "activities/act27side/level_act27side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "靠着我的肩膀哭泣"
+      "zh_CN": "靠着我的肩膀哭泣",
+      "ja_JP": "泣くときは私の肩で"
     },
     "code": "SL-7",
     "zone": "act27side"
@@ -7422,7 +7441,8 @@
     "id": "activities/act27side/level_act27side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "靠着我的肩膀哭泣"
+      "zh_CN": "靠着我的肩膀哭泣",
+      "ja_JP": "泣くときは私の肩で"
     },
     "code": "SL-7",
     "zone": "act27side"
@@ -7431,7 +7451,8 @@
     "id": "activities/act27side/level_act27side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "爱之歌"
+      "zh_CN": "爱之歌",
+      "ja_JP": "愛してる"
     },
     "code": "SL-8",
     "zone": "act27side"
@@ -7462,7 +7483,8 @@
     "id": "activities/act27side/level_act27side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "爱之歌"
+      "zh_CN": "爱之歌",
+      "ja_JP": "愛してる"
     },
     "code": "SL-8",
     "zone": "act27side"
@@ -7471,7 +7493,8 @@
     "id": "activities/act27side/level_act27side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "晴天"
+      "zh_CN": "晴天",
+      "ja_JP": "晴れの日"
     },
     "code": "SL-ST-3",
     "zone": "act27side"
