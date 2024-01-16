@@ -416,6 +416,7 @@
       "avg_1016_agoat2_1"
     ],
     [
+      "Adele",
       "アデル",
       "阿黛尔"
     ]
@@ -559,6 +560,7 @@
       "avg_1033_swire2_1"
     ],
     [
+      "Swire",
       "スワイヤー",
       "诗怀雅"
     ]
@@ -1247,6 +1249,7 @@
       "char_180_amgoat_1"
     ],
     [
+      "Adele",
       "Eyjafjalla",
       "アデル",
       "エイヤフィヤトラ",
@@ -3270,6 +3273,10 @@
       "avg_4106_bryota_1"
     ],
     [
+      "Adele",
+      "Enis",
+      "Guiltless Man",
+      "Male Passerby",
       "アデル",
       "エニス",
       "埃尼斯",
@@ -3792,6 +3799,7 @@
       "avg_491_humus_1"
     ],
     [
+      "Humus",
       "ヒューマス",
       "休谟斯"
     ]
@@ -3919,6 +3927,7 @@
       "A Kazimierz Villager",
       "A Shopkeeper",
       "A Strange Passerby",
+      "Discouraged Worker",
       "Drunkard",
       "Filon",
       "Honest Villager",
@@ -3927,6 +3936,7 @@
       "Joyful Worker",
       "Neighbor A",
       "Pondering Follower",
+      "Spirited Worker",
       "Strong Townsfolk",
       "Timid Miner",
       "Tired Worker",
@@ -4553,6 +4563,7 @@
       "Operator Saren",
       "Operator Straightedge",
       "Pilot",
+      "Rhodes Island Engineer",
       "Rhodes Island Field Operator",
       "Rhodes Island Field Operator B",
       "Rhodes Island Field Personnel",
@@ -4772,6 +4783,7 @@
       "Customer A",
       "Male Tourist",
       "Male Tourist A",
+      "Messenger",
       "Passerby A",
       "Shopkeeper B",
       "Tabloid Reporter",
@@ -4808,6 +4820,7 @@
       "Customer B",
       "Female Tourist",
       "Female Tourist A",
+      "Fragrance Shop Owner",
       "Manager",
       "Shopkeeper A",
       "Tourist B",
@@ -5854,6 +5867,7 @@
       "Archosauria D",
       "Aruna",
       "Clan Leader B",
+      "Coin Dealer",
       "Fighting Villager",
       "Groaning Archosauria",
       "Happy Archosauria",
@@ -6237,7 +6251,9 @@
       "Human Resources Operator",
       "Idle Operator",
       "Logistics Operator",
+      "Medic Operator",
       "Navigator A",
+      "Operator Susan",
       "Rhodes Island Field Operator",
       "Rhodes Island Operator",
       "Rhodes Island Operator A",
@@ -6298,6 +6314,7 @@
       "Hank",
       "Office Operator B",
       "Operator Chard",
+      "Operator Hoger",
       "Operator Shredder",
       "Rhodes Island Logistics Operator",
       "Rhodes Island Operator",
@@ -6480,6 +6497,9 @@
       "avg_npc_1000_1"
     ],
     [
+      "Bar Owner",
+      "Instrument Shop Owner",
+      "Male Instrument Shop Owner",
       "バー店長",
       "乐器店男老板",
       "乐器店老板",
@@ -6509,6 +6529,8 @@
       "avg_npc_1001_1"
     ],
     [
+      "Female Instrument Shop Owner",
+      "Restaurant Owner",
       "レストラン店長",
       "乐器店女老板",
       "楽器屋女性店主",
@@ -6520,6 +6542,9 @@
       "avg_npc_1002_1"
     ],
     [
+      "An Elder by the Roadside",
+      "Cold Drinks Shop Owner",
+      "Elderly Shopkeeper",
       "アイス屋の店主",
       "アイス屋店主",
       "冷饮店店主",
@@ -6534,6 +6559,7 @@
       "avg_npc_1003_1"
     ],
     [
+      "Ceylon",
       "セイロン",
       "锡兰"
     ]
@@ -6543,6 +6569,7 @@
       "avg_npc_1004_1"
     ],
     [
+      "Left-Behind Creature",
       "取り残された生物",
       "被落下的生物"
     ]
@@ -6552,6 +6579,7 @@
       "avg_npc_1005_1"
     ],
     [
+      "Snowsant",
       "スノーズント",
       "雪雉"
     ]
@@ -6561,6 +6589,7 @@
       "avg_npc_1006_1"
     ],
     [
+      "Solemn Creature",
       "严肃的生物",
       "厳かな生物"
     ]
@@ -6570,6 +6599,7 @@
       "avg_npc_1007_1"
     ],
     [
+      "Gentle Creature",
       "温和的生物",
       "穏やかな生物"
     ]
@@ -6579,6 +6609,7 @@
       "avg_npc_1008_1"
     ],
     [
+      "Agitated Creature",
       "焦る生物",
       "着急的生物"
     ]
@@ -6588,6 +6619,7 @@
       "avg_npc_1009_1"
     ],
     [
+      "Coffee-colored Creature",
       "コーヒー色の生物",
       "咖啡色的生物"
     ]
@@ -6614,6 +6646,8 @@
       "avg_npc_1010_1"
     ],
     [
+      "Cheerful Creature",
+      "Merry Creature",
       "开朗的生物",
       "快乐的生物",
       "明るい生物",
@@ -6625,6 +6659,8 @@
       "avg_npc_1011_1"
     ],
     [
+      "Dozy Creature",
+      "Shrewd Creature",
       "ぼうっとした生物",
       "抜け目ない生物",
       "精明的生物",
@@ -6636,6 +6672,7 @@
       "avg_npc_1012_1"
     ],
     [
+      "Dozy Creature",
       "ぼうっとした生物",
       "迷糊的生物"
     ]
@@ -6645,6 +6682,8 @@
       "avg_npc_1013_1"
     ],
     [
+      "Creature Carrying a Miner's Lamp",
+      "Lost Creature",
       "ランプを背負った生物",
       "背着矿灯的生物",
       "迷子の生物",
@@ -6656,6 +6695,9 @@
       "avg_npc_1014_1"
     ],
     [
+      "Dolly",
+      "Strange Creature",
+      "Swire",
       "スワイヤー",
       "ドリー",
       "外形奇特的生物",
@@ -6669,6 +6711,9 @@
       "avg_npc_1015_1"
     ],
     [
+      "Ann-Maier",
+      "Impoverished Girl",
+      "Quiet Girl",
       "アンマイヤー",
       "低沉的少女",
       "安麦尔",
@@ -8057,6 +8102,7 @@
       "Greedy Businessman",
       "Host",
       "Local Judge A",
+      "MC",
       "Mayor",
       "Noble Gentleman",
       "Plump Merchant",
@@ -8116,6 +8162,7 @@
     [
       "Adulating Noble",
       "Astute Noble",
+      "Bankrupt Merchant",
       "Bishmer",
       "Butler",
       "Cowell",
@@ -8999,6 +9046,7 @@
       "A Corporate Employee A",
       "Boy",
       "Branch Office Manager",
+      "City Hall Staffer",
       "Government Official",
       "Informant",
       "Knight Scout",
@@ -9289,6 +9337,7 @@
       "Infected",
       "Infected Citizen",
       "Jurian",
+      "Lean Man",
       "Merchant",
       "Messenger MacMartin",
       "Michael",
@@ -10848,6 +10897,7 @@
     [
       "High-Ranking Officer",
       "Veteran Officer",
+      "Victorian Barracks Officer",
       "Victorian Officer",
       "Victorian Soldier",
       "ベテラン士官",
@@ -10994,6 +11044,7 @@
     [
       "Angry Thug",
       "Calm Thug",
+      "Hairdresser",
       "Londinium Citizen",
       "Newsagent",
       "Worked-Up Thug",
@@ -11024,7 +11075,9 @@
       "Catastrophe Messenger?",
       "Earl's Attendant",
       "Fleeing Londinier",
+      "Haggard Woman",
       "Ivy",
+      "Lanky Inventor",
       "Londinium Citizen",
       "Londinium Citizen B",
       "Strange Woman",
@@ -13033,6 +13086,7 @@
     ],
     [
       "Rubio's Daughter",
+      "Thin Girl",
       "ルビオの娘",
       "卢比奥之女",
       "小柄な女の子",
@@ -14314,6 +14368,7 @@
       "avg_npc_972_1"
     ],
     [
+      "HR Operator",
       "人事干员",
       "人事部オペレーター",
       "人事部干员",
@@ -14339,6 +14394,7 @@
       "avg_npc_989_1"
     ],
     [
+      "Adele",
       "アデル",
       "阿黛尔"
     ]
@@ -14348,6 +14404,7 @@
       "avg_npc_990_1"
     ],
     [
+      "Bison",
       "バイソン",
       "拜松"
     ]
@@ -14357,6 +14414,13 @@
       "avg_npc_991_1"
     ],
     [
+      "Boy",
+      "Curious Boy",
+      "Excited Boy",
+      "Frightened Boy",
+      "Lut",
+      "Lut & Liv",
+      "Very Happy Boy",
       "ルート",
       "ルート&リーフ",
       "好奇的小男孩",
@@ -14379,6 +14443,17 @@
       "avg_npc_992_1"
     ],
     [
+      "Curious Girl",
+      "Dejected Little Girl",
+      "Excited Girl",
+      "Girl",
+      "Girl & Boy",
+      "Ice Cream-Craving Girl",
+      "Indignant Girl",
+      "Innocent Girl",
+      "Joyful Girl",
+      "Liv",
+      "Unhappy Girl",
       "アイスを食べたい女の子",
       "リーフ",
       "不开心的小女孩",
@@ -14408,6 +14483,8 @@
       "avg_npc_993_1"
     ],
     [
+      "Byrd",
+      "Guitar-Playing Singer",
       "ギターを弾く歌手",
       "バード",
       "伯德",
@@ -14419,6 +14496,8 @@
       "avg_npc_994_1"
     ],
     [
+      "Harley",
+      "Stylish Shopkeeper",
       "おしゃれな店主",
       "ヘイリー",
       "哈莉",
@@ -14430,6 +14509,10 @@
       "avg_npc_995_1"
     ],
     [
+      "Bored Man",
+      "Excited Man",
+      "Man Becoming Excited",
+      "Pelipper",
       "だらけた男性",
       "ペリペ",
       "佩利佩",
@@ -14445,6 +14528,7 @@
       "avg_npc_996_1"
     ],
     [
+      "Kahn",
       "カーン",
       "卡恩"
     ]
@@ -14454,6 +14538,9 @@
       "avg_npc_997_1"
     ],
     [
+      "Costa",
+      "Tired Government Employee",
+      "Tired Voice",
       "コスタ",
       "疲れ切った政府職員",
       "疲弊した声",
@@ -14467,6 +14554,9 @@
       "avg_npc_998_1"
     ],
     [
+      "Dispirited Worker",
+      "Nervous Worker",
+      "Weary Worker",
       "元気のない労働者",
       "委顿的工人",
       "意気消沈した労働者",
@@ -14483,6 +14573,7 @@
       "avg_npc_999_1"
     ],
     [
+      "Keller",
       "ケラー",
       "凯勒"
     ]
