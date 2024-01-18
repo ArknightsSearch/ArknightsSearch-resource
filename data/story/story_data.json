@@ -4482,6 +4482,33 @@
     "code": null,
     "zone": "rogue_3"
   },
+  "1376": {
+    "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_8_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "恒在 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_3"
+  },
+  "1377": {
+    "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_8_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "恒在 Part.02"
+    },
+    "code": null,
+    "zone": "rogue_3"
+  },
+  "1378": {
+    "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_8_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "恒在 Part.03"
+    },
+    "code": null,
+    "zone": "rogue_3"
+  },
   "138": {
     "id": "obt/main/level_main_08-01_end",
     "type": "Main",
