@@ -160,11 +160,6 @@
     "ja_JP": "ヒュムノイの叡智",
     "zh_CN": "荷谟伊智境"
   },
-  "act1sandbox": {
-    "en_US": "Reclamation Algorithm - Fire Within the Sand",
-    "ja_JP": "生息演算：砂中の火",
-    "zh_CN": "生息演算：沙中之火"
-  },
   "act20side": {
     "en_US": "Ideal City: Endless Carnival",
     "ja_JP": "理想都市-エンドレスカーニバル-",
@@ -213,6 +208,9 @@
   },
   "act30side": {
     "zh_CN": "银心湖列车"
+  },
+  "act31side": {
+    "zh_CN": "怀黍离"
   },
   "act3d0": {
     "en_US": "Heart of Surging Flame",
@@ -480,6 +478,11 @@
     "en_US": "Chiave",
     "ja_JP": "キアーベ",
     "zh_CN": "贾维"
+  },
+  "chimes": {
+    "en_US": "Wind Chimes",
+    "ja_JP": "ウィンドチャイム",
+    "zh_CN": "铎铃"
   },
   "chnut": {
     "en_US": "Chestnut",
@@ -1158,6 +1161,11 @@
     "ja_JP": "カニパラート",
     "zh_CN": "雪绒"
   },
+  "qiubai": {
+    "en_US": "Qiubai",
+    "ja_JP": "チューバイ",
+    "zh_CN": "仇白"
+  },
   "quartz": {
     "en_US": "Quartz",
     "ja_JP": "クォーツ",
@@ -1225,6 +1233,9 @@
     "en_US": "Meteor",
     "ja_JP": "メテオ",
     "zh_CN": "流星"
+  },
+  "shu": {
+    "zh_CN": "黍"
   },
   "shwaz": {
     "en_US": "Schwarz",
