@@ -3584,7 +3584,8 @@
     "id": "obt/memory/story_malist_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "长夏未尽"
+      "zh_CN": "长夏未尽",
+      "ja_JP": "エンドレス・サマー"
     },
     "code": null,
     "zone": "malist"
@@ -3593,7 +3594,8 @@
     "id": "obt/memory/story_grani_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "穷途不返"
+      "zh_CN": "穷途不返",
+      "ja_JP": "決して振り返らず"
     },
     "code": null,
     "zone": "grani"
@@ -3602,7 +3604,8 @@
     "id": "obt/memory/story_chnut_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "黑色石头"
+      "zh_CN": "黑色石头",
+      "ja_JP": "「黒い石」"
     },
     "code": null,
     "zone": "chnut"
@@ -3611,7 +3614,8 @@
     "id": "obt/memory/story_hibisc_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "良方"
+      "zh_CN": "良方",
+      "ja_JP": "良薬"
     },
     "code": null,
     "zone": "hibisc"
