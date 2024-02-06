@@ -3585,7 +3585,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "长夏未尽",
-      "ja_JP": "エンドレス・サマー"
+      "ja_JP": "エンドレス・サマー",
+      "en_US": "In the Endless Summer"
     },
     "code": null,
     "zone": "malist"
@@ -3595,7 +3596,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "穷途不返",
-      "ja_JP": "決して振り返らず"
+      "ja_JP": "決して振り返らず",
+      "en_US": "Once Rock Bottom..."
     },
     "code": null,
     "zone": "grani"
@@ -3605,7 +3607,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "黑色石头",
-      "ja_JP": "「黒い石」"
+      "ja_JP": "「黒い石」",
+      "en_US": "Black Rocks"
     },
     "code": null,
     "zone": "chnut"
@@ -3615,7 +3618,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "良方",
-      "ja_JP": "良薬"
+      "ja_JP": "良薬",
+      "en_US": "The Best Cure"
     },
     "code": null,
     "zone": "hibisc"
