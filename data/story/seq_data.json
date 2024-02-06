@@ -725,6 +725,7 @@
       "char_120_hibisc_1"
     ],
     [
+      "Gali",
       "Hibiscus",
       "Lava",
       "ギャリー",
@@ -2982,6 +2983,7 @@
       "avg_4041_chnut_1"
     ],
     [
+      "Chestnut",
       "チェストナット",
       "褐果"
     ]
@@ -3054,6 +3056,7 @@
     ],
     [
       "Mature Durin",
+      "Minimalist",
       "Scathing Durin",
       "Stitch Canvas",
       "スディチ",
@@ -3074,6 +3077,7 @@
       "Avdotya",
       "Contemplative Lupo",
       "Lupo",
+      "Pozëmka",
       "アヴドーチャ",
       "アヴドーチヤ",
       "パゼオンカ",
@@ -3974,6 +3978,7 @@
       "A Strange Passerby",
       "Discouraged Worker",
       "Drunkard",
+      "Edgar",
       "Filon",
       "Honest Villager",
       "Infected Employee?",
@@ -4166,6 +4171,7 @@
       "James the Worker",
       "Johnny",
       "Kazimierz Villager",
+      "Kurt Sr.",
       "Militiaman A",
       "Old Townsfolk",
       "Ordinary Infected B",
@@ -4177,6 +4183,7 @@
       "Village Headman",
       "Villager",
       "Villager C",
+      "Wallen",
       "やかましい老人",
       "ウォーレン",
       "カジミエーシュの村人",
@@ -4874,6 +4881,7 @@
       "Fragrance Shop Owner",
       "Manager",
       "Shopkeeper A",
+      "Tourist",
       "Tourist B",
       "アロマショップ店主",
       "マネージャー",
@@ -5978,6 +5986,7 @@
       "Clan Leader A",
       "Crying Villager",
       "Excited Archosauria",
+      "Furious Archosauria",
       "Injured Villager",
       "Serious Archosauria",
       "Uda",
@@ -8822,6 +8831,7 @@
       "Casino Guest",
       "Cheerful Male Tourist",
       "Impatient Male Tourist",
+      "Mysterious Person",
       "Startled Male Tourist",
       "Terrified Male Tourist",
       "Tourist",
@@ -8884,6 +8894,7 @@
       "Angered Contestant",
       "Excited Customer",
       "Irritated Contestant",
+      "Tourist A",
       "兴奋的客人",
       "怒っている選手",
       "急躁的参赛选手",
@@ -8905,6 +8916,7 @@
       "Headstrong Contestant",
       "Irritated Contestant",
       "Skeptical Customer",
+      "Tourist B",
       "不屈の選手",
       "不屈的参赛选手",
       "参加選手？",
@@ -9302,6 +9314,7 @@
       "Mid-level Manager",
       "Professor's Assistant",
       "Researcher",
+      "Retained Lawyer",
       "Snobby Official",
       "Staff Worker",
       "Tired Corporate Employee",
@@ -9493,10 +9506,12 @@
       "avg_npc_240"
     ],
     [
+      "Anxious Child",
       "Child",
       "Craig",
       "Dirt-Poor Peddler",
       "Emaciated Child",
+      "Eric",
       "Joe",
       "Jurian",
       "Knight",
@@ -9593,6 +9608,7 @@
       "Merchant",
       "Messenger MacMartin",
       "Michael",
+      "Mysterious Informant",
       "Panicked Youth",
       "Placid Photographer",
       "Restless Youth",
@@ -11301,6 +11317,7 @@
     [
       "Angry Thug",
       "Calm Thug",
+      "Gali",
       "Hairdresser",
       "Londinium Citizen",
       "Newsagent",
@@ -12574,11 +12591,13 @@
       "avg_npc_573_1"
     ],
     [
+      "Astonished Durin",
       "Astute Durin",
       "Chatty Durin",
       "Durin",
       "Durin Who's Carrying a Whole Barrel in His Arms",
       "Inebriated Durin",
+      "Leisurely Durin",
       "Not Very Astute Durin",
       "Starting-to-be-Astute Durin",
       "Thrilled Durin",
@@ -12612,6 +12631,7 @@
       "avg_npc_574_1"
     ],
     [
+      "Admiring Durin",
       "Cheerful Durin",
       "Clear-headed Durin",
       "Excited Durin",
@@ -12664,9 +12684,11 @@
       "Meticulous Durin?",
       "Nervous Durin",
       "Not Very Courteous Durin",
+      "Pragmatic Durin",
       "Rational Durin",
       "Relaxed Durin",
       "Starting-to-be-Courteous Durin",
+      "Tipsy Durin",
       "しっかりしたドゥリン",
       "しっかりしたドゥリン？",
       "そわそわしたドゥリン人",
@@ -14822,8 +14844,11 @@
       "avg_npc_998_1"
     ],
     [
+      "Cautious Man",
+      "Cautious Man?",
       "Dispirited Worker",
       "Nervous Worker",
+      "Obsidian Miner",
       "Weary Worker",
       "元気のない労働者",
       "委顿的工人",
