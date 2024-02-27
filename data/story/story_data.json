@@ -3457,7 +3457,8 @@
     "id": "obt/memory/story_mlyss_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "无根之雨"
+      "zh_CN": "无根之雨",
+      "ja_JP": "根なしの雨"
     },
     "code": null,
     "zone": "mlyss"
@@ -3466,7 +3467,8 @@
     "id": "obt/memory/story_qanik_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "风雪代为传达"
+      "zh_CN": "风雪代为传达",
+      "ja_JP": "雪風が届ける声"
     },
     "code": null,
     "zone": "qanik"
@@ -3475,7 +3477,8 @@
     "id": "obt/memory/story_provs_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "假定公正"
+      "zh_CN": "假定公正",
+      "ja_JP": "法に基づく公正"
     },
     "code": null,
     "zone": "provs"
@@ -3484,7 +3487,8 @@
     "id": "obt/memory/story_akafyu_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "异乡剑士"
+      "zh_CN": "异乡剑士",
+      "ja_JP": "異郷の剣士"
     },
     "code": null,
     "zone": "akafyu"
@@ -3493,7 +3497,8 @@
     "id": "obt/memory/story_halo_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "实验进行中"
+      "zh_CN": "实验进行中",
+      "ja_JP": "実験進行中"
     },
     "code": null,
     "zone": "halo"
@@ -3502,7 +3507,8 @@
     "id": "obt/memory/story_glassb_2_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "再见以前"
+      "zh_CN": "再见以前",
+      "ja_JP": "いつかの日に別れを"
     },
     "code": null,
     "zone": "glassb"
@@ -3511,7 +3517,8 @@
     "id": "obt/memory/story_snakek_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "夺包奇遇"
+      "zh_CN": "夺包奇遇",
+      "ja_JP": "リュック争奪戦"
     },
     "code": null,
     "zone": "snakek"
@@ -3520,7 +3527,8 @@
     "id": "obt/memory/story_nblade_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "授刀"
+      "zh_CN": "授刀",
+      "ja_JP": "受け継がれる刀"
     },
     "code": null,
     "zone": "nblade"
@@ -4525,7 +4533,8 @@
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_1_1",
     "type": "Rogue",
     "name": {
-      "zh_CN": "探足 Part.01"
+      "zh_CN": "探足 Part.01",
+      "ja_JP": "探り足 Part.01"
     },
     "code": null,
     "zone": "rogue_3"
@@ -4534,7 +4543,8 @@
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_1_2",
     "type": "Rogue",
     "name": {
-      "zh_CN": "探足 Part.02"
+      "zh_CN": "探足 Part.02",
+      "ja_JP": "探り足 Part.02"
     },
     "code": null,
     "zone": "rogue_3"
@@ -4543,7 +4553,8 @@
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_1_3",
     "type": "Rogue",
     "name": {
-      "zh_CN": "探足 Part.03"
+      "zh_CN": "探足 Part.03",
+      "ja_JP": "探り足 Part.03"
     },
     "code": null,
     "zone": "rogue_3"
@@ -7992,7 +8003,8 @@
     "id": "activities/act15mini/level_act15mini_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "沉于冰寒"
+      "zh_CN": "沉于冰寒",
+      "ja_JP": "氷寒に沈む"
     },
     "code": "FD-ST1",
     "zone": "act15mini"
@@ -8001,7 +8013,8 @@
     "id": "activities/act15mini/level_act15mini_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "冰原的女儿"
+      "zh_CN": "冰原的女儿",
+      "ja_JP": "氷原の娘"
     },
     "code": "FD-ST2",
     "zone": "act15mini"
@@ -8010,7 +8023,8 @@
     "id": "activities/act15mini/level_act15mini_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "树影幢幢"
+      "zh_CN": "树影幢幢",
+      "ja_JP": "揺らめく木陰"
     },
     "code": "FD-ST3",
     "zone": "act15mini"
@@ -8019,7 +8033,8 @@
     "id": "activities/act15mini/level_act15mini_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "自然的启示"
+      "zh_CN": "自然的启示",
+      "ja_JP": "自然の啓示"
     },
     "code": "FD-ST4",
     "zone": "act15mini"
@@ -8028,7 +8043,8 @@
     "id": "activities/act15mini/level_act15mini_st05",
     "type": "Activity",
     "name": {
-      "zh_CN": "归乡"
+      "zh_CN": "归乡",
+      "ja_JP": "帰郷"
     },
     "code": "FD-ST5",
     "zone": "act15mini"
@@ -8037,7 +8053,8 @@
     "id": "activities/act15mini/level_act15mini_st06",
     "type": "Activity",
     "name": {
-      "zh_CN": "终有一日"
+      "zh_CN": "终有一日",
+      "ja_JP": "いつの日か"
     },
     "code": "FD-ST6",
     "zone": "act15mini"
@@ -8046,7 +8063,8 @@
     "id": "activities/act15mini/level_act15mini_st07",
     "type": "Activity",
     "name": {
-      "zh_CN": "未见之景"
+      "zh_CN": "未见之景",
+      "ja_JP": "まだ見ぬ景色"
     },
     "code": "FD-ST7",
     "zone": "act15mini"
