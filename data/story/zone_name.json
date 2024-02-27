@@ -95,6 +95,7 @@
     "zh_CN": "此地之外"
   },
   "act15mini": {
+    "en_US": "The Black Forest Wills A Dream",
     "ja_JP": "樹影にて眠る",
     "zh_CN": "眠于树影之中"
   },
@@ -1198,6 +1199,7 @@
     "zh_CN": "水月与深蓝之树"
   },
   "rogue_3": {
+    "en_US": "Expeditioner's Jǫklumarkar",
     "ja_JP": "探索者と銀氷の果て",
     "zh_CN": "探索者的银凇止境"
   },
@@ -1295,6 +1297,7 @@
     "zh_CN": "雪雉"
   },
   "sntlla": {
+    "en_US": "Santalla",
     "ja_JP": "サンタラ",
     "zh_CN": "寒檀"
   },

@@ -3458,7 +3458,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "无根之雨",
-      "ja_JP": "根なしの雨"
+      "ja_JP": "根なしの雨",
+      "en_US": "April Showers"
     },
     "code": null,
     "zone": "mlyss"
@@ -3468,7 +3469,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "风雪代为传达",
-      "ja_JP": "雪風が届ける声"
+      "ja_JP": "雪風が届ける声",
+      "en_US": "Blizzards Be Your Voice"
     },
     "code": null,
     "zone": "qanik"
@@ -3478,7 +3480,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "假定公正",
-      "ja_JP": "法に基づく公正"
+      "ja_JP": "法に基づく公正",
+      "en_US": "Hypothetically Just"
     },
     "code": null,
     "zone": "provs"
@@ -3488,7 +3491,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "异乡剑士",
-      "ja_JP": "異郷の剣士"
+      "ja_JP": "異郷の剣士",
+      "en_US": "Swordswoman from a Distant Land"
     },
     "code": null,
     "zone": "akafyu"
@@ -3498,7 +3502,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "实验进行中",
-      "ja_JP": "実験進行中"
+      "ja_JP": "実験進行中",
+      "en_US": "Now Experimenting..."
     },
     "code": null,
     "zone": "halo"
@@ -3508,7 +3513,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "再见以前",
-      "ja_JP": "いつかの日に別れを"
+      "ja_JP": "いつかの日に別れを",
+      "en_US": "Before I Say Goodbye"
     },
     "code": null,
     "zone": "glassb"
@@ -3518,7 +3524,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "夺包奇遇",
-      "ja_JP": "リュック争奪戦"
+      "ja_JP": "リュック争奪戦",
+      "en_US": "The Great Bagnapping Adventure"
     },
     "code": null,
     "zone": "snakek"
@@ -3528,7 +3535,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "授刀",
-      "ja_JP": "受け継がれる刀"
+      "ja_JP": "受け継がれる刀",
+      "en_US": "Tachihaki"
     },
     "code": null,
     "zone": "nblade"
@@ -4534,7 +4542,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "探足 Part.01",
-      "ja_JP": "探り足 Part.01"
+      "ja_JP": "探り足 Part.01",
+      "en_US": "Feel By Your Feet Part.01"
     },
     "code": null,
     "zone": "rogue_3"
@@ -4544,7 +4553,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "探足 Part.02",
-      "ja_JP": "探り足 Part.02"
+      "ja_JP": "探り足 Part.02",
+      "en_US": "Feel By Your Feet Part.02"
     },
     "code": null,
     "zone": "rogue_3"
@@ -4554,7 +4564,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "探足 Part.03",
-      "ja_JP": "探り足 Part.03"
+      "ja_JP": "探り足 Part.03",
+      "en_US": "Feel By Your Feet Part.03"
     },
     "code": null,
     "zone": "rogue_3"
@@ -8004,7 +8015,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "沉于冰寒",
-      "ja_JP": "氷寒に沈む"
+      "ja_JP": "氷寒に沈む",
+      "en_US": "In the Biting Cold"
     },
     "code": "FD-ST1",
     "zone": "act15mini"
@@ -8014,7 +8026,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "冰原的女儿",
-      "ja_JP": "氷原の娘"
+      "ja_JP": "氷原の娘",
+      "en_US": "Daughter of the Icefield"
     },
     "code": "FD-ST2",
     "zone": "act15mini"
@@ -8024,7 +8037,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "树影幢幢",
-      "ja_JP": "揺らめく木陰"
+      "ja_JP": "揺らめく木陰",
+      "en_US": "Shadows of Trees"
     },
     "code": "FD-ST3",
     "zone": "act15mini"
@@ -8034,7 +8048,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "自然的启示",
-      "ja_JP": "自然の啓示"
+      "ja_JP": "自然の啓示",
+      "en_US": "Revelation of Nature"
     },
     "code": "FD-ST4",
     "zone": "act15mini"
@@ -8044,7 +8059,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "归乡",
-      "ja_JP": "帰郷"
+      "ja_JP": "帰郷",
+      "en_US": "Homecoming"
     },
     "code": "FD-ST5",
     "zone": "act15mini"
@@ -8054,7 +8070,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "终有一日",
-      "ja_JP": "いつの日か"
+      "ja_JP": "いつの日か",
+      "en_US": "One Day"
     },
     "code": "FD-ST6",
     "zone": "act15mini"
@@ -8064,7 +8081,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "未见之景",
-      "ja_JP": "まだ見ぬ景色"
+      "ja_JP": "まだ見ぬ景色",
+      "en_US": "Vision Unseen"
     },
     "code": "FD-ST7",
     "zone": "act15mini"
