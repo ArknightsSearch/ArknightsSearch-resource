@@ -689,6 +689,7 @@
       "Sonya",
       "Sonya?",
       "Zima",
+      "Zima & Leto",
       "ズィマー",
       "ズィマー&リェータ",
       "ソニア",
@@ -1087,6 +1088,7 @@
       "char_150_snakekiller_1"
     ],
     [
+      "Cardigan and Cuora",
       "Cuora",
       "カーディ&クオーラ",
       "クオーラ",
@@ -1491,6 +1493,8 @@
     ],
     [
       "",
+      "Typhon",
+      "Unfamiliar Girl",
       "ティフォン",
       "提丰",
       "見知らぬ少女",
@@ -2094,6 +2098,7 @@
     ],
     [
       "Jaye",
+      "Seafood Hawker",
       "ジェイ",
       "孑",
       "水产小贩",
@@ -2469,6 +2474,7 @@
       "avg_341_sntlla_1"
     ],
     [
+      "Santalla",
       "サンタラ",
       "寒檀"
     ]
@@ -2943,6 +2949,7 @@
       "avg_4032_provs_1"
     ],
     [
+      "Big Drinker Customer",
       "Deszcz",
       "お酒に強い客",
       "デーシュット",
@@ -3703,6 +3710,7 @@
       "avg_466_qanik_1"
     ],
     [
+      "Qanipalaat",
       "カニパラート",
       "雪绒"
     ]
@@ -4143,6 +4151,7 @@
       "Lydia",
       "Runaway Girl",
       "Servant",
+      "Timid Woman",
       "Young Bartender",
       "ラナー",
       "リディア",
@@ -4173,6 +4182,7 @@
       "A Kazimierz Villager",
       "Aging Resident",
       "Aging Worker",
+      "Breakfast Stall Owner",
       "Elderly Villager",
       "Farm Owner",
       "Grumpy Old Man",
@@ -4324,6 +4334,7 @@
       "Daniil",
       "Diminutive Mercenary",
       "Elder Hunter",
+      "Explorer A",
       "Hunter",
       "Indifferent Bandit",
       "Indignant Mercenary",
@@ -4346,7 +4357,9 @@
       "Strange Townsfolk",
       "Sullen Bounty Hunter",
       "Surly Bandit",
+      "Survivor A",
       "Ugly Hooligan",
+      "Ursus Caravan Guard",
       "Violent Bounty Hunter",
       "Violent Mercenary",
       "Vulgar Bandit",
@@ -4458,6 +4471,7 @@
       "Bounty Hunter C",
       "Caravan Guard",
       "Curious Bounty Hunter",
+      "Explorer B",
       "Greedy Mercenary",
       "Hoodlum B",
       "Hooligan Mercenary",
@@ -4477,6 +4491,7 @@
       "Rusthammer Warrior",
       "Searching Mercenary",
       "Shrewd Bandit",
+      "Survivor B",
       "Unidentified Mercenary",
       "Vicious Bandit",
       "Violent Bounty Hunter",
@@ -4621,6 +4636,7 @@
       "Grace",
       "Guard Operator",
       "Hawk",
+      "Intern Operator A",
       "Logistics Operator",
       "Logistics Operator A",
       "Logistics Operator A.",
@@ -4853,8 +4869,10 @@
       "avg_npc_021"
     ],
     [
+      "Arcade Worker?",
       "Audience Member A",
       "Audience Member C",
+      "Careless Youth",
       "Customer A",
       "Male Tourist",
       "Male Tourist A",
@@ -5093,6 +5111,7 @@
       "Female Resident",
       "Female Tourist",
       "Girl",
+      "Passerby Diner",
       "Passerby Girl",
       "Passing Traveler",
       "Rinz",
@@ -5173,10 +5192,12 @@
       "An Audience Member B",
       "An Excited Spectator",
       "Angry Lou Seoi Member",
+      "Block Manager?",
       "Confused Fan",
       "Doctor",
       "Drunk",
       "Excited Fan",
+      "Excited Youth",
       "Hapless Man",
       "Host",
       "Infected Slum Dweller",
@@ -5199,6 +5220,7 @@
       "Perplexed Fan",
       "Rat King's Henchman",
       "Seemingly Ordinary Resident",
+      "Shrewd Youth",
       "Slum Dweller",
       "Subordinate",
       "Vicious-Looking Lou Seoi Member",
@@ -6186,6 +6208,7 @@
       "Ah Wei",
       "Infected",
       "Infected Fighter",
+      "Ivan",
       "Kevin",
       "Reunion Member",
       "Soda Hawker",
@@ -6218,6 +6241,7 @@
       "Shadow",
       "Stranger",
       "Uncle Pickett",
+      "Ursus Caravan Member",
       "Ursus Farmer",
       "Ursus Villager",
       "Villager",
@@ -6253,6 +6277,8 @@
       "avg_npc_082"
     ],
     [
+      "'Captain'",
+      "'Soldier'",
       "Infected Patrol Unit",
       "Ursus Officer",
       "Ursus Officer B",
@@ -6336,8 +6362,10 @@
       "Assistant Operator",
       "Caster Operator",
       "Celica",
+      "Celine",
       "Engineering Operator",
       "Field Operator A",
+      "HR Operator",
       "Hawking Operator",
       "Human Resources Operator",
       "Idle Operator",
@@ -6404,6 +6432,7 @@
     [
       "Field Operator",
       "Hank",
+      "Intern Operator B",
       "Office Operator B",
       "Operator Chard",
       "Operator Hoger",
@@ -6452,6 +6481,7 @@
       "Engineering Operator",
       "Engineering Operator A",
       "Engineering Operator B",
+      "Intern Operator C",
       "Lucci",
       "Office Operator",
       "Office Operator A",
@@ -7910,6 +7940,7 @@
       "Rough Villager",
       "Second Apprentice",
       "Stonemason",
+      "Street Stall Owner",
       "Teahouse Assistant",
       "Vigilant Villager",
       "Villager",
@@ -9215,6 +9246,8 @@
       "A Competing Knight",
       "A Kazimierz Knight",
       "Armor-clad Knight",
+      "Razor Knight",
+      "Zorn",
       "カジミエーシュ騎士",
       "ソーン",
       "佐恩",
@@ -9281,6 +9314,7 @@
       "Man in a Suit",
       "Manager",
       "National Council Representative",
+      "Prosecutor",
       "Raythean Industries Representative",
       "Secretary",
       "Serious Corporate Employee",
@@ -12186,6 +12220,7 @@
       "Reporter?",
       "Rude Reporter",
       "Street Hawker",
+      "Suspicious Liberi",
       "Vice President's Secretary",
       "ご機嫌なクルビア人",
       "ミレース",
@@ -12223,6 +12258,7 @@
     ],
     [
       "Bar Patron",
+      "Beachbrella Field Staff",
       "Cheery Woman",
       "Impatient Reporter",
       "Nervous Entrepreneur",
@@ -12231,6 +12267,7 @@
       "Staff Worker",
       "Tall Woman",
       "Trimountarian",
+      "Unfamiliar Researcher",
       "せっかちな記者",
       "スタッフ",
       "トリマウンツ市民",
@@ -12314,10 +12351,14 @@
     ],
     [
       "Business Clerk",
+      "Ecological Section Researcher",
+      "Ecological Section Researcher B",
       "Luli",
       "Researcher B",
       "Researcher D",
+      "Rhine Lab Researcher",
       "Rhine Lab Tech",
+      "Rhine Lab Tech A",
       "Rhine Researcher",
       "Rhine Staff",
       "Rhine Staff A",
@@ -12352,13 +12393,16 @@
     ],
     [
       "Apprehensive Rhine Lab Tech",
+      "Ecological Section Researcher A",
       "Energy Section Researcher",
       "Researcher",
       "Researcher A",
       "Researcher C",
       "Rhine Lab Tech",
+      "Rhine Lab Tech B",
       "Rhine Staff B",
       "Rhine Staff?",
+      "Scientific Investigation Section Member",
       "エネルギー課研究員",
       "ライン生命研究員",
       "ライン生命研究員B",
@@ -12428,6 +12472,7 @@
       "Ordinary citizens?",
       "Pioneer",
       "Pioneer Team Member",
+      "Rhine Lab Task Force Messenger",
       "トランスポーター",
       "一般市民？",
       "参加者B",
@@ -12859,6 +12904,7 @@
     ],
     [
       "'Life'",
+      "Magallan",
       "“生命”",
       "「生命」",
       "マゼラン",
@@ -14620,6 +14666,12 @@
       "avg_npc_962_1"
     ],
     [
+      "Icefield Inhabitant A",
+      "Icefield Inhabitant B",
+      "Sami Mountain Scout",
+      "Sami Warrior",
+      "Sheath Zelkova",
+      "Tenacious Sami Mountain Warrior",
       "サヤケヤキ",
       "サーミの戦士",
       "亡寒战士",
@@ -14640,6 +14692,9 @@
       "avg_npc_963_1"
     ],
     [
+      "Icefield Cottongrass",
+      "Qanipalaat's Mother",
+      "Solemn Sami Mountain Warrior",
       "カニパラートの母",
       "ヒョウゲンワタクサ",
       "严肃的萨米山地战士",
@@ -14654,6 +14709,7 @@
       "avg_npc_964_1"
     ],
     [
+      "Oakcup",
       "オークコップ",
       "橡杯"
     ]
@@ -14663,6 +14719,13 @@
       "avg_npc_965_1"
     ],
     [
+      "Ceremony-Conducting Shaman",
+      "Forest Shaman",
+      "Grieving Apprentice Shaman",
+      "Mild-Mannered Shaman",
+      "Sami Shaman",
+      "Sami Wetlands Shaman",
+      "Stern Shaman",
       "サーミのシャーマン",
       "严厉的萨满",
       "主持仪式的萨满",
@@ -14685,6 +14748,9 @@
       "avg_npc_966_1"
     ],
     [
+      "Sami Forest Inhabitant",
+      "Sami Wetlands Inhabitant",
+      "Square Sunflower",
       "シカクヒマワリ",
       "方形葵",
       "森の民",
@@ -14698,6 +14764,7 @@
       "avg_npc_968_1"
     ],
     [
+      "Eikthyrnir",
       "エイクティルニル",
       "埃克提尔尼尔"
     ]
@@ -14707,6 +14774,7 @@
       "avg_npc_969_1"
     ],
     [
+      "Arges",
       "アルゲス",
       "艾尔启"
     ]
