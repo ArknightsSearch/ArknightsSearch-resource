@@ -214,6 +214,9 @@
   "act31side": {
     "zh_CN": "怀黍离"
   },
+  "act32side": {
+    "zh_CN": "水晶箭行动"
+  },
   "act3d0": {
     "en_US": "Heart of Surging Flame",
     "ja_JP": "青く燃ゆる心",
@@ -328,6 +331,11 @@
     "ja_JP": "アスベストス",
     "zh_CN": "石棉"
   },
+  "ash": {
+    "en_US": "Ash",
+    "ja_JP": "Ash",
+    "zh_CN": "灰烬"
+  },
   "astesi": {
     "en_US": "Astesia",
     "ja_JP": "アステシア",
@@ -382,6 +390,11 @@
     "en_US": "Blemishine",
     "ja_JP": "ブレミシャイン",
     "zh_CN": "瑕光"
+  },
+  "blitz": {
+    "en_US": "Blitz",
+    "ja_JP": "Blitz",
+    "zh_CN": "闪击"
   },
   "blkngt": {
     "en_US": "Blacknight",
@@ -551,6 +564,9 @@
     "ja_JP": "エーベンホルツ",
     "zh_CN": "黑键"
   },
+  "ela": {
+    "zh_CN": "艾拉"
+  },
   "elysm": {
     "en_US": "Elysium",
     "ja_JP": "エリジウム",
@@ -645,6 +661,9 @@
     "en_US": "Frostleaf",
     "ja_JP": "フロストリーフ",
     "zh_CN": "霜叶"
+  },
+  "fuze": {
+    "zh_CN": "导火索"
   },
   "ghost": {
     "en_US": "Specter",
@@ -770,6 +789,9 @@
     "en_US": "Humus",
     "ja_JP": "ヒューマス",
     "zh_CN": "休谟斯"
+  },
+  "iana": {
+    "zh_CN": "双月"
   },
   "ifrit": {
     "en_US": "Ifrit",
@@ -1178,6 +1200,14 @@
     "ja_JP": "クエルクス",
     "zh_CN": "夏栎"
   },
+  "rdoc": {
+    "zh_CN": "医生"
+  },
+  "rfrost": {
+    "en_US": "Frost",
+    "ja_JP": "Frost",
+    "zh_CN": "霜华"
+  },
   "robrta": {
     "en_US": "Roberta",
     "ja_JP": "ロベルタ",
@@ -1345,6 +1375,11 @@
     "en_US": "Swire",
     "ja_JP": "スワイヤー",
     "zh_CN": "诗怀雅"
+  },
+  "tachak": {
+    "en_US": "Tachanka",
+    "ja_JP": "Tachanka",
+    "zh_CN": "战车"
   },
   "takila": {
     "en_US": "Tequila",
