@@ -549,6 +549,7 @@
       "avg_1032_excu2_1"
     ],
     [
+      "Executor",
       "Federico",
       "“费德里科”",
       "イグゼキュター",
@@ -572,6 +573,7 @@
       "avg_1034_jesca2_1"
     ],
     [
+      "Jessica",
       "ジェシカ",
       "杰西卡"
     ]
@@ -3267,6 +3269,7 @@
       "avg_4091_ulika_1"
     ],
     [
+      "Streamer U",
       "U-Gigamax",
       "Uちゃん",
       "主播U"
@@ -3277,6 +3280,8 @@
       "avg_4091_ulika2_1"
     ],
     [
+      "Eureka",
+      "Streamer U",
       "Uちゃん",
       "ユーリカ",
       "主播U",
@@ -3298,6 +3303,7 @@
       "avg_4104_coldst_1"
     ],
     [
+      "Helena",
       "ヘレナ",
       "海伦娜"
     ]
@@ -3307,8 +3313,12 @@
       "avg_4105_almond_1"
     ],
     [
+      "Almond",
       "BSWオペレーター",
       "BSW技術員",
+      "Blacksteel Operator",
+      "Blacksteel Technician",
+      "Laura",
       "アーモンド",
       "ローラ",
       "杏仁",
@@ -3492,6 +3502,7 @@
       "avg_421_crow_1"
     ],
     [
+      "La Pluma",
       "ラ・プルマ",
       "羽毛笔"
     ]
@@ -4250,6 +4261,7 @@
       "Militiaman A",
       "Old Townsfolk",
       "Ordinary Infected B",
+      "Panic-stricken Shop Proprietor",
       "Porter",
       "Produce Vendor",
       "Shopkeeper",
@@ -5172,8 +5184,11 @@
       "Alba",
       "An Audience Member A",
       "An Enthusiastic Spectator",
+      "Angry Man & Woman",
+      "Angry Woman",
       "Camera Crew Leader",
       "Clerk",
+      "Embarrassed Woman",
       "Female Passerby",
       "Female Resident",
       "Female Tourist",
@@ -5262,10 +5277,12 @@
       "An Audience Member B",
       "An Excited Spectator",
       "Angry Lou Seoi Member",
+      "Angry Man",
       "Block Manager?",
       "Confused Fan",
       "Doctor",
       "Drunk",
+      "Embarrassed Man",
       "Excited Fan",
       "Excited Youth",
       "Hapless Man",
@@ -6514,6 +6531,7 @@
       "Operator Chard",
       "Operator Hoger",
       "Operator Shredder",
+      "Rhodes Island Field Operator A",
       "Rhodes Island Logistics Operator",
       "Rhodes Island Operator",
       "Seanson",
@@ -6569,6 +6587,7 @@
       "Piston",
       "Reserve Operator",
       "Rhodes Island Field Operator A",
+      "Rhodes Island Field Operator B",
       "Rhodes Island Operator",
       "Serious Operator",
       "ウィル",
@@ -6964,6 +6983,8 @@
       "avg_npc_1034_1"
     ],
     [
+      "Seasoned Hunter",
+      "Woodrow",
       "ウッドロウ",
       "伍德洛",
       "年老いた狩人",
@@ -6975,6 +6996,7 @@
       "avg_npc_1035_1"
     ],
     [
+      "Leone",
       "レオーネ",
       "里昂"
     ]
@@ -6984,6 +7006,7 @@
       "avg_npc_1036_1"
     ],
     [
+      "'Clip' Cliff",
       "“桥夹”克里夫",
       "「クリップ」クリフ"
     ]
@@ -6993,6 +7016,7 @@
       "avg_npc_1037_1"
     ],
     [
+      "Benny",
       "ベニー",
       "本尼"
     ]
@@ -7002,6 +7026,7 @@
       "avg_npc_1038_1"
     ],
     [
+      "Miles",
       "マイルズ",
       "迈尔斯"
     ]
@@ -7011,6 +7036,7 @@
       "avg_npc_1039_1"
     ],
     [
+      "Sylvia",
       "シルヴィア",
       "西尔维娅"
     ]
@@ -7047,6 +7073,7 @@
     ],
     [
       "BSW情報隊員",
+      "Blacksteel Intelligence Squad Member",
       "黑钢情报小组成员"
     ]
   ],
@@ -7055,6 +7082,7 @@
       "avg_npc_1041_1"
     ],
     [
+      "Bank Manager",
       "銀行支店長",
       "银行经理"
     ]
@@ -7064,6 +7092,9 @@
       "avg_npc_1042_1"
     ],
     [
+      "Anxious Man",
+      "Furious Resident",
+      "Unhappy-looking Resident",
       "不機嫌な住民",
       "怒る住民",
       "慌てる男性",
@@ -7080,6 +7111,10 @@
       "avg_npc_1043_1"
     ],
     [
+      "Anxious Resident",
+      "Gentle Female Voice",
+      "Helpless Plate Resident",
+      "Irritable Woman",
       "健谈的女病人",
       "優しい女性の声",
       "前女佣索菲娅",
@@ -7097,6 +7132,17 @@
       "avg_npc_1044_1"
     ],
     [
+      "Boorish Brute",
+      "Cruel Snowfield Bandit",
+      "Guileful Gangster",
+      "Hard-hearted Hoodlum",
+      "Indifferent Snowfield Bandit",
+      "Rabble-rousing Ruffian",
+      "Rude Ruffian",
+      "Sneaky Snowfield Bandit",
+      "Stubborn Snowfield Rioter",
+      "Troublemaking Thug",
+      "Vicious Gangster",
       "作乱的混混",
       "冷淡なチンピラ",
       "冷淡な野盗",
@@ -7130,6 +7176,15 @@
       "BSWオペレーター",
       "BSWベテラン隊員",
       "BSW傭兵",
+      "Blacksteel Engineering Team Member",
+      "Blacksteel Mercenary",
+      "Blacksteel Operator",
+      "Blacksteel Senior Operator",
+      "Blacksteel Squad Member",
+      "Calm Blacksteel Mercenary",
+      "Helpless Blacksteel Mercenary",
+      "Rational Blacksteel Mercenary",
+      "Twitchy Blacksteel Mercenary",
       "不本意な傭兵",
       "冷静な傭兵",
       "冷静的黑钢佣兵",
@@ -8645,6 +8700,7 @@
     [
       "A Leithanian Nobleman",
       "Announcer",
+      "Bank President",
       "Casino Boss",
       "Elegant Ambassador",
       "Emotional Councilor",
@@ -8968,9 +9024,11 @@
     [
       "Alert Pancho Subordinate",
       "Bolívarian Serviceman A",
+      "Bulky Soldier",
       "Captain's Subordinate",
       "Dim-witted Pancho Subordinate",
       "Quick-witted Pancho Subordinate",
+      "Shrewd Soldier",
       "パンチョの賢い部下",
       "パンチョの部下",
       "パンチョの鈍い部下",
@@ -9081,6 +9139,7 @@
       "avg_npc_200"
     ],
     [
+      "Flower Shop Owner",
       "Prelim MC",
       "Staff Worker",
       "スタッフ",
@@ -9134,6 +9193,7 @@
     [
       "Casino Guest",
       "Cheerful Male Tourist",
+      "Criminal",
       "Impatient Male Tourist",
       "Mysterious Person",
       "Startled Male Tourist",
@@ -9224,6 +9284,7 @@
       "Irritated Contestant",
       "Skeptical Customer",
       "Tourist B",
+      "Tourist?",
       "不屈の選手",
       "不屈的参赛选手",
       "参加選手？",
@@ -9258,6 +9319,7 @@
     ],
     [
       "Bodyguard",
+      "Candela's Subordinate",
       "Casino Boss",
       "Impatient Dossoles Police Officer",
       "Mayor's Bodyguard",
@@ -9561,6 +9623,7 @@
       "Kazimierz Representative",
       "Man in a Suit",
       "Manager",
+      "Mayor's Secretary",
       "National Council Representative",
       "Prosecutor",
       "Raythean Industries Representative",
@@ -9568,6 +9631,7 @@
       "Serious Corporate Employee",
       "Staff",
       "Staff Worker",
+      "Travel-Stained Lawyer",
       "カジミエーシュ代表",
       "クライアント代表",
       "ジャン",
@@ -9624,10 +9688,13 @@
       "A Commuting Worker",
       "A Corporate Employee",
       "A Corporate Employee A",
+      "Bank Employee",
+      "Bored Bank Employee",
       "Boy",
       "Branch Office Manager",
       "City Hall Staffer",
       "Government Official",
+      "Indifferent Bank Employee",
       "Informant",
       "Knight Scout",
       "Mid-level Manager",
@@ -10908,6 +10975,7 @@
     [
       "Bean the Infected",
       "Gordon",
+      "Pale Man",
       "ゴードン",
       "感染者ビーン",
       "感染者毕恩",
@@ -15066,6 +15134,8 @@
       "avg_npc_970_1"
     ],
     [
+      "Engineering Department Intern Operator",
+      "Engineering Operator",
       "エンジニアオペレーター",
       "エンジニア部実習オペレーター",
       "工程干员",
@@ -15078,6 +15148,7 @@
     ],
     [
       "HR Operator",
+      "Rhodes Island Landship Operator A",
       "人事干员",
       "人事部オペレーター",
       "人事部干员",
@@ -15094,6 +15165,8 @@
       "avg_npc_973_1"
     ],
     [
+      "Logistics Operator",
+      "Rhodes Island Landship Operator B",
       "后勤干员",
       "实习干员",
       "後方支援オペレーター",
