@@ -3885,7 +3885,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "徽章",
-      "ja_JP": "保安官バッジ"
+      "ja_JP": "保安官バッジ",
+      "en_US": "Insignia"
     },
     "code": null,
     "zone": "jesca2"
@@ -3895,7 +3896,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "蓝色",
-      "ja_JP": "青"
+      "ja_JP": "青",
+      "en_US": "Azure"
     },
     "code": null,
     "zone": "excu2"
@@ -3905,7 +3907,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "涓滴亦江流",
-      "ja_JP": "川となる雫"
+      "ja_JP": "川となる雫",
+      "en_US": "A Trickle, a Rapids"
     },
     "code": null,
     "zone": "finlpp"
@@ -3915,7 +3918,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "驻足",
-      "ja_JP": "足休め"
+      "ja_JP": "足休め",
+      "en_US": "To a Standstill"
     },
     "code": null,
     "zone": "franka"
@@ -3936,7 +3940,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "坚韧的羽毛",
-      "ja_JP": "強靭な羽根"
+      "ja_JP": "強靭な羽根",
+      "en_US": "Plumas de Tenacidad"
     },
     "code": null,
     "zone": "crow"
@@ -4903,7 +4908,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "直视 Part.01",
-      "ja_JP": "直視 Part.01"
+      "ja_JP": "直視 Part.01",
+      "en_US": "Fix On It Part.01"
     },
     "code": null,
     "zone": "rogue_3"
@@ -4913,7 +4919,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "直视 Part.02",
-      "ja_JP": "直視 Part.02"
+      "ja_JP": "直視 Part.02",
+      "en_US": "Fix On It Part.02"
     },
     "code": null,
     "zone": "rogue_3"
@@ -4923,7 +4930,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "直视 Part.03",
-      "ja_JP": "直視 Part.03"
+      "ja_JP": "直視 Part.03",
+      "en_US": "Fix On It Part.03"
     },
     "code": null,
     "zone": "rogue_3"
@@ -8062,7 +8070,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "火线之中",
-      "ja_JP": "火線を潜る"
+      "ja_JP": "火線を潜る",
+      "en_US": "In the Line of Fire"
     },
     "code": "CV-ST-1",
     "zone": "act28side"
@@ -8072,7 +8081,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "孤独之地",
-      "ja_JP": "孤独の地"
+      "ja_JP": "孤独の地",
+      "en_US": "In a Lonely Place"
     },
     "code": "CV-1",
     "zone": "act28side"
@@ -8082,7 +8092,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "孤独之地",
-      "ja_JP": "孤独の地"
+      "ja_JP": "孤独の地",
+      "en_US": "In a Lonely Place"
     },
     "code": "CV-1",
     "zone": "act28side"
@@ -8092,7 +8103,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "双重保险",
-      "ja_JP": "二重の備え"
+      "ja_JP": "二重の備え",
+      "en_US": "Double Indemnity"
     },
     "code": "CV-2",
     "zone": "act28side"
@@ -8102,7 +8114,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "双重保险",
-      "ja_JP": "二重の備え"
+      "ja_JP": "二重の備え",
+      "en_US": "Double Indemnity"
     },
     "code": "CV-2",
     "zone": "act28side"
@@ -8112,7 +8125,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "圈套",
-      "ja_JP": "罠"
+      "ja_JP": "罠",
+      "en_US": "Tricks"
     },
     "code": "CV-3",
     "zone": "act28side"
@@ -8122,7 +8136,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "圈套",
-      "ja_JP": "罠"
+      "ja_JP": "罠",
+      "en_US": "Tricks"
     },
     "code": "CV-3",
     "zone": "act28side"
@@ -8143,7 +8158,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "缺席的人",
-      "ja_JP": "席を立つ者"
+      "ja_JP": "席を立つ者",
+      "en_US": "The Man Who Wasn't There"
     },
     "code": "CV-4",
     "zone": "act28side"
@@ -8153,7 +8169,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "缺席的人",
-      "ja_JP": "席を立つ者"
+      "ja_JP": "席を立つ者",
+      "en_US": "The Man Who Wasn't There"
     },
     "code": "CV-4",
     "zone": "act28side"
@@ -8163,7 +8180,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "突然冲击",
-      "ja_JP": "予期せぬ衝撃"
+      "ja_JP": "予期せぬ衝撃",
+      "en_US": "Sudden Impact"
     },
     "code": "CV-ST-2",
     "zone": "act28side"
@@ -8173,7 +8191,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "疑惑之影",
-      "ja_JP": "深まる疑惑"
+      "ja_JP": "深まる疑惑",
+      "en_US": "Shadow of a Doubt"
     },
     "code": "CV-5",
     "zone": "act28side"
@@ -8183,7 +8202,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "疑惑之影",
-      "ja_JP": "深まる疑惑"
+      "ja_JP": "深まる疑惑",
+      "en_US": "Shadow of a Doubt"
     },
     "code": "CV-5",
     "zone": "act28side"
@@ -8193,7 +8213,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "猎人之夜",
-      "ja_JP": "狩人の夜"
+      "ja_JP": "狩人の夜",
+      "en_US": "The Night of the Hunter"
     },
     "code": "CV-6",
     "zone": "act28side"
@@ -8203,7 +8224,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "猎人之夜",
-      "ja_JP": "狩人の夜"
+      "ja_JP": "狩人の夜",
+      "en_US": "The Night of the Hunter"
     },
     "code": "CV-6",
     "zone": "act28side"
@@ -8213,7 +8235,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "白热",
-      "ja_JP": "白熱"
+      "ja_JP": "白熱",
+      "en_US": "White Heat"
     },
     "code": "CV-7",
     "zone": "act28side"
@@ -8223,7 +8246,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "白热",
-      "ja_JP": "白熱"
+      "ja_JP": "白熱",
+      "en_US": "White Heat"
     },
     "code": "CV-7",
     "zone": "act28side"
@@ -8233,7 +8257,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "告别往昔",
-      "ja_JP": "過去との決別"
+      "ja_JP": "過去との決別",
+      "en_US": "So Long, Stooge"
     },
     "code": "CV-8",
     "zone": "act28side"
@@ -8254,7 +8279,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "告别往昔",
-      "ja_JP": "過去との決別"
+      "ja_JP": "過去との決別",
+      "en_US": "So Long, Stooge"
     },
     "code": "CV-8",
     "zone": "act28side"
@@ -8264,7 +8290,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "法外之徒",
-      "ja_JP": "法外の存在"
+      "ja_JP": "法外の存在",
+      "en_US": "Band of Outsiders"
     },
     "code": "CV-ST-3",
     "zone": "act28side"
