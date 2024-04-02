@@ -3972,7 +3972,8 @@
     "id": "obt/memory/story_clour_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "安身之处"
+      "zh_CN": "安身之处",
+      "ja_JP": "安らぎの場所"
     },
     "code": null,
     "zone": "clour"
@@ -3981,7 +3982,8 @@
     "id": "obt/memory/story_bena_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "简单的愿望"
+      "zh_CN": "简单的愿望",
+      "ja_JP": "些細な願いごと"
     },
     "code": null,
     "zone": "bena"
@@ -3990,7 +3992,8 @@
     "id": "obt/memory/story_dagda_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "脚步不停"
+      "zh_CN": "脚步不停",
+      "ja_JP": "止まらない歩み"
     },
     "code": null,
     "zone": "dagda"
