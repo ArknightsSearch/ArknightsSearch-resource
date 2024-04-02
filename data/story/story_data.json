@@ -3973,7 +3973,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "安身之处",
-      "ja_JP": "安らぎの場所"
+      "ja_JP": "安らぎの場所",
+      "en_US": "Somewhere to Make Home"
     },
     "code": null,
     "zone": "clour"
@@ -3983,7 +3984,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "简单的愿望",
-      "ja_JP": "些細な願いごと"
+      "ja_JP": "些細な願いごと",
+      "en_US": "The Simple Wish"
     },
     "code": null,
     "zone": "bena"
@@ -3993,7 +3995,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "脚步不停",
-      "ja_JP": "止まらない歩み"
+      "ja_JP": "止まらない歩み",
+      "en_US": "How She Strode Onward"
     },
     "code": null,
     "zone": "dagda"
