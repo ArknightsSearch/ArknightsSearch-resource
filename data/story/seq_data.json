@@ -2677,6 +2677,8 @@
       "avg_369_bena_1"
     ],
     [
+      "??",
+      "Bena",
       "ベナ",
       "贝娜",
       "？？"
@@ -6666,6 +6668,7 @@
       "avg_npc_093"
     ],
     [
+      "Grandmother",
       "Old Granny",
       "Old Lady",
       "Old Woman",
@@ -12441,6 +12444,7 @@
       "avg_npc_498_1"
     ],
     [
+      "Daddy",
       "Dispirited Infected",
       "Drunken Infected",
       "Emotional Infected",
@@ -12489,6 +12493,7 @@
       "Frau Perry",
       "Leithanian Woman",
       "Miss Bachmann",
+      "Mummy",
       "Passerby Infected",
       "Shopkeeper",
       "Worn-out Infected",
@@ -15152,6 +15157,7 @@
     ],
     [
       "HR Operator",
+      "Logistics Operator",
       "Rhodes Island Landship Operator A",
       "人事干员",
       "人事部オペレーター",
@@ -15170,6 +15176,7 @@
       "avg_npc_973_1"
     ],
     [
+      "Intern Operator",
       "Logistics Operator",
       "Rhodes Island Landship Operator B",
       "后勤干员",
