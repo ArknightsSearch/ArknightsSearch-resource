@@ -219,6 +219,9 @@
   "act32side": {
     "zh_CN": "水晶箭行动"
   },
+  "act33side": {
+    "zh_CN": "巴别塔"
+  },
   "act3d0": {
     "en_US": "Heart of Surging Flame",
     "ja_JP": "青く燃ゆる心",
@@ -842,6 +845,11 @@
     "ja_JP": "ジェシカ",
     "zh_CN": "杰西卡"
   },
+  "judge": {
+    "en_US": "Penance",
+    "ja_JP": "ペナンス",
+    "zh_CN": "斥罪"
+  },
   "kafka": {
     "en_US": "Kafka",
     "ja_JP": "カフカ",
@@ -912,6 +920,11 @@
     "en_US": "Lumen",
     "ja_JP": "ルーメン",
     "zh_CN": "流明"
+  },
+  "lunacu": {
+    "en_US": "Lunacub",
+    "ja_JP": "ルナカブ",
+    "zh_CN": "子月"
   },
   "main_0": {
     "en_US": "Evil Time Part 1",
@@ -1357,6 +1370,11 @@
     "ja_JP": "スポット",
     "zh_CN": "斑点"
   },
+  "spuria": {
+    "en_US": "Spuria",
+    "ja_JP": "スプリア",
+    "zh_CN": "空构"
+  },
   "sqrrel": {
     "en_US": "Shaw",
     "ja_JP": "ショウ",
@@ -1461,6 +1479,9 @@
     "en_US": "Shamare",
     "ja_JP": "シャマレ",
     "zh_CN": "巫恋"
+  },
+  "vrdant": {
+    "zh_CN": "维荻"
   },
   "waaifu": {
     "en_US": "Waai Fu",
