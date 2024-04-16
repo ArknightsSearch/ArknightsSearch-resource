@@ -4280,7 +4280,8 @@
     "id": "obt/memory/story_excu_2_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "敌人"
+      "zh_CN": "敌人",
+      "ja_JP": "敵"
     },
     "code": null,
     "zone": "excu"
@@ -4300,7 +4301,8 @@
     "id": "obt/memory/story_sddrag_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "芦苇之心"
+      "zh_CN": "芦苇之心",
+      "ja_JP": "葦の心"
     },
     "code": null,
     "zone": "sddrag"
@@ -4309,7 +4311,8 @@
     "id": "obt/memory/story_heidi_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "第一封信"
+      "zh_CN": "第一封信",
+      "ja_JP": "最初の手紙"
     },
     "code": null,
     "zone": "heidi"
@@ -4318,7 +4321,8 @@
     "id": "obt/memory/story_almond_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "远航"
+      "zh_CN": "远航",
+      "ja_JP": "航海"
     },
     "code": null,
     "zone": "almond"
@@ -6783,7 +6787,8 @@
     "id": "obt/main/level_main_13-01_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "眼前的伤"
+      "zh_CN": "眼前的伤",
+      "ja_JP": "目の前の傷"
     },
     "code": "13-2",
     "zone": "main_13"
@@ -6792,7 +6797,8 @@
     "id": "obt/main/level_main_13-01_end",
     "type": "Main",
     "name": {
-      "zh_CN": "眼前的伤"
+      "zh_CN": "眼前的伤",
+      "ja_JP": "目の前の傷"
     },
     "code": "13-2",
     "zone": "main_13"
@@ -6801,7 +6807,8 @@
     "id": "obt/main/level_main_13-02_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "不得暂歇"
+      "zh_CN": "不得暂歇",
+      "ja_JP": "息つく間もなく"
     },
     "code": "13-3",
     "zone": "main_13"
@@ -6810,7 +6817,8 @@
     "id": "obt/main/level_main_13-02_end",
     "type": "Main",
     "name": {
-      "zh_CN": "不得暂歇"
+      "zh_CN": "不得暂歇",
+      "ja_JP": "息つく間もなく"
     },
     "code": "13-3",
     "zone": "main_13"
@@ -6819,7 +6827,8 @@
     "id": "obt/main/level_main_13-03_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "佣兵一日"
+      "zh_CN": "佣兵一日",
+      "ja_JP": "傭兵の一日"
     },
     "code": "13-4",
     "zone": "main_13"
@@ -6828,7 +6837,8 @@
     "id": "obt/main/level_main_13-03_end",
     "type": "Main",
     "name": {
-      "zh_CN": "佣兵一日"
+      "zh_CN": "佣兵一日",
+      "ja_JP": "傭兵の一日"
     },
     "code": "13-4",
     "zone": "main_13"
@@ -6837,7 +6847,8 @@
     "id": "obt/main/level_main_13-04_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "苦厄盘桓"
+      "zh_CN": "苦厄盘桓",
+      "ja_JP": "わだかまる苦厄"
     },
     "code": "13-5",
     "zone": "main_13"
@@ -6857,7 +6868,8 @@
     "id": "obt/main/level_main_13-04_end",
     "type": "Main",
     "name": {
-      "zh_CN": "苦厄盘桓"
+      "zh_CN": "苦厄盘桓",
+      "ja_JP": "わだかまる苦厄"
     },
     "code": "13-5",
     "zone": "main_13"
@@ -6866,7 +6878,8 @@
     "id": "obt/main/level_main_13-05_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "典范之名"
+      "zh_CN": "典范之名",
+      "ja_JP": "模範の名のもと"
     },
     "code": "13-6",
     "zone": "main_13"
@@ -6875,7 +6888,8 @@
     "id": "obt/main/level_main_13-05_end",
     "type": "Main",
     "name": {
-      "zh_CN": "典范之名"
+      "zh_CN": "典范之名",
+      "ja_JP": "模範の名のもと"
     },
     "code": "13-6",
     "zone": "main_13"
@@ -6884,7 +6898,8 @@
     "id": "obt/main/level_main_13-06_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "寻迹而行"
+      "zh_CN": "寻迹而行",
+      "ja_JP": "跡をたどって"
     },
     "code": "TR-24",
     "zone": "main_13"
@@ -6893,7 +6908,8 @@
     "id": "obt/main/level_main_13-07_end",
     "type": "Main",
     "name": {
-      "zh_CN": "不虞之会"
+      "zh_CN": "不虞之会",
+      "ja_JP": "思わぬ再会"
     },
     "code": "13-8",
     "zone": "main_13"
@@ -6902,7 +6918,8 @@
     "id": "obt/main/level_main_13-08_end",
     "type": "Main",
     "name": {
-      "zh_CN": "幻境迁流"
+      "zh_CN": "幻境迁流",
+      "ja_JP": "移り行く幻境"
     },
     "code": "13-10",
     "zone": "main_13"
@@ -6911,7 +6928,8 @@
     "id": "obt/main/level_main_13-09_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "小镇翳云"
+      "zh_CN": "小镇翳云",
+      "ja_JP": "町を覆う暗雲"
     },
     "code": "13-11",
     "zone": "main_13"
@@ -6920,7 +6938,8 @@
     "id": "obt/main/level_main_13-10_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "破碎温室"
+      "zh_CN": "破碎温室",
+      "ja_JP": "砕けた温室"
     },
     "code": "13-12",
     "zone": "main_13"
@@ -6929,7 +6948,8 @@
     "id": "obt/main/level_main_13-12_end",
     "type": "Main",
     "name": {
-      "zh_CN": "猩红烟火"
+      "zh_CN": "猩红烟火",
+      "ja_JP": "紅の花火"
     },
     "code": "13-14",
     "zone": "main_13"
@@ -6938,7 +6958,8 @@
     "id": "obt/main/level_main_13-13_end",
     "type": "Main",
     "name": {
-      "zh_CN": "短暂齐聚"
+      "zh_CN": "短暂齐聚",
+      "ja_JP": "束の間の集い"
     },
     "code": "13-15",
     "zone": "main_13"
@@ -6958,7 +6979,8 @@
     "id": "obt/main/level_main_13-14_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "“我们”"
+      "zh_CN": "“我们”",
+      "ja_JP": "「我々」"
     },
     "code": "13-16",
     "zone": "main_13"
@@ -6967,7 +6989,8 @@
     "id": "obt/main/level_main_13-14_end",
     "type": "Main",
     "name": {
-      "zh_CN": "“我们”"
+      "zh_CN": "“我们”",
+      "ja_JP": "「我々」"
     },
     "code": "13-16",
     "zone": "main_13"
@@ -6976,7 +6999,8 @@
     "id": "obt/main/level_main_13-15_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "谁来倾诉"
+      "zh_CN": "谁来倾诉",
+      "ja_JP": "打ち明け話"
     },
     "code": "13-17",
     "zone": "main_13"
@@ -6985,7 +7009,8 @@
     "id": "obt/main/level_main_13-16_end",
     "type": "Main",
     "name": {
-      "zh_CN": "挺起胸膛"
+      "zh_CN": "挺起胸膛",
+      "ja_JP": "胸の中の矜持"
     },
     "code": "13-18",
     "zone": "main_13"
@@ -6994,7 +7019,8 @@
     "id": "obt/main/level_main_13-18_end",
     "type": "Main",
     "name": {
-      "zh_CN": "血潮翻涌"
+      "zh_CN": "血潮翻涌",
+      "ja_JP": "たぎる血潮"
     },
     "code": "13-20",
     "zone": "main_13"
@@ -7003,7 +7029,8 @@
     "id": "obt/main/level_main_13-19_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "殷红君主"
+      "zh_CN": "殷红君主",
+      "ja_JP": "暗紅の君主"
     },
     "code": "13-21",
     "zone": "main_13"
@@ -7012,7 +7039,8 @@
     "id": "obt/main/level_main_13-19_end",
     "type": "Main",
     "name": {
-      "zh_CN": "殷红君主"
+      "zh_CN": "殷红君主",
+      "ja_JP": "暗紅の君主"
     },
     "code": "13-21",
     "zone": "main_13"
@@ -7373,7 +7401,8 @@
     "id": "obt/main/level_st_13-01",
     "type": "Main",
     "name": {
-      "zh_CN": "战场内外"
+      "zh_CN": "战场内外",
+      "ja_JP": "戦場内外"
     },
     "code": "13-1",
     "zone": "main_13"
@@ -7382,7 +7411,8 @@
     "id": "obt/main/level_st_13-02",
     "type": "Main",
     "name": {
-      "zh_CN": "窥冠冕者"
+      "zh_CN": "窥冠冕者",
+      "ja_JP": "冠を狙う者"
     },
     "code": "13-9",
     "zone": "main_13"
@@ -7391,7 +7421,8 @@
     "id": "obt/main/level_st_13-03",
     "type": "Main",
     "name": {
-      "zh_CN": "灾厄积渐"
+      "zh_CN": "灾厄积渐",
+      "ja_JP": "蓄積された災厄"
     },
     "code": "13-22",
     "zone": "main_13"
