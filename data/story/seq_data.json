@@ -366,7 +366,9 @@
     [
       "Determined Reunion Caster",
       "Illa",
+      "Mays",
       "Reunion Caster",
+      "Reunion?",
       "イラ",
       "メイズ",
       "レユニオンの術士",
@@ -1247,6 +1249,7 @@
       "char_179_cgbird_1"
     ],
     [
+      "Liz?",
       "Nightingale",
       "Shining",
       "シャイニング",
@@ -3041,6 +3044,7 @@
       "avg_4045_heidi_1"
     ],
     [
+      "Heidi",
       "ハイディ",
       "海蒂"
     ]
@@ -3269,6 +3273,7 @@
       "avg_4088_hodrer_1"
     ],
     [
+      "Hoederer",
       "ヘドリー",
       "赫德雷"
     ]
@@ -3378,6 +3383,7 @@
       "avg_4110_delphn_1"
     ],
     [
+      "Delphine",
       "デルフィーン",
       "戴菲恩"
     ]
@@ -3991,6 +3997,7 @@
       "avg_494_vendla_1"
     ],
     [
+      "Magdelene",
       "マグダレーネ",
       "玛格达尔"
     ]
@@ -4162,8 +4169,10 @@
     ],
     [
       "A Kazimierz Villager",
+      "Angry Infected",
       "Angry Miner",
       "Angry Villager",
+      "Excited Infected",
       "Fast Food Joint Owner",
       "Gangster Messenger",
       "Infected Employee",
@@ -4735,6 +4744,7 @@
     [
       "Barty",
       "Bitter Root",
+      "Calm Operator",
       "Dario",
       "Dylan",
       "Engineering Operator",
@@ -4886,6 +4896,7 @@
       "Mephisto's Guard",
       "Mephisto's Herd",
       "Originiutant Infected",
+      "Sarkaz Myriad Souls?",
       "サルカズの魂？",
       "メフィストの家畜",
       "メフィストの護衛",
@@ -5735,16 +5746,23 @@
       "Agama Gang",
       "Agama Gang Leader",
       "Armed Infected",
+      "Beleaguered Mercenary",
+      "Cheering Sarkaz Worker",
+      "Patrolling Sarkaz Soldier A",
+      "Patrolling Sarkaz Soldier B",
       "Sarkaz Boiler Worker",
       "Sarkaz Mercenary",
       "Sarkaz Mercenary A",
       "Sarkaz Mercenary B",
       "Sarkaz Passerby",
       "Sarkaz Soldier",
+      "Sarkaz Supervisor",
       "Sarkaz Teacher",
       "Sarkaz Warrior",
       "Sarkaz Warrior?",
       "Sarkaz Youth",
+      "Slyly Smiling Sarkaz Worker",
+      "Tired Sarkaz Worker",
       "Young Sarkaz Warrior",
       "くたびれた傭兵",
       "サルカズボイラーマン",
@@ -5804,12 +5822,15 @@
       "avg_npc_054"
     ],
     [
+      "'Miner'",
       "Burly Townsfolk",
       "Ferocious Sarkaz Bandit",
+      "Fierce Sarkaz",
       "Grimm",
       "Guerrilla Sarkaz",
       "Mercenary Captain",
       "Panicking Sarkaz Bandit",
+      "Quiet Sarkaz Worker",
       "Sarkaz Assassin",
       "Sarkaz Mercenary",
       "Sarkaz Mercenary A",
@@ -5821,6 +5842,7 @@
       "Sarkaz Traitor",
       "Sarkaz Warrior",
       "Sarkaz Warrior?",
+      "Starving Mercenary",
       "Strange Townsfolk",
       "“矿工”",
       "「坑夫」",
@@ -5886,6 +5908,7 @@
     ],
     [
       "Theresa",
+      "Theresa?",
       "テレジア",
       "テレジア？",
       "特蕾西娅",
@@ -6370,6 +6393,8 @@
       "Ivan",
       "Kevin",
       "Reunion Member",
+      "Reunion Soldier",
+      "Reunion Warrior",
       "Soda Hawker",
       "アーウェイ",
       "イヴァン",
@@ -6399,6 +6424,8 @@
       "Haggard Worker",
       "Muscular Man",
       "Raymond",
+      "Reunion Member",
+      "Senile Old Man",
       "Shadow",
       "Stranger",
       "Uncle Pickett",
@@ -6406,6 +6433,7 @@
       "Ursus Farmer",
       "Ursus Villager",
       "Villager",
+      "Worn-out Infected",
       "くたびれた労働者",
       "ウルサス村人",
       "ウルサス農民",
@@ -6601,6 +6629,7 @@
       "Operator Chard",
       "Operator Hoger",
       "Operator Shredder",
+      "Pensive Operator",
       "Rhodes Island Field Operator A",
       "Rhodes Island Logistics Operator",
       "Rhodes Island Operator",
@@ -6653,6 +6682,7 @@
       "Office Operator",
       "Office Operator A",
       "Operator Barty",
+      "Operator Passerby",
       "Operator Will",
       "Panicked Rhodes Island Operator",
       "Piston",
@@ -6826,6 +6856,7 @@
       "npc_10003_1"
     ],
     [
+      "Mon3tr?",
       "Mon3tr？"
     ]
   ],
@@ -7256,6 +7287,7 @@
       "Blacksteel Senior Operator",
       "Blacksteel Squad Member",
       "Calm Blacksteel Mercenary",
+      "Engineering Supervisor",
       "Helpless Blacksteel Mercenary",
       "Rational Blacksteel Mercenary",
       "Twitchy Blacksteel Mercenary",
@@ -7316,6 +7348,7 @@
       "avg_npc_1066_1"
     ],
     [
+      "Nowell",
       "ノウエル",
       "诺威尔"
     ]
@@ -7325,6 +7358,7 @@
       "avg_npc_1067_1"
     ],
     [
+      "Ulšulah",
       "ウルスラ",
       "厄尔苏拉"
     ]
@@ -7334,6 +7368,7 @@
       "avg_npc_1068_1"
     ],
     [
+      "Duke of Gododdin",
       "ゴドズィン公爵",
       "高多汀公爵"
     ]
@@ -7343,6 +7378,7 @@
       "avg_npc_1069_1"
     ],
     [
+      "Freda",
       "フリーダ",
       "芙蕾达"
     ]
@@ -7362,6 +7398,7 @@
       "avg_npc_1070_1"
     ],
     [
+      "Shearer",
       "シアラー少尉",
       "希勒少尉"
     ]
@@ -7371,6 +7408,7 @@
       "avg_npc_1071_1"
     ],
     [
+      "Banshee",
       "バンシー",
       "女妖",
       "菈玛莲"
@@ -7389,6 +7427,8 @@
       "avg_npc_1073_1"
     ],
     [
+      "Swordguard",
+      "Victorian Officer",
       "ソードガード",
       "ヴィクトリア士官",
       "剑卫",
@@ -7483,6 +7523,7 @@
       "avg_npc_1118_1"
     ],
     [
+      "Federico",
       "フェデリコ",
       "费德里科"
     ]
@@ -7492,6 +7533,7 @@
       "avg_npc_1119_1"
     ],
     [
+      "Federico",
       "フェデリコ",
       "费德里科"
     ]
@@ -8735,6 +8777,7 @@
     [
       "Anum",
       "Calm Woman",
+      "Caravan Head",
       "Emilia",
       "Grimed Woman",
       "Passerby Sargon Townsfolk",
@@ -8759,6 +8802,7 @@
     [
       "Arrogant Merchant",
       "Belligerent Villager",
+      "Black Market Merchant",
       "Disheveled Person",
       "Dispirited Straggler",
       "Infected Townsfolk",
@@ -8922,6 +8966,7 @@
       "Calm Councilor",
       "Caravan Head",
       "Cheery Actress",
+      "Exhausted Viscount",
       "Female Designer",
       "Hesitant Ambassador",
       "Kind-Faced Noble",
@@ -9910,6 +9955,7 @@
       "National Council Representative",
       "Prosecutor",
       "Raythean Industries Representative",
+      "Red Wine Senior Editor",
       "Secretary",
       "Serious Corporate Employee",
       "Staff",
@@ -9983,6 +10029,7 @@
       "Knight Scout",
       "Mid-level Manager",
       "Professor's Assistant",
+      "Red Wine Intern Journalist",
       "Researcher",
       "Retained Lawyer",
       "Snobby Official",
@@ -10196,6 +10243,7 @@
       "Jurian",
       "Knight",
       "Naughty Child",
+      "Victorian Boy",
       "ひもじい屋台の店主",
       "やんちゃな子供",
       "エリック",
@@ -10226,6 +10274,7 @@
       "avg_npc_241"
     ],
     [
+      "Angry NCO",
       "Gentle Officer",
       "Guards Member",
       "Guards' Captain",
@@ -10235,6 +10284,8 @@
       "Special Forces Soldier",
       "Victorian Officer",
       "Victorian Soldier",
+      "Victorian Soldier A",
+      "Victorian Soldier B",
       "Young Soldier",
       "ヴィクトリア兵",
       "ヴィクトリア兵A",
@@ -10274,6 +10325,7 @@
       "Amazed Passerby",
       "Angry Citizen",
       "Angry Youth",
+      "Anxious Villager",
       "Bent",
       "Busy Youth",
       "Chef MacMartin",
@@ -10305,6 +10357,7 @@
       "Unfamiliar Man",
       "Wasting Deserter",
       "Wheedling Merchant Alumnus",
+      "Will",
       "Wounded Youth",
       "Young Volunteer",
       "「ランプライター」",
@@ -10477,6 +10530,7 @@
       "Patrol Soldier",
       "Staff Officer",
       "Stern Officer",
+      "Victorian Soldier",
       "Victorian Soldier A",
       "Victorian Soldier B",
       "ヴィクトリア兵A",
@@ -11268,6 +11322,7 @@
     [
       "Bean the Infected",
       "Gordon",
+      "Nervous Infected",
       "Pale Man",
       "ゴードン",
       "感染者ビーン",
@@ -11511,6 +11566,7 @@
       "Cheerful Neighbor",
       "Composed Lateran Citizen",
       "Conscientious Doctor",
+      "Executor-in-Training",
       "Joyous Lateran Citizen",
       "Laid-Back Passerby",
       "Not-So-Candid Stall Owner",
@@ -11557,6 +11613,7 @@
       "Amiable Hospital Attendant",
       "Ardent Lateran Citizen",
       "Chatting Passerby",
+      "Hospital Careworker",
       "Hotel Manager",
       "Joyous Lateran",
       "亲切的医院护工",
@@ -11611,6 +11668,7 @@
       "Cleric?",
       "Friar",
       "Pious Cleric",
+      "Silent Cleric",
       "Sister",
       "Warm Prioress",
       "信心深い修道士",
@@ -11696,6 +11754,7 @@
     ],
     [
       "Amiya",
+      "Amiya?",
       "アーミヤ",
       "アーミヤ？",
       "阿米娅",
@@ -11753,6 +11812,7 @@
     ],
     [
       "Columbian Mercenary",
+      "Former Defense Forces Soldier",
       "Special Forces Captain",
       "Victorian Mercenary",
       "クルビア傭兵",
@@ -11913,6 +11973,7 @@
     ],
     [
       "Sanguinarch of Vampires",
+      "Young Vampire?",
       "ブラッドブルードの大君",
       "年轻的血魔？",
       "杜卡雷",
@@ -11992,8 +12053,13 @@
     [
       "Desperate Thug",
       "Dublinn Messenger",
+      "Frightened Refugee",
+      "Jittery Citizen",
       "Londinium Citizen",
       "Londinium Citizen?",
+      "Nervous Infected",
+      "Norport Refugee",
+      "Reunion Member",
       "Starving Thug",
       "Wary Man",
       "Wary Smuggler",
@@ -12031,10 +12097,13 @@
     [
       "Angry Thug",
       "Calm Thug",
+      "Cheering Civilian",
       "Gali",
       "Hairdresser",
       "Londinium Citizen",
       "Newsagent",
+      "Skeptical Citizen",
+      "Tired Citizen",
       "Worked-Up Thug",
       "くたびれた住民",
       "ギャリー",
@@ -12105,9 +12174,11 @@
       "avg_npc_419_1"
     ],
     [
+      "Royal Court Junior Officer",
       "Royal Court Soldier",
       "Sarkaz Soldier",
       "Sarkaz Warrior",
+      "Spine Guardian",
       "サルカズ兵士",
       "サルカズ戦士",
       "ライフボーンの守衛",
@@ -12133,6 +12204,7 @@
       "avg_npc_420_1"
     ],
     [
+      "Nachzehrer King",
       "Peculiar-looking Elder",
       "ナハツェーラーの王",
       "奇妙な老人",
@@ -12148,6 +12220,7 @@
     [
       "Apathetic Taran Man",
       "Gangster B",
+      "Indifferent Infected",
       "Skint Farmer",
       "ギャングの構成員B",
       "冷たい感染者",
@@ -12945,6 +13018,7 @@
       "BSW事務員",
       "Bar Patron",
       "Beachbrella Field Staff",
+      "Blacksteel Clerk",
       "Cheery Woman",
       "Impatient Reporter",
       "Nervous Entrepreneur",
@@ -13841,8 +13915,10 @@
       "avg_npc_660_1"
     ],
     [
+      "Desperate Refugee",
       "Londinium Worker",
       "Londinium Worker A",
+      "Panicked Refugee",
       "ロンディニウム工員",
       "ロンディニウム工員A",
       "伦蒂尼姆工人",
@@ -14885,6 +14961,7 @@
       "avg_npc_866_1"
     ],
     [
+      "Damazti Cluster",
       "Delphine",
       "デルフィーン",
       "变形者集群",
@@ -14898,6 +14975,7 @@
     ],
     [
       "'Trilby Asher'",
+      "Behatted Person",
       "“灰礼帽”",
       "“灰礼帽”&烈夏",
       "“约翰·史密斯”",
@@ -14912,6 +14990,7 @@
       "avg_npc_868_1"
     ],
     [
+      "Damazti Cluster",
       "Duke of Windermere",
       "ウィンダミア公爵",
       "变形者集群",
@@ -15226,8 +15305,11 @@
       "avg_npc_932_1"
     ],
     [
+      "'Shopkeep'",
       "Angry Sarkaz",
+      "Astute Sarkaz",
       "Cautious Sarkaz Inhabitant",
+      "Sarkaz Mercenary",
       "“老财”",
       "「資産家」",
       "ずる賢いサルカズ",
@@ -15253,6 +15335,7 @@
     [
       "Fernand",
       "Hot-Headed Sarkaz",
+      "Sarkaz Drifter",
       "サルカズの流れ者",
       "フェルナンド",
       "暴躁的萨卡兹居民",
@@ -15287,8 +15370,10 @@
       "avg_npc_935_1"
     ],
     [
+      "'Driver'",
       "Caroline",
       "Sarkaz Resident",
+      "Weary Sarkaz",
       "“司机”",
       "「運転手」",
       "カロリン",
@@ -15519,6 +15604,7 @@
     ],
     [
       "HR Operator",
+      "Human Resources Operator",
       "Logistics Operator",
       "Rhodes Island Landship Operator A",
       "人事オペレーター",
@@ -15541,6 +15627,7 @@
     [
       "Intern Operator",
       "Logistics Operator",
+      "Records Room Operator",
       "Rhodes Island Landship Operator B",
       "人事部干员",
       "后勤干员",
