@@ -4281,7 +4281,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "敌人",
-      "ja_JP": "敵"
+      "ja_JP": "敵",
+      "en_US": "Enemy"
     },
     "code": null,
     "zone": "excu"
@@ -4302,7 +4303,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "芦苇之心",
-      "ja_JP": "葦の心"
+      "ja_JP": "葦の心",
+      "en_US": "Heart Like a Reed"
     },
     "code": null,
     "zone": "sddrag"
@@ -4312,7 +4314,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "第一封信",
-      "ja_JP": "最初の手紙"
+      "ja_JP": "最初の手紙",
+      "en_US": "The First Letter"
     },
     "code": null,
     "zone": "heidi"
@@ -4322,7 +4325,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "远航",
-      "ja_JP": "航海"
+      "ja_JP": "航海",
+      "en_US": "Long-Haul"
     },
     "code": null,
     "zone": "almond"
@@ -6788,7 +6792,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "眼前的伤",
-      "ja_JP": "目の前の傷"
+      "ja_JP": "目の前の傷",
+      "en_US": "The Injury at Hand"
     },
     "code": "13-2",
     "zone": "main_13"
@@ -6798,7 +6803,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "眼前的伤",
-      "ja_JP": "目の前の傷"
+      "ja_JP": "目の前の傷",
+      "en_US": "The Injury at Hand"
     },
     "code": "13-2",
     "zone": "main_13"
@@ -6808,7 +6814,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "不得暂歇",
-      "ja_JP": "息つく間もなく"
+      "ja_JP": "息つく間もなく",
+      "en_US": "Not a Moment's Rest"
     },
     "code": "13-3",
     "zone": "main_13"
@@ -6818,7 +6825,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "不得暂歇",
-      "ja_JP": "息つく間もなく"
+      "ja_JP": "息つく間もなく",
+      "en_US": "Not a Moment's Rest"
     },
     "code": "13-3",
     "zone": "main_13"
@@ -6828,7 +6836,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "佣兵一日",
-      "ja_JP": "傭兵の一日"
+      "ja_JP": "傭兵の一日",
+      "en_US": "The Mercenary's Day"
     },
     "code": "13-4",
     "zone": "main_13"
@@ -6838,7 +6847,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "佣兵一日",
-      "ja_JP": "傭兵の一日"
+      "ja_JP": "傭兵の一日",
+      "en_US": "The Mercenary's Day"
     },
     "code": "13-4",
     "zone": "main_13"
@@ -6848,7 +6858,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "苦厄盘桓",
-      "ja_JP": "わだかまる苦厄"
+      "ja_JP": "わだかまる苦厄",
+      "en_US": "Anguish Hangs O'er"
     },
     "code": "13-5",
     "zone": "main_13"
@@ -6869,7 +6880,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "苦厄盘桓",
-      "ja_JP": "わだかまる苦厄"
+      "ja_JP": "わだかまる苦厄",
+      "en_US": "Anguish Hangs O'er"
     },
     "code": "13-5",
     "zone": "main_13"
@@ -6879,7 +6891,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "典范之名",
-      "ja_JP": "模範の名のもと"
+      "ja_JP": "模範の名のもと",
+      "en_US": "In the Name of Example"
     },
     "code": "13-6",
     "zone": "main_13"
@@ -6889,7 +6902,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "典范之名",
-      "ja_JP": "模範の名のもと"
+      "ja_JP": "模範の名のもと",
+      "en_US": "In the Name of Example"
     },
     "code": "13-6",
     "zone": "main_13"
@@ -6899,7 +6913,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "寻迹而行",
-      "ja_JP": "跡をたどって"
+      "ja_JP": "跡をたどって",
+      "en_US": "Led to Pursue"
     },
     "code": "TR-24",
     "zone": "main_13"
@@ -6909,7 +6924,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "不虞之会",
-      "ja_JP": "思わぬ再会"
+      "ja_JP": "思わぬ再会",
+      "en_US": "An Unplanned Meeting"
     },
     "code": "13-8",
     "zone": "main_13"
@@ -6919,7 +6935,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "幻境迁流",
-      "ja_JP": "移り行く幻境"
+      "ja_JP": "移り行く幻境",
+      "en_US": "The Promised Land Drifts"
     },
     "code": "13-10",
     "zone": "main_13"
@@ -6929,7 +6946,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "小镇翳云",
-      "ja_JP": "町を覆う暗雲"
+      "ja_JP": "町を覆う暗雲",
+      "en_US": "A Town Amidst the Clouds"
     },
     "code": "13-11",
     "zone": "main_13"
@@ -6939,7 +6957,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "破碎温室",
-      "ja_JP": "砕けた温室"
+      "ja_JP": "砕けた温室",
+      "en_US": "Shattered Greenhouse"
     },
     "code": "13-12",
     "zone": "main_13"
@@ -6949,7 +6968,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "猩红烟火",
-      "ja_JP": "紅の花火"
+      "ja_JP": "紅の花火",
+      "en_US": "Fireworks Sear Scarlet"
     },
     "code": "13-14",
     "zone": "main_13"
@@ -6959,7 +6979,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "短暂齐聚",
-      "ja_JP": "束の間の集い"
+      "ja_JP": "束の間の集い",
+      "en_US": "Briefly Gathered"
     },
     "code": "13-15",
     "zone": "main_13"
@@ -6980,7 +7001,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "“我们”",
-      "ja_JP": "「我々」"
+      "ja_JP": "「我々」",
+      "en_US": "'We'"
     },
     "code": "13-16",
     "zone": "main_13"
@@ -6990,7 +7012,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "“我们”",
-      "ja_JP": "「我々」"
+      "ja_JP": "「我々」",
+      "en_US": "'We'"
     },
     "code": "13-16",
     "zone": "main_13"
@@ -7000,7 +7023,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "谁来倾诉",
-      "ja_JP": "打ち明け話"
+      "ja_JP": "打ち明け話",
+      "en_US": "Someone Speak Your Mind"
     },
     "code": "13-17",
     "zone": "main_13"
@@ -7010,7 +7034,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "挺起胸膛",
-      "ja_JP": "胸の中の矜持"
+      "ja_JP": "胸の中の矜持",
+      "en_US": "Throw Out Your Chest"
     },
     "code": "13-18",
     "zone": "main_13"
@@ -7020,7 +7045,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "血潮翻涌",
-      "ja_JP": "たぎる血潮"
+      "ja_JP": "たぎる血潮",
+      "en_US": "Hemorrheal Billows"
     },
     "code": "13-20",
     "zone": "main_13"
@@ -7030,7 +7056,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "殷红君主",
-      "ja_JP": "暗紅の君主"
+      "ja_JP": "暗紅の君主",
+      "en_US": "The Archon in Sanguine"
     },
     "code": "13-21",
     "zone": "main_13"
@@ -7040,7 +7067,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "殷红君主",
-      "ja_JP": "暗紅の君主"
+      "ja_JP": "暗紅の君主",
+      "en_US": "The Archon in Sanguine"
     },
     "code": "13-21",
     "zone": "main_13"
@@ -7402,7 +7430,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "战场内外",
-      "ja_JP": "戦場内外"
+      "ja_JP": "戦場内外",
+      "en_US": "Across the Battlefield's Line"
     },
     "code": "13-1",
     "zone": "main_13"
@@ -7412,7 +7441,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "窥冠冕者",
-      "ja_JP": "冠を狙う者"
+      "ja_JP": "冠を狙う者",
+      "en_US": "Those Espying the Crown"
     },
     "code": "13-9",
     "zone": "main_13"
@@ -7422,7 +7452,8 @@
     "type": "Main",
     "name": {
       "zh_CN": "灾厄积渐",
-      "ja_JP": "蓄積された災厄"
+      "ja_JP": "蓄積された災厄",
+      "en_US": "Disaster Coalesces"
     },
     "code": "13-22",
     "zone": "main_13"
