@@ -4335,7 +4335,8 @@
     "id": "obt/memory/story_poca_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "昨天的明天"
+      "zh_CN": "昨天的明天",
+      "ja_JP": "昨日の明日"
     },
     "code": null,
     "zone": "poca"
@@ -4344,7 +4345,8 @@
     "id": "obt/memory/story_pianst_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "夕阳与朝日"
+      "zh_CN": "夕阳与朝日",
+      "ja_JP": "夕日と朝日"
     },
     "code": null,
     "zone": "pianst"
@@ -4353,7 +4355,8 @@
     "id": "obt/memory/story_sntlla_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "吹起未来的雪花"
+      "zh_CN": "吹起未来的雪花",
+      "ja_JP": "明日に咲く雪花"
     },
     "code": null,
     "zone": "sntlla"
@@ -4362,7 +4365,8 @@
     "id": "obt/memory/story_aprot2_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "那一场戏"
+      "zh_CN": "那一场戏",
+      "ja_JP": "あの日の演目"
     },
     "code": null,
     "zone": "aprot2"
@@ -4371,7 +4375,8 @@
     "id": "obt/memory/story_cello_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "天空与流云"
+      "zh_CN": "天空与流云",
+      "ja_JP": "空と雲"
     },
     "code": null,
     "zone": "cello"
@@ -4380,7 +4385,8 @@
     "id": "obt/memory/story_kaitou_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "被折射的星光"
+      "zh_CN": "被折射的星光",
+      "ja_JP": "屈折した星光"
     },
     "code": null,
     "zone": "kaitou"
@@ -5298,7 +5304,8 @@
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_3_1",
     "type": "Rogue",
     "name": {
-      "zh_CN": "告别 Part.01"
+      "zh_CN": "告别 Part.01",
+      "ja_JP": "別れ Part.01"
     },
     "code": null,
     "zone": "rogue_3"
@@ -5307,7 +5314,8 @@
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_3_2",
     "type": "Rogue",
     "name": {
-      "zh_CN": "告别 Part.02"
+      "zh_CN": "告别 Part.02",
+      "ja_JP": "別れ Part.02"
     },
     "code": null,
     "zone": "rogue_3"
@@ -5316,7 +5324,8 @@
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_3_3",
     "type": "Rogue",
     "name": {
-      "zh_CN": "告别 Part.03"
+      "zh_CN": "告别 Part.03",
+      "ja_JP": "別れ Part.03"
     },
     "code": null,
     "zone": "rogue_3"
@@ -5336,7 +5345,8 @@
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_4_1",
     "type": "Rogue",
     "name": {
-      "zh_CN": "未见终局 Part.01"
+      "zh_CN": "未见终局 Part.01",
+      "ja_JP": "まだ見ぬ結末 Part.01"
     },
     "code": null,
     "zone": "rogue_3"
@@ -5345,7 +5355,8 @@
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_4_2",
     "type": "Rogue",
     "name": {
-      "zh_CN": "未见终局 Part.02"
+      "zh_CN": "未见终局 Part.02",
+      "ja_JP": "まだ見ぬ結末 Part.02"
     },
     "code": null,
     "zone": "rogue_3"
@@ -5354,7 +5365,8 @@
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_4_3",
     "type": "Rogue",
     "name": {
-      "zh_CN": "未见终局 Part.03"
+      "zh_CN": "未见终局 Part.03",
+      "ja_JP": "まだ見ぬ結末 Part.03"
     },
     "code": null,
     "zone": "rogue_3"
@@ -8457,7 +8469,8 @@
     "id": "activities/act29side/level_act29side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "前奏“意外归来”"
+      "zh_CN": "前奏“意外归来”",
+      "ja_JP": "前奏「思いがけない帰還」"
     },
     "code": "ZT-ST-1",
     "zone": "act29side"
@@ -8466,7 +8479,8 @@
     "id": "activities/act29side/level_act29side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "清唱“晴空之歌”"
+      "zh_CN": "清唱“晴空之歌”",
+      "ja_JP": "衆賛歌「青空の歌」"
     },
     "code": "ZT-1",
     "zone": "act29side"
@@ -8475,7 +8489,8 @@
     "id": "activities/act29side/level_act29side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "清唱“晴空之歌”"
+      "zh_CN": "清唱“晴空之歌”",
+      "ja_JP": "衆賛歌「青空の歌」"
     },
     "code": "ZT-1",
     "zone": "act29side"
@@ -8484,7 +8499,8 @@
     "id": "activities/act29side/level_act29side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "序曲“哨兵” "
+      "zh_CN": "序曲“哨兵” ",
+      "ja_JP": "序曲「歩哨」"
     },
     "code": "ZT-2",
     "zone": "act29side"
@@ -8493,7 +8509,8 @@
     "id": "activities/act29side/level_act29side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "序曲“哨兵” "
+      "zh_CN": "序曲“哨兵” ",
+      "ja_JP": "序曲「歩哨」"
     },
     "code": "ZT-2",
     "zone": "act29side"
@@ -8502,7 +8519,8 @@
     "id": "activities/act29side/level_act29side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "练习曲“奇遇”"
+      "zh_CN": "练习曲“奇遇”",
+      "ja_JP": "練習曲「奇遇」"
     },
     "code": "ZT-3",
     "zone": "act29side"
@@ -8522,7 +8540,8 @@
     "id": "activities/act29side/level_act29side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "练习曲“奇遇”"
+      "zh_CN": "练习曲“奇遇”",
+      "ja_JP": "練習曲「奇遇」"
     },
     "code": "ZT-3",
     "zone": "act29side"
@@ -8531,7 +8550,8 @@
     "id": "activities/act29side/level_act29side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "狂想曲“望想” "
+      "zh_CN": "狂想曲“望想” ",
+      "ja_JP": "狂想曲「想望」"
     },
     "code": "ZT-4",
     "zone": "act29side"
@@ -8540,7 +8560,8 @@
     "id": "activities/act29side/level_act29side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "狂想曲“望想” "
+      "zh_CN": "狂想曲“望想” ",
+      "ja_JP": "狂想曲「想望」"
     },
     "code": "ZT-4",
     "zone": "act29side"
@@ -8549,7 +8570,8 @@
     "id": "activities/act29side/level_act29side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "奏鸣曲“秋日” "
+      "zh_CN": "奏鸣曲“秋日” ",
+      "ja_JP": "奏鳴曲「秋の日」"
     },
     "code": "ZT-5",
     "zone": "act29side"
@@ -8558,7 +8580,8 @@
     "id": "activities/act29side/level_act29side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "奏鸣曲“秋日” "
+      "zh_CN": "奏鸣曲“秋日” ",
+      "ja_JP": "奏鳴曲「秋の日」"
     },
     "code": "ZT-5",
     "zone": "act29side"
@@ -8567,7 +8590,8 @@
     "id": "activities/act29side/level_act29side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "间奏“未竟赋格”"
+      "zh_CN": "间奏“未竟赋格”",
+      "ja_JP": "間奏「未完のフーガ」"
     },
     "code": "ZT-ST-2",
     "zone": "act29side"
@@ -8576,7 +8600,8 @@
     "id": "activities/act29side/level_act29side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "华尔兹“假面”"
+      "zh_CN": "华尔兹“假面”",
+      "ja_JP": "円舞曲「仮面」"
     },
     "code": "ZT-6",
     "zone": "act29side"
@@ -8585,7 +8610,8 @@
     "id": "activities/act29side/level_act29side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "华尔兹“假面”"
+      "zh_CN": "华尔兹“假面”",
+      "ja_JP": "円舞曲「仮面」"
     },
     "code": "ZT-6",
     "zone": "act29side"
@@ -8594,7 +8620,8 @@
     "id": "activities/act29side/level_act29side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "协奏曲“复活” "
+      "zh_CN": "协奏曲“复活” ",
+      "ja_JP": "協奏曲「復活」"
     },
     "code": "ZT-7",
     "zone": "act29side"
@@ -8603,7 +8630,8 @@
     "id": "activities/act29side/level_act29side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "协奏曲“复活” "
+      "zh_CN": "协奏曲“复活” ",
+      "ja_JP": "協奏曲「復活」"
     },
     "code": "ZT-7",
     "zone": "act29side"
@@ -8623,7 +8651,8 @@
     "id": "activities/act29side/level_act29side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "夜歌“未见的高塔”"
+      "zh_CN": "夜歌“未见的高塔”",
+      "ja_JP": "夜想曲「まだ見ぬ高塔」"
     },
     "code": "ZT-8",
     "zone": "act29side"
@@ -8632,7 +8661,8 @@
     "id": "activities/act29side/level_act29side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "夜歌“未见的高塔”"
+      "zh_CN": "夜歌“未见的高塔”",
+      "ja_JP": "夜想曲「まだ見ぬ高塔」"
     },
     "code": "ZT-8",
     "zone": "act29side"
@@ -8641,7 +8671,8 @@
     "id": "activities/act29side/level_act29side_09_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "幻想曲“赠答” "
+      "zh_CN": "幻想曲“赠答” ",
+      "ja_JP": "幻想曲「贈答」"
     },
     "code": "ZT-9",
     "zone": "act29side"
@@ -8650,7 +8681,8 @@
     "id": "activities/act29side/level_act29side_09_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "幻想曲“赠答” "
+      "zh_CN": "幻想曲“赠答” ",
+      "ja_JP": "幻想曲「贈答」"
     },
     "code": "ZT-9",
     "zone": "act29side"
@@ -8659,7 +8691,8 @@
     "id": "activities/act29side/level_act29side_10_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "弥撒“君王”"
+      "zh_CN": "弥撒“君王”",
+      "ja_JP": "弥撒曲「君王」"
     },
     "code": "ZT-10",
     "zone": "act29side"
@@ -8668,7 +8701,8 @@
     "id": "activities/act29side/level_act29side_10_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "弥撒“君王”"
+      "zh_CN": "弥撒“君王”",
+      "ja_JP": "弥撒曲「君王」"
     },
     "code": "ZT-10",
     "zone": "act29side"
@@ -8677,7 +8711,8 @@
     "id": "activities/act29side/level_act29side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "尾奏“晚霞” "
+      "zh_CN": "尾奏“晚霞” ",
+      "ja_JP": "終曲「夕映え」"
     },
     "code": "ZT-ST-3",
     "zone": "act29side"
