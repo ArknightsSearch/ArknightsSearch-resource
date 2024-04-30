@@ -554,6 +554,7 @@
       "avg_1032_excu2_1"
     ],
     [
+      "'Federico'",
       "Executor",
       "Federico",
       "“费德里科”",
@@ -1929,6 +1930,10 @@
       "avg_245_cello_1"
     ],
     [
+      "'Arturia'",
+      "Arturia",
+      "Arturia?",
+      "The Witch King's Musician",
       "“阿尔图罗”",
       "「アルトリア」",
       "アルトリア",
@@ -2876,6 +2881,8 @@
       "avg_4011_lessng_1"
     ],
     [
+      "Lessing",
+      "Stern Youth",
       "レッシング",
       "严肃的青年",
       "厳格な青年",
@@ -2950,6 +2957,7 @@
       "avg_4025_aprot2_1"
     ],
     [
+      "Abyss",
       "Shalem",
       "■■",
       "■■■",
@@ -3064,6 +3072,7 @@
     ],
     [
       "Ebenholz",
+      "Ebenholz?",
       "Young Noble",
       "エーベンホルツ",
       "エーベンホルツ？",
@@ -3317,6 +3326,9 @@
       "avg_4098_vvana_1"
     ],
     [
+      "'Hochberg'",
+      "Viviana",
+      "Viviana?",
       "“霍赫贝格”",
       "「ホッホベルク」",
       "ヴィヴィアナ",
@@ -3386,6 +3398,9 @@
       "avg_4109_baslin_1"
     ],
     [
+      "Micha",
+      "Michael",
+      "Serene Apprentice",
       "ミヒャ",
       "ミヒャエル",
       "冷静な学生",
@@ -4046,6 +4061,7 @@
       "avg_499_kaitou_1"
     ],
     [
+      "Heinz",
       "ハインツ",
       "海因茨"
     ]
@@ -4320,6 +4336,7 @@
       "James the Worker",
       "Johnny",
       "Kazimierz Villager",
+      "Kind Villager",
       "Kurt Sr.",
       "Militiaman A",
       "Old Townsfolk",
@@ -4330,6 +4347,7 @@
       "Shopkeeper",
       "Tense Infected",
       "Uncle Wong",
+      "Village Head",
       "Village Headman",
       "Villager",
       "Villager C",
@@ -6104,6 +6122,7 @@
     ],
     [
       "Councilor",
+      "Grocer",
       "Guide",
       "Helpless Father",
       "Inexperienced Clerk",
@@ -6150,6 +6169,7 @@
     [
       "Anxious Mother",
       "Girl",
+      "Noble Attendant",
       "Tatjana",
       "タチヤナ",
       "塔佳娜",
@@ -6576,6 +6596,7 @@
       "Celica",
       "Celine",
       "Engineering Operator",
+      "Field Operator",
       "Field Operator A",
       "HR Operator",
       "Hawking Operator",
@@ -6653,6 +6674,7 @@
       "Rhodes Island Field Operator A",
       "Rhodes Island Logistics Operator",
       "Rhodes Island Operator",
+      "Scout Operator",
       "Seanson",
       "Seasoned Rhodes Island Operator",
       "Sniper Operator",
@@ -7238,9 +7260,11 @@
     ],
     [
       "Anxious Resident",
+      "Chatty Female Patient",
       "Gentle Female Voice",
       "Helpless Plate Resident",
       "Irritable Woman",
+      "Sofia the Former Maid",
       "お喋りな女性患者",
       "健谈的女病人",
       "優しい女性の声",
@@ -7492,6 +7516,10 @@
       "avg_npc_1113_1"
     ],
     [
+      "'Cora'",
+      "Cora",
+      "Cora?",
+      "Witch King",
       "“珂拉”",
       "「コーラ」",
       "コーラ",
@@ -7506,6 +7534,8 @@
       "avg_npc_1114_1"
     ],
     [
+      "Cranky Old Man",
+      "Fremont",
       "フレモント",
       "弗莱蒙特",
       "暴躁的老者",
@@ -7519,6 +7549,9 @@
       "avg_npc_1115_1"
     ],
     [
+      "'Grimmacht'",
+      "Grimmacht",
+      "Michael",
       "“赫琳玛特”",
       "「グリムマハト」",
       "グリムマハト",
@@ -7532,6 +7565,10 @@
       "avg_npc_1116_1"
     ],
     [
+      "Ebenholz",
+      "Herkunftshorn",
+      "Witch King",
+      "Witch King?",
       "エーベンホルツ",
       "ヘーアクンフツホルン",
       "巫王",
@@ -7545,6 +7582,10 @@
       "avg_npc_1117_1"
     ],
     [
+      "'Gesatzswächter'",
+      "Brandt",
+      "Gesatzswächter",
+      "Witch King",
       "“金律法卫”",
       "「金律法衛」",
       "ブラント",
@@ -7579,6 +7620,7 @@
       "avg_npc_1120_1"
     ],
     [
+      "Arturia",
       "アルトリア",
       "阿尔图罗"
     ]
@@ -7588,6 +7630,9 @@
       "avg_npc_1121_1"
     ],
     [
+      "Vivian",
+      "Vivian?",
+      "Viviana",
       "ヴィヴィアナ",
       "ヴィヴィアン",
       "ヴィヴィアン？",
@@ -7601,6 +7646,9 @@
       "avg_npc_1122_1"
     ],
     [
+      "Anxious Woman",
+      "Gentle Woman",
+      "Yulia",
       "ユリア",
       "優しい女性",
       "尤利娅",
@@ -7614,6 +7662,9 @@
       "avg_npc_1123_1"
     ],
     [
+      "'Gendarmerie'",
+      "Loris",
+      "Witch King",
       "“宪兵”",
       "「憲兵」",
       "ロリス",
@@ -7626,6 +7677,8 @@
       "avg_npc_1124_1"
     ],
     [
+      "Bereaved Youth",
+      "Gerhard",
       "ゲルハルト",
       "哀伤的青年",
       "悲しげな青年",
@@ -7637,6 +7690,8 @@
       "avg_npc_1125_1"
     ],
     [
+      "'Witch King's Echo'",
+      "'Witch King's Echo'?",
       "“巫王的余音”",
       "“巫王的余音”？",
       "「巫王の余韻」",
@@ -7648,6 +7703,8 @@
       "avg_npc_1126_1"
     ],
     [
+      "'Witch King's Echo'",
+      "'Witch King's Echo'?",
       "“巫王的余音”",
       "“巫王的余音”？",
       "「巫王の余韻」",
@@ -7659,6 +7716,8 @@
       "avg_npc_1127_1"
     ],
     [
+      "'Witch King's Echo'",
+      "Yulia",
       "“巫王的余音”",
       "「巫王の余韻」",
       "ユリア",
@@ -7670,6 +7729,7 @@
       "avg_npc_1128_1"
     ],
     [
+      "'Witch King's Echo'",
       "“巫王的余音”",
       "「巫王の余韻」"
     ]
@@ -7679,6 +7739,7 @@
       "avg_npc_1129_1"
     ],
     [
+      "Motivated Student",
       "积极的学徒",
       "積極的な学生"
     ]
@@ -7688,6 +7749,7 @@
       "avg_npc_1130_1"
     ],
     [
+      "Enraged Student",
       "怒る学生",
       "愤怒的学徒"
     ]
@@ -7697,6 +7759,9 @@
       "avg_npc_1131_1"
     ],
     [
+      "'Stubborn Apprentice'",
+      "Flustered Student",
+      "Stubborn Apprentice",
       "“倔强的学徒”",
       "「強情な学生」",
       "倔强的学徒",
@@ -7710,6 +7775,9 @@
       "avg_npc_1132_1"
     ],
     [
+      "Anxious Student",
+      "Bewildered Student",
+      "Passing Student",
       "焦る学生",
       "焦急的学徒",
       "疑惑的学徒",
@@ -7723,6 +7791,10 @@
       "avg_npc_1133_1"
     ],
     [
+      "Gendarmerie",
+      "Gendarmerie B",
+      "Gendarmerie C",
+      "Tired Security Guard",
       "宪兵",
       "宪兵B",
       "宪兵C",
@@ -7738,6 +7810,8 @@
       "avg_npc_1134_1"
     ],
     [
+      "Gendarmerie",
+      "Gendarmerie A",
       "传令官",
       "宪兵",
       "宪兵A",
@@ -7750,6 +7824,9 @@
       "avg_npc_1135_1"
     ],
     [
+      "'Spire Caster'",
+      "Imperial Caster",
+      "Spire Caster",
       "“高塔术师”",
       "「高塔術師」",
       "女帝の術師",
@@ -7763,6 +7840,7 @@
       "avg_npc_1136_1"
     ],
     [
+      "'Unique Drone Model'",
       "“造型独特的无人机”",
       "「独特な形状のドローン」"
     ]
@@ -9046,6 +9124,7 @@
       "Noble Lady",
       "Noble?",
       "Noblewoman",
+      "Opinionated Patient",
       "Pretentious Noblewoman",
       "Scathing Leithanian",
       "Self-Satisfied Noble Alumna",
@@ -9171,6 +9250,7 @@
     ],
     [
       "Adulating Noble",
+      "Anxious Patient",
       "Astute Noble",
       "Bankrupt Merchant",
       "Bishmer",
@@ -10520,6 +10600,7 @@
       "Cautious Servant",
       "Feeble Woman",
       "Infected Citizen",
+      "Lively Female Patient",
       "Maid",
       "Noble Sister",
       "Overwrought Taran Refugee",
@@ -12705,6 +12786,7 @@
     ],
     [
       "Biegler",
+      "Biegler?",
       "ビーグラー",
       "ビーグラー？",
       "别格勒",
@@ -12716,6 +12798,8 @@
       "avg_npc_487_1"
     ],
     [
+      "Ewigegnade",
+      "Golden-haired Woman",
       "Woman",
       "イーヴェグナーデ",
       "伊维格娜德",
@@ -12764,6 +12848,8 @@
     [
       "'Gesandte des Kurfürsten'",
       "Bodyguard",
+      "Imperial Caster",
+      "Imperial Musician",
       "Reckless Caster",
       "Spire Caster",
       "“大贵族使者”",
@@ -12790,8 +12876,10 @@
       "Cowardly Noble",
       "Devlin",
       "Frivolous Noble",
+      "Graf Saxon",
       "Louis",
       "Pretentious Noble",
+      "Young Noble",
       "サクソン伯爵",
       "デヴリン",
       "ルイス",
@@ -12824,6 +12912,7 @@
       "Leithanian Noble",
       "Musician",
       "Nitpicking Critic",
+      "Older Noble",
       "Resplendently Dressed Noble",
       "Stoic-Looking Noble",
       "ブランシェ",
@@ -12882,6 +12971,8 @@
       "Mannered Infected",
       "Meddlesome Infected",
       "Nervous Musician",
+      "Noble Attendant",
+      "Onlooking Passerby A",
       "おどおどする演奏家",
       "侍从",
       "兴奋的莱塔尼亚旅客",
@@ -12910,6 +13001,8 @@
       "Dispirited Infected",
       "Expectant Audience Member",
       "Friendly Infected",
+      "Leonie",
+      "Onlooking Passerby B",
       "Tough Infected",
       "うなだれる感染者",
       "レオニー",
@@ -12936,8 +13029,12 @@
       "Dispirited Infected",
       "Drunken Infected",
       "Emotional Infected",
+      "Enraged Passerby?",
+      "Graf's Attendant",
       "Hardware Shop Owner",
+      "Messenger",
       "Neurotic Infected",
+      "Noble Attendant",
       "Passionate Infected",
       "Rude Infected",
       "Rule-Abiding Instructor",
@@ -14028,6 +14125,7 @@
       "Farmer",
       "Innocent Child",
       "Old Man",
+      "Repulsed Child",
       "Tyrant",
       "农民",
       "天真的孩子",
@@ -14340,6 +14438,7 @@
     ],
     [
       "Energetic Technician",
+      "Sad Man",
       "快活なエンジニア",
       "悲し気な男",
       "悲伤的男性",
@@ -15269,6 +15368,7 @@
     [
       "Abbot",
       "Gaunt Old Man",
+      "Witch King",
       "やつれた老人",
       "修道院主教",
       "修道院司教",
@@ -15283,6 +15383,7 @@
     [
       "Clément",
       "Gaunt Man",
+      "Witch King",
       "やつれた男性",
       "クレマン",
       "克莱芒",
@@ -15564,6 +15665,7 @@
       "avg_npc_962_1"
     ],
     [
+      "Colddeath Warrior",
       "Icefield Inhabitant A",
       "Icefield Inhabitant B",
       "Sami Mountain Scout",
@@ -15593,6 +15695,7 @@
     [
       "Icefield Cottongrass",
       "Qanipalaat's Mother",
+      "Sami Warrior",
       "Solemn Sami Mountain Warrior",
       "カニパラートの母",
       "サーミの戦士",
@@ -15620,6 +15723,7 @@
     ],
     [
       "Ceremony-Conducting Shaman",
+      "Colddeath Shaman",
       "Forest Shaman",
       "Grieving Apprentice Shaman",
       "Mild-Mannered Shaman",
