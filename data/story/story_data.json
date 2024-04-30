@@ -4336,7 +4336,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "昨天的明天",
-      "ja_JP": "昨日の明日"
+      "ja_JP": "昨日の明日",
+      "en_US": "Yesterday's Morrow"
     },
     "code": null,
     "zone": "poca"
@@ -4346,7 +4347,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "夕阳与朝日",
-      "ja_JP": "夕日と朝日"
+      "ja_JP": "夕日と朝日",
+      "en_US": "Dämmerung und Anbruch"
     },
     "code": null,
     "zone": "pianst"
@@ -4356,7 +4358,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "吹起未来的雪花",
-      "ja_JP": "明日に咲く雪花"
+      "ja_JP": "明日に咲く雪花",
+      "en_US": "Stirring Future's Snowflakes"
     },
     "code": null,
     "zone": "sntlla"
@@ -4366,7 +4369,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "那一场戏",
-      "ja_JP": "あの日の演目"
+      "ja_JP": "あの日の演目",
+      "en_US": "The Play That Was"
     },
     "code": null,
     "zone": "aprot2"
@@ -4376,7 +4380,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "天空与流云",
-      "ja_JP": "空と雲"
+      "ja_JP": "空と雲",
+      "en_US": "Himmelszelt und Federwolke"
     },
     "code": null,
     "zone": "cello"
@@ -4386,7 +4391,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "被折射的星光",
-      "ja_JP": "屈折した星光"
+      "ja_JP": "屈折した星光",
+      "en_US": "Refracted Starlight"
     },
     "code": null,
     "zone": "kaitou"
@@ -5305,7 +5311,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "告别 Part.01",
-      "ja_JP": "別れ Part.01"
+      "ja_JP": "別れ Part.01",
+      "en_US": "Parting Part.01"
     },
     "code": null,
     "zone": "rogue_3"
@@ -5315,7 +5322,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "告别 Part.02",
-      "ja_JP": "別れ Part.02"
+      "ja_JP": "別れ Part.02",
+      "en_US": "Parting Part.02"
     },
     "code": null,
     "zone": "rogue_3"
@@ -5325,7 +5333,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "告别 Part.03",
-      "ja_JP": "別れ Part.03"
+      "ja_JP": "別れ Part.03",
+      "en_US": "Parting Part.03"
     },
     "code": null,
     "zone": "rogue_3"
@@ -5346,7 +5355,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "未见终局 Part.01",
-      "ja_JP": "まだ見ぬ結末 Part.01"
+      "ja_JP": "まだ見ぬ結末 Part.01",
+      "en_US": "Past the Eye Could See Part.01"
     },
     "code": null,
     "zone": "rogue_3"
@@ -5356,7 +5366,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "未见终局 Part.02",
-      "ja_JP": "まだ見ぬ結末 Part.02"
+      "ja_JP": "まだ見ぬ結末 Part.02",
+      "en_US": "Past the Eye Could See Part.02"
     },
     "code": null,
     "zone": "rogue_3"
@@ -5366,7 +5377,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "未见终局 Part.03",
-      "ja_JP": "まだ見ぬ結末 Part.03"
+      "ja_JP": "まだ見ぬ結末 Part.03",
+      "en_US": "Past the Eye Could See Part.03"
     },
     "code": null,
     "zone": "rogue_3"
@@ -8470,7 +8482,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "前奏“意外归来”",
-      "ja_JP": "前奏「思いがけない帰還」"
+      "ja_JP": "前奏「思いがけない帰還」",
+      "en_US": "Prelude 'Surprise Return'"
     },
     "code": "ZT-ST-1",
     "zone": "act29side"
@@ -8480,7 +8493,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "清唱“晴空之歌”",
-      "ja_JP": "衆賛歌「青空の歌」"
+      "ja_JP": "衆賛歌「青空の歌」",
+      "en_US": "Chorale 'Lied des klaren Himmels'"
     },
     "code": "ZT-1",
     "zone": "act29side"
@@ -8490,7 +8504,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "清唱“晴空之歌”",
-      "ja_JP": "衆賛歌「青空の歌」"
+      "ja_JP": "衆賛歌「青空の歌」",
+      "en_US": "Chorale 'Lied des klaren Himmels'"
     },
     "code": "ZT-1",
     "zone": "act29side"
@@ -8500,7 +8515,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "序曲“哨兵” ",
-      "ja_JP": "序曲「歩哨」"
+      "ja_JP": "序曲「歩哨」",
+      "en_US": "Overture 'Sentinel' "
     },
     "code": "ZT-2",
     "zone": "act29side"
@@ -8510,7 +8526,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "序曲“哨兵” ",
-      "ja_JP": "序曲「歩哨」"
+      "ja_JP": "序曲「歩哨」",
+      "en_US": "Overture 'Sentinel' "
     },
     "code": "ZT-2",
     "zone": "act29side"
@@ -8520,7 +8537,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "练习曲“奇遇”",
-      "ja_JP": "練習曲「奇遇」"
+      "ja_JP": "練習曲「奇遇」",
+      "en_US": "Etude 'Encounter'"
     },
     "code": "ZT-3",
     "zone": "act29side"
@@ -8541,7 +8559,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "练习曲“奇遇”",
-      "ja_JP": "練習曲「奇遇」"
+      "ja_JP": "練習曲「奇遇」",
+      "en_US": "Etude 'Encounter'"
     },
     "code": "ZT-3",
     "zone": "act29side"
@@ -8551,7 +8570,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "狂想曲“望想” ",
-      "ja_JP": "狂想曲「想望」"
+      "ja_JP": "狂想曲「想望」",
+      "en_US": "Rhapsody 'Longing' "
     },
     "code": "ZT-4",
     "zone": "act29side"
@@ -8561,7 +8581,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "狂想曲“望想” ",
-      "ja_JP": "狂想曲「想望」"
+      "ja_JP": "狂想曲「想望」",
+      "en_US": "Rhapsody 'Longing' "
     },
     "code": "ZT-4",
     "zone": "act29side"
@@ -8571,7 +8592,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "奏鸣曲“秋日” ",
-      "ja_JP": "奏鳴曲「秋の日」"
+      "ja_JP": "奏鳴曲「秋の日」",
+      "en_US": "Sonata 'Autumn' "
     },
     "code": "ZT-5",
     "zone": "act29side"
@@ -8581,7 +8603,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "奏鸣曲“秋日” ",
-      "ja_JP": "奏鳴曲「秋の日」"
+      "ja_JP": "奏鳴曲「秋の日」",
+      "en_US": "Sonata 'Autumn' "
     },
     "code": "ZT-5",
     "zone": "act29side"
@@ -8591,7 +8614,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "间奏“未竟赋格”",
-      "ja_JP": "間奏「未完のフーガ」"
+      "ja_JP": "間奏「未完のフーガ」",
+      "en_US": "Intermezzo 'Unfinished Fugue'"
     },
     "code": "ZT-ST-2",
     "zone": "act29side"
@@ -8601,7 +8625,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "华尔兹“假面”",
-      "ja_JP": "円舞曲「仮面」"
+      "ja_JP": "円舞曲「仮面」",
+      "en_US": "Valse 'Mask'"
     },
     "code": "ZT-6",
     "zone": "act29side"
@@ -8611,7 +8636,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "华尔兹“假面”",
-      "ja_JP": "円舞曲「仮面」"
+      "ja_JP": "円舞曲「仮面」",
+      "en_US": "Valse 'Mask'"
     },
     "code": "ZT-6",
     "zone": "act29side"
@@ -8621,7 +8647,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "协奏曲“复活” ",
-      "ja_JP": "協奏曲「復活」"
+      "ja_JP": "協奏曲「復活」",
+      "en_US": "Concerto 'Resurrection' "
     },
     "code": "ZT-7",
     "zone": "act29side"
@@ -8631,7 +8658,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "协奏曲“复活” ",
-      "ja_JP": "協奏曲「復活」"
+      "ja_JP": "協奏曲「復活」",
+      "en_US": "Concerto 'Resurrection' "
     },
     "code": "ZT-7",
     "zone": "act29side"
@@ -8652,7 +8680,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "夜歌“未见的高塔”",
-      "ja_JP": "夜想曲「まだ見ぬ高塔」"
+      "ja_JP": "夜想曲「まだ見ぬ高塔」",
+      "en_US": "Nocturne 'Unseen Spire'"
     },
     "code": "ZT-8",
     "zone": "act29side"
@@ -8662,7 +8691,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "夜歌“未见的高塔”",
-      "ja_JP": "夜想曲「まだ見ぬ高塔」"
+      "ja_JP": "夜想曲「まだ見ぬ高塔」",
+      "en_US": "Nocturne 'Unseen Spire'"
     },
     "code": "ZT-8",
     "zone": "act29side"
@@ -8672,7 +8702,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "幻想曲“赠答” ",
-      "ja_JP": "幻想曲「贈答」"
+      "ja_JP": "幻想曲「贈答」",
+      "en_US": "Fantasy 'Gift' "
     },
     "code": "ZT-9",
     "zone": "act29side"
@@ -8682,7 +8713,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "幻想曲“赠答” ",
-      "ja_JP": "幻想曲「贈答」"
+      "ja_JP": "幻想曲「贈答」",
+      "en_US": "Fantasy 'Gift' "
     },
     "code": "ZT-9",
     "zone": "act29side"
@@ -8692,7 +8724,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "弥撒“君王”",
-      "ja_JP": "弥撒曲「君王」"
+      "ja_JP": "弥撒曲「君王」",
+      "en_US": "Messe 'König'"
     },
     "code": "ZT-10",
     "zone": "act29side"
@@ -8702,7 +8735,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "弥撒“君王”",
-      "ja_JP": "弥撒曲「君王」"
+      "ja_JP": "弥撒曲「君王」",
+      "en_US": "Messe 'König'"
     },
     "code": "ZT-10",
     "zone": "act29side"
@@ -8712,7 +8746,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "尾奏“晚霞” ",
-      "ja_JP": "終曲「夕映え」"
+      "ja_JP": "終曲「夕映え」",
+      "en_US": "Coda 'Evening Glow' "
     },
     "code": "ZT-ST-3",
     "zone": "act29side"
