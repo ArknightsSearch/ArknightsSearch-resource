@@ -122,11 +122,6 @@
     "ja_JP": "OP：OD",
     "zh_CN": "源石尘行动"
   },
-  "act17d1": {
-    "en_US": "Defense Protocols",
-    "ja_JP": "ロドス防衛協定",
-    "zh_CN": "罗德岛防御协议"
-  },
   "act17d7": {
     "en_US": "April Fools' Day Event",
     "ja_JP": "エイプリルフール",
@@ -340,10 +335,16 @@
     "ja_JP": "カーディ",
     "zh_CN": "卡缇"
   },
+  "aroma": {
+    "zh_CN": "阿罗玛"
+  },
   "asbest": {
     "en_US": "Asbestos",
     "ja_JP": "アスベストス",
     "zh_CN": "石棉"
+  },
+  "ascln": {
+    "zh_CN": "阿斯卡纶"
   },
   "ash": {
     "en_US": "Ash",
@@ -962,6 +963,9 @@
     "ja_JP": "悪兆渦流",
     "zh_CN": "恶兆湍流"
   },
+  "main_14": {
+    "zh_CN": "慈悲灯塔"
+  },
   "main_2": {
     "en_US": "Separated Hearts",
     "ja_JP": "相思相殺",
@@ -1295,6 +1299,11 @@
     "ja_JP": "シェーシャ",
     "zh_CN": "慑砂"
   },
+  "shining": {
+    "en_US": "Shining",
+    "ja_JP": "シャイニング",
+    "zh_CN": "闪灵"
+  },
   "shotst": {
     "en_US": "Meteor",
     "ja_JP": "メテオ",
@@ -1312,6 +1321,11 @@
     "en_US": "Sideroca",
     "ja_JP": "シデロカ",
     "zh_CN": "铸铁"
+  },
+  "siege": {
+    "en_US": "Siege",
+    "ja_JP": "シージ",
+    "zh_CN": "推进之王"
   },
   "silent": {
     "en_US": "Silence",
@@ -1412,6 +1426,11 @@
     "en_US": "Swire",
     "ja_JP": "スワイヤー",
     "zh_CN": "诗怀雅"
+  },
+  "swllow": {
+    "en_US": "GreyThroat",
+    "ja_JP": "グレースロート",
+    "zh_CN": "灰喉"
   },
   "tachak": {
     "en_US": "Tachanka",
