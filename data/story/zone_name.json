@@ -219,6 +219,9 @@
   "act33side": {
     "zh_CN": "巴别塔"
   },
+  "act34side": {
+    "zh_CN": "生路"
+  },
   "act3d0": {
     "en_US": "Heart of Surging Flame",
     "ja_JP": "青く燃ゆる心",
@@ -531,6 +534,11 @@
     "ja_JP": "ヴァーミル",
     "zh_CN": "红云"
   },
+  "coldst": {
+    "en_US": "Coldshot",
+    "ja_JP": "コールドショット",
+    "zh_CN": "冰酿"
+  },
   "crow": {
     "en_US": "La Pluma",
     "ja_JP": "ラ・プルマ",
@@ -747,6 +755,9 @@
     "ja_JP": "ア",
     "zh_CN": "阿"
   },
+  "haini": {
+    "zh_CN": "海霓"
+  },
   "halo": {
     "en_US": "Astgenne",
     "ja_JP": "アステジーニ",
@@ -932,6 +943,9 @@
     "en_US": "Lunacub",
     "ja_JP": "ルナカブ",
     "zh_CN": "子月"
+  },
+  "luton": {
+    "zh_CN": "露托"
   },
   "main_0": {
     "en_US": "Evil Time Part 1",
