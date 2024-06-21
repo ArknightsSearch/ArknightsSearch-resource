@@ -5127,7 +5127,9 @@
     "id": "obt/memory/story_leto_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "捉迷藏"
+      "zh_CN": "捉迷藏",
+      "ja_JP": "かくれんぼ",
+      "en_US": "Hide-and-Seek"
     },
     "code": null,
     "zone": "leto"
@@ -5136,7 +5138,9 @@
     "id": "obt/memory/story_gnosis_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "起点"
+      "zh_CN": "起点",
+      "ja_JP": "起点",
+      "en_US": "Starting Point"
     },
     "code": null,
     "zone": "gnosis"
@@ -5156,7 +5160,9 @@
     "id": "obt/memory/story_kjera_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "祂所关心的"
+      "zh_CN": "祂所关心的",
+      "ja_JP": "気に掛けるもの",
+      "en_US": "All She Cares About"
     },
     "code": null,
     "zone": "kjera"
@@ -5165,7 +5171,9 @@
     "id": "obt/memory/story_astesi_2_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "复耀"
+      "zh_CN": "复耀",
+      "ja_JP": "再び輝くために",
+      "en_US": "Return to Radiance"
     },
     "code": null,
     "zone": "astesi"
@@ -6205,7 +6213,9 @@
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_5_1",
     "type": "Rogue",
     "name": {
-      "zh_CN": "没有终点的小径 Part.01"
+      "zh_CN": "没有终点的小径 Part.01",
+      "ja_JP": "終わりなき小道 Part.01",
+      "en_US": "The Pathway With No End Part.01"
     },
     "code": null,
     "zone": "rogue_3"
@@ -6214,7 +6224,9 @@
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_5_2",
     "type": "Rogue",
     "name": {
-      "zh_CN": "没有终点的小径 Part.02"
+      "zh_CN": "没有终点的小径 Part.02",
+      "ja_JP": "終わりなき小道 Part.02",
+      "en_US": "The Pathway With No End Part.02"
     },
     "code": null,
     "zone": "rogue_3"
@@ -6223,7 +6235,9 @@
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_5_3",
     "type": "Rogue",
     "name": {
-      "zh_CN": "没有终点的小径 Part.03"
+      "zh_CN": "没有终点的小径 Part.03",
+      "ja_JP": "終わりなき小道 Part.03",
+      "en_US": "The Pathway With No End Part.03"
     },
     "code": null,
     "zone": "rogue_3"
@@ -9624,7 +9638,9 @@
     "id": "activities/act30side/level_act30side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "候车大厅"
+      "zh_CN": "候车大厅",
+      "ja_JP": "待合室",
+      "en_US": "Waiting Room"
     },
     "code": "RS-ST-1",
     "zone": "act30side"
@@ -9633,7 +9649,9 @@
     "id": "activities/act30side/level_act30side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "注意事项"
+      "zh_CN": "注意事项",
+      "ja_JP": "乗車時のご注意",
+      "en_US": "Important Information"
     },
     "code": "RS-1",
     "zone": "act30side"
@@ -9642,7 +9660,9 @@
     "id": "activities/act30side/level_act30side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "注意事项"
+      "zh_CN": "注意事项",
+      "ja_JP": "乗車時のご注意",
+      "en_US": "Important Information"
     },
     "code": "RS-1",
     "zone": "act30side"
@@ -9651,7 +9671,9 @@
     "id": "activities/act30side/level_act30side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "同车异图"
+      "zh_CN": "同车异图",
+      "ja_JP": "同乗異心",
+      "en_US": "Same Train, Different Destination"
     },
     "code": "RS-2",
     "zone": "act30side"
@@ -9660,7 +9682,9 @@
     "id": "activities/act30side/level_act30side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "同车异图"
+      "zh_CN": "同车异图",
+      "ja_JP": "同乗異心",
+      "en_US": "Same Train, Different Destination"
     },
     "code": "RS-2",
     "zone": "act30side"
@@ -9680,7 +9704,9 @@
     "id": "activities/act30side/level_act30side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "临时停车"
+      "zh_CN": "临时停车",
+      "ja_JP": "臨時停車",
+      "en_US": "Temporary Stop"
     },
     "code": "RS-3",
     "zone": "act30side"
@@ -9689,7 +9715,9 @@
     "id": "activities/act30side/level_act30side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "临时停车"
+      "zh_CN": "临时停车",
+      "ja_JP": "臨時停車",
+      "en_US": "Temporary Stop"
     },
     "code": "RS-3",
     "zone": "act30side"
@@ -9698,7 +9726,9 @@
     "id": "activities/act30side/level_act30side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "重回正轨"
+      "zh_CN": "重回正轨",
+      "ja_JP": "軌道修正",
+      "en_US": "Back on Track"
     },
     "code": "RS-4",
     "zone": "act30side"
@@ -9707,7 +9737,9 @@
     "id": "activities/act30side/level_act30side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "重回正轨"
+      "zh_CN": "重回正轨",
+      "ja_JP": "軌道修正",
+      "en_US": "Back on Track"
     },
     "code": "RS-4",
     "zone": "act30side"
@@ -9716,7 +9748,9 @@
     "id": "activities/act30side/level_act30side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "逃票？"
+      "zh_CN": "逃票？",
+      "ja_JP": "不正乗車？",
+      "en_US": "Train Hopping"
     },
     "code": "RS-5",
     "zone": "act30side"
@@ -9725,7 +9759,9 @@
     "id": "activities/act30side/level_act30side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "逃票？"
+      "zh_CN": "逃票？",
+      "ja_JP": "不正乗車？",
+      "en_US": "Train Hopping"
     },
     "code": "RS-5",
     "zone": "act30side"
@@ -9734,7 +9770,9 @@
     "id": "activities/act30side/level_act30side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "补票！"
+      "zh_CN": "补票！",
+      "ja_JP": "不正乗車の代償",
+      "en_US": "Additional Ticket"
     },
     "code": "RS-6",
     "zone": "act30side"
@@ -9743,7 +9781,9 @@
     "id": "activities/act30side/level_act30side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "补票！"
+      "zh_CN": "补票！",
+      "ja_JP": "不正乗車の代償",
+      "en_US": "Additional Ticket"
     },
     "code": "RS-6",
     "zone": "act30side"
@@ -9752,7 +9792,9 @@
     "id": "activities/act30side/level_act30side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "登山铁道"
+      "zh_CN": "登山铁道",
+      "ja_JP": "登山鉄道",
+      "en_US": "Mountain Railway"
     },
     "code": "RS-ST-2",
     "zone": "act30side"
@@ -9761,7 +9803,9 @@
     "id": "activities/act30side/level_act30side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "制动失灵"
+      "zh_CN": "制动失灵",
+      "ja_JP": "壊れたブレーキ",
+      "en_US": "Control Malfunction"
     },
     "code": "RS-7",
     "zone": "act30side"
@@ -9781,7 +9825,9 @@
     "id": "activities/act30side/level_act30side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "制动失灵"
+      "zh_CN": "制动失灵",
+      "ja_JP": "壊れたブレーキ",
+      "en_US": "Control Malfunction"
     },
     "code": "RS-7",
     "zone": "act30side"
@@ -9790,7 +9836,9 @@
     "id": "activities/act30side/level_act30side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "极限时速"
+      "zh_CN": "极限时速",
+      "ja_JP": "トップスピード",
+      "en_US": "Terminal Velocity"
     },
     "code": "RS-8",
     "zone": "act30side"
@@ -9799,7 +9847,9 @@
     "id": "activities/act30side/level_act30side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "极限时速"
+      "zh_CN": "极限时速",
+      "ja_JP": "トップスピード",
+      "en_US": "Terminal Velocity"
     },
     "code": "RS-8",
     "zone": "act30side"
@@ -9808,7 +9858,9 @@
     "id": "activities/act30side/level_act30side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "终点站"
+      "zh_CN": "终点站",
+      "ja_JP": "終点",
+      "en_US": "Final Destination"
     },
     "code": "RS-ST-3",
     "zone": "act30side"
