@@ -1421,6 +1421,8 @@
       "avg_194_leto_1"
     ],
     [
+      "Leto",
+      "リェータ",
       "烈夏"
     ]
   ],
@@ -2159,8 +2161,12 @@
     ],
     [
       "Astesia",
+      "Astesia?",
+      "Astgenne",
       "Passerby Liberi",
       "アステシア",
+      "アステシア？",
+      "アステジーニ",
       "星极",
       "星极？",
       "星源",
@@ -3461,6 +3467,10 @@
       "avg_4114_harold_1"
     ],
     [
+      "Harold",
+      "Victorian Viscount",
+      "ハロルド",
+      "ヴィクトリア子爵",
       "哈洛德",
       "维多利亚子爵"
     ]
@@ -3470,6 +3480,8 @@
       "avg_4116_blkkgt_1"
     ],
     [
+      "Degenbrecher",
+      "デーゲンブレヒャー",
       "锏"
     ]
   ],
@@ -4686,6 +4698,7 @@
       "诡异的猎人",
       "賞金ハンター",
       "賞金稼ぎ",
+      "賞金稼ぎA",
       "赏金猎人",
       "赏金猎人A",
       "醜い暴徒",
@@ -4810,6 +4823,7 @@
       "負傷した戦士",
       "貪欲な傭兵",
       "賞金稼ぎ",
+      "賞金稼ぎB",
       "负伤的雇佣兵",
       "贪婪的佣兵",
       "赏金猎人",
@@ -5381,6 +5395,7 @@
       "Rinz",
       "Shopkeeper",
       "Slum Infected",
+      "Spirited Tourist",
       "Staged(?) Female Passerby",
       "Trapped Lungmen Citizen",
       "Ye Zizhen",
@@ -5392,6 +5407,7 @@
       "ペニー",
       "リンツ",
       "事務員",
+      "元気な観光客",
       "兴奋的观众",
       "办事员",
       "发窘的女人",
@@ -5493,6 +5509,7 @@
       "Shrewd Youth",
       "Slum Dweller",
       "Subordinate",
+      "Trembling Tourist",
       "Vicious-Looking Lou Seoi Member",
       "Young Citizen B",
       "Young Victim",
@@ -5515,6 +5532,7 @@
       "司会者",
       "困り顔の男性",
       "困惑しているファン",
+      "寒がりな観光客",
       "尴尬的男人",
       "市民B",
       "年轻的受困者",
@@ -6108,9 +6126,11 @@
     ],
     [
       "Blemishine",
+      "Foreign Tourist B",
       "Maria",
       "ブレミシャイン",
       "マリア",
+      "外国人観光客B",
       "外国游客B",
       "玛莉娅",
       "瑕光"
@@ -6150,11 +6170,13 @@
       "avg_npc_064_weapon_1"
     ],
     [
+      "Foreign Tourist A",
       "Maria",
       "Zofia",
       "ゾフィア",
       "マリア",
       "佐菲娅",
+      "外国人観光客A",
       "外国游客A",
       "玛莉娅"
     ]
@@ -7952,6 +7974,8 @@
       "avg_npc_1156_1"
     ],
     [
+      "Spokesman Mob",
+      "代弁者モーブ",
       "发言人莫布"
     ]
   ],
@@ -7960,6 +7984,8 @@
       "avg_npc_1157_1"
     ],
     [
+      "Seasoned Soldier",
+      "老練の兵士",
       "老练的士兵"
     ]
   ],
@@ -7968,6 +7994,10 @@
       "avg_npc_1158_1"
     ],
     [
+      "Lead Soldier",
+      "Silent Soldier",
+      "リーダーの兵士",
+      "寡黙な兵士",
       "沉默的士兵",
       "领头的士兵"
     ]
@@ -7977,6 +8007,8 @@
       "avg_npc_1159_1"
     ],
     [
+      "Tatyana",
+      "タチアナ",
       "塔季扬娜"
     ]
   ],
@@ -7985,7 +8017,9 @@
       "avg_npc_1160_1"
     ],
     [
-      "老修士"
+      "Elder Devotee",
+      "老修士",
+      "老修道士"
     ]
   ],
   [
@@ -7993,6 +8027,8 @@
       "avg_npc_1162_1"
     ],
     [
+      "Karlan Trade Employee",
+      "カランド貿易職員",
       "喀兰贸易员工"
     ]
   ],
@@ -8001,8 +8037,14 @@
       "avg_npc_1163_1"
     ],
     [
+      "Feisty Burdenbeast",
+      "Lily",
+      "Wild Burdenbeast",
+      "リリー",
+      "情熱的な駄獣",
       "热情的驮兽",
       "莉莉",
+      "野生の駄獣",
       "野生驮兽",
       "驮兽"
     ]
@@ -9542,6 +9584,7 @@
       "Calm Councilor",
       "Caravan Head",
       "Cheery Actress",
+      "Curious Tourist",
       "Exhausted Viscount",
       "Female Designer",
       "Hesitant Ambassador",
@@ -9583,6 +9626,7 @@
       "美丽的贵族",
       "自信溢れる貴族",
       "自满的贵族同学",
+      "興味津々な観光客",
       "落ち着いた議員",
       "親切そうな貴族",
       "貴族の女性",
@@ -10412,11 +10456,13 @@
       "A Staid Knight",
       "An Audience Knight",
       "An Escorting Knight",
+      "Annoyed Tourist",
       "Noble's Mercenary",
       "Patrolling Knight",
       "Search Team Member",
       "巡回騎士",
       "巡逻骑士",
+      "悩む観光客",
       "抗議する騎士",
       "抗议的骑士",
       "搜查队成员",
@@ -10529,6 +10575,7 @@
       "HR Employee",
       "Hamm",
       "Haughty Official",
+      "Karlan Trade Employee",
       "Kazimierz Representative",
       "Man in a Suit",
       "Manager",
@@ -10543,6 +10590,7 @@
       "Staff Worker",
       "Travel-Stained Lawyer",
       "カジミエーシュ代表",
+      "カランド貿易職員",
       "クライアント代表",
       "ジャン",
       "スタッフ",
@@ -11124,6 +11172,7 @@
       "Victorian Soldier A",
       "Victorian Soldier B",
       "“副官希尔”",
+      "ヴィクトリア兵",
       "ヴィクトリア兵A",
       "ヴィクトリア兵B",
       "ヴィクトリア兵士",
@@ -11171,9 +11220,11 @@
       "avg_npc_251"
     ],
     [
+      "Hovering Stone",
       "Kjera",
       "イェラ",
       "悬浮石",
+      "浮遊石",
       "耶拉"
     ]
   ],
@@ -11335,9 +11386,13 @@
       "avg_npc_272_1"
     ],
     [
+      "Hospitable Villager",
       "Kjerag Noble",
+      "Teacher",
+      "もてなし好きの地元民",
       "イェラグ貴族",
       "好客的老乡",
+      "家庭教師",
       "老师",
       "谢拉格贵族"
     ]
@@ -11347,6 +11402,8 @@
       "avg_npc_273_1"
     ],
     [
+      "Beautiful Woman",
+      "美しい女性",
       "美丽的女性"
     ]
   ],
@@ -11355,6 +11412,8 @@
       "avg_npc_274_1"
     ],
     [
+      "Chief's Wife",
+      "Fretful Wife",
       "Hawker B",
       "Karlan Trade Manager",
       "Kjerag Noble B",
@@ -11362,7 +11421,9 @@
       "カランド貿易マネージャー",
       "喀兰贸易经理",
       "小贩B",
+      "慌てた顔の夫人",
       "谢拉格贵族B",
+      "部長夫人",
       "部长夫人",
       "露店商B",
       "面色焦急的妇人"
@@ -11373,17 +11434,32 @@
       "avg_npc_275"
     ],
     [
+      "Burly Tschäggättä",
+      "Exhausted Tschäggättä",
+      "Frantic Tschäggättä",
+      "Out-of-Breath Tschäggättä",
+      "Pumped-Up Tschäggättä",
       "Tschäggättä",
+      "Tschäggättä A",
+      "Tschäggättä B",
       "“山雪鬼”",
       "「チェゲッタ」",
+      "チェゲッタ",
+      "チェゲッタA",
+      "チェゲッタB",
       "山雪鬼",
       "山雪鬼A",
       "山雪鬼B",
+      "息を切らすチェゲッタ",
+      "慌てるチェゲッタ",
       "慌张的山雪鬼",
       "斗志昂扬的山雪鬼",
       "气喘吁吁的山雪鬼",
+      "疲れ切ったチェゲッタ",
       "精疲力尽的山雪鬼",
-      "身手矫健的山雪鬼"
+      "身手矫健的山雪鬼",
+      "身軽なチェゲッタ",
+      "闘志みなぎるチェゲッタ"
     ]
   ],
   [
@@ -11392,10 +11468,14 @@
     ],
     [
       "Aurora's Sister",
+      "Conductor",
+      "Station Steward",
       "オーロラの姉",
+      "乗務員",
       "列车员",
       "极光的姐姐",
-      "车站乘务员"
+      "车站乘务员",
+      "駅員"
     ]
   ],
   [
@@ -11403,20 +11483,33 @@
       "avg_npc_277_1"
     ],
     [
+      "Bold Man",
+      "Competing Vendor",
       "Kjerag Civilian C",
       "Kjerag Commoner B",
+      "Kjerag Youth",
+      "Lively Local",
+      "Meddlesome Villager",
       "Paleroche Commoner A",
+      "Vintner?",
+      "Youth",
+      "イェラグの青年",
       "イェラグ民間人B",
       "イェラグ民間人C",
       "ペイルロッシュ家領民A",
+      "ライバル商人",
       "佩尔罗契家平民A",
+      "元気なイェラグ人",
+      "大胆な男性",
       "大胆的男性",
       "好事的老乡",
       "活泼的谢拉格人",
+      "物好きな地元民",
       "竞争商家",
       "谢拉格平民B",
       "谢拉格平民C",
       "谢拉格青年",
+      "酒商人？",
       "酒商？",
       "青年"
     ]
@@ -11426,24 +11519,42 @@
       "avg_npc_278_1"
     ],
     [
+      "Burdenbeast Renter",
+      "Carefree Villager",
+      "Chief Kaj",
+      "Common Kjerag Man",
       "Kjerag Commoner D",
       "Kjerag Merchant",
       "Kjerag Merchant B",
+      "Kjerag Villager",
+      "Local Vendor",
+      "Paleroche Commoner",
+      "Server",
+      "Shocked Villager",
+      "のんびりした地元民",
+      "イェラグの地元民",
+      "イェラグ人男性",
       "イェラグ商人",
       "イェラグ商人B",
       "イェラグ民間人D",
+      "カーハ部長",
+      "ペイルロッシュ家平民",
       "佩尔罗契家平民",
       "出租驮兽的牧民",
       "吃惊的老乡",
+      "従業員",
       "悠闲的老乡",
       "服务员",
       "特产商人",
+      "特産品商",
       "谢拉格商人",
       "谢拉格商人B",
       "谢拉格平民D",
       "谢拉格平民男性",
       "谢拉格老乡",
-      "部长卡哈"
+      "部长卡哈",
+      "駄獣貸しの牧畜民",
+      "驚く地元民"
     ]
   ],
   [
@@ -11451,10 +11562,16 @@
       "avg_npc_279_1"
     ],
     [
+      "Burdenbeast Herder",
       "Elderly Pilgrim",
       "Hawker A",
+      "Kjerag Elder",
       "Lara's Father",
+      "Nail-Tender",
+      "Old Herdsman",
+      "Old Man",
       "Senior Subject",
+      "イェラグの老人",
       "ララの父",
       "修甲人",
       "小贩A",
@@ -11463,11 +11580,14 @@
       "年长的领民",
       "朝拜的老者",
       "洛拉父亲",
+      "爪の手入れ師",
       "老人",
       "老牧民",
+      "老牧畜民",
       "谢拉格老人",
       "赶驮兽的牧民",
-      "露店商A"
+      "露店商A",
+      "駄獣を操る牧畜民"
     ]
   ],
   [
@@ -11475,14 +11595,22 @@
       "avg_npc_280_1"
     ],
     [
+      "Calm Local",
+      "Common Kjerag Woman",
       "Kjerag Civilian B",
       "Kjerag Noble B",
+      "Lively Staffer",
       "Neighbor",
+      "Spectating Passenger",
+      "イェラグ人女性",
       "イェラグ民間人B",
       "イェラグ貴族B",
+      "冷静なイェラグ人",
       "冷静的谢拉格人",
       "活泼的职员",
+      "活発な職員",
       "看热闹的乘客",
+      "見物する乗客",
       "谢拉格平民B",
       "谢拉格平民女性",
       "谢拉格贵族B",
@@ -11495,6 +11623,8 @@
       "avg_npc_281_1"
     ],
     [
+      "Curious Woman",
+      "Irritated Mother",
       "Kjerag Commoner B",
       "Paleroche Commoner B",
       "イェラグ民間人B",
@@ -11502,6 +11632,8 @@
       "佩尔罗契家平民B",
       "好奇的女性",
       "急躁的母亲",
+      "焦る母親",
+      "興味津々な女性",
       "谢拉格平民B"
     ]
   ],
@@ -11510,9 +11642,14 @@
       "avg_npc_282_1"
     ],
     [
+      "Curious Staffer",
+      "Passionate Villager",
+      "Shopkeeper",
+      "好奇心旺盛な職員",
       "好奇的职员",
       "店主",
-      "热心的老乡"
+      "热心的老乡",
+      "親切な地元民"
     ]
   ],
   [
@@ -11522,6 +11659,7 @@
     [
       "Browntail Clan Warrior",
       "Browntail Clan Warrior B",
+      "Guard?",
       "Kjerag Warrior",
       "Kjerag Warrior A",
       "Kjerag Warriors",
@@ -11547,6 +11685,7 @@
       "年轻的谢拉格战士",
       "护卫？",
       "若いイェラグ戦士",
+      "護衛？",
       "谢拉格战士",
       "谢拉格战士A"
     ]
@@ -11614,6 +11753,8 @@
       "avg_npc_288_1"
     ],
     [
+      "Enciodes",
+      "エンシオディス",
       "恩希欧迪斯"
     ]
   ],
@@ -11633,6 +11774,8 @@
     ],
     [
       "Boy Gnosis",
+      "Gnosis",
+      "ノーシス",
       "少年ノーシス",
       "少年诺希斯",
       "诺希斯"
@@ -12532,17 +12675,24 @@
     ],
     [
       "High-Ranking Officer",
+      "Slippery Soldier",
+      "Stern Soldier",
       "Veteran Officer",
       "Victorian Barracks Officer",
       "Victorian Officer",
       "Victorian Soldier",
+      "Victorian Soldier?",
+      "ずる賢い兵士",
       "ベテラン士官",
+      "ヴィクトリア兵",
       "ヴィクトリア兵士",
+      "ヴィクトリア兵？",
       "ヴィクトリア士官",
       "ヴィクトリア駐屯軍",
       "上級士官",
       "严肃的士兵",
       "油滑的士兵",
+      "精悍な兵士",
       "维多利亚军官",
       "维多利亚士兵",
       "维多利亚士兵？",
@@ -12625,7 +12775,15 @@
     ],
     [
       "Robben",
+      "Sickly Soldier",
+      "Somber Soldier",
+      "Victorian Soldier C",
+      "Victorian Soldier D",
       "ロッベン",
+      "ヴィクトリア兵C",
+      "ヴィクトリア兵D",
+      "弱った兵士",
+      "暗い表情の兵士",
       "维多利亚士兵",
       "维多利亚士兵C",
       "维多利亚士兵D",
@@ -13615,6 +13773,7 @@
     ],
     [
       "Cheerful Columbian",
+      "Deliveryman",
       "Driver",
       "Drunkard",
       "Frivolous Columbian",
@@ -13625,6 +13784,7 @@
       "Reporter?",
       "Rude Reporter",
       "Street Hawker",
+      "Surprised Tourist",
       "Suspicious Liberi",
       "Vice President's Secretary",
       "ご機嫌なクルビア人",
@@ -13654,8 +13814,10 @@
       "軽薄なクルビア人",
       "轻佻的哥伦比亚人",
       "運転手",
+      "配達員",
       "酔っぱらった男",
-      "醉醺醺的男人"
+      "醉醺醺的男人",
+      "驚く観光客"
     ]
   ],
   [
@@ -13668,6 +13830,7 @@
       "Beachbrella Field Staff",
       "Blacksteel Clerk",
       "Cheery Woman",
+      "Excited Tourist",
       "Impatient Reporter",
       "Nervous Entrepreneur",
       "Reporter",
@@ -13692,6 +13855,7 @@
       "痩せた長身の女性",
       "紧张的创业者",
       "緊張気味の起業家",
+      "興奮する観光客",
       "見知らぬ研究員",
       "記者",
       "記者A",
@@ -13767,9 +13931,11 @@
       "Rhine Lab Researcher",
       "Rhine Lab Tech",
       "Rhine Lab Tech A",
+      "Rhine Reception",
       "Rhine Researcher",
       "Rhine Staff",
       "Rhine Staff A",
+      "ライン生命受付",
       "ライン生命研究員",
       "ライン生命研究員A",
       "ライン生命職員",
@@ -14373,6 +14539,8 @@
     [
       "'Kazimierzian'",
       "Campaign Knight",
+      "Campaign Knight A",
+      "Campaign Knight B",
       "Marsov",
       "“卡西米尔人”",
       "「カジミエーシュ人」",
@@ -14381,6 +14549,8 @@
       "征战骑士A",
       "征战骑士B",
       "征戦騎士",
+      "征戦騎士A",
+      "征戦騎士B",
       "马索夫"
     ]
   ],
@@ -15643,13 +15813,19 @@
       "avg_npc_867_1"
     ],
     [
+      "'John Smith'",
       "'Trilby Asher'",
+      "'Trilby Asher' & Leto",
       "Behatted Person",
+      "Foreigner With a Funny Hat",
       "“灰礼帽”",
       "“灰礼帽”&烈夏",
       "“约翰·史密斯”",
       "「グレーシルクハット」",
+      "「ジョン・スミス」",
       "シルクハットの人物",
+      "二人",
+      "変な帽子の外国人",
       "怪帽子外国佬",
       "戴着礼帽的人"
     ]
