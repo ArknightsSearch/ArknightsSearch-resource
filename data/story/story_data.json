@@ -5182,7 +5182,8 @@
     "id": "obt/memory/story_buildr_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "复还的羽兽"
+      "zh_CN": "复还的羽兽",
+      "ja_JP": "戻ってきた羽獣"
     },
     "code": null,
     "zone": "buildr"
@@ -5191,7 +5192,8 @@
     "id": "obt/memory/story_melnte_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "失去的时光"
+      "zh_CN": "失去的时光",
+      "ja_JP": "失った時間"
     },
     "code": null,
     "zone": "melnte"
@@ -5200,7 +5202,8 @@
     "id": "obt/memory/story_bubble_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "勇者的试炼"
+      "zh_CN": "勇者的试炼",
+      "ja_JP": "戦士の試練"
     },
     "code": null,
     "zone": "bubble"
@@ -5209,7 +5212,8 @@
     "id": "obt/memory/story_ansel_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "身为医者"
+      "zh_CN": "身为医者",
+      "ja_JP": "医者として"
     },
     "code": null,
     "zone": "ansel"
@@ -9573,7 +9577,8 @@
     "id": "activities/act16mini/level_act16mini_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "盖不住的锅盖"
+      "zh_CN": "盖不住的锅盖",
+      "ja_JP": "塞ぎきれない鍋蓋"
     },
     "code": "TG-ST1",
     "zone": "act16mini"
@@ -9593,7 +9598,8 @@
     "id": "activities/act16mini/level_act16mini_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "不回头的车辙"
+      "zh_CN": "不回头的车辙",
+      "ja_JP": "引き返せない轍"
     },
     "code": "TG-ST2",
     "zone": "act16mini"
@@ -9602,7 +9608,8 @@
     "id": "activities/act16mini/level_act16mini_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "狂奔的瓶树"
+      "zh_CN": "狂奔的瓶树",
+      "ja_JP": "駆けるサカビンノキ"
     },
     "code": "TG-ST3",
     "zone": "act16mini"
@@ -9611,7 +9618,8 @@
     "id": "activities/act16mini/level_act16mini_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "落定的锤子"
+      "zh_CN": "落定的锤子",
+      "ja_JP": "振り抜いたハンマー"
     },
     "code": "TG-ST4",
     "zone": "act16mini"
@@ -9620,7 +9628,8 @@
     "id": "activities/act16mini/level_act16mini_st05",
     "type": "Activity",
     "name": {
-      "zh_CN": "咧嘴的矿井"
+      "zh_CN": "咧嘴的矿井",
+      "ja_JP": "ニヤリと笑う坑道"
     },
     "code": "TG-ST5",
     "zone": "act16mini"
@@ -9629,7 +9638,8 @@
     "id": "activities/act16mini/level_act16mini_st06",
     "type": "Activity",
     "name": {
-      "zh_CN": "被踩住的影子"
+      "zh_CN": "被踩住的影子",
+      "ja_JP": "踏みつけられた影"
     },
     "code": "TG-ST6",
     "zone": "act16mini"
