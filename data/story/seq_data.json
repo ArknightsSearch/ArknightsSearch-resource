@@ -246,12 +246,14 @@
       "char_016_medic"
     ],
     [
+      "Frantic HR Operator",
       "HR Operator",
       "Human Resources Operator",
       "Logistics Operator",
       "Logistics Worker",
       "Medic",
       "Medic Operator",
+      "Medical Department Operator",
       "Rhodes Island Medic Operator",
       "Rhodes Island Operator",
       "オペレーター",
@@ -1867,6 +1869,7 @@
       "char_230_savage_1"
     ],
     [
+      "No-Nonsense Woman",
       "Savage",
       "サベージ",
       "ハキハキした女性",
@@ -2884,6 +2887,8 @@
       "avg_4006_melnte_1"
     ],
     [
+      "Breonna",
+      "Melanite",
       "ブライナ",
       "メラナイト",
       "布雷娜",
@@ -3310,6 +3315,7 @@
       "avg_4081_warmy_1"
     ],
     [
+      "Potlid",
       "小锅盖",
       "温米",
       "鍋蓋ちゃん"
@@ -3505,6 +3511,9 @@
       "avg_4117_ray_1"
     ],
     [
+      "Ray",
+      "Reticent Customer",
+      "Truckjacker",
       "カージャック犯",
       "レイ",
       "劫车人",
@@ -4351,6 +4360,7 @@
       "Angry Infected",
       "Angry Miner",
       "Angry Villager",
+      "Charlie the Sproglet",
       "Excited Infected",
       "Fast Food Joint Owner",
       "Gangster Messenger",
@@ -4566,6 +4576,7 @@
       "Bar Owner",
       "Depressed Worker",
       "Engineer Andrey",
+      "General Storekeeper",
       "Infected Employee B",
       "Merchant",
       "Militiaman B",
@@ -5195,6 +5206,7 @@
       "Audience Member C",
       "Careless Youth",
       "Customer A",
+      "Food Stall Owner",
       "Male Tourist",
       "Male Tourist A",
       "Messenger",
@@ -8114,6 +8126,7 @@
       "avg_npc_1183_1"
     ],
     [
+      "Alanna",
       "アランナ",
       "阿兰娜"
     ]
@@ -8123,6 +8136,8 @@
       "avg_npc_1184_1"
     ],
     [
+      "Jerry",
+      "Jittery Passenger",
       "おどおどした乗客",
       "おどおどした男",
       "ジェリー",
@@ -8135,6 +8150,9 @@
       "avg_npc_1185_1"
     ],
     [
+      "Infected Worker",
+      "Mine Captain",
+      "Worker 'Brake'",
       "「ブレーキ」",
       "工人“制动器”",
       "感染労働者",
@@ -8148,6 +8166,10 @@
       "avg_npc_1186_1"
     ],
     [
+      "Company Representative",
+      "Somewhat Familiar Woman",
+      "Strange Lady",
+      "Worker 'Motor'",
       "「モーター」",
       "企業代表",
       "公司代表",
@@ -8163,6 +8185,7 @@
       "avg_npc_1188_1"
     ],
     [
+      "Sandbeast",
       "サンドビースト",
       "幼小的沙地兽",
       "沙地兽"
@@ -10711,6 +10734,7 @@
       "Manager",
       "Mayor's Secretary",
       "National Council Representative",
+      "Office Clerk",
       "Prosecutor",
       "Raythean Industries Representative",
       "Red Wine Senior Editor",
@@ -10795,6 +10819,7 @@
       "Snobby Official",
       "Staff Worker",
       "Tired Corporate Employee",
+      "Uniformed Worker",
       "Witness",
       "シティホール職員",
       "ジェリー",
@@ -11217,6 +11242,7 @@
       "Maid",
       "Noble Sister",
       "Overwrought Taran Refugee",
+      "Panicked Merchant",
       "Pasado",
       "Sorrowful Woman",
       "Taran Refugee",
@@ -12693,6 +12719,8 @@
     [
       "Columbian Mercenary",
       "Former Defense Forces Soldier",
+      "Inspector A",
+      "Inspector B",
       "Special Forces Captain",
       "Victorian Mercenary",
       "クルビア傭兵",
@@ -16612,9 +16640,11 @@
       "avg_npc_972_1"
     ],
     [
+      "Flustered HR Operator",
       "HR Operator",
       "Human Resources Operator",
       "Logistics Operator",
+      "Procurement Operator",
       "Rhodes Island Landship Operator A",
       "人事オペレーター",
       "人事干员",
@@ -16685,6 +16715,7 @@
       "Lut",
       "Lut & Liv",
       "Very Happy Boy",
+      "Young Boy",
       "ルート",
       "ルート&リーフ",
       "好奇的小男孩",
