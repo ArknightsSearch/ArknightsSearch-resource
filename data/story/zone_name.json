@@ -128,6 +128,9 @@
     "ja_JP": "エイプリルフール",
     "zh_CN": "愚人节活动"
   },
+  "act17mini": {
+    "zh_CN": "熔炉“还魂”记"
+  },
   "act17side": {
     "en_US": "Stultifera Navis",
     "ja_JP": "狂人号",
@@ -472,6 +475,11 @@
     "ja_JP": "カシャ",
     "zh_CN": "卡达"
   },
+  "caper": {
+    "en_US": "Caper",
+    "ja_JP": "ケイパー",
+    "zh_CN": "跃跃"
+  },
   "cast3": {
     "en_US": "Castle-3",
     "ja_JP": "Castle-3",
@@ -718,6 +726,11 @@
     "ja_JP": "イースチナ",
     "zh_CN": "真理"
   },
+  "glaze": {
+    "en_US": "Ambriel",
+    "ja_JP": "アンブリエル",
+    "zh_CN": "安比尔"
+  },
   "glider": {
     "en_US": "Honeyberry",
     "ja_JP": "ハニーベリー",
@@ -770,6 +783,11 @@
     "en_US": "Harmonie",
     "ja_JP": "ハーモニー",
     "zh_CN": "和弦"
+  },
+  "harold": {
+    "en_US": "Harold",
+    "ja_JP": "ハロルド",
+    "zh_CN": "哈洛德"
   },
   "hbisc2": {
     "en_US": "Hibiscus the Purifier",
@@ -1535,6 +1553,10 @@
     "en_US": "Waai Fu",
     "ja_JP": "ワイフー",
     "zh_CN": "槐琥"
+  },
+  "warmy": {
+    "ja_JP": "ウォーミー",
+    "zh_CN": "温米"
   },
   "weedy": {
     "en_US": "Weedy",
