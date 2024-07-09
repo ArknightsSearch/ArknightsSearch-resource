@@ -5249,7 +5249,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "复还的羽兽",
-      "ja_JP": "戻ってきた羽獣"
+      "ja_JP": "戻ってきた羽獣",
+      "en_US": "The Fowlbeast That Returned"
     },
     "code": null,
     "zone": "buildr"
@@ -5259,7 +5260,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "失去的时光",
-      "ja_JP": "失った時間"
+      "ja_JP": "失った時間",
+      "en_US": "Lost Time"
     },
     "code": null,
     "zone": "melnte"
@@ -5280,7 +5282,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "勇者的试炼",
-      "ja_JP": "戦士の試練"
+      "ja_JP": "戦士の試練",
+      "en_US": "Trial For The Brave"
     },
     "code": null,
     "zone": "bubble"
@@ -5290,7 +5293,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "身为医者",
-      "ja_JP": "医者として"
+      "ja_JP": "医者として",
+      "en_US": "As A Medic"
     },
     "code": null,
     "zone": "ansel"
@@ -9745,7 +9749,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "盖不住的锅盖",
-      "ja_JP": "塞ぎきれない鍋蓋"
+      "ja_JP": "塞ぎきれない鍋蓋",
+      "en_US": "Boiling Point"
     },
     "code": "TG-ST1",
     "zone": "act16mini"
@@ -9755,7 +9760,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "不回头的车辙",
-      "ja_JP": "引き返せない轍"
+      "ja_JP": "引き返せない轍",
+      "en_US": "One-way Tracks"
     },
     "code": "TG-ST2",
     "zone": "act16mini"
@@ -9765,7 +9771,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "狂奔的瓶树",
-      "ja_JP": "駆けるサカビンノキ"
+      "ja_JP": "駆けるサカビンノキ",
+      "en_US": "Running Bottletree"
     },
     "code": "TG-ST3",
     "zone": "act16mini"
@@ -9775,7 +9782,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "落定的锤子",
-      "ja_JP": "振り抜いたハンマー"
+      "ja_JP": "振り抜いたハンマー",
+      "en_US": "Hammer Down"
     },
     "code": "TG-ST4",
     "zone": "act16mini"
@@ -9785,7 +9793,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "咧嘴的矿井",
-      "ja_JP": "ニヤリと笑う坑道"
+      "ja_JP": "ニヤリと笑う坑道",
+      "en_US": "Grinning Mineshaft"
     },
     "code": "TG-ST5",
     "zone": "act16mini"
@@ -9806,7 +9815,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "被踩住的影子",
-      "ja_JP": "踏みつけられた影"
+      "ja_JP": "踏みつけられた影",
+      "en_US": "Stepped-on Shadow"
     },
     "code": "TG-ST6",
     "zone": "act16mini"
