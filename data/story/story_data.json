@@ -6455,6 +6455,33 @@
     "code": null,
     "zone": "rogue_3"
   },
+  "1533": {
+    "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_1_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "新生代的创想 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_4"
+  },
+  "1534": {
+    "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_1_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "新生代的创想 Part.02"
+    },
+    "code": null,
+    "zone": "rogue_4"
+  },
+  "1535": {
+    "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_1_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "新生代的创想 Part.03"
+    },
+    "code": null,
+    "zone": "rogue_4"
+  },
   "154": {
     "id": "obt/main/level_main_08-12_end",
     "type": "Main",
