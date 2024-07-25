@@ -6482,6 +6482,33 @@
     "code": null,
     "zone": "rogue_4"
   },
+  "1536": {
+    "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_2_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "带我进卡兹戴尔去 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_4"
+  },
+  "1537": {
+    "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_2_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "带我进卡兹戴尔去 Part.02"
+    },
+    "code": null,
+    "zone": "rogue_4"
+  },
+  "1538": {
+    "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_2_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "带我进卡兹戴尔去 Part.03"
+    },
+    "code": null,
+    "zone": "rogue_4"
+  },
   "154": {
     "id": "obt/main/level_main_08-12_end",
     "type": "Main",
