@@ -5303,7 +5303,8 @@
     "id": "obt/memory/story_shu_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "谓我何求"
+      "zh_CN": "谓我何求",
+      "ja_JP": "何が為に"
     },
     "code": null,
     "zone": "shu"
@@ -5312,7 +5313,8 @@
     "id": "obt/memory/story_qiubai_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "如冰碎雪融"
+      "zh_CN": "如冰碎雪融",
+      "ja_JP": "雪解けの如く"
     },
     "code": null,
     "zone": "qiubai"
@@ -5321,7 +5323,8 @@
     "id": "obt/memory/story_chimes_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "落叶何归"
+      "zh_CN": "落叶何归",
+      "ja_JP": "枯れ葉は何処に"
     },
     "code": null,
     "zone": "chimes"
@@ -5330,7 +5333,8 @@
     "id": "obt/memory/story_slchan_2_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "新的高峰"
+      "zh_CN": "新的高峰",
+      "ja_JP": "次なる頂へ"
     },
     "code": null,
     "zone": "slchan"
@@ -6367,7 +6371,8 @@
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_6_1",
     "type": "Rogue",
     "name": {
-      "zh_CN": "血脉 Part.01"
+      "zh_CN": "血脉 Part.01",
+      "ja_JP": "血脈 Part.01"
     },
     "code": null,
     "zone": "rogue_3"
@@ -6376,7 +6381,8 @@
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_6_2",
     "type": "Rogue",
     "name": {
-      "zh_CN": "血脉 Part.02"
+      "zh_CN": "血脉 Part.02",
+      "ja_JP": "血脈 Part.02"
     },
     "code": null,
     "zone": "rogue_3"
@@ -6385,7 +6391,8 @@
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_6_3",
     "type": "Rogue",
     "name": {
-      "zh_CN": "血脉 Part.03"
+      "zh_CN": "血脉 Part.03",
+      "ja_JP": "血脈 Part.03"
     },
     "code": null,
     "zone": "rogue_3"
@@ -6394,7 +6401,8 @@
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_7_1",
     "type": "Rogue",
     "name": {
-      "zh_CN": "使命 Part.01"
+      "zh_CN": "使命 Part.01",
+      "ja_JP": "使命 Part.01"
     },
     "code": null,
     "zone": "rogue_3"
@@ -6403,7 +6411,8 @@
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_7_2",
     "type": "Rogue",
     "name": {
-      "zh_CN": "使命 Part.02"
+      "zh_CN": "使命 Part.02",
+      "ja_JP": "使命 Part.02"
     },
     "code": null,
     "zone": "rogue_3"
@@ -6412,7 +6421,8 @@
     "id": "obt/rogue/rogue_3/monthrecord/month_record_rogue_3_7_3",
     "type": "Rogue",
     "name": {
-      "zh_CN": "使命 Part.03"
+      "zh_CN": "使命 Part.03",
+      "ja_JP": "使命 Part.03"
     },
     "code": null,
     "zone": "rogue_3"
@@ -9600,7 +9610,8 @@
     "id": "activities/act31side/level_act31side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "禾下梦"
+      "zh_CN": "禾下梦",
+      "ja_JP": "禾下の夢"
     },
     "code": "HS-ST-1",
     "zone": "act31side"
@@ -9609,7 +9620,8 @@
     "id": "activities/act31side/level_act31side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "赴大荒"
+      "zh_CN": "赴大荒",
+      "ja_JP": "大荒へ"
     },
     "code": "HS-1",
     "zone": "act31side"
@@ -9618,7 +9630,8 @@
     "id": "activities/act31side/level_act31side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "赴大荒"
+      "zh_CN": "赴大荒",
+      "ja_JP": "大荒へ"
     },
     "code": "HS-1",
     "zone": "act31side"
@@ -9627,7 +9640,8 @@
     "id": "activities/act31side/level_act31side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "祭神农"
+      "zh_CN": "祭神农",
+      "ja_JP": "神農祭"
     },
     "code": "HS-2",
     "zone": "act31side"
@@ -9636,7 +9650,8 @@
     "id": "activities/act31side/level_act31side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "祭神农"
+      "zh_CN": "祭神农",
+      "ja_JP": "神農祭"
     },
     "code": "HS-2",
     "zone": "act31side"
@@ -9656,7 +9671,8 @@
     "id": "activities/act31side/level_act31side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "早芒种"
+      "zh_CN": "早芒种",
+      "ja_JP": "早芒種"
     },
     "code": "HS-3",
     "zone": "act31side"
@@ -9665,7 +9681,8 @@
     "id": "activities/act31side/level_act31side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "早芒种"
+      "zh_CN": "早芒种",
+      "ja_JP": "早芒種"
     },
     "code": "HS-3",
     "zone": "act31side"
@@ -9674,7 +9691,8 @@
     "id": "activities/act31side/level_act31side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "话桑麻"
+      "zh_CN": "话桑麻",
+      "ja_JP": "桑麻の交"
     },
     "code": "HS-4",
     "zone": "act31side"
@@ -9683,7 +9701,8 @@
     "id": "activities/act31side/level_act31side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "话桑麻"
+      "zh_CN": "话桑麻",
+      "ja_JP": "桑麻の交"
     },
     "code": "HS-4",
     "zone": "act31side"
@@ -9692,7 +9711,8 @@
     "id": "activities/act31side/level_act31side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "纺绫罗"
+      "zh_CN": "纺绫罗",
+      "ja_JP": "綾羅紡ぎ"
     },
     "code": "HS-5",
     "zone": "act31side"
@@ -9701,7 +9721,8 @@
     "id": "activities/act31side/level_act31side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "纺绫罗"
+      "zh_CN": "纺绫罗",
+      "ja_JP": "綾羅紡ぎ"
     },
     "code": "HS-5",
     "zone": "act31side"
@@ -9710,7 +9731,8 @@
     "id": "activities/act31side/level_act31side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "织锦缎"
+      "zh_CN": "织锦缎",
+      "ja_JP": "錦織り"
     },
     "code": "HS-ST-2",
     "zone": "act31side"
@@ -9719,7 +9741,8 @@
     "id": "activities/act31side/level_act31side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "卷赤霞"
+      "zh_CN": "卷赤霞",
+      "ja_JP": "赤霞逆巻く"
     },
     "code": "HS-6",
     "zone": "act31side"
@@ -9728,7 +9751,8 @@
     "id": "activities/act31side/level_act31side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "梦四时"
+      "zh_CN": "梦四时",
+      "ja_JP": "四季を思う"
     },
     "code": "HS-7",
     "zone": "act31side"
@@ -9737,7 +9761,8 @@
     "id": "activities/act31side/level_act31side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "种因"
+      "zh_CN": "种因",
+      "ja_JP": "植因"
     },
     "code": "HS-8",
     "zone": "act31side"
@@ -9757,7 +9782,8 @@
     "id": "activities/act31side/level_act31side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "种因"
+      "zh_CN": "种因",
+      "ja_JP": "植因"
     },
     "code": "HS-8",
     "zone": "act31side"
@@ -9766,7 +9792,8 @@
     "id": "activities/act31side/level_act31side_09_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "得果"
+      "zh_CN": "得果",
+      "ja_JP": "得果"
     },
     "code": "HS-9",
     "zone": "act31side"
@@ -9775,7 +9802,8 @@
     "id": "activities/act31side/level_act31side_09_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "得果"
+      "zh_CN": "得果",
+      "ja_JP": "得果"
     },
     "code": "HS-9",
     "zone": "act31side"
@@ -9784,7 +9812,8 @@
     "id": "activities/act31side/level_act31side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "彻风雨"
+      "zh_CN": "彻风雨",
+      "ja_JP": "雨風の中で"
     },
     "code": "HS-ST-3",
     "zone": "act31side"
