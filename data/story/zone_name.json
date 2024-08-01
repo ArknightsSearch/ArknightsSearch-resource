@@ -218,6 +218,7 @@
     "zh_CN": "银心湖列车"
   },
   "act31side": {
+    "en_US": "Here A People Sows",
     "ja_JP": "懐黍離",
     "zh_CN": "怀黍离"
   },
@@ -229,6 +230,9 @@
   },
   "act34side": {
     "zh_CN": "生路"
+  },
+  "act35side": {
+    "zh_CN": "太阳甩在身后"
   },
   "act3d0": {
     "en_US": "Heart of Surging Flame",
@@ -295,6 +299,11 @@
     "en_US": "Angelina",
     "ja_JP": "アンジェリーナ",
     "zh_CN": "安洁莉娜"
+  },
+  "agoat2": {
+    "en_US": "Eyjafjalla the Hvít Aska",
+    "ja_JP": "純燼エイヤフィヤトラ",
+    "zh_CN": "纯烬艾雅法拉"
   },
   "akafyu": {
     "en_US": "Akafuyu",
@@ -496,6 +505,11 @@
     "en_US": "Virtuosa",
     "ja_JP": "ヴィルトゥオーサ",
     "zh_CN": "塑心"
+  },
+  "cement": {
+    "en_US": "Cement",
+    "ja_JP": "セメント",
+    "zh_CN": "洋灰"
   },
   "cerber": {
     "en_US": "Ceobe",
@@ -919,6 +933,9 @@
     "ja_JP": "クルース",
     "zh_CN": "克洛丝"
   },
+  "lasher": {
+    "zh_CN": "衡沙"
+  },
   "lava": {
     "en_US": "Lava",
     "ja_JP": "ラヴァ",
@@ -1130,6 +1147,11 @@
     "ja_JP": "モスティマ",
     "zh_CN": "莫斯提马"
   },
+  "mudrok": {
+    "en_US": "Mudrock",
+    "ja_JP": "マドロック",
+    "zh_CN": "泥岩"
+  },
   "myrrh": {
     "en_US": "Myrrh",
     "ja_JP": "ミルラ",
@@ -1255,6 +1277,11 @@
     "ja_JP": "プリン",
     "zh_CN": "布丁"
   },
+  "puzzle": {
+    "en_US": "Puzzle",
+    "ja_JP": "パズル",
+    "zh_CN": "谜图"
+  },
   "qanik": {
     "en_US": "Qanipalaat",
     "ja_JP": "カニパラート",
@@ -1352,6 +1379,7 @@
     "zh_CN": "流星"
   },
   "shu": {
+    "en_US": "Shu",
     "ja_JP": "シュウ",
     "zh_CN": "黍"
   },
