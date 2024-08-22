@@ -6836,6 +6836,33 @@
     "code": null,
     "zone": "rogue_4"
   },
+  "1565": {
+    "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_3_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "提前述职 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_4"
+  },
+  "1566": {
+    "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_3_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "提前述职 Part.02"
+    },
+    "code": null,
+    "zone": "rogue_4"
+  },
+  "1567": {
+    "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_3_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "提前述职 Part.03"
+    },
+    "code": null,
+    "zone": "rogue_4"
+  },
   "157": {
     "id": "obt/main/level_main_08-14_beg",
     "type": "Main",
