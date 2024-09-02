@@ -234,6 +234,9 @@
   "act35side": {
     "zh_CN": "太阳甩在身后"
   },
+  "act36side": {
+    "zh_CN": "泰拉饭"
+  },
   "act3d0": {
     "en_US": "Heart of Surging Flame",
     "ja_JP": "青く燃ゆる心",
@@ -415,6 +418,11 @@
     "en_US": "Bison",
     "ja_JP": "バイソン",
     "zh_CN": "拜松"
+  },
+  "blackd": {
+    "en_US": "Courier",
+    "ja_JP": "クーリエ",
+    "zh_CN": "讯使"
   },
   "bldsk": {
     "en_US": "Warfarin",
@@ -716,6 +724,11 @@
   },
   "fuze": {
     "zh_CN": "导火索"
+  },
+  "gdglow": {
+    "en_US": "Goldenglow",
+    "ja_JP": "ゴールデングロー",
+    "zh_CN": "澄闪"
   },
   "ghost": {
     "en_US": "Specter",
@@ -1116,6 +1129,9 @@
     "en_US": "Mint",
     "ja_JP": "ミント",
     "zh_CN": "薄绿"
+  },
+  "mitm": {
+    "zh_CN": "渡桥"
   },
   "mizuki": {
     "en_US": "Mizuki",
@@ -1632,5 +1648,10 @@
     "en_US": "Heavyrain",
     "ja_JP": "ヘビーレイン",
     "zh_CN": "暴雨"
+  },
+  "zumama": {
+    "en_US": "Eunectes",
+    "ja_JP": "ユーネクテス",
+    "zh_CN": "森蚺"
   }
 }
