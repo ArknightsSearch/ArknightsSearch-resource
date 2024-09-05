@@ -223,6 +223,7 @@
     "zh_CN": "怀黍离"
   },
   "act32side": {
+    "en_US": "Operation Lucent Arrowhead",
     "ja_JP": "OP:LA",
     "zh_CN": "水晶箭行动"
   },
@@ -626,6 +627,7 @@
     "zh_CN": "黑键"
   },
   "ela": {
+    "en_US": "Ela",
     "ja_JP": "Ela",
     "zh_CN": "艾拉"
   },
@@ -725,6 +727,7 @@
     "zh_CN": "霜叶"
   },
   "fuze": {
+    "en_US": "Fuze",
     "ja_JP": "Fuze",
     "zh_CN": "导火索"
   },
@@ -872,6 +875,7 @@
     "zh_CN": "休谟斯"
   },
   "iana": {
+    "en_US": "Iana",
     "ja_JP": "Iana",
     "zh_CN": "双月"
   },
@@ -1323,6 +1327,7 @@
     "zh_CN": "夏栎"
   },
   "rdoc": {
+    "en_US": "Doc",
     "ja_JP": "Doc",
     "zh_CN": "医生"
   },

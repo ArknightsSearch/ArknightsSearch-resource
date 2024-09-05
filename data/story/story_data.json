@@ -5788,7 +5788,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "团队坚盾",
-      "ja_JP": "チームの盾"
+      "ja_JP": "チームの盾",
+      "en_US": "The Team's Sturdy Shield"
     },
     "code": null,
     "zone": "blitz"
@@ -5798,7 +5799,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "寻乡",
-      "ja_JP": "故郷をたどって"
+      "ja_JP": "故郷をたどって",
+      "en_US": "Searching for Home"
     },
     "code": null,
     "zone": "rfrost"
@@ -5808,7 +5810,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "旅伴",
-      "ja_JP": "旅仲間"
+      "ja_JP": "旅仲間",
+      "en_US": "Traveling Companions"
     },
     "code": null,
     "zone": "ash"
@@ -5818,7 +5821,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "一如既往",
-      "ja_JP": "相も変わらず"
+      "ja_JP": "相も変わらず",
+      "en_US": "The Same As Always"
     },
     "code": null,
     "zone": "tachak"
@@ -5828,7 +5832,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "“宛如初见”",
-      "ja_JP": "「初めまして」"
+      "ja_JP": "「初めまして」",
+      "en_US": "'Like The First Time'"
     },
     "code": null,
     "zone": "ela"
@@ -5838,7 +5843,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "探求明天",
-      "ja_JP": "明日への探求"
+      "ja_JP": "明日への探求",
+      "en_US": "Searching for Tomorrow"
     },
     "code": null,
     "zone": "iana"
@@ -5848,7 +5854,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "梦醒时分",
-      "ja_JP": "夢から覚めた時"
+      "ja_JP": "夢から覚めた時",
+      "en_US": "Waking From A Dream"
     },
     "code": null,
     "zone": "fuze"
@@ -5858,7 +5865,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "模糊的面容",
-      "ja_JP": "朧げな面影"
+      "ja_JP": "朧げな面影",
+      "en_US": "Ambiguous Appearance"
     },
     "code": null,
     "zone": "rdoc"
@@ -6991,7 +6999,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "恒在 Part.01",
-      "ja_JP": "常在 Part.01"
+      "ja_JP": "常在 Part.01",
+      "en_US": "Symmetria Part.01"
     },
     "code": null,
     "zone": "rogue_3"
@@ -7001,7 +7010,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "恒在 Part.02",
-      "ja_JP": "常在 Part.02"
+      "ja_JP": "常在 Part.02",
+      "en_US": "Symmetria Part.02"
     },
     "code": null,
     "zone": "rogue_3"
@@ -7011,7 +7021,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "恒在 Part.03",
-      "ja_JP": "常在 Part.03"
+      "ja_JP": "常在 Part.03",
+      "en_US": "Symmetria Part.03"
     },
     "code": null,
     "zone": "rogue_3"
@@ -10320,7 +10331,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "特别参观通道",
-      "ja_JP": "特別鑑賞入場口"
+      "ja_JP": "特別鑑賞入場口",
+      "en_US": "Special Visitors' Channel"
     },
     "code": "CR-ST-1",
     "zone": "act32side"
@@ -10330,7 +10342,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "城市主题展",
-      "ja_JP": "近代都市テーマ展"
+      "ja_JP": "近代都市テーマ展",
+      "en_US": "City Exhibit"
     },
     "code": "CR-1",
     "zone": "act32side"
@@ -10340,7 +10353,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "城市主题展",
-      "ja_JP": "近代都市テーマ展"
+      "ja_JP": "近代都市テーマ展",
+      "en_US": "City Exhibit"
     },
     "code": "CR-1",
     "zone": "act32side"
@@ -10350,7 +10364,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "不对称庭园",
-      "ja_JP": "アシンメトリー庭園"
+      "ja_JP": "アシンメトリー庭園",
+      "en_US": "Asymmetrical Garden"
     },
     "code": "CR-2",
     "zone": "act32side"
@@ -10360,7 +10375,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "不对称庭园",
-      "ja_JP": "アシンメトリー庭園"
+      "ja_JP": "アシンメトリー庭園",
+      "en_US": "Asymmetrical Garden"
     },
     "code": "CR-2",
     "zone": "act32side"
@@ -10370,7 +10386,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "假面舞池",
-      "ja_JP": "仮面舞踏会"
+      "ja_JP": "仮面舞踏会",
+      "en_US": "Masquerade"
     },
     "code": "CR-3",
     "zone": "act32side"
@@ -10380,7 +10397,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "假面舞池",
-      "ja_JP": "仮面舞踏会"
+      "ja_JP": "仮面舞踏会",
+      "en_US": "Masquerade"
     },
     "code": "CR-3",
     "zone": "act32side"
@@ -10390,7 +10408,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "非传统艺术空间",
-      "ja_JP": "非伝統的芸術空間"
+      "ja_JP": "非伝統的芸術空間",
+      "en_US": "Non-Traditional Exhibit"
     },
     "code": "CR-4",
     "zone": "act32side"
@@ -10411,7 +10430,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "非传统艺术空间",
-      "ja_JP": "非伝統的芸術空間"
+      "ja_JP": "非伝統的芸術空間",
+      "en_US": "Non-Traditional Exhibit"
     },
     "code": "CR-4",
     "zone": "act32side"
@@ -10421,7 +10441,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "消防通道",
-      "ja_JP": "消防用通路"
+      "ja_JP": "消防用通路",
+      "en_US": "Fire Lane"
     },
     "code": "CR-5",
     "zone": "act32side"
@@ -10431,7 +10452,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "消防通道",
-      "ja_JP": "消防用通路"
+      "ja_JP": "消防用通路",
+      "en_US": "Fire Lane"
     },
     "code": "CR-5",
     "zone": "act32side"
@@ -10441,7 +10463,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "反艺术运动",
-      "ja_JP": "反芸術運動"
+      "ja_JP": "反芸術運動",
+      "en_US": "Anti-Art Movement"
     },
     "code": "CR-6",
     "zone": "act32side"
@@ -10451,7 +10474,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "反艺术运动",
-      "ja_JP": "反芸術運動"
+      "ja_JP": "反芸術運動",
+      "en_US": "Anti-Art Movement"
     },
     "code": "CR-6",
     "zone": "act32side"
@@ -10461,7 +10485,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "策展人会客厅",
-      "ja_JP": "キュレーターの応接室"
+      "ja_JP": "キュレーターの応接室",
+      "en_US": "Curator's Reception Room"
     },
     "code": "CR-ST-2",
     "zone": "act32side"
@@ -10471,7 +10496,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "安全出口",
-      "ja_JP": "非常口"
+      "ja_JP": "非常口",
+      "en_US": "Emergency Exit"
     },
     "code": "CR-7",
     "zone": "act32side"
@@ -10481,7 +10507,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "安全出口",
-      "ja_JP": "非常口"
+      "ja_JP": "非常口",
+      "en_US": "Emergency Exit"
     },
     "code": "CR-7",
     "zone": "act32side"
@@ -10491,7 +10518,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "一跃而下",
-      "ja_JP": "ダイビング"
+      "ja_JP": "ダイビング",
+      "en_US": "Leap of Faith"
     },
     "code": "CR-8",
     "zone": "act32side"
@@ -10501,7 +10529,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "一跃而下",
-      "ja_JP": "ダイビング"
+      "ja_JP": "ダイビング",
+      "en_US": "Leap of Faith"
     },
     "code": "CR-8",
     "zone": "act32side"
@@ -10522,7 +10551,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "艺术馆餐厅",
-      "ja_JP": "ギャラリーバル"
+      "ja_JP": "ギャラリーバル",
+      "en_US": "Museum Restaurant"
     },
     "code": "CR-ST-3",
     "zone": "act32side"
