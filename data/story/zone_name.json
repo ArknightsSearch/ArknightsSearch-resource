@@ -223,6 +223,7 @@
     "zh_CN": "怀黍离"
   },
   "act32side": {
+    "ja_JP": "OP:LA",
     "zh_CN": "水晶箭行动"
   },
   "act33side": {
@@ -625,6 +626,7 @@
     "zh_CN": "黑键"
   },
   "ela": {
+    "ja_JP": "Ela",
     "zh_CN": "艾拉"
   },
   "elysm": {
@@ -723,6 +725,7 @@
     "zh_CN": "霜叶"
   },
   "fuze": {
+    "ja_JP": "Fuze",
     "zh_CN": "导火索"
   },
   "gdglow": {
@@ -869,6 +872,7 @@
     "zh_CN": "休谟斯"
   },
   "iana": {
+    "ja_JP": "Iana",
     "zh_CN": "双月"
   },
   "ifrit": {
@@ -1319,6 +1323,7 @@
     "zh_CN": "夏栎"
   },
   "rdoc": {
+    "ja_JP": "Doc",
     "zh_CN": "医生"
   },
   "rfrost": {
