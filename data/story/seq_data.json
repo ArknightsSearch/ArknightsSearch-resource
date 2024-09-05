@@ -139,6 +139,7 @@
       "Feraligus",
       "Field Operator A",
       "Field Operator B",
+      "Grace",
       "Guard",
       "Guard Operator",
       "Guard Operator B",
@@ -3607,6 +3608,7 @@
     ],
     [
       "Ela",
+      "Ela?",
       "Ela？",
       "艾拉",
       "艾拉？"
@@ -3627,6 +3629,7 @@
     ],
     [
       "Doc",
+      "Doc?",
       "Doc？",
       "医生",
       "医生？"
@@ -4249,6 +4252,7 @@
     ],
     [
       "Ernesto",
+      "Tecno",
       "Tequila",
       "エルネスト",
       "テキーラ",
@@ -4405,6 +4409,9 @@
       "A Kazimierz Villager",
       "A Shopkeeper",
       "A Strange Passerby",
+      "Abel",
+      "Community Hawker",
+      "Community Resident",
       "Discouraged Worker",
       "Drunkard",
       "Edgar",
@@ -4414,6 +4421,7 @@
       "Irritable Infected",
       "Joyful Worker",
       "Neighbor A",
+      "Operating Crew",
       "Pondering Follower",
       "Spirited Worker",
       "Strong Townsfolk",
@@ -4489,12 +4497,14 @@
       "Angry Miner",
       "Angry Villager",
       "Charlie the Sproglet",
+      "Community Electrician",
       "Excited Infected",
       "Fast Food Joint Owner",
       "Gangster Messenger",
       "Infected Employee",
       "Infected Worker",
       "Kazimierz Ruffian",
+      "Lazy Community Resident",
       "Local Ruffian",
       "Luca",
       "Neighbor B",
@@ -4580,6 +4590,7 @@
       "A Grocery Store Owner",
       "An Infected Woman",
       "Enthusiastic Villager",
+      "Kazimierzian Girl",
       "Lana",
       "Little Girl",
       "Lydia",
@@ -5274,21 +5285,26 @@
       "Bodyguard A",
       "Bodyguard B",
       "Bodyguard C",
+      "Casino Dealer",
       "Charlie",
       "Cronin's Bodyguard",
       "Cronin's Henchman",
       "Event Security Detail",
+      "Galería Security Officer",
+      "Guard Defender A",
       "Investigator",
       "Mine Guard",
       "Organizing Committee Member",
       "Otti",
       "Party Security Detail",
       "Raythean Industries Security",
+      "Security",
       "Security Chief",
       "Security Guard B",
       "Ship Guard",
       "Staff",
       "Staff Worker",
+      "Warehouse Watchman",
       "Worker A",
       "“利齿帮”小弟",
       "オーティ",
@@ -5359,7 +5375,9 @@
       "Messenger",
       "Passerby A",
       "Shopkeeper B",
+      "Street Artist",
       "Tabloid Reporter",
+      "Tired Spectator",
       "くたびれた観客",
       "そそっかしい青年",
       "ゲーセン店員？",
@@ -5399,6 +5417,7 @@
     ],
     [
       "Audience Member B",
+      "Community Resident",
       "Customer B",
       "Female Tourist",
       "Female Tourist A",
@@ -5696,11 +5715,14 @@
       "Angry Lou Seoi Member",
       "Angry Man",
       "Block Manager?",
+      "Community Resident",
+      "Confused Community Resident",
       "Confused Fan",
       "Customer",
       "Doctor",
       "Drunk",
       "Embarrassed Man",
+      "Enthusiastic Spectator",
       "Excited Fan",
       "Excited Youth",
       "Hapless Man",
@@ -6119,6 +6141,7 @@
       "Armed Infected",
       "Beleaguered Mercenary",
       "Cheering Sarkaz Worker",
+      "Old Sarkaz Hunter",
       "Patrolling Sarkaz Soldier A",
       "Patrolling Sarkaz Soldier B",
       "Sarkaz Boiler Worker",
@@ -6476,6 +6499,7 @@
       "Helpless Father",
       "Inexperienced Clerk",
       "Leithanian Refugee",
+      "Leithanian Worker",
       "Mediocre Caster",
       "Militiaman",
       "Noble Attendant",
@@ -7156,6 +7180,7 @@
       "avg_npc_092"
     ],
     [
+      "Alsu",
       "Devout Follower",
       "Old Man",
       "おじいさん",
@@ -7172,11 +7197,14 @@
       "avg_npc_093"
     ],
     [
+      "Elderly Woman",
       "Grandmother",
       "Old Granny",
       "Old Lady",
       "Old Woman",
+      "Sani",
       "Ursus Civilian",
+      "Woman",
       "おばあさん",
       "おばあちゃま",
       "ウルサス市民",
@@ -7203,9 +7231,12 @@
       "avg_npc_094"
     ],
     [
+      "Alsu",
       "An Infected Refugee",
+      "Anwar",
       "Infected",
       "Timid Resident",
+      "Young Man",
       "アンワル",
       "安瓦尔",
       "小心者の住民",
@@ -7241,8 +7272,11 @@
     ],
     [
       "Bar Owner",
+      "Community Resident",
       "Instrument Shop Owner",
       "Male Instrument Shop Owner",
+      "Sneaky Siracusan Tourist.",
+      "Tourist",
       "コミュニティの住民",
       "バー店長",
       "乐器店男老板",
@@ -7295,6 +7329,7 @@
       "An Elder by the Roadside",
       "Cold Drinks Shop Owner",
       "Elderly Shopkeeper",
+      "Hawker",
       "アイス屋の店主",
       "アイス屋店主",
       "冷饮店店主",
@@ -7614,6 +7649,7 @@
     ],
     [
       "Anxious Man",
+      "Community Resident",
       "Furious Resident",
       "Unhappy-looking Resident",
       "コミュニティの住民",
@@ -8434,6 +8470,7 @@
       "avg_npc_1210_1"
     ],
     [
+      "Mateo",
       "マッテオ",
       "马特奥"
     ]
@@ -8443,6 +8480,7 @@
       "avg_npc_1211_1"
     ],
     [
+      "Reynell",
       "レイネル",
       "雷内尔"
     ]
@@ -8452,6 +8490,8 @@
       "avg_npc_1212_1"
     ],
     [
+      "Strangely-Dressed Durin",
+      "Tecno",
       "テクノ",
       "奇抜な格好のドゥリン人",
       "打扮夸张的杜林人",
@@ -8463,6 +8503,7 @@
       "avg_npc_1213_1"
     ],
     [
+      "Miłosz",
       "ミウォシュ",
       "米沃什"
     ]
@@ -8472,6 +8513,7 @@
       "avg_npc_1214_1"
     ],
     [
+      "Diaz",
       "ディアス",
       "迪亚兹"
     ]
@@ -8481,6 +8523,8 @@
       "avg_npc_1215_1"
     ],
     [
+      "Alert Community Guard",
+      "Community Guard",
       "コミュニティの見張り役",
       "专注的社区守卫",
       "真面目そうな見張り役",
@@ -8493,6 +8537,7 @@
       "avg_npc_1216_1"
     ],
     [
+      "Armed Soldier",
       "整装的军人",
       "正装の軍人"
     ]
@@ -8903,6 +8948,7 @@
       "avg_npc_1271_1"
     ],
     [
+      "Commanding Officer",
       "带队的军官",
       "隊長"
     ]
@@ -8912,6 +8958,21 @@
       "avg_npc_1272_1"
     ],
     [
+      "Alert Soldier",
+      "Bewildered Soldier",
+      "Cowardly Soldier",
+      "Fully-Armed Soldier",
+      "Grumbling Soldier",
+      "Gun-Wielding Soldier",
+      "Harsh Officer",
+      "Irate Soldier",
+      "Slacking Officer",
+      "Slacking Soldier",
+      "Slick Soldier",
+      "Spooked Soldier",
+      "Squad Leader",
+      "Tired Soldier",
+      "Worn-Out Soldier",
       "“利齿帮”头领",
       "くたびれた軍人",
       "サボっている士官",
@@ -8950,6 +9011,9 @@
       "avg_npc_1273_1"
     ],
     [
+      "Irate Soldier",
+      "Officer's Subordinate",
+      "Slacking Soldier",
       "サボっている軍人",
       "偷懒的军人",
       "军官的手下",
@@ -8963,6 +9027,7 @@
       "avg_npc_1274_1"
     ],
     [
+      "Operating Crew Director",
       "指挥人员",
       "現場監督"
     ]
@@ -10222,6 +10287,7 @@
       "Swept-Up Trader",
       "Swept-Up Trader?",
       "Vengeful Merchant",
+      "Villager",
       "だらしない兵士",
       "ボロを纏った人",
       "傲慢な商人",
@@ -10444,6 +10510,7 @@
     ],
     [
       "A Leithanian Nobleman",
+      "Adulating Collector",
       "Announcer",
       "Bank President",
       "Casino Boss",
@@ -10459,9 +10526,11 @@
       "Noble Gentleman",
       "Plump Merchant",
       "Pompous Merchant",
+      "Seasoned Investor",
       "Slimy Noble",
       "Theater Manager",
       "Tipsy Businessman",
+      "Tourist",
       "Victorian Count",
       "Victorian Magnate",
       "おしゃべりな商人",
@@ -10527,6 +10596,7 @@
       "Bishmer",
       "Butler",
       "Cowell",
+      "Eager Investor",
       "Extremely Serious Councilor",
       "Hughes",
       "Local Judge B",
@@ -10954,6 +11024,7 @@
       "Criminal",
       "Impatient Male Tourist",
       "Mysterious Person",
+      "Sly Stranger",
       "Startled Male Tourist",
       "Terrified Male Tourist",
       "Tourist",
@@ -10986,6 +11057,7 @@
     ],
     [
       "Excited Female Tourist",
+      "Excited Tourist",
       "Female Music-Loving Tourist",
       "Sluggish Female Tourist",
       "Startled Female Tourist",
@@ -11300,6 +11372,7 @@
       "A Protesting Knight",
       "A Spectating Knight B",
       "An Ingratiating Knight",
+      "Stalker",
       "ポップコーンを持っている騎士",
       "媚びへつらう騎士",
       "抗議する騎士",
@@ -11401,6 +11474,7 @@
       "Staff",
       "Staff Worker",
       "Travel-Stained Lawyer",
+      "Unremarkable Man",
       "カジミエーシュ代表",
       "カランド貿易職員",
       "クライアント代表",
@@ -11461,17 +11535,23 @@
       "A Commuting Worker",
       "A Corporate Employee",
       "A Corporate Employee A",
+      "Auction Host",
       "Bank Employee",
       "Bored Bank Employee",
       "Boy",
       "Branch Office Manager",
       "City Hall Staffer",
+      "Galería Staff Worker",
       "Government Official",
       "Indifferent Bank Employee",
       "Informant",
       "Knight Scout",
+      "Local Official",
+      "Man in Reporter Garb",
       "Mid-level Manager",
+      "Newbie Investor",
       "Professor's Assistant",
+      "Rafał",
       "Red Wine Intern Journalist",
       "Researcher",
       "Retained Lawyer",
@@ -11696,6 +11776,7 @@
       "Jurian",
       "Knight",
       "Naughty Child",
+      "Small Child",
       "Victorian Boy",
       "ひもじい屋台の店主",
       "やんちゃな子供",
@@ -11786,6 +11867,8 @@
       "Bent",
       "Busy Youth",
       "Chef MacMartin",
+      "Community Resident",
+      "Confused Resident",
       "Cruise Jr.",
       "Embittered Man",
       "Excited Taran Refugee",
@@ -13155,6 +13238,7 @@
       "Joyous Lateran Citizen",
       "Laid-Back Passerby",
       "Not-So-Candid Stall Owner",
+      "Sankta Passerby",
       "Sedate Lateran Citizen",
       "Spirited Lateran",
       "Still-Trying-to-be-Candid Stall Owner",
@@ -13670,6 +13754,7 @@
       "avg_npc_416_1"
     ],
     [
+      "Astonished Resident",
       "Desperate Thug",
       "Dublinn Messenger",
       "Frightened Refugee",
@@ -14181,6 +14266,7 @@
     ],
     [
       "Calm Townsperson",
+      "Restorationist",
       "Terrified Villager",
       "修复师",
       "修復師",
@@ -14356,11 +14442,13 @@
     [
       "Aloof Noble",
       "Cowardly Noble",
+      "Destitute Noble",
       "Devlin",
       "Frivolous Noble",
       "Graf Saxon",
       "Louis",
       "Pretentious Noble",
+      "Solemn Man",
       "Young Noble",
       "サクソン伯爵",
       "デヴリン",
@@ -14390,9 +14478,12 @@
       "avg_npc_493_1"
     ],
     [
+      "Berman",
       "Blanche",
       "Calm Noble",
       "Fretful Noble",
+      "Haggard Noble",
+      "Haughty Broker",
       "Leithanian Noble",
       "Musician",
       "Nitpicking Critic",
@@ -14455,11 +14546,13 @@
     [
       "Attendant",
       "Despondent Infected",
+      "Excited Leithanian Tourist",
       "Mannered Infected",
       "Meddlesome Infected",
       "Nervous Musician",
       "Noble Attendant",
       "Onlooking Passerby A",
+      "Townsfolk",
       "おどおどする演奏家",
       "侍从",
       "兴奋的莱塔尼亚旅客",
@@ -14515,6 +14608,7 @@
       "avg_npc_498_1"
     ],
     [
+      "Community Artist",
       "Daddy",
       "Dispirited Infected",
       "Drunken Infected",
@@ -14569,8 +14663,10 @@
       "avg_npc_499_1"
     ],
     [
+      "Community Musician",
       "Excited Afterglow Resident",
       "Frau Perry",
+      "Happy Leithanian Tourist",
       "Leithanian Woman",
       "Miss Bachmann",
       "Mummy",
@@ -14652,6 +14748,7 @@
       "Driver",
       "Drunkard",
       "Frivolous Columbian",
+      "Humble Secretary",
       "Millais",
       "Morgue Worker",
       "Police Officer",
@@ -15191,6 +15288,7 @@
       "Stubborn Durin",
       "Thrilled Durin",
       "Topsy-Turvy Durin",
+      "Young Durin",
       "しつこいドゥリン",
       "のんびりしたドゥリン",
       "ひどく酔ったドゥリン人",
@@ -15227,6 +15325,7 @@
       "Absent-Minded Durin",
       "Cool-Headed Durin",
       "Courteous Durin",
+      "Elderly Durin",
       "Enthusiastic Durin",
       "Excited Durin",
       "Imaginative Durin",
@@ -15344,6 +15443,7 @@
       "Impoverished Young Man",
       "Layton's Henchman",
       "Muscular Man",
+      "Suspicious Siracusan Tourist",
       "スラム街の青年",
       "リントンの腹心",
       "可疑的叙拉古游客",
@@ -15866,6 +15966,7 @@
     ],
     [
       "Calm Technician",
+      "Community Resident",
       "Court Clerk",
       "Rossati Mafioso",
       "Town 'Judge'",
@@ -17398,6 +17499,7 @@
       "avg_npc_972_1"
     ],
     [
+      "Fallon",
       "Flustered HR Operator",
       "HR Operator",
       "Human Resources Operator",
