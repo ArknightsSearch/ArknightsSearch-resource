@@ -7119,6 +7119,24 @@
     "code": null,
     "zone": "rogue_4"
   },
+  "1588": {
+    "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_4_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "非调谐回响的诗 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_4"
+  },
+  "1589": {
+    "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_4_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "非调谐回响的诗 Part.02"
+    },
+    "code": null,
+    "zone": "rogue_4"
+  },
   "159": {
     "id": "obt/main/level_main_08-15_beg",
     "type": "Main",
@@ -7129,6 +7147,15 @@
     },
     "code": "JT8-1",
     "zone": "main_8"
+  },
+  "1590": {
+    "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_4_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "非调谐回响的诗 Part.03"
+    },
+    "code": null,
+    "zone": "rogue_4"
   },
   "16": {
     "id": "obt/main/level_main_01-03_end",
