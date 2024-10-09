@@ -9,6 +9,11 @@
     "ja_JP": "騎兵と狩人",
     "zh_CN": "骑兵与猎人"
   },
+  "absin": {
+    "en_US": "Absinthe",
+    "ja_JP": "アブサント",
+    "zh_CN": "苦艾"
+  },
   "acdrop": {
     "en_US": "Aciddrop",
     "ja_JP": "アシッドドロップ",
@@ -239,6 +244,9 @@
   "act36side": {
     "zh_CN": "泰拉饭"
   },
+  "act37side": {
+    "zh_CN": "追迹日落以西"
+  },
   "act3d0": {
     "en_US": "Heart of Surging Flame",
     "ja_JP": "青く燃ゆる心",
@@ -390,6 +398,11 @@
     "en_US": "Ayerscarpe",
     "ja_JP": "エアースカーペ",
     "zh_CN": "断崖"
+  },
+  "baslin": {
+    "en_US": "Bassline",
+    "ja_JP": "ベースライン",
+    "zh_CN": "深律"
   },
   "beewax": {
     "en_US": "Beeswax",
@@ -904,6 +917,11 @@
     "ja_JP": "アイリス",
     "zh_CN": "爱丽丝"
   },
+  "ironmn": {
+    "en_US": "Stainless",
+    "ja_JP": "ステインレス",
+    "zh_CN": "白铁"
+  },
   "jaksel": {
     "en_US": "Jackie",
     "ja_JP": "ジャッキー",
@@ -1235,6 +1253,9 @@
     "en_US": "FEater",
     "ja_JP": "エフイーター",
     "zh_CN": "食铁兽"
+  },
+  "papyrs": {
+    "zh_CN": "莎草"
   },
   "peper": {
     "en_US": "Paprika",
