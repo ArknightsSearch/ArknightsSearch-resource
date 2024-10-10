@@ -3493,6 +3493,7 @@
       "avg_4107_vrdant_1"
     ],
     [
+      "Verdant",
       "ヴァーダント",
       "维荻"
     ]
@@ -3666,6 +3667,7 @@
       "avg_4131_odda_1"
     ],
     [
+      "Odda",
       "オッダ",
       "奥达"
     ]
@@ -3675,6 +3677,7 @@
       "avg_4132_ascln_1"
     ],
     [
+      "Ascalon",
       "アスカロン",
       "阿斯卡纶"
     ]
@@ -5405,8 +5408,10 @@
       "Passerby A",
       "Shopkeeper B",
       "Street Artist",
+      "Surprised Man",
       "Tabloid Reporter",
       "Tired Spectator",
+      "Tucker",
       "くたびれた観客",
       "そそっかしい青年",
       "ゲーセン店員？",
@@ -5583,6 +5588,7 @@
       "Mafioso",
       "Mafioso A",
       "Mafioso B",
+      "Mafioso F",
       "Man in Black",
       "Pensive Hitman",
       "Rossati Mafioso",
@@ -6093,6 +6099,7 @@
       "avg_npc_046"
     ],
     [
+      "Ines & W",
       "W",
       "イネス＆W",
       "伊内丝&W"
@@ -6174,6 +6181,10 @@
       "Armed Infected",
       "Beleaguered Mercenary",
       "Cheering Sarkaz Worker",
+      "Cold Mercenary",
+      "Dour Mercenary",
+      "Dying Mercenary",
+      "Excited Mercenary",
       "Old Sarkaz Hunter",
       "Patrolling Sarkaz Soldier A",
       "Patrolling Sarkaz Soldier B",
@@ -6185,11 +6196,14 @@
       "Sarkaz Soldier",
       "Sarkaz Supervisor",
       "Sarkaz Teacher",
+      "Sarkaz Traitor",
       "Sarkaz Warrior",
       "Sarkaz Warrior?",
       "Sarkaz Youth",
       "Slyly Smiling Sarkaz Worker",
+      "Snappy Civilian",
       "Tired Sarkaz Worker",
+      "Wounded Mercenary",
       "Young Sarkaz Warrior",
       "くたびれた傭兵",
       "サルカズボイラーマン",
@@ -6584,6 +6598,7 @@
     [
       "Anxious Mother",
       "Girl",
+      "Newly-Arrived Medic",
       "Noble Attendant",
       "Tatjana",
       "タチヤナ",
@@ -6611,6 +6626,7 @@
       "Aruna",
       "Clan Leader B",
       "Coin Dealer",
+      "Courageous Archosauria",
       "Fighting Villager",
       "Groaning Archosauria",
       "Happy Archosauria",
@@ -6673,6 +6689,7 @@
       "Archosauria Warrior",
       "Clan Leader A",
       "Crying Villager",
+      "Curious Archosauria",
       "Excited Archosauria",
       "Furious Archosauria",
       "Injured Villager",
@@ -7913,6 +7930,7 @@
     ],
     [
       "Banshee",
+      "Laqeramaline",
       "バンシー",
       "ラケラマリン",
       "女妖",
@@ -7995,6 +8013,8 @@
     [
       "Cranky Old Man",
       "Fremont",
+      "Laqeramaline",
+      "Theresa",
       "テレジア",
       "フレモント",
       "ラケラマリン",
@@ -8271,6 +8291,7 @@
       "avg_npc_1134_1"
     ],
     [
+      "Courier",
       "Gendarmerie",
       "Gendarmerie A",
       "伝令官",
@@ -8376,6 +8397,7 @@
       "avg_npc_1163_1"
     ],
     [
+      "Burdenbeast",
       "Feisty Burdenbeast",
       "Lily",
       "Wild Burdenbeast",
@@ -8460,6 +8482,7 @@
     ],
     [
       "Sandbeast",
+      "Young Sandbeast",
       "サンドビースト",
       "幼いサンドビースト",
       "幼小的沙地兽",
@@ -8479,6 +8502,7 @@
       "avg_npc_1190_1"
     ],
     [
+      "Massive Sandbeast",
       "巨大なサンドビースト",
       "巨大的沙地兽"
     ]
@@ -8959,6 +8983,7 @@
       "avg_npc_1253_1"
     ],
     [
+      "Gunsmith",
       "銃の修理技師",
       "铳械维修师"
     ]
@@ -9103,6 +9128,7 @@
       "avg_npc_1294_1"
     ],
     [
+      "Scareye",
       "“疤眼”",
       "「スカーアイ」"
     ]
@@ -9112,6 +9138,8 @@
       "avg_npc_1295_1"
     ],
     [
+      "'Amiya'",
+      "Amiya",
       "“阿米娅”",
       "「アーミヤ」",
       "アーミヤ",
@@ -9123,6 +9151,7 @@
       "avg_npc_1296_1"
     ],
     [
+      "Theresa",
       "テレジア",
       "特蕾西娅"
     ]
@@ -9132,6 +9161,7 @@
       "avg_npc_1297_1"
     ],
     [
+      "Theresis",
       "テレシス",
       "特雷西斯"
     ]
@@ -9141,6 +9171,8 @@
       "avg_npc_1299_1"
     ],
     [
+      "Assassin",
+      "Julie",
       "ジュリー",
       "刺杀者",
       "尤莉叶",
@@ -9170,6 +9202,7 @@
       "avg_npc_1301_1"
     ],
     [
+      "Ascalon",
       "アスカロン",
       "阿斯卡纶"
     ]
@@ -9179,6 +9212,9 @@
       "avg_npc_1302_1"
     ],
     [
+      "Brave Boy",
+      "Brave Child",
+      "Manfred",
       "マンフレッド",
       "勇敢な少年",
       "勇敢的孩子",
@@ -9190,6 +9226,9 @@
       "avg_npc_1303_1"
     ],
     [
+      "Lost Child",
+      "Odda",
+      "Sleepy Child",
       "オッダ",
       "奥达",
       "混乱する子供",
@@ -9201,6 +9240,8 @@
       "avg_npc_1304_1"
     ],
     [
+      "Pensive Child",
+      "Young Banshee",
       "年轻的女妖",
       "沉思的孩子",
       "考え込む子供",
@@ -9212,6 +9253,8 @@
       "avg_npc_1305_1"
     ],
     [
+      "Goodluck",
+      "Timid Slave",
       "おびえる奴隷",
       "グッドラック",
       "好运",
@@ -9223,6 +9266,9 @@
       "avg_npc_1306_1"
     ],
     [
+      "Babel Assassin",
+      "Mysterious Mercenary",
+      "Slave Trader",
       "バベル刺客",
       "奴隶商人",
       "奴隷商人",
@@ -9237,6 +9283,9 @@
       "avg_npc_1307_1"
     ],
     [
+      "Cautious Assassin",
+      "Determined Assassin",
+      "Name-Forsaken Sacrificer",
       "决然的刺客",
       "名を捨てた死士",
       "弃名死士",
@@ -9254,6 +9303,8 @@
       "avg_npc_1308_1"
     ],
     [
+      "'Teacher'",
+      "Babel Member",
       "“老师”",
       "「教師」",
       "バベルメンバー",
@@ -9530,6 +9581,8 @@
       "avg_npc_1360_1"
     ],
     [
+      "Doctor",
+      "Oracle",
       "オラクル",
       "ドクター",
       "博士",
@@ -9541,6 +9594,7 @@
       "avg_npc_1361_1"
     ],
     [
+      "Field Soldier",
       "外勤战士",
       "外勤戦士"
     ]
@@ -9550,6 +9604,7 @@
       "avg_npc_1362_1"
     ],
     [
+      "Medic",
       "医疗成员",
       "医療メンバー",
       "巴别塔成员"
@@ -11018,6 +11073,7 @@
       "Casino Hotshot",
       "Casino Worker",
       "Criminal",
+      "Flustered Mobber",
       "Tourist A?",
       "Tulio",
       "カジノの下っ端",
@@ -11044,6 +11100,7 @@
     [
       "Ambush B",
       "Boil Brawler",
+      "Composed Mobber",
       "Loud-Mouthed Man",
       "Tourist B?",
       "ボイル区の暴徒",
@@ -12773,6 +12830,7 @@
       "Armed Subject",
       "Bodyguard",
       "Browntail Clan Warrior C",
+      "Kjerag Hunter",
       "Kjerag Warrior B",
       "Kjerag Warrior?",
       "Kjerag Warriors",
@@ -13390,6 +13448,7 @@
       "Composed Lateran Citizen",
       "Conscientious Doctor",
       "Executor-in-Training",
+      "Friendly Lateran",
       "Joyous Lateran Citizen",
       "Laid-Back Passerby",
       "Not-So-Candid Stall Owner",
@@ -13469,6 +13528,8 @@
       "Notarial Hall Executor",
       "Notarial Hall Official",
       "Relaxed Lateran Citizen",
+      "Reserved Lateran",
+      "Sankta Customer",
       "Troubled Lateran Citizen",
       "おしゃべりな看護師",
       "おとなしめのラテラーノ人",
@@ -13524,6 +13585,7 @@
       "avg_npc_370_1"
     ],
     [
+      "Lateran Cleric",
       "Stoic Sister",
       "ラテラーノ修道士",
       "冷静な修道士",
@@ -13737,6 +13799,7 @@
       "avg_npc_404_1"
     ],
     [
+      "Ascalon",
       "Manfred",
       "アスカロン",
       "マンフレッド",
@@ -13841,6 +13904,7 @@
       "avg_npc_410_1"
     ],
     [
+      "Duq'arael",
       "Sanguinarch of Vampires",
       "Young Vampire?",
       "ドゥカレ",
@@ -13984,6 +14048,7 @@
       "Angry Thug",
       "Calm Thug",
       "Cheering Civilian",
+      "Farmer",
       "Gali",
       "Hairdresser",
       "Londinium Citizen",
@@ -14026,6 +14091,7 @@
       "Catastrophe Messenger?",
       "Earl's Attendant",
       "Fleeing Londinier",
+      "Florist",
       "Haggard Woman",
       "Ivy",
       "Lanky Inventor",
@@ -14067,11 +14133,19 @@
       "avg_npc_419_1"
     ],
     [
+      "Composed Soldier",
+      "Grim Royal Court Soldier",
+      "Indifferent Royal Court Soldier",
+      "Injured Soldier",
+      "Military Commission Guard",
+      "Panicked Royal Court Soldier",
       "Royal Court Junior Officer",
       "Royal Court Soldier",
+      "Sarkaz Royal Court Soldier",
       "Sarkaz Soldier",
       "Sarkaz Warrior",
       "Spine Guardian",
+      "Tired Royal Court Soldier",
       "サルカズ兵士",
       "サルカズ戦士",
       "サルカズ王庭軍",
@@ -14114,6 +14188,7 @@
     ],
     [
       "Nachzehrer King",
+      "Nezzsalem",
       "Peculiar-looking Elder",
       "ナハツェーラーの王",
       "ネツァレム",
@@ -14650,6 +14725,7 @@
       "Frivolous Noble",
       "Graf Saxon",
       "Louis",
+      "Nervous Envoy",
       "Pretentious Noble",
       "Solemn Man",
       "Young Noble",
@@ -14682,6 +14758,7 @@
       "avg_npc_493_1"
     ],
     [
+      "Amiable Official",
       "Berman",
       "Blanche",
       "Calm Noble",
@@ -14750,6 +14827,7 @@
     ],
     [
       "Attendant",
+      "Babel Member",
       "Despondent Infected",
       "Excited Leithanian Tourist",
       "Mannered Infected",
@@ -14869,7 +14947,9 @@
       "avg_npc_499_1"
     ],
     [
+      "Babel Doctor",
       "Community Musician",
+      "Dejected Babel Member",
       "Excited Afterglow Resident",
       "Frau Perry",
       "Happy Leithanian Tourist",
@@ -15232,6 +15312,7 @@
       "Pioneer",
       "Pioneer Team Member",
       "Rhine Lab Task Force Messenger",
+      "Weary Pioneer",
       "トランスポーター",
       "一般市民？",
       "参加者B",
@@ -16164,6 +16245,7 @@
     ],
     [
       "Clerk",
+      "Driver",
       "Mauro, Infected Citizen",
       "Onsite Staff",
       "Terrified Waiter",
@@ -16185,6 +16267,7 @@
     ],
     [
       "Calm Technician",
+      "Clerk Teresa",
       "Community Resident",
       "Court Clerk",
       "Rossati Mafioso",
@@ -16219,6 +16302,7 @@
       "Layton",
       "Loyal Mafioso",
       "Mafioso",
+      "Mafioso G",
       "Radical Mafioso",
       "Saluzzo Guard",
       "Saluzzo Mafioso",
@@ -16286,6 +16370,7 @@
       "avg_npc_700_1"
     ],
     [
+      "Luna",
       "Rubio's Daughter",
       "Thin Girl",
       "ルナ",
@@ -17398,6 +17483,11 @@
       "Angry Sarkaz",
       "Astute Sarkaz",
       "Cautious Sarkaz Inhabitant",
+      "Dying Infected",
+      "Impatient Civilian",
+      "Indifferent Civilian",
+      "Parker",
+      "Sarkaz Civilian",
       "Sarkaz Mercenary",
       "“老财”",
       "「資産家」",
@@ -17436,6 +17526,8 @@
       "avg_npc_933_1"
     ],
     [
+      "Brooding Sarkaz",
+      "Cautious Civilian",
       "Fernand",
       "Hot-Headed Sarkaz",
       "Sarkaz Drifter",
@@ -17458,7 +17550,9 @@
       "avg_npc_934_1"
     ],
     [
+      "Angry Civilian",
       "Concerned Sarkaz",
+      "Excited Sarkaz",
       "Frightened Sarkaz",
       "Monastery Inhabitant",
       "Sarkaz Hunter",
@@ -17488,7 +17582,11 @@
     [
       "'Driver'",
       "Caroline",
+      "Indifferent Woman",
+      "Sarkaz Civilian",
       "Sarkaz Resident",
+      "Scornful Civilian",
+      "Wary Civilian",
       "Weary Sarkaz",
       "“司机”",
       "「運転手」",
@@ -17719,6 +17817,7 @@
     [
       "Engineering Department Intern Operator",
       "Engineering Operator",
+      "Measuring Cup",
       "エンジニアオペレーター",
       "エンジニア部実習オペレーター",
       "メジャーカップ",
@@ -17770,6 +17869,7 @@
       "avg_npc_973_1"
     ],
     [
+      "HR Operator",
       "Intern Operator",
       "Logistics Operator",
       "Records Room Operator",
