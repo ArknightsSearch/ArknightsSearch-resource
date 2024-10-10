@@ -6104,7 +6104,8 @@
     "id": "obt/memory/story_judge_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "为你撑伞"
+      "zh_CN": "为你撑伞",
+      "ja_JP": "あなたに傘を"
     },
     "code": null,
     "zone": "judge"
@@ -6135,7 +6136,8 @@
     "id": "obt/memory/story_spuria_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "铳声回响"
+      "zh_CN": "铳声回响",
+      "ja_JP": "反響する銃声"
     },
     "code": null,
     "zone": "spuria"
@@ -6144,7 +6146,8 @@
     "id": "obt/memory/story_lunacu_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "与人共舞"
+      "zh_CN": "与人共舞",
+      "ja_JP": "人と共に舞う"
     },
     "code": null,
     "zone": "lunacu"
@@ -6153,7 +6156,8 @@
     "id": "obt/memory/story_vrdant_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "小草的呼喊"
+      "zh_CN": "小草的呼喊",
+      "ja_JP": "草木の叫び"
     },
     "code": null,
     "zone": "vrdant"
@@ -10535,7 +10539,8 @@
     "id": "activities/act33side/level_act33side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "未完成的告别"
+      "zh_CN": "未完成的告别",
+      "ja_JP": "未完の別れ"
     },
     "code": "BB-ST-1",
     "zone": "act33side"
@@ -10544,7 +10549,8 @@
     "id": "activities/act33side/level_act33side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "宏伟愿景"
+      "zh_CN": "宏伟愿景",
+      "ja_JP": "壮大な未来図"
     },
     "code": "BB-1",
     "zone": "act33side"
@@ -10553,7 +10559,8 @@
     "id": "activities/act33side/level_act33side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "宏伟愿景"
+      "zh_CN": "宏伟愿景",
+      "ja_JP": "壮大な未来図"
     },
     "code": "BB-1",
     "zone": "act33side"
@@ -10562,7 +10569,8 @@
     "id": "activities/act33side/level_act33side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "命途何在"
+      "zh_CN": "命途何在",
+      "ja_JP": "運命は何処"
     },
     "code": "BB-2",
     "zone": "act33side"
@@ -10582,7 +10590,8 @@
     "id": "activities/act33side/level_act33side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "命途何在"
+      "zh_CN": "命途何在",
+      "ja_JP": "運命は何処"
     },
     "code": "BB-2",
     "zone": "act33side"
@@ -10591,7 +10600,8 @@
     "id": "activities/act33side/level_act33side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "无声破裂"
+      "zh_CN": "无声破裂",
+      "ja_JP": "静かなる決別"
     },
     "code": "BB-3",
     "zone": "act33side"
@@ -10600,7 +10610,8 @@
     "id": "activities/act33side/level_act33side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "无声破裂"
+      "zh_CN": "无声破裂",
+      "ja_JP": "静かなる決別"
     },
     "code": "BB-3",
     "zone": "act33side"
@@ -10609,7 +10620,8 @@
     "id": "activities/act33side/level_act33side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "在疲惫中苏醒"
+      "zh_CN": "在疲惫中苏醒",
+      "ja_JP": "気怠い覚醒"
     },
     "code": "BB-ST-2",
     "zone": "act33side"
@@ -10618,7 +10630,8 @@
     "id": "activities/act33side/level_act33side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "悠长的旅途"
+      "zh_CN": "悠长的旅途",
+      "ja_JP": "長き旅路"
     },
     "code": "BB-4",
     "zone": "act33side"
@@ -10627,7 +10640,8 @@
     "id": "activities/act33side/level_act33side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "悠长的旅途"
+      "zh_CN": "悠长的旅途",
+      "ja_JP": "長き旅路"
     },
     "code": "BB-4",
     "zone": "act33side"
@@ -10636,7 +10650,8 @@
     "id": "activities/act33side/level_act33side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "激变烽烟"
+      "zh_CN": "激变烽烟",
+      "ja_JP": "激変する烽煙"
     },
     "code": "BB-5",
     "zone": "act33side"
@@ -10645,7 +10660,8 @@
     "id": "activities/act33side/level_act33side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "激变烽烟"
+      "zh_CN": "激变烽烟",
+      "ja_JP": "激変する烽煙"
     },
     "code": "BB-5",
     "zone": "act33side"
@@ -10654,7 +10670,8 @@
     "id": "activities/act33side/level_act33side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "灯火闪烁不定"
+      "zh_CN": "灯火闪烁不定",
+      "ja_JP": "明滅する灯火"
     },
     "code": "BB-6",
     "zone": "act33side"
@@ -10663,7 +10680,8 @@
     "id": "activities/act33side/level_act33side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "灯火闪烁不定"
+      "zh_CN": "灯火闪烁不定",
+      "ja_JP": "明滅する灯火"
     },
     "code": "BB-6",
     "zone": "act33side"
@@ -10683,7 +10701,8 @@
     "id": "activities/act33side/level_act33side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "阴影显现"
+      "zh_CN": "阴影显现",
+      "ja_JP": "顕現せし影"
     },
     "code": "BB-7",
     "zone": "act33side"
@@ -10692,7 +10711,8 @@
     "id": "activities/act33side/level_act33side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "阴影显现"
+      "zh_CN": "阴影显现",
+      "ja_JP": "顕現せし影"
     },
     "code": "BB-7",
     "zone": "act33side"
@@ -10701,7 +10721,8 @@
     "id": "activities/act33side/level_act33side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "终局倒计时"
+      "zh_CN": "终局倒计时",
+      "ja_JP": "結末へのカウントダウン"
     },
     "code": "BB-8",
     "zone": "act33side"
@@ -10710,7 +10731,8 @@
     "id": "activities/act33side/level_act33side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "终局倒计时"
+      "zh_CN": "终局倒计时",
+      "ja_JP": "結末へのカウントダウン"
     },
     "code": "BB-8",
     "zone": "act33side"
@@ -10719,7 +10741,8 @@
     "id": "activities/act33side/level_act33side_09_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "尘埃落定"
+      "zh_CN": "尘埃落定",
+      "ja_JP": "物語の結末"
     },
     "code": "BB-9",
     "zone": "act33side"
@@ -10728,7 +10751,8 @@
     "id": "activities/act33side/level_act33side_09_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "尘埃落定"
+      "zh_CN": "尘埃落定",
+      "ja_JP": "物語の結末"
     },
     "code": "BB-9",
     "zone": "act33side"
@@ -10737,7 +10761,8 @@
     "id": "activities/act33side/level_act33side_10_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "再见，再见"
+      "zh_CN": "再见，再见",
+      "ja_JP": "さようなら、さようなら"
     },
     "code": "BB-10",
     "zone": "act33side"
@@ -10746,7 +10771,8 @@
     "id": "activities/act33side/level_act33side_10_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "再见，再见"
+      "zh_CN": "再见，再见",
+      "ja_JP": "さようなら、さようなら"
     },
     "code": "BB-10",
     "zone": "act33side"
@@ -10755,7 +10781,8 @@
     "id": "activities/act33side/level_act33side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "灵魂尽头"
+      "zh_CN": "灵魂尽头",
+      "ja_JP": "魂の行く果て"
     },
     "code": "BB-ST-3",
     "zone": "act33side"
