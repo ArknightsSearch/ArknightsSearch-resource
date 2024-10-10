@@ -6105,7 +6105,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "为你撑伞",
-      "ja_JP": "あなたに傘を"
+      "ja_JP": "あなたに傘を",
+      "en_US": "Under My Umbrella"
     },
     "code": null,
     "zone": "judge"
@@ -6137,7 +6138,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "铳声回响",
-      "ja_JP": "反響する銃声"
+      "ja_JP": "反響する銃声",
+      "en_US": "A Gunshot Rings Out"
     },
     "code": null,
     "zone": "spuria"
@@ -6147,7 +6149,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "与人共舞",
-      "ja_JP": "人と共に舞う"
+      "ja_JP": "人と共に舞う",
+      "en_US": "To Dance With Somebody"
     },
     "code": null,
     "zone": "lunacu"
@@ -6157,7 +6160,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "小草的呼喊",
-      "ja_JP": "草木の叫び"
+      "ja_JP": "草木の叫び",
+      "en_US": "Little Tuft, Where Art Thou?"
     },
     "code": null,
     "zone": "vrdant"
@@ -10540,7 +10544,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "未完成的告别",
-      "ja_JP": "未完の別れ"
+      "ja_JP": "未完の別れ",
+      "en_US": "Unfinished Goodbye"
     },
     "code": "BB-ST-1",
     "zone": "act33side"
@@ -10550,7 +10555,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "宏伟愿景",
-      "ja_JP": "壮大な未来図"
+      "ja_JP": "壮大な未来図",
+      "en_US": "Great Aspirations"
     },
     "code": "BB-1",
     "zone": "act33side"
@@ -10560,7 +10566,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "宏伟愿景",
-      "ja_JP": "壮大な未来図"
+      "ja_JP": "壮大な未来図",
+      "en_US": "Great Aspirations"
     },
     "code": "BB-1",
     "zone": "act33side"
@@ -10570,7 +10577,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "命途何在",
-      "ja_JP": "運命は何処"
+      "ja_JP": "運命は何処",
+      "en_US": "Where Fate Guides"
     },
     "code": "BB-2",
     "zone": "act33side"
@@ -10591,7 +10599,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "命途何在",
-      "ja_JP": "運命は何処"
+      "ja_JP": "運命は何処",
+      "en_US": "Where Fate Guides"
     },
     "code": "BB-2",
     "zone": "act33side"
@@ -10601,7 +10610,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "无声破裂",
-      "ja_JP": "静かなる決別"
+      "ja_JP": "静かなる決別",
+      "en_US": "Silent Crack"
     },
     "code": "BB-3",
     "zone": "act33side"
@@ -10611,7 +10621,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "无声破裂",
-      "ja_JP": "静かなる決別"
+      "ja_JP": "静かなる決別",
+      "en_US": "Silent Crack"
     },
     "code": "BB-3",
     "zone": "act33side"
@@ -10621,7 +10632,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "在疲惫中苏醒",
-      "ja_JP": "気怠い覚醒"
+      "ja_JP": "気怠い覚醒",
+      "en_US": "Awakening in Exhaustion"
     },
     "code": "BB-ST-2",
     "zone": "act33side"
@@ -10631,7 +10643,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "悠长的旅途",
-      "ja_JP": "長き旅路"
+      "ja_JP": "長き旅路",
+      "en_US": "Long Voyage"
     },
     "code": "BB-4",
     "zone": "act33side"
@@ -10641,7 +10654,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "悠长的旅途",
-      "ja_JP": "長き旅路"
+      "ja_JP": "長き旅路",
+      "en_US": "Long Voyage"
     },
     "code": "BB-4",
     "zone": "act33side"
@@ -10651,7 +10665,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "激变烽烟",
-      "ja_JP": "激変する烽煙"
+      "ja_JP": "激変する烽煙",
+      "en_US": "Fires of Uprising"
     },
     "code": "BB-5",
     "zone": "act33side"
@@ -10661,7 +10676,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "激变烽烟",
-      "ja_JP": "激変する烽煙"
+      "ja_JP": "激変する烽煙",
+      "en_US": "Fires of Uprising"
     },
     "code": "BB-5",
     "zone": "act33side"
@@ -10671,7 +10687,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "灯火闪烁不定",
-      "ja_JP": "明滅する灯火"
+      "ja_JP": "明滅する灯火",
+      "en_US": "Flickering Light"
     },
     "code": "BB-6",
     "zone": "act33side"
@@ -10681,7 +10698,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "灯火闪烁不定",
-      "ja_JP": "明滅する灯火"
+      "ja_JP": "明滅する灯火",
+      "en_US": "Flickering Light"
     },
     "code": "BB-6",
     "zone": "act33side"
@@ -10702,7 +10720,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "阴影显现",
-      "ja_JP": "顕現せし影"
+      "ja_JP": "顕現せし影",
+      "en_US": "Rising Shadow"
     },
     "code": "BB-7",
     "zone": "act33side"
@@ -10712,7 +10731,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "阴影显现",
-      "ja_JP": "顕現せし影"
+      "ja_JP": "顕現せし影",
+      "en_US": "Rising Shadow"
     },
     "code": "BB-7",
     "zone": "act33side"
@@ -10722,7 +10742,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "终局倒计时",
-      "ja_JP": "結末へのカウントダウン"
+      "ja_JP": "結末へのカウントダウン",
+      "en_US": "Final Countdown"
     },
     "code": "BB-8",
     "zone": "act33side"
@@ -10732,7 +10753,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "终局倒计时",
-      "ja_JP": "結末へのカウントダウン"
+      "ja_JP": "結末へのカウントダウン",
+      "en_US": "Final Countdown"
     },
     "code": "BB-8",
     "zone": "act33side"
@@ -10742,7 +10764,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "尘埃落定",
-      "ja_JP": "物語の結末"
+      "ja_JP": "物語の結末",
+      "en_US": "The Dust Has Settled"
     },
     "code": "BB-9",
     "zone": "act33side"
@@ -10752,7 +10775,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "尘埃落定",
-      "ja_JP": "物語の結末"
+      "ja_JP": "物語の結末",
+      "en_US": "The Dust Has Settled"
     },
     "code": "BB-9",
     "zone": "act33side"
@@ -10762,7 +10786,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "再见，再见",
-      "ja_JP": "さようなら、さようなら"
+      "ja_JP": "さようなら、さようなら",
+      "en_US": "Goodbye, Goodbye"
     },
     "code": "BB-10",
     "zone": "act33side"
@@ -10772,7 +10797,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "再见，再见",
-      "ja_JP": "さようなら、さようなら"
+      "ja_JP": "さようなら、さようなら",
+      "en_US": "Goodbye, Goodbye"
     },
     "code": "BB-10",
     "zone": "act33side"
@@ -10782,7 +10808,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "灵魂尽头",
-      "ja_JP": "魂の行く果て"
+      "ja_JP": "魂の行く果て",
+      "en_US": "End of Souls"
     },
     "code": "BB-ST-3",
     "zone": "act33side"

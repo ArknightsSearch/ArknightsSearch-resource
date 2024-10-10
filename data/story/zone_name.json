@@ -233,6 +233,7 @@
     "zh_CN": "水晶箭行动"
   },
   "act33side": {
+    "en_US": "Babel",
     "ja_JP": "バベル",
     "zh_CN": "巴别塔"
   },
@@ -370,6 +371,7 @@
     "zh_CN": "卡缇"
   },
   "aroma": {
+    "en_US": "Aroma",
     "ja_JP": "アロマ",
     "zh_CN": "阿罗玛"
   },
@@ -379,6 +381,7 @@
     "zh_CN": "石棉"
   },
   "ascln": {
+    "en_US": "Ascalon",
     "ja_JP": "アスカロン",
     "zh_CN": "阿斯卡纶"
   },
@@ -1029,6 +1032,7 @@
     "zh_CN": "子月"
   },
   "luton": {
+    "en_US": "Lutonada",
     "ja_JP": "ルトナダ",
     "zh_CN": "露托"
   },
