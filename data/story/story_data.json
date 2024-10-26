@@ -7441,6 +7441,33 @@
     "code": null,
     "zone": "rogue_4"
   },
+  "1614": {
+    "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_5_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "阿纳萨的路 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_4"
+  },
+  "1615": {
+    "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_5_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "阿纳萨的路 Part.02"
+    },
+    "code": null,
+    "zone": "rogue_4"
+  },
+  "1616": {
+    "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_5_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "阿纳萨的路 Part.03"
+    },
+    "code": null,
+    "zone": "rogue_4"
+  },
   "162": {
     "id": "obt/main/level_main_08-16_end",
     "type": "Main",
