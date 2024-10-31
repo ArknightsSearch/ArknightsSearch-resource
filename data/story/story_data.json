@@ -6170,7 +6170,8 @@
     "id": "obt/memory/story_ascln_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "同行人"
+      "zh_CN": "同行人",
+      "ja_JP": "同行者"
     },
     "code": null,
     "zone": "ascln"
@@ -6179,7 +6180,8 @@
     "id": "obt/memory/story_shining_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "雨夜"
+      "zh_CN": "雨夜",
+      "ja_JP": "雨降る夜"
     },
     "code": null,
     "zone": "shining"
@@ -6188,7 +6190,8 @@
     "id": "obt/memory/story_siege_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "幻日"
+      "zh_CN": "幻日",
+      "ja_JP": "幻日"
     },
     "code": null,
     "zone": "siege"
@@ -6197,7 +6200,8 @@
     "id": "obt/memory/story_aroma_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "入职邀请"
+      "zh_CN": "入职邀请",
+      "ja_JP": "入職の誘い"
     },
     "code": null,
     "zone": "aroma"
@@ -6206,7 +6210,8 @@
     "id": "obt/memory/story_swllow_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "殊途"
+      "zh_CN": "殊途",
+      "ja_JP": "異なる道"
     },
     "code": null,
     "zone": "swllow"
@@ -8869,7 +8874,8 @@
     "id": "obt/main/level_main_14-01_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "作战对策会议"
+      "zh_CN": "作战对策会议",
+      "ja_JP": "作戦対策会議"
     },
     "code": "14-2",
     "zone": "main_14"
@@ -8878,7 +8884,8 @@
     "id": "obt/main/level_main_14-01_end",
     "type": "Main",
     "name": {
-      "zh_CN": "作战对策会议"
+      "zh_CN": "作战对策会议",
+      "ja_JP": "作戦対策会議"
     },
     "code": "14-2",
     "zone": "main_14"
@@ -8887,7 +8894,8 @@
     "id": "obt/main/level_main_14-02_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "破解锤砧战术"
+      "zh_CN": "破解锤砧战术",
+      "ja_JP": "鉄床戦術を破れ"
     },
     "code": "14-3",
     "zone": "main_14"
@@ -8907,7 +8915,8 @@
     "id": "obt/main/level_main_14-02_end",
     "type": "Main",
     "name": {
-      "zh_CN": "破解锤砧战术"
+      "zh_CN": "破解锤砧战术",
+      "ja_JP": "鉄床戦術を破れ"
     },
     "code": "14-3",
     "zone": "main_14"
@@ -8916,7 +8925,8 @@
     "id": "obt/main/level_main_14-03_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "通讯静默解除"
+      "zh_CN": "通讯静默解除",
+      "ja_JP": "通信封鎖の解除"
     },
     "code": "14-4",
     "zone": "main_14"
@@ -8925,7 +8935,8 @@
     "id": "obt/main/level_main_14-03_end",
     "type": "Main",
     "name": {
-      "zh_CN": "通讯静默解除"
+      "zh_CN": "通讯静默解除",
+      "ja_JP": "通信封鎖の解除"
     },
     "code": "14-4",
     "zone": "main_14"
@@ -8934,7 +8945,8 @@
     "id": "obt/main/level_main_14-04_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "探查岩洞区域"
+      "zh_CN": "探查岩洞区域",
+      "ja_JP": "洞窟地区を探索"
     },
     "code": "14-5",
     "zone": "main_14"
@@ -8943,7 +8955,8 @@
     "id": "obt/main/level_main_14-04_end",
     "type": "Main",
     "name": {
-      "zh_CN": "探查岩洞区域"
+      "zh_CN": "探查岩洞区域",
+      "ja_JP": "洞窟地区を探索"
     },
     "code": "14-5",
     "zone": "main_14"
@@ -8952,7 +8965,8 @@
     "id": "obt/main/level_main_14-05_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "确认交战视界"
+      "zh_CN": "确认交战视界",
+      "ja_JP": "交戦視野の確認"
     },
     "code": "14-6",
     "zone": "main_14"
@@ -8961,7 +8975,8 @@
     "id": "obt/main/level_main_14-05_end",
     "type": "Main",
     "name": {
-      "zh_CN": "确认交战视界"
+      "zh_CN": "确认交战视界",
+      "ja_JP": "交戦視野の確認"
     },
     "code": "14-6",
     "zone": "main_14"
@@ -8970,7 +8985,8 @@
     "id": "obt/main/level_main_14-06_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "执行反制作战"
+      "zh_CN": "执行反制作战",
+      "ja_JP": "反攻作戦を実施"
     },
     "code": "14-7",
     "zone": "main_14"
@@ -8979,7 +8995,8 @@
     "id": "obt/main/level_main_14-06_end",
     "type": "Main",
     "name": {
-      "zh_CN": "执行反制作战"
+      "zh_CN": "执行反制作战",
+      "ja_JP": "反攻作戦を実施"
     },
     "code": "14-7",
     "zone": "main_14"
@@ -8988,7 +9005,8 @@
     "id": "obt/main/level_main_14-07_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "抵近支援作战"
+      "zh_CN": "抵近支援作战",
+      "ja_JP": "近接支援に移行"
     },
     "code": "14-8",
     "zone": "main_14"
@@ -9008,7 +9026,8 @@
     "id": "obt/main/level_main_14-07_end",
     "type": "Main",
     "name": {
-      "zh_CN": "抵近支援作战"
+      "zh_CN": "抵近支援作战",
+      "ja_JP": "近接支援に移行"
     },
     "code": "14-8",
     "zone": "main_14"
@@ -9017,7 +9036,8 @@
     "id": "obt/main/level_main_14-08_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "应对饱和打击"
+      "zh_CN": "应对饱和打击",
+      "ja_JP": "飽和攻撃に応対"
     },
     "code": "14-9",
     "zone": "main_14"
@@ -9026,7 +9046,8 @@
     "id": "obt/main/level_main_14-08_end",
     "type": "Main",
     "name": {
-      "zh_CN": "应对饱和打击"
+      "zh_CN": "应对饱和打击",
+      "ja_JP": "飽和攻撃に応対"
     },
     "code": "14-9",
     "zone": "main_14"
@@ -9035,7 +9056,8 @@
     "id": "obt/main/level_main_14-09_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "自光辉中奔涌"
+      "zh_CN": "自光辉中奔涌",
+      "ja_JP": "輝きから湧き上がるもの"
     },
     "code": "14-10",
     "zone": "main_14"
@@ -9044,7 +9066,8 @@
     "id": "obt/main/level_main_14-09_end",
     "type": "Main",
     "name": {
-      "zh_CN": "自光辉中奔涌"
+      "zh_CN": "自光辉中奔涌",
+      "ja_JP": "輝きから湧き上がるもの"
     },
     "code": "14-10",
     "zone": "main_14"
@@ -9053,7 +9076,8 @@
     "id": "obt/main/level_main_14-10_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "所谓“英雄”"
+      "zh_CN": "所谓“英雄”",
+      "ja_JP": "「英雄」とは"
     },
     "code": "14-11",
     "zone": "main_14"
@@ -9062,7 +9086,8 @@
     "id": "obt/main/level_main_14-10_end",
     "type": "Main",
     "name": {
-      "zh_CN": "所谓“英雄”"
+      "zh_CN": "所谓“英雄”",
+      "ja_JP": "「英雄」とは"
     },
     "code": "14-11",
     "zone": "main_14"
@@ -9071,7 +9096,8 @@
     "id": "obt/main/level_main_14-11_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "使徒"
+      "zh_CN": "使徒",
+      "ja_JP": "使徒"
     },
     "code": "14-12",
     "zone": "main_14"
@@ -9080,7 +9106,8 @@
     "id": "obt/main/level_main_14-11_end",
     "type": "Main",
     "name": {
-      "zh_CN": "使徒"
+      "zh_CN": "使徒",
+      "ja_JP": "使徒"
     },
     "code": "14-12",
     "zone": "main_14"
@@ -9089,7 +9116,8 @@
     "id": "obt/main/level_main_14-12_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "高空拒阻行动"
+      "zh_CN": "高空拒阻行动",
+      "ja_JP": "高空での拒止"
     },
     "code": "14-14",
     "zone": "main_14"
@@ -9120,7 +9148,8 @@
     "id": "obt/main/level_main_14-13_end",
     "type": "Main",
     "name": {
-      "zh_CN": "突破外围防线"
+      "zh_CN": "突破外围防线",
+      "ja_JP": "外周包囲網の突破"
     },
     "code": "14-15",
     "zone": "main_14"
@@ -9129,7 +9158,8 @@
     "id": "obt/main/level_main_14-14_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "抢占舷侧区域"
+      "zh_CN": "抢占舷侧区域",
+      "ja_JP": "舷側エリアを占拠"
     },
     "code": "14-16",
     "zone": "main_14"
@@ -9138,7 +9168,8 @@
     "id": "obt/main/level_main_14-14_end",
     "type": "Main",
     "name": {
-      "zh_CN": "抢占舷侧区域"
+      "zh_CN": "抢占舷侧区域",
+      "ja_JP": "舷側エリアを占拠"
     },
     "code": "14-16",
     "zone": "main_14"
@@ -9147,7 +9178,8 @@
     "id": "obt/main/level_main_14-15_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "核心舱攻防战"
+      "zh_CN": "核心舱攻防战",
+      "ja_JP": "主船倉での攻防"
     },
     "code": "14-17",
     "zone": "main_14"
@@ -9156,7 +9188,8 @@
     "id": "obt/main/level_main_14-16_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "在炽燃间咆哮"
+      "zh_CN": "在炽燃间咆哮",
+      "ja_JP": "灼熱より爆ぜる咆哮"
     },
     "code": "14-18",
     "zone": "main_14"
@@ -9165,7 +9198,8 @@
     "id": "obt/main/level_main_14-16_end",
     "type": "Main",
     "name": {
-      "zh_CN": "在炽燃间咆哮"
+      "zh_CN": "在炽燃间咆哮",
+      "ja_JP": "灼熱より爆ぜる咆哮"
     },
     "code": "14-18",
     "zone": "main_14"
@@ -9174,7 +9208,8 @@
     "id": "obt/main/level_main_14-17_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "晶簇之内"
+      "zh_CN": "晶簇之内",
+      "ja_JP": "結晶の中"
     },
     "code": "14-19",
     "zone": "main_14"
@@ -9183,7 +9218,8 @@
     "id": "obt/main/level_main_14-17_end",
     "type": "Main",
     "name": {
-      "zh_CN": "晶簇之内"
+      "zh_CN": "晶簇之内",
+      "ja_JP": "結晶の中"
     },
     "code": "14-19",
     "zone": "main_14"
@@ -9192,7 +9228,8 @@
     "id": "obt/main/level_main_14-18_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "列王行迹"
+      "zh_CN": "列王行迹",
+      "ja_JP": "王たちの行方"
     },
     "code": "14-20",
     "zone": "main_14"
@@ -9201,7 +9238,8 @@
     "id": "obt/main/level_main_14-18_end",
     "type": "Main",
     "name": {
-      "zh_CN": "列王行迹"
+      "zh_CN": "列王行迹",
+      "ja_JP": "王たちの行方"
     },
     "code": "14-20",
     "zone": "main_14"
@@ -9221,7 +9259,8 @@
     "id": "obt/main/level_main_14-19_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "万千愿景"
+      "zh_CN": "万千愿景",
+      "ja_JP": "それぞれの願う明日"
     },
     "code": "14-21",
     "zone": "main_14"
@@ -9230,7 +9269,8 @@
     "id": "obt/main/level_main_14-19_end",
     "type": "Main",
     "name": {
-      "zh_CN": "万千愿景"
+      "zh_CN": "万千愿景",
+      "ja_JP": "それぞれの願う明日"
     },
     "code": "14-21",
     "zone": "main_14"
@@ -9239,7 +9279,8 @@
     "id": "obt/main/level_main_14-20_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "在哀愁绽放的时刻"
+      "zh_CN": "在哀愁绽放的时刻",
+      "ja_JP": "哀愁が綻びる時に"
     },
     "code": "14-22",
     "zone": "main_14"
@@ -9248,7 +9289,8 @@
     "id": "obt/main/level_main_14-20_end",
     "type": "Main",
     "name": {
-      "zh_CN": "在哀愁绽放的时刻"
+      "zh_CN": "在哀愁绽放的时刻",
+      "ja_JP": "哀愁が綻びる時に"
     },
     "code": "14-22",
     "zone": "main_14"
@@ -9631,7 +9673,8 @@
     "id": "obt/main/level_st_14-01",
     "type": "Main",
     "name": {
-      "zh_CN": "从回忆中坠落"
+      "zh_CN": "从回忆中坠落",
+      "ja_JP": "思い出からの墜落"
     },
     "code": "14-1",
     "zone": "main_14"
@@ -9640,7 +9683,8 @@
     "id": "obt/main/level_st_14-02",
     "type": "Main",
     "name": {
-      "zh_CN": "自原点中降临"
+      "zh_CN": "自原点中降临",
+      "ja_JP": "原点からの降臨"
     },
     "code": "14-13",
     "zone": "main_14"
@@ -9649,7 +9693,8 @@
     "id": "obt/main/level_st_14-03",
     "type": "Main",
     "name": {
-      "zh_CN": "良夜将死"
+      "zh_CN": "良夜将死",
+      "ja_JP": "終焉を迎える良き夜"
     },
     "code": "14-23",
     "zone": "main_14"
@@ -9724,7 +9769,8 @@
     "id": "obt/main/level_spst_14-01",
     "type": "Main",
     "name": {
-      "zh_CN": "慈悲遗愿"
+      "zh_CN": "慈悲遗愿",
+      "ja_JP": "慈悲深き悲願"
     },
     "code": "EG-6",
     "zone": "main_14"
