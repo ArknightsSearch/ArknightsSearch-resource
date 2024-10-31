@@ -600,7 +600,9 @@
       "avg_1035_wisdel_1"
     ],
     [
+      "Strange Shadow",
       "W",
+      "Wiš'adel",
       "ウィシャデル",
       "不気味な影",
       "怪异的影子",
@@ -612,6 +614,7 @@
       "avg_1036_fang2_1"
     ],
     [
+      "Fang",
       "フェン",
       "芬"
     ]
@@ -621,6 +624,7 @@
       "avg_1037_amiya3_1"
     ],
     [
+      "Amiya",
       "アーミヤ",
       "阿米娅"
     ]
@@ -1048,6 +1052,7 @@
       "char_147_shining_1"
     ],
     [
+      "'Daughter'",
       "Shining",
       "“女儿”",
       "「娘」",
@@ -3700,6 +3705,7 @@
       "avg_4134_cetsyr_1"
     ],
     [
+      "Theresa's Phantom",
       "テレジアの幻影",
       "特蕾西娅的幻影"
     ]
@@ -4014,6 +4020,7 @@
       "avg_446_aroma_1"
     ],
     [
+      "Aroma",
       "アロマ",
       "阿罗玛"
     ]
@@ -4271,6 +4278,7 @@
     ],
     [
       "Roberta",
+      "Rubber and Roberta",
       "イレイザー＆ロベルタ",
       "ロベルタ",
       "橡皮&罗比菈塔",
@@ -4668,6 +4676,7 @@
       "A Kazimierz Villager",
       "Aging Resident",
       "Aging Worker",
+      "Bread Vendor",
       "Breakfast Stall Owner",
       "Elderly Villager",
       "Farm Owner",
@@ -6211,6 +6220,7 @@
       "Sarkaz Youth",
       "Slyly Smiling Sarkaz Worker",
       "Snappy Civilian",
+      "Timid Mercenary",
       "Tired Sarkaz Worker",
       "Wounded Mercenary",
       "Young Sarkaz Warrior",
@@ -6285,7 +6295,10 @@
     ],
     [
       "'Miner'",
+      "Babel Member?",
       "Burly Townsfolk",
+      "Crane",
+      "Excited Mercenary",
       "Ferocious Sarkaz Bandit",
       "Fierce Sarkaz",
       "Grimm",
@@ -6304,6 +6317,7 @@
       "Sarkaz Traitor",
       "Sarkaz Warrior",
       "Sarkaz Warrior?",
+      "Scared Sarkaz Soldier",
       "Starving Mercenary",
       "Strange Townsfolk",
       "“吊塔”",
@@ -7944,6 +7958,7 @@
     ],
     [
       "Banshee",
+      "Blurred Silhouette",
       "Laqeramaline",
       "おぼろげな人影",
       "バンシー",
@@ -9008,6 +9023,7 @@
       "avg_npc_1255_1"
     ],
     [
+      "Londinium Resident",
       "Rental Store Owner",
       "レンタルショップ店主",
       "ロンディニウム住民",
@@ -9283,6 +9299,7 @@
     ],
     [
       "Babel Assassin",
+      "Mercenary Scout",
       "Mysterious Mercenary",
       "Slave Trader",
       "バベル刺客",
@@ -9300,9 +9317,13 @@
       "avg_npc_1307_1"
     ],
     [
+      "Airship 'Apparition'",
       "Cautious Assassin",
       "Determined Assassin",
+      "Hornless Assassin",
+      "Hornless Sarkaz",
       "Name-Forsaken Sacrificer",
+      "Silent Assassin",
       "决然的刺客",
       "名を捨てた死士",
       "弃名死士",
@@ -9326,6 +9347,9 @@
     [
       "'Teacher'",
       "Babel Member",
+      "Babel Squad Member",
+      "Babelite",
+      "Table Salt",
       "“老师”",
       "「教師」",
       "テーブルソルト",
@@ -9433,6 +9457,8 @@
       "avg_npc_1331_1"
     ],
     [
+      "'Sudaram'?",
+      "Sudaram",
       "“灵幛”",
       "“灵幛”？",
       "「霊骸布」",
@@ -9444,6 +9470,7 @@
       "avg_npc_1332_1"
     ],
     [
+      "Qalid'čoa",
       "クァリドチョア",
       "喀利喀"
     ]
@@ -9453,6 +9480,8 @@
       "avg_npc_1333_1"
     ],
     [
+      "Nadine",
+      "Young Officer",
       "ナディーン",
       "娜汀",
       "年轻的军官",
@@ -9464,6 +9493,9 @@
       "avg_npc_1334_1"
     ],
     [
+      "Banshee-Style Device",
+      "Gentle but Stern Voice",
+      "Kindly Voice",
       "バンシー風の装置",
       "女妖风格的装置",
       "愛情深い声",
@@ -9477,6 +9509,8 @@
       "avg_npc_1335_1"
     ],
     [
+      "Confessarius 'Chimera'",
+      "Terrifying Monster",
       "聴罪師の「キメラ」",
       "見た目の恐ろしい怪物",
       "赦罪师的“奇美拉”",
@@ -9488,6 +9522,7 @@
       "avg_npc_1336_1"
     ],
     [
+      "W Squad Member",
       "W小队成员",
       "W小隊メンバー"
     ]
@@ -9497,6 +9532,7 @@
       "avg_npc_1337_1"
     ],
     [
+      "Flag Officer",
       "上級士官",
       "高级军官"
     ]
@@ -9506,6 +9542,7 @@
       "avg_npc_1338_1"
     ],
     [
+      "'Driver'",
       "“司机”",
       "「運転手」"
     ]
@@ -9515,6 +9552,7 @@
       "avg_npc_1339_1"
     ],
     [
+      "Nezzsalem",
       "ネツァレム",
       "孽茨雷"
     ]
@@ -9543,6 +9581,10 @@
       "avg_npc_1340_1"
     ],
     [
+      "'Sarkaz'",
+      "Revenant's Shadow",
+      "Shadow",
+      "Strange Shadow",
       "“炉渣”的阴影",
       "“萨卡兹”",
       "「サルカズ」",
@@ -9559,6 +9601,7 @@
       "avg_npc_1341_1"
     ],
     [
+      "Sarkaz Warrior",
       "サルカズ戦士",
       "濒死的食腐者",
       "萨卡兹战士",
@@ -9570,6 +9613,7 @@
       "avg_npc_1342_1"
     ],
     [
+      "Millscar",
       "“铣痕”",
       "「ミルスカー」"
     ]
@@ -9587,6 +9631,7 @@
       "avg_npc_1344_1"
     ],
     [
+      "Ascalon",
       "アスカロン",
       "阿斯卡纶"
     ]
@@ -9648,6 +9693,7 @@
       "avg_npc_1362_1"
     ],
     [
+      "Babel Member",
       "Medic",
       "バベルメンバー",
       "医疗成员",
@@ -10750,6 +10796,7 @@
       "Elegant Ambassador",
       "Emotional Councilor",
       "Enthusiastic Merchant",
+      "Fretful Merchant",
       "Genial Noble",
       "Greedy Businessman",
       "Host",
@@ -11915,6 +11962,7 @@
     ],
     [
       "Horn",
+      "Horn & Bagpipe",
       "Rita",
       "ホルン",
       "ホルン&バグパイプ",
@@ -12020,6 +12068,7 @@
       "Knight",
       "Naughty Child",
       "Small Child",
+      "Taran Child",
       "Victorian Boy",
       "ひもじい屋台の店主",
       "やんちゃな子供",
@@ -12058,6 +12107,7 @@
     ],
     [
       "Angry NCO",
+      "Crumbling Soldier",
       "Gentle Officer",
       "Guards Member",
       "Guards' Captain",
@@ -12114,6 +12164,7 @@
       "Anxious Villager",
       "Bent",
       "Busy Youth",
+      "Catastrophe Messenger",
       "Chef MacMartin",
       "Community Resident",
       "Confused Resident",
@@ -12128,6 +12179,7 @@
       "Independent Reporter",
       "Infected",
       "Infected Citizen",
+      "Infected Villager",
       "Jurian",
       "Lean Man",
       "Merchant",
@@ -12137,6 +12189,7 @@
       "Panicked Youth",
       "Placid Photographer",
       "Restless Youth",
+      "Taran Citizen",
       "Taran Refugee",
       "Tempersome Taran Refugee",
       "Timid Youth",
@@ -12253,6 +12306,7 @@
       "Maid",
       "Noble Sister",
       "Overwrought Taran Refugee",
+      "Pained Refugee",
       "Panicked Merchant",
       "Pasado",
       "Sorrowful Woman",
@@ -12336,6 +12390,7 @@
       "avg_npc_248"
     ],
     [
+      "'Adjutant Hill'",
       "Adjutant Hill",
       "Biting Officer",
       "Patrol Member",
@@ -13745,6 +13800,7 @@
       "avg_npc_398_1"
     ],
     [
+      "Exemplar Soldier",
       "Self-Salvation Corps Fighter",
       "Self-Salvation Corps Member",
       "Self-Salvation Corps Soldier",
@@ -13767,7 +13823,11 @@
       "Former Defense Forces Soldier",
       "Inspector A",
       "Inspector B",
+      "Nervous Soldier",
+      "Security Detail",
       "Special Forces Captain",
+      "Terrified Soldier",
+      "Unhappy Soldier",
       "Victorian Mercenary",
       "クルビア傭兵",
       "ヴィクトリア傭兵",
@@ -13901,6 +13961,7 @@
     ],
     [
       "Siege",
+      "Vina",
       "シージ",
       "ヴィーナ",
       "推进之王",
@@ -13912,12 +13973,15 @@
       "avg_npc_408_1"
     ],
     [
+      "Flag Officer",
       "High-Ranking Officer",
+      "Redsteel Guard Member",
       "Slippery Soldier",
       "Stern Soldier",
       "Veteran Officer",
       "Victorian Barracks Officer",
       "Victorian Officer",
+      "Victorian Sergeant",
       "Victorian Soldier",
       "Victorian Soldier?",
       "ずる賢い兵士",
@@ -13950,6 +14014,7 @@
       "avg_npc_409_1"
     ],
     [
+      "Flag Officer",
       "Victorian Officer",
       "Victorian Soldier",
       "ヴィクトリア兵士",
@@ -14023,6 +14088,7 @@
       "Robben",
       "Sickly Soldier",
       "Somber Soldier",
+      "Victorian Soldier",
       "Victorian Soldier C",
       "Victorian Soldier D",
       "ロッベン",
@@ -14066,6 +14132,7 @@
       "Jittery Citizen",
       "Londinium Citizen",
       "Londinium Citizen?",
+      "Nervous Citizen",
       "Nervous Infected",
       "Norport Refugee",
       "Reunion Member",
@@ -14201,11 +14268,18 @@
       "Grim Royal Court Soldier",
       "Indifferent Royal Court Soldier",
       "Injured Soldier",
+      "Low-Ranking Sarkaz Officer",
       "Military Commission Guard",
       "Panicked Royal Court Soldier",
       "Royal Court Junior Officer",
       "Royal Court Soldier",
+      "Royal Court Soldier A",
+      "Royal Court Soldier B",
+      "Royal Guard",
+      "Sarkaz Royal Court Commander",
       "Sarkaz Royal Court Soldier",
+      "Sarkaz Royal Court Soldier A",
+      "Sarkaz Royal Court Soldier B",
       "Sarkaz Soldier",
       "Sarkaz Warrior",
       "Spine Guardian",
@@ -14341,6 +14415,9 @@
     ],
     [
       "Confessarius Guard",
+      "Confessarius Guard A",
+      "Confessarius Guard B",
+      "Confessarius Guard?",
       "聴罪師直属衛兵",
       "聴罪師直属衛兵A",
       "聴罪師直属衛兵B",
@@ -15991,6 +16068,7 @@
     [
       "'Steam Armor'",
       "'The Last Steam Knight'",
+      "Charles Lynch",
       "“最后的蒸汽骑士”",
       "“蒸汽甲胄”",
       "「最後の蒸気騎士」",
@@ -16014,6 +16092,7 @@
       "avg_npc_653_1"
     ],
     [
+      "Confessarius",
       "Salus",
       "サルース",
       "聴罪師",
@@ -16026,7 +16105,9 @@
       "avg_npc_654_1"
     ],
     [
+      "'Father'",
       "Confessarius",
+      "Qui'sartuštaj",
       "“父亲”",
       "「父」",
       "クイサルトゥシュタ",
@@ -16050,6 +16131,7 @@
       "avg_npc_656_1"
     ],
     [
+      "Gawain",
       "ガヴェイン",
       "高文"
     ]
@@ -16134,6 +16216,7 @@
       "Old Man",
       "Repulsed Child",
       "Tyrant",
+      "Villager's Child",
       "农民",
       "天真的孩子",
       "好奇的孩子",
@@ -17953,6 +18036,7 @@
       "Logistics Operator",
       "Records Room Operator",
       "Rhodes Island Landship Operator B",
+      "Rubber",
       "イレイザー",
       "人事部オペレーター",
       "人事部干员",
