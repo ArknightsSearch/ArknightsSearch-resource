@@ -249,6 +249,9 @@
   "act37side": {
     "zh_CN": "追迹日落以西"
   },
+  "act38side": {
+    "zh_CN": "揭幕者们"
+  },
   "act3d0": {
     "en_US": "Heart of Surging Flame",
     "ja_JP": "青く燃ゆる心",
@@ -409,6 +412,11 @@
     "en_US": "Bassline",
     "ja_JP": "ベースライン",
     "zh_CN": "深律"
+  },
+  "bdhkgt": {
+    "en_US": "Jieyun",
+    "ja_JP": "ジエユン",
+    "zh_CN": "截云"
   },
   "beewax": {
     "en_US": "Beeswax",
@@ -990,6 +998,11 @@
     "en_US": "Leizi",
     "ja_JP": "レイズ",
     "zh_CN": "惊蛰"
+  },
+  "lessng": {
+    "en_US": "Lessing",
+    "ja_JP": "レッシング",
+    "zh_CN": "止颂"
   },
   "leto": {
     "en_US": "Leto",
