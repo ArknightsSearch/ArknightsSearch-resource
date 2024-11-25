@@ -7849,6 +7849,15 @@
     "code": null,
     "zone": "rogue_4"
   },
+  "1649": {
+    "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_6_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "往诞律 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_4"
+  },
   "165": {
     "id": "obt/main/level_main_09-01_beg",
     "type": "Main",
@@ -7859,6 +7868,24 @@
     },
     "code": "9-2",
     "zone": "main_9"
+  },
+  "1650": {
+    "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_6_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "往诞律 Part.02"
+    },
+    "code": null,
+    "zone": "rogue_4"
+  },
+  "1651": {
+    "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_6_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "往诞律 Part.03"
+    },
+    "code": null,
+    "zone": "rogue_4"
   },
   "166": {
     "id": "obt/main/level_main_09-02_end",
