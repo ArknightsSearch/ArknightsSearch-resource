@@ -6542,7 +6542,9 @@
     "id": "obt/memory/story_haini_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "怀有希望之人"
+      "zh_CN": "怀有希望之人",
+      "ja_JP": "希望を抱く人",
+      "en_US": "The Hopeful Ones"
     },
     "code": null,
     "zone": "haini"
@@ -6551,7 +6553,9 @@
     "id": "obt/memory/story_coldst_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "一路顺风"
+      "zh_CN": "一路顺风",
+      "ja_JP": "いってらっしゃい",
+      "en_US": "Have A Safe Trip"
     },
     "code": null,
     "zone": "coldst"
@@ -6560,7 +6564,9 @@
     "id": "obt/memory/story_luton_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "阳光映照之下"
+      "zh_CN": "阳光映照之下",
+      "ja_JP": "日差しのもとで",
+      "en_US": "Under the Shining Sun"
     },
     "code": null,
     "zone": "luton"
@@ -6569,7 +6575,9 @@
     "id": "obt/memory/story_deepcl_2_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "蓝调"
+      "zh_CN": "蓝调",
+      "ja_JP": "ブルース",
+      "en_US": "Blue Notes"
     },
     "code": null,
     "zone": "deepcl"
@@ -11101,7 +11109,9 @@
     "id": "activities/act34side/level_act34side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "浪潮守望者"
+      "zh_CN": "浪潮守望者",
+      "ja_JP": "波を見守る者",
+      "en_US": "Tide Watcher"
     },
     "code": "BP-ST-1",
     "zone": "act34side"
@@ -11110,7 +11120,9 @@
     "id": "activities/act34side/level_act34side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "第一次接触"
+      "zh_CN": "第一次接触",
+      "ja_JP": "ファーストコンタクト",
+      "en_US": "First Contact"
     },
     "code": "BP-1",
     "zone": "act34side"
@@ -11119,7 +11131,9 @@
     "id": "activities/act34side/level_act34side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "第一次接触"
+      "zh_CN": "第一次接触",
+      "ja_JP": "ファーストコンタクト",
+      "en_US": "First Contact"
     },
     "code": "BP-1",
     "zone": "act34side"
@@ -11128,7 +11142,9 @@
     "id": "activities/act34side/level_act34side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "评议式迎接"
+      "zh_CN": "评议式迎接",
+      "ja_JP": "評議による出迎え",
+      "en_US": "Tribunal Welcome"
     },
     "code": "BP-2",
     "zone": "act34side"
@@ -11137,7 +11153,9 @@
     "id": "activities/act34side/level_act34side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "评议式迎接"
+      "zh_CN": "评议式迎接",
+      "ja_JP": "評議による出迎え",
+      "en_US": "Tribunal Welcome"
     },
     "code": "BP-2",
     "zone": "act34side"
@@ -11146,7 +11164,9 @@
     "id": "activities/act34side/level_act34side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "如海雪纷散"
+      "zh_CN": "如海雪纷散",
+      "ja_JP": "海雪の如く散る",
+      "en_US": "Like the Marine Snow"
     },
     "code": "BP-3",
     "zone": "act34side"
@@ -11155,7 +11175,9 @@
     "id": "activities/act34side/level_act34side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "如海雪纷散"
+      "zh_CN": "如海雪纷散",
+      "ja_JP": "海雪の如く散る",
+      "en_US": "Like the Marine Snow"
     },
     "code": "BP-3",
     "zone": "act34side"
@@ -11175,7 +11197,9 @@
     "id": "activities/act34side/level_act34side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "牺牲与代价"
+      "zh_CN": "牺牲与代价",
+      "ja_JP": "犠牲と代償",
+      "en_US": "Price and Sacrifice"
     },
     "code": "BP-4",
     "zone": "act34side"
@@ -11184,7 +11208,9 @@
     "id": "activities/act34side/level_act34side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "牺牲与代价"
+      "zh_CN": "牺牲与代价",
+      "ja_JP": "犠牲と代償",
+      "en_US": "Price and Sacrifice"
     },
     "code": "BP-4",
     "zone": "act34side"
@@ -11193,7 +11219,9 @@
     "id": "activities/act34side/level_act34side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "不治的命运"
+      "zh_CN": "不治的命运",
+      "ja_JP": "不治の運命",
+      "en_US": "Lethal Fate"
     },
     "code": "BP-5",
     "zone": "act34side"
@@ -11202,7 +11230,9 @@
     "id": "activities/act34side/level_act34side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "不治的命运"
+      "zh_CN": "不治的命运",
+      "ja_JP": "不治の運命",
+      "en_US": "Lethal Fate"
     },
     "code": "BP-5",
     "zone": "act34side"
@@ -11211,7 +11241,9 @@
     "id": "activities/act34side/level_act34side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "阿戈尔失格"
+      "zh_CN": "阿戈尔失格",
+      "ja_JP": "エーギル失格",
+      "en_US": "Anathema of Ægir"
     },
     "code": "BP-6",
     "zone": "act34side"
@@ -11220,7 +11252,9 @@
     "id": "activities/act34side/level_act34side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "阿戈尔失格"
+      "zh_CN": "阿戈尔失格",
+      "ja_JP": "エーギル失格",
+      "en_US": "Anathema of Ægir"
     },
     "code": "BP-6",
     "zone": "act34side"
@@ -11229,7 +11263,9 @@
     "id": "activities/act34side/level_act34side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "如海流倒灌"
+      "zh_CN": "如海流倒灌",
+      "ja_JP": "逆転する海流の如く",
+      "en_US": "Backflow Current"
     },
     "code": "BP-ST-2",
     "zone": "act34side"
@@ -11238,7 +11274,9 @@
     "id": "activities/act34side/level_act34side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "从历史中来"
+      "zh_CN": "从历史中来",
+      "ja_JP": "歴史の中より来たる",
+      "en_US": "From History"
     },
     "code": "BP-7",
     "zone": "act34side"
@@ -11247,7 +11285,9 @@
     "id": "activities/act34side/level_act34side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "从历史中来"
+      "zh_CN": "从历史中来",
+      "ja_JP": "歴史の中より来たる",
+      "en_US": "From History"
     },
     "code": "BP-7",
     "zone": "act34side"
@@ -11256,7 +11296,9 @@
     "id": "activities/act34side/level_act34side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "“何谓存续？”"
+      "zh_CN": "“何谓存续？”",
+      "ja_JP": "「存続とは何か」",
+      "en_US": "What is Survival?"
     },
     "code": "BP-8",
     "zone": "act34side"
@@ -11276,7 +11318,9 @@
     "id": "activities/act34side/level_act34side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "“何谓存续？”"
+      "zh_CN": "“何谓存续？”",
+      "ja_JP": "「存続とは何か」",
+      "en_US": "What is Survival?"
     },
     "code": "BP-8",
     "zone": "act34side"
@@ -11285,7 +11329,9 @@
     "id": "activities/act34side/level_act34side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "歧路者与同行者"
+      "zh_CN": "歧路者与同行者",
+      "ja_JP": "道違える者と同行者",
+      "en_US": "The Stray and the Companion"
     },
     "code": "BP-ST-3",
     "zone": "act34side"

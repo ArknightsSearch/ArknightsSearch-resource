@@ -238,6 +238,8 @@
     "zh_CN": "巴别塔"
   },
   "act34side": {
+    "en_US": "Path of Life",
+    "ja_JP": "生存航路",
     "zh_CN": "生路"
   },
   "act35side": {
@@ -834,6 +836,8 @@
     "zh_CN": "阿"
   },
   "haini": {
+    "en_US": "Lucilla",
+    "ja_JP": "ルシーラ",
     "zh_CN": "海霓"
   },
   "halo": {
