@@ -474,7 +474,9 @@
     ],
     [
       "Specter",
+      "Specter & Skadi",
       "スペクター",
+      "スペクター/スカジ",
       "幽灵鲨",
       "幽灵鲨&斯卡蒂"
     ]
@@ -716,7 +718,9 @@
       "avg_110_deepcl_1"
     ],
     [
+      "Deepcolor",
       "Eccentric Artist",
+      "ディピカ",
       "奇妙な画家",
       "怪异的画家",
       "深海色"
@@ -2956,7 +2960,9 @@
     [
       "Inquisitor Irene",
       "Irene",
+      "Secunda & Irene",
       "アイリーニ",
+      "セクンダ/アイリーニ",
       "审判官艾丽妮",
       "審問官アイリーニ",
       "艾丽妮",
@@ -3375,8 +3381,12 @@
       "avg_4079_haini_1"
     ],
     [
+      "Excited Ægir",
+      "Lucilla",
+      "ルシーラ",
       "卢契拉",
-      "热情的阿戈尔人"
+      "热情的阿戈尔人",
+      "熱心なエーギル人"
     ]
   ],
   [
@@ -3699,6 +3709,8 @@
       "avg_4130_luton_1"
     ],
     [
+      "Lutonada",
+      "ルトナダ",
       "露托"
     ]
   ],
@@ -3745,6 +3757,10 @@
       "avg_4137_udflow_1"
     ],
     [
+      "Astute Officer",
+      "Secunda",
+      "セクンダ",
+      "利発な将校",
       "敏锐的军官",
       "西昆妲"
     ]
@@ -3820,6 +3836,8 @@
       "avg_4145_Ulpia_1"
     ],
     [
+      "Ulpianus",
+      "ウルピアヌス",
       "乌尔比安"
     ]
   ],
@@ -4318,7 +4336,7 @@
     [
       "Roberta",
       "Rubber and Roberta",
-      "イレイザー＆ロベルタ",
+      "ラバー＆ロベルタ",
       "ロベルタ",
       "橡皮&罗比菈塔",
       "罗比菈塔"
@@ -4498,6 +4516,7 @@
       "Abel",
       "Community Hawker",
       "Community Resident",
+      "Diner D",
       "Discouraged Worker",
       "Drunkard",
       "Edgar",
@@ -4534,6 +4553,7 @@
       "卡西米尔村民",
       "奇怪的路人？",
       "嬉しそうな労働者",
+      "客D",
       "工人",
       "店主",
       "强壮的镇民",
@@ -4585,6 +4605,7 @@
       "Angry Villager",
       "Charlie the Sproglet",
       "Community Electrician",
+      "Diner B",
       "Excited Infected",
       "Fast Food Joint Owner",
       "Gangster Messenger",
@@ -4616,6 +4637,7 @@
       "卢卡",
       "地痞",
       "報告に来る構成員",
+      "客B",
       "小查理",
       "店主",
       "店長",
@@ -4660,10 +4682,12 @@
     [
       "A Haggard Girl",
       "Carol",
+      "Diner C",
       "Immature Reporter",
       "やつれた少女",
       "キャロル",
       "可萝尔",
+      "客C",
       "憔悴的少女",
       "稚嫩的记者",
       "若い記者",
@@ -4717,6 +4741,8 @@
       "A Kazimierz Villager",
       "Aging Resident",
       "Aging Worker",
+      "BBQ Restaurant Owner",
+      "BBQハウスのマスター",
       "Bread Vendor",
       "Breakfast Stall Owner",
       "Elderly Villager",
@@ -4821,6 +4847,7 @@
       "Passing Merchant",
       "Produce Vendor",
       "Rowdy Stowaway",
+      "Saloon Keeper",
       "Tired Miner",
       "Village Headman",
       "Wastelander B",
@@ -4861,6 +4888,7 @@
       "辛苦的矿工",
       "通りすがりの商人",
       "酒吧老板",
+      "酒場の店主",
       "酒馆老板",
       "雑貨屋の店主"
     ]
@@ -5721,6 +5749,7 @@
       "Angry Woman",
       "Camera Crew Leader",
       "Clerk",
+      "Diner A",
       "Embarrassed Woman",
       "Female Passerby",
       "Female Resident",
@@ -5760,6 +5789,7 @@
       "女性通行人",
       "女游客",
       "女生",
+      "客A",
       "市民A",
       "店员",
       "店員",
@@ -5827,6 +5857,7 @@
       "Enthusiastic Spectator",
       "Excited Fan",
       "Excited Youth",
+      "Flower Shop Owner",
       "Hapless Man",
       "Host",
       "Infected Slum Dweller",
@@ -5913,6 +5944,7 @@
       "興奮しているファン",
       "興奮する観客",
       "興奮する青年",
+      "花屋の店主",
       "花店老板",
       "若い遭難者",
       "落ちぶれた男",
@@ -7111,6 +7143,7 @@
       "avg_npc_088"
     ],
     [
+      "'Supporter Operator'",
       "Anxious Young Operator",
       "Assistant Operator",
       "Caster Operator",
@@ -7134,6 +7167,7 @@
       "Steady Rhodes Island Operator",
       "Young Studying Operator",
       "“辅助干员”",
+      "「補助オペレーター」",
       "エンジニアオペレーター",
       "エンジニア部新任オペレーター",
       "サポートオペレーター",
@@ -9783,6 +9817,8 @@
       "avg_npc_1380_1"
     ],
     [
+      "Jordi",
+      "ジョディ",
       "乔迪"
     ]
   ],
@@ -9791,7 +9827,11 @@
       "avg_npc_1381_1"
     ],
     [
+      "Blandus",
+      "Haggard Scholar",
+      "ブランドゥス",
       "布兰都斯",
+      "憔悴した学者",
       "憔悴的学者"
     ]
   ],
@@ -9800,6 +9840,10 @@
       "avg_npc_1382_1"
     ],
     [
+      "Clementia",
+      "Kind Woman",
+      "クレメンティア",
+      "優しげな女性",
       "克莱门莎",
       "温柔的女性"
     ]
@@ -9809,7 +9853,11 @@
       "avg_npc_1383_1"
     ],
     [
+      "'Seaborn'",
+      "Mysterious Seaborn",
       "“海嗣”",
+      "「シーボーン」",
+      "奇妙なシーボーン",
       "神秘的海嗣"
     ]
   ],
@@ -9818,6 +9866,8 @@
       "avg_npc_1384_1"
     ],
     [
+      "Horatia",
+      "ホラーティア",
       "赫拉提娅"
     ]
   ],
@@ -9826,6 +9876,8 @@
       "avg_npc_1385_1"
     ],
     [
+      "Tullia",
+      "トゥリア",
       "图利娅"
     ]
   ],
@@ -9834,6 +9886,8 @@
       "avg_npc_1386_1"
     ],
     [
+      "Avitus",
+      "アウィトゥス",
       "阿维图斯"
     ]
   ],
@@ -9842,6 +9896,10 @@
       "avg_npc_1387_1"
     ],
     [
+      "Cassia",
+      "Ægir Woman",
+      "エーギルの女性",
+      "カシア",
       "卡西娅",
       "阿戈尔女性"
     ]
@@ -9851,8 +9909,12 @@
       "avg_npc_1388_1"
     ],
     [
+      "Nascent Seaborn",
+      "Seaborn",
+      "シーボーン",
       "新生的海嗣",
-      "海嗣"
+      "海嗣",
+      "生まれたてのシーボーン"
     ]
   ],
   [
@@ -9860,6 +9922,10 @@
       "avg_npc_1389_1"
     ],
     [
+      "Gentle Seaborn",
+      "Seaborn",
+      "シーボーン",
+      "優しいシーボーン",
       "海嗣",
       "温柔的海嗣"
     ]
@@ -9882,7 +9948,9 @@
       "avg_npc_1390_1"
     ],
     [
-      "海巡队队长"
+      "Sea Patrol Captain",
+      "海巡队队长",
+      "海巡隊隊長"
     ]
   ],
   [
@@ -9890,7 +9958,9 @@
       "avg_npc_1391_1"
     ],
     [
-      "海巡队队员"
+      "Sea Patroller",
+      "海巡队队员",
+      "海巡隊隊員"
     ]
   ],
   [
@@ -9898,9 +9968,17 @@
       "avg_npc_1392_1"
     ],
     [
+      "'Researcher B'",
+      "Tense Ægir",
+      "Wounded 'Researcher'",
+      "Ægir Doctor",
       "“研究员B”",
+      "「研究員B」",
+      "エーギルの医師",
       "受伤的“研究员”",
       "紧张的阿戈尔人",
+      "緊迫したエーギル人",
+      "負傷した「研究員」",
       "阿戈尔医师"
     ]
   ],
@@ -9909,6 +9987,8 @@
       "avg_npc_1393_1"
     ],
     [
+      "Ægir Researcher A",
+      "エーギルの研究員A",
       "阿戈尔研究员A"
     ]
   ],
@@ -9917,6 +9997,10 @@
       "avg_npc_1394_1"
     ],
     [
+      "Mysterious Ægir",
+      "Ægir Scholar",
+      "エーギルの学者",
+      "怪しいエーギル人",
       "神秘的阿戈尔人",
       "阿戈尔学者"
     ]
@@ -9926,6 +10010,8 @@
       "avg_npc_1395_1"
     ],
     [
+      "Ægir Researcher B",
+      "エーギルの研究員B",
       "阿戈尔研究员B"
     ]
   ],
@@ -9934,9 +10020,19 @@
       "avg_npc_1396_1"
     ],
     [
+      "Academy of Technology Researcher",
+      "Beacon Tower Technician",
+      "Pappus",
+      "Port Administrator",
+      "Ægir Technician",
+      "エーギルの技術者",
+      "ターミナル港管理官",
+      "パプス",
+      "ビーコン塔技術者",
       "信标塔技术员",
       "帕波斯",
       "技术院科研人员",
+      "技術アカデミー研究員",
       "港口枢纽管理员",
       "阿戈尔技术员"
     ]
@@ -9946,7 +10042,11 @@
       "avg_npc_1397_1"
     ],
     [
+      "'Researcher A'",
+      "Academy of Science Researcher",
       "“研究员A”",
+      "「研究員A」",
+      "科学アカデミー研究員",
       "科学院研究员"
     ]
   ],
@@ -9955,8 +10055,14 @@
       "avg_npc_1398_1"
     ],
     [
+      "Battleship Pilot",
+      "Legion Soldier",
+      "Ægir Soldier",
+      "エーギルの兵士",
       "军团士兵",
       "战列舰驾驶员",
+      "戦艦の操舵手",
+      "軍団兵士",
       "阿戈尔士兵"
     ]
   ],
@@ -9965,6 +10071,8 @@
       "avg_npc_1399_1"
     ],
     [
+      "Ægir Officer",
+      "エーギルの士官",
       "阿戈尔军官"
     ]
   ],
@@ -10049,7 +10157,9 @@
       "avg_npc_1400_1"
     ],
     [
-      "军团长官"
+      "Legion Commander",
+      "军团长官",
+      "軍団長官"
     ]
   ],
   [
@@ -10057,7 +10167,13 @@
       "avg_npc_1401_1"
     ],
     [
+      "'Little Handy'",
+      "'Little Handy' at the Street Corner",
+      "'Little Handy' from Institute of Facility Management",
+      "'Little Handy' from the Institute of Facility Management",
       "“小帮手”",
+      "「リトル・ハンディ」",
+      "街角の「リトル・ハンディ」",
       "街角的“小帮手”",
       "设施管理所的“小帮手”"
     ]
@@ -14585,7 +14701,6 @@
       "Peculiar-looking Elder",
       "ナハツェーラーの王",
       "ネツァレム",
-      "ネツレイ",
       "奇妙な老人",
       "孽茨雷",
       "样貌奇特的老者",
@@ -14819,6 +14934,7 @@
       "avg_npc_454_1"
     ],
     [
+      "'Deacon'",
       "Church of the Deep Cultist B",
       "Priest",
       "Silent Cultist",
@@ -14826,6 +14942,7 @@
       "Tight-Lipped Adherent",
       "Wounded Cultist",
       "“助祭”",
+      "「助祭」",
       "傷付いた深海教徒",
       "受伤的教徒",
       "古怪的杀手",
@@ -14866,10 +14983,12 @@
       "avg_npc_457_1"
     ],
     [
+      "'Assistant'",
       "Dying Sea Terror",
       "Sea Monster",
       "Sea Terror",
       "“助手”",
+      "「アシさん」",
       "怪物",
       "恐魚",
       "恐鱼",
@@ -14918,6 +15037,7 @@
       "avg_npc_460_1"
     ],
     [
+      "Inquisition Clerk",
       "Panicking Townsfolk",
       "Panicking Townsperson",
       "Panicky Villager",
@@ -14936,7 +15056,8 @@
       "慌张的镇民",
       "戸惑う町民",
       "紧张的镇民",
-      "若い宣教師"
+      "若い宣教師",
+      "裁判所事務員"
     ]
   ],
   [
@@ -15712,18 +15833,21 @@
     [
       "Citizen?",
       "Contestant B",
+      "Flustered Pioneer",
       "Frontier Team Member",
       "Homeless Resident",
       "Ordinary citizens?",
       "Pioneer",
       "Pioneer Team Member",
       "Rhine Lab Task Force Messenger",
+      "Scarred Pioneer",
       "Weary Pioneer",
       "トランスポーター",
       "一般市民？",
       "参加者B",
       "参赛者B",
       "市民？",
+      "慌てる開拓者",
       "慌张的拓荒者",
       "拓荒者A",
       "拓荒者B",
@@ -15735,7 +15859,8 @@
       "脸上带疤的拓荒者",
       "莱茵生命特遣信使",
       "行く当てのない市民",
-      "開拓隊の隊員"
+      "開拓隊の隊員",
+      "顔に傷跡のある開拓者"
     ]
   ],
   [
@@ -16732,6 +16857,7 @@
       "Layton",
       "Loyal Mafioso",
       "Mafioso",
+      "Mafioso B",
       "Mafioso G",
       "Radical Mafioso",
       "Saluzzo Guard",
@@ -16743,6 +16869,7 @@
       "ベッローネの用心棒",
       "マフィア",
       "マフィアG",
+      "マフィアの構成員B",
       "リントン",
       "嚣张的家族成员",
       "多疑的家族成员",
@@ -16777,10 +16904,12 @@
       "Bailiff",
       "Bodyguard",
       "Judge's Subordinate",
+      "Mafioso A",
       "Resolute Bailiff",
       "Serious Bailiff",
       "“法官”下属",
       "「裁判官」の部下",
+      "マフィアの構成員A",
       "凶狠的家族成员",
       "坚定的法庭护卫",
       "家族成员A",
@@ -18291,7 +18420,9 @@
       "Logistics Operator",
       "Procurement Operator",
       "Rhodes Island Landship Operator A",
+      "Rhodes Island Messenger",
       "ファロン",
+      "ロドストランスポーター",
       "人事オペレーター",
       "人事干员",
       "人事部オペレーター",
@@ -18320,7 +18451,7 @@
       "Records Room Operator",
       "Rhodes Island Landship Operator B",
       "Rubber",
-      "イレイザー",
+      "ラバー",
       "人事部オペレーター",
       "人事部干员",
       "后勤干员",
