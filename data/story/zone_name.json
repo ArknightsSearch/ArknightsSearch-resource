@@ -254,6 +254,9 @@
   "act38side": {
     "zh_CN": "揭幕者们"
   },
+  "act39side": {
+    "zh_CN": "出苍白海"
+  },
   "act3d0": {
     "en_US": "Heart of Surging Flame",
     "ja_JP": "青く燃ゆる心",
@@ -1417,6 +1420,9 @@
     "ja_JP": "ロープ",
     "zh_CN": "暗索"
   },
+  "rosesa": {
+    "zh_CN": "瑰盐"
+  },
   "savage": {
     "en_US": "Savage",
     "ja_JP": "サベージ",
@@ -1586,6 +1592,9 @@
     "en_US": "Tequila",
     "ja_JP": "テキーラ",
     "zh_CN": "龙舌兰"
+  },
+  "tecno": {
+    "zh_CN": "特克诺"
   },
   "texas": {
     "en_US": "Texas",
