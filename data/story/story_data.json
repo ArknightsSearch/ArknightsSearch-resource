@@ -8158,6 +8158,33 @@
     "code": null,
     "zone": "rogue_4"
   },
+  "1675": {
+    "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_7_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "弯路的终点 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_4"
+  },
+  "1676": {
+    "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_7_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "弯路的终点 Part.02"
+    },
+    "code": null,
+    "zone": "rogue_4"
+  },
+  "1677": {
+    "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_7_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "弯路的终点 Part.03"
+    },
+    "code": null,
+    "zone": "rogue_4"
+  },
   "168": {
     "id": "obt/main/level_main_09-03_end",
     "type": "Main",
