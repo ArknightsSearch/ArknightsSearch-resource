@@ -370,6 +370,7 @@
       "Mays",
       "Reunion Caster",
       "Reunion?",
+      "Ursus Caster",
       "イラ",
       "ウルサス術師",
       "メイズ",
@@ -3046,6 +3047,7 @@
     ],
     [
       "Fischer",
+      "Mr. Conrad",
       "コンラッド先生",
       "フィッシャー",
       "康拉德先生",
@@ -3276,6 +3278,9 @@
       "avg_4058_pepe_1"
     ],
     [
+      "Ceremony Host",
+      "Pepe",
+      "Woman Behind the Jeweled Screen",
       "ぺぺ",
       "佩佩",
       "司会者",
@@ -3787,6 +3792,9 @@
       "avg_4138_narant_1"
     ],
     [
+      "Narantuya",
+      "Odd Woman",
+      "Shady Woman",
       "こそこそする女性",
       "ナラントゥヤ",
       "古怪的女人",
@@ -3800,6 +3808,8 @@
       "avg_4139_papyrs_1"
     ],
     [
+      "Anat",
+      "Frantic Girl",
       "アナト",
       "匆忙的女孩",
       "忙しない少女",
@@ -3812,6 +3822,9 @@
       "avg_4140_lasher_1"
     ],
     [
+      "Aloof Citizen",
+      "Lazvar",
+      "Slumbering Citizen",
       "クールな市民",
       "ラズバール",
       "冷傲的市民",
@@ -4240,6 +4253,7 @@
       "avg_464_cement_1"
     ],
     [
+      "Shana",
       "シャナ",
       "夏娜"
     ]
@@ -4872,6 +4886,7 @@
       "A Spectating Infected",
       "Bar Owner",
       "Depressed Worker",
+      "Diligent Miner",
       "Engineer Andrey",
       "General Storekeeper",
       "Infected Employee B",
@@ -5456,6 +5471,7 @@
       "Guard Defender A",
       "Investigator",
       "Mine Guard",
+      "Museum Security",
       "Organizing Committee Member",
       "Otti",
       "Party Security Detail",
@@ -7576,6 +7592,7 @@
     ],
     [
       "Left-Behind Creature",
+      "Tiny Creature",
       "取り残された生物",
       "外形小巧的生物",
       "小さい生物",
@@ -7618,6 +7635,7 @@
     ],
     [
       "Agitated Creature",
+      "Anxious Creature",
       "焦る生物",
       "着急的生物"
     ]
@@ -7680,6 +7698,7 @@
       "avg_npc_1012_1"
     ],
     [
+      "Dazed Creature",
       "Dozy Creature",
       "ぼうっとした生物",
       "ぼんやりしている生物",
@@ -8603,6 +8622,7 @@
       "avg_npc_1185_1"
     ],
     [
+      "Hard-Working Miner",
       "Infected Worker",
       "Mine Captain",
       "Worker 'Brake'",
@@ -8625,6 +8645,7 @@
       "Company Representative",
       "Somewhat Familiar Woman",
       "Strange Lady",
+      "Weary Miner",
       "Worker 'Motor'",
       "「モーター」",
       "企業代表",
@@ -8657,6 +8678,7 @@
       "avg_npc_1189_1"
     ],
     [
+      "Sandbeast",
       "サンドビースト",
       "沙地兽"
     ]
@@ -9171,6 +9193,7 @@
       "avg_npc_1256_1"
     ],
     [
+      "Bejeweled Man",
       "兴奋的商人",
       "厂长",
       "商人",
@@ -9184,6 +9207,7 @@
       "avg_npc_1257_1"
     ],
     [
+      "Foreign Merchant",
       "外国の豪商",
       "外国富商",
       "谄媚的贵族"
@@ -9194,6 +9218,7 @@
       "avg_npc_1258_1"
     ],
     [
+      "Elegant Woman",
       "優美な女性",
       "风姿绰约的女人"
     ]
@@ -10431,6 +10456,9 @@
       "avg_npc_1477_1"
     ],
     [
+      "Aspasia",
+      "Ceremony Host",
+      "Minoan Traveler",
       "アスパシア",
       "ミノスの観光客",
       "司会者",
@@ -10444,6 +10472,7 @@
       "avg_npc_1478_1"
     ],
     [
+      "Medjehtiqedti",
       "メジェティクティ",
       "梅捷缇克缇"
     ]
@@ -10453,6 +10482,8 @@
       "avg_npc_1479_1"
     ],
     [
+      "Nameless Mummy",
+      "Zubayr",
       "ズバイル",
       "名もなきミイラ",
       "无名古尸",
@@ -10464,6 +10495,7 @@
       "avg_npc_1480_1"
     ],
     [
+      "Quiet Youth",
       "安静的青年",
       "落ち着いた青年"
     ]
@@ -10473,6 +10505,8 @@
       "avg_npc_1481_1"
     ],
     [
+      "Injured Youth",
+      "Quiet Youth",
       "受伤的少年",
       "安静的少年",
       "怪我した少年",
@@ -10484,6 +10518,8 @@
       "avg_npc_1482_1"
     ],
     [
+      "Mio",
+      "Mysterious Animal",
       "ミオ",
       "神秘的动物",
       "米奥",
@@ -10495,6 +10531,8 @@
       "avg_npc_1483_1"
     ],
     [
+      "Mysterious Animal",
+      "Woof",
       "ワオ",
       "沃奥",
       "神秘的动物",
@@ -10506,6 +10544,9 @@
       "avg_npc_1484_1"
     ],
     [
+      "Ajazi",
+      "Sycophantic Employee",
+      "Wandering Staff",
       "アジャジ",
       "乱转的员工",
       "媚びる職員",
@@ -10519,6 +10560,10 @@
       "avg_npc_1485_1"
     ],
     [
+      "Ajani",
+      "Ajazi and Ajani",
+      "Ingratiating Employee",
+      "Lazvar",
       "おだてる職員",
       "アジャジ＆アジャニ",
       "アジャニ",
@@ -10534,6 +10579,7 @@
       "avg_npc_1486_1"
     ],
     [
+      "Foreign Traveler",
       "异乡的游客",
       "観光客"
     ]
@@ -10543,6 +10589,7 @@
       "avg_npc_1487_1"
     ],
     [
+      "Herald of the City of Gold",
       "来自黄金之城的使者",
       "黄金の都市からの使者"
     ]
@@ -10552,6 +10599,7 @@
       "avg_npc_1488_1"
     ],
     [
+      "Jewel Construct",
       "宝石构装体",
       "貴石の使い"
     ]
@@ -10561,6 +10609,12 @@
       "avg_npc_1490_1"
     ],
     [
+      "Elegant Man",
+      "Extremely Idle Citizen",
+      "Gathering Staff",
+      "Museum Receptionist",
+      "Museum Staff",
+      "Waiter",
       "ウェイター",
       "ホテルの受付係",
       "优雅的男子",
@@ -10581,6 +10635,15 @@
       "avg_npc_1491_1"
     ],
     [
+      "Ceremony Host",
+      "Eager Woman",
+      "Incredibly Bored Citizen",
+      "Mother",
+      "Museum Staff",
+      "Museum Ticketer",
+      "Picky Visitor",
+      "Plainly-Dressed Woman",
+      "Rashad",
       "ラサド",
       "優しい母親",
       "博物館チケット販売員",
@@ -10608,6 +10671,10 @@
       "avg_npc_1492_1"
     ],
     [
+      "Anxious Passerby",
+      "Gem Collector",
+      "Lamplighter",
+      "Noble Scholar",
       "ランプライター",
       "出身高贵的学者",
       "宝石収集家",
@@ -10623,6 +10690,7 @@
       "avg_npc_1493_1"
     ],
     [
+      "Happy Lady",
       "ご機嫌な婦人",
       "欢乐的妇人"
     ]
@@ -10632,6 +10700,10 @@
       "avg_npc_1494_1"
     ],
     [
+      "Male Trading Post Staff",
+      "Nervous Ceremony Judge",
+      "Terrified Ceremony Judge",
+      "Well-Dressed Citizen",
       "交易所男员工",
       "凝った服装の市民",
       "取引所の男性スタッフ",
@@ -10647,6 +10719,9 @@
       "avg_npc_1495_1"
     ],
     [
+      "Female Trading Post Staff",
+      "Gem Merchant",
+      "Meticulous Ceremony Judge",
       "严谨的集会裁判",
       "交易所女员工",
       "取引所の女性スタッフ",
@@ -10659,6 +10734,7 @@
       "avg_npc_1496_1"
     ],
     [
+      "Curious Child",
       "好奇的孩子",
       "興味津々の子供"
     ]
@@ -10668,6 +10744,12 @@
       "avg_npc_1497_1"
     ],
     [
+      "Curious Girl",
+      "Girl by the Shore",
+      "Happy Girl",
+      "Sad Girl",
+      "Sobbing Girl",
+      "Young Visitor",
       "すすり泣く女の子",
       "伤心的女孩",
       "傷付いた少女",
@@ -11173,6 +11255,7 @@
       "Anum",
       "Calm Woman",
       "Caravan Head",
+      "Cheerful Former Desert Bandit",
       "Emilia",
       "Grimed Woman",
       "Passerby Sargon Townsfolk",
@@ -11239,6 +11322,7 @@
     ],
     [
       "Basil",
+      "Doubtful Former Desert Bandit",
       "Impatient Ambassador",
       "Infected Townsfolk",
       "Mayor",
@@ -11383,6 +11467,7 @@
       "Self-Satisfied Noble Alumna",
       "Wealthy Woman",
       "Witty Noble",
+      "Woman of High Status",
       "ためらう使節",
       "キャラバンのリーダー",
       "ユーモラスな貴族",
@@ -11528,6 +11613,7 @@
       "Cowell",
       "Eager Investor",
       "Extremely Serious Councilor",
+      "High-status Magnate",
       "Hughes",
       "Local Judge B",
       "Londinium Merchant",
@@ -11974,6 +12060,7 @@
       "Startled Male Tourist",
       "Terrified Male Tourist",
       "Tourist",
+      "Visitor On Hoverboard",
       "せっかちな男性選手",
       "カジノの客",
       "スクーターに乗る客",
@@ -12718,6 +12805,7 @@
     ],
     [
       "Anxious Child",
+      "Billy",
       "Child",
       "Craig",
       "Dirt-Poor Peddler",
@@ -12820,6 +12908,7 @@
       "avg_npc_242"
     ],
     [
+      "'Engineer'",
       "Amazed Passerby",
       "Angry Citizen",
       "Angry Youth",
@@ -12966,6 +13055,7 @@
       "Cautious Servant",
       "Feeble Woman",
       "Infected Citizen",
+      "Information Broker",
       "Lively Female Patient",
       "Maid",
       "Noble Sister",
@@ -14898,6 +14988,7 @@
       "Lanky Inventor",
       "Londinium Citizen",
       "Londinium Citizen B",
+      "New Teacher",
       "Strange Woman",
       "Tamika",
       "すらっとした発明家",
@@ -15701,6 +15792,7 @@
       "Expectant Audience Member",
       "Friendly Infected",
       "Leonie",
+      "Mayor",
       "Onlooking Passerby B",
       "Tough Infected",
       "うなだれる感染者",
@@ -15883,6 +15975,7 @@
       "Street Hawker",
       "Surprised Tourist",
       "Suspicious Liberi",
+      "Tourist With Coins",
       "Vice President's Secretary",
       "ご機嫌なクルビア人",
       "ミレース",
@@ -15938,6 +16031,7 @@
       "Reporter A",
       "Staff Worker",
       "Tall Woman",
+      "Tourist Reading Guide",
       "Trimountarian",
       "Unfamiliar Researcher",
       "せっかちな記者",
@@ -16905,8 +16999,13 @@
       "avg_npc_661_1"
     ],
     [
+      "Curious Girl",
+      "Enthusiastic Student",
       "Farmer",
+      "Hollering Student",
+      "Hope",
       "Innocent Child",
+      "Madeline",
       "Old Man",
       "Repulsed Child",
       "Tyrant",
@@ -17250,7 +17349,10 @@
     ],
     [
       "Luna",
+      "Mischievous Student",
+      "Note-Passing Student",
       "Rubio's Daughter",
+      "Selene",
       "Thin Girl",
       "わんぱくな生徒",
       "セレーネ",
@@ -17910,6 +18012,9 @@
       "avg_npc_804_1"
     ],
     [
+      "Bejeweled Citizen",
+      "Extravagant Man",
+      "Extravagant Traveler",
       "宝石で飾り立てた市民",
       "王酋",
       "珠光宝气的市民",
@@ -18385,6 +18490,7 @@
       "Dying Infected",
       "Impatient Civilian",
       "Indifferent Civilian",
+      "Kazdelian Outskirter A",
       "Parker",
       "Sarkaz Civilian",
       "Sarkaz Mercenary",
@@ -18454,6 +18560,7 @@
       "Concerned Sarkaz",
       "Excited Sarkaz",
       "Frightened Sarkaz",
+      "Kazdelian Outskirter B",
       "Monastery Inhabitant",
       "Sarkaz Hunter",
       "カズデル周辺の住民B",
