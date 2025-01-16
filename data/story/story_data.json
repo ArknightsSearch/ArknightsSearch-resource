@@ -6861,7 +6861,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "夜色中的第一步",
-      "ja_JP": "闇夜から歩き出して"
+      "ja_JP": "闇夜から歩き出して",
+      "en_US": "The First Step Into Night"
     },
     "code": null,
     "zone": "agoat2"
@@ -6871,7 +6872,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "在卡兹戴尔",
-      "ja_JP": "カズデルにて"
+      "ja_JP": "カズデルにて",
+      "en_US": "In Kazdel"
     },
     "code": null,
     "zone": "mudrok"
@@ -6881,7 +6883,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "遗失之物",
-      "ja_JP": "失くし物"
+      "ja_JP": "失くし物",
+      "en_US": "Things Left Behind"
     },
     "code": null,
     "zone": "lasher"
@@ -6891,7 +6894,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "旧日歌谣",
-      "ja_JP": "過去の歌"
+      "ja_JP": "過去の歌",
+      "en_US": "Songs of Old"
     },
     "code": null,
     "zone": "puzzle"
@@ -6901,7 +6905,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "矿井里的太阳",
-      "ja_JP": "坑道の中の太陽"
+      "ja_JP": "坑道の中の太陽",
+      "en_US": "Sun in the Mine"
     },
     "code": null,
     "zone": "cement"
@@ -6911,7 +6916,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "阳光洒落之前",
-      "ja_JP": "陽光が降り注ぐ前に"
+      "ja_JP": "陽光が降り注ぐ前に",
+      "en_US": "Before the Spilling Sunlight"
     },
     "code": null,
     "zone": "pianst"
@@ -11310,7 +11316,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "辉煌之城",
-      "ja_JP": "輝ける都市"
+      "ja_JP": "輝ける都市",
+      "en_US": "City of Radiance"
     },
     "code": "AS-ST-1",
     "zone": "act35side"
@@ -11320,7 +11327,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "节前热身",
-      "ja_JP": "お祭り前の肩慣らし"
+      "ja_JP": "お祭り前の肩慣らし",
+      "en_US": "Warm-Up"
     },
     "code": "AS-1",
     "zone": "act35side"
@@ -11330,7 +11338,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "节前热身",
-      "ja_JP": "お祭り前の肩慣らし"
+      "ja_JP": "お祭り前の肩慣らし",
+      "en_US": "Warm-Up"
     },
     "code": "AS-1",
     "zone": "act35side"
@@ -11340,7 +11349,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "馆中特别行动",
-      "ja_JP": "館内特殊作戦"
+      "ja_JP": "館内特殊作戦",
+      "en_US": "Special Museum Operation"
     },
     "code": "AS-2",
     "zone": "act35side"
@@ -11361,7 +11371,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "馆中特别行动",
-      "ja_JP": "館内特殊作戦"
+      "ja_JP": "館内特殊作戦",
+      "en_US": "Special Museum Operation"
     },
     "code": "AS-2",
     "zone": "act35side"
@@ -11371,7 +11382,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "相约大巴扎",
-      "ja_JP": "グランドバザールで会おう"
+      "ja_JP": "グランドバザールで会おう",
+      "en_US": "Take Me Out to the Grand Bazaar"
     },
     "code": "AS-3",
     "zone": "act35side"
@@ -11381,7 +11393,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "相约大巴扎",
-      "ja_JP": "グランドバザールで会おう"
+      "ja_JP": "グランドバザールで会おう",
+      "en_US": "Take Me Out to the Grand Bazaar"
     },
     "code": "AS-3",
     "zone": "act35side"
@@ -11391,7 +11404,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "家传金拖鞋",
-      "ja_JP": "伝家の黄金サンダル"
+      "ja_JP": "伝家の黄金サンダル",
+      "en_US": "Family Golden Slipper"
     },
     "code": "AS-4",
     "zone": "act35side"
@@ -11401,7 +11415,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "家传金拖鞋",
-      "ja_JP": "伝家の黄金サンダル"
+      "ja_JP": "伝家の黄金サンダル",
+      "en_US": "Family Golden Slipper"
     },
     "code": "AS-4",
     "zone": "act35side"
@@ -11411,7 +11426,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "文物也上班",
-      "ja_JP": "働く展示物"
+      "ja_JP": "働く展示物",
+      "en_US": "A Job for a Museum Collection"
     },
     "code": "AS-5",
     "zone": "act35side"
@@ -11421,7 +11437,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "文物也上班",
-      "ja_JP": "働く展示物"
+      "ja_JP": "働く展示物",
+      "en_US": "A Job for a Museum Collection"
     },
     "code": "AS-5",
     "zone": "act35side"
@@ -11431,7 +11448,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "苏醒的城市",
-      "ja_JP": "目覚める都市"
+      "ja_JP": "目覚める都市",
+      "en_US": "Stirring City"
     },
     "code": "AS-ST-2",
     "zone": "act35side"
@@ -11441,7 +11459,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "过往云烟",
-      "ja_JP": "霧散する過去"
+      "ja_JP": "霧散する過去",
+      "en_US": "Whispers of the Past"
     },
     "code": "AS-6",
     "zone": "act35side"
@@ -11451,7 +11470,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "谁是宠物？",
-      "ja_JP": "どっちがペット？"
+      "ja_JP": "どっちがペット？",
+      "en_US": "Who You Callin' Pet?"
     },
     "code": "AS-7",
     "zone": "act35side"
@@ -11472,7 +11492,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "黄沙尽头",
-      "ja_JP": "黄砂の果てに"
+      "ja_JP": "黄砂の果てに",
+      "en_US": "Ends of the Sands"
     },
     "code": "AS-8",
     "zone": "act35side"
@@ -11482,7 +11503,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "黄沙尽头",
-      "ja_JP": "黄砂の果てに"
+      "ja_JP": "黄砂の果てに",
+      "en_US": "Ends of the Sands"
     },
     "code": "AS-8",
     "zone": "act35side"
@@ -11492,7 +11514,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "向过去告别",
-      "ja_JP": "過去に別れを"
+      "ja_JP": "過去に別れを",
+      "en_US": "Farewell to the Past"
     },
     "code": "AS-9",
     "zone": "act35side"
@@ -11502,7 +11525,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "向过去告别",
-      "ja_JP": "過去に別れを"
+      "ja_JP": "過去に別れを",
+      "en_US": "Farewell to the Past"
     },
     "code": "AS-9",
     "zone": "act35side"
@@ -11512,7 +11536,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "十字路口，再出发",
-      "ja_JP": "十字路に立ち、再出発"
+      "ja_JP": "十字路に立ち、再出発",
+      "en_US": "Crossroads, New Journey"
     },
     "code": "AS-ST-3",
     "zone": "act35side"
