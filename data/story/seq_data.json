@@ -3448,6 +3448,8 @@
     ],
     [
       "Potlid",
+      "Warmy",
+      "ウォーミー",
       "小锅盖",
       "温米",
       "鍋蓋ちゃん"
@@ -3530,6 +3532,8 @@
       "avg_4100_caper_1"
     ],
     [
+      "Caper",
+      "ケイパー",
       "跃跃"
     ]
   ],
@@ -3906,9 +3910,15 @@
       "avg_4146_nymph_1"
     ],
     [
+      "Familiar Voice",
+      "Nymph",
+      "Overwhelmed Girl",
+      "ニンフ",
       "妮芙",
+      "慌てふためく少女",
       "焦头烂额的女孩",
-      "熟悉的声音"
+      "熟悉的声音",
+      "聞き覚えのある声"
     ]
   ],
   [
@@ -3916,6 +3926,10 @@
       "avg_4147_mitm_1"
     ],
     [
+      "Leisurely Passerby",
+      "Pohl",
+      "のんびりした通行人",
+      "ペール",
       "可疑的男性",
       "悠闲的路人",
       "珀耳"
@@ -3926,6 +3940,10 @@
       "avg_4151_tinman_1"
     ],
     [
+      "Odd Passerby",
+      "Tin Man",
+      "ブリキ",
+      "奇妙な通行人",
       "奇怪的路人",
       "锡人"
     ]
@@ -4936,6 +4954,7 @@
       "Rowdy Stowaway",
       "Saloon Keeper",
       "Tired Miner",
+      "Town Projectionist",
       "Village Headman",
       "Wastelander B",
       "くたびれた労働者",
@@ -4957,6 +4976,7 @@
       "村長",
       "村长",
       "民兵B",
+      "町の映写技師",
       "疲惫的工人",
       "百货店老板",
       "粗犷的偷渡者",
@@ -5512,13 +5532,16 @@
       "Raythean Industries Security",
       "Security",
       "Security Chief",
+      "Security Guard",
       "Security Guard B",
       "Ship Guard",
+      "Snaptooth Gofer",
       "Staff",
       "Staff Worker",
       "Warehouse Watchman",
       "Worker A",
       "“利齿帮”小弟",
+      "「シャープトゥース」下っ端",
       "オーティ",
       "カジノのディーラー",
       "ギャラリーの警備員",
@@ -5558,6 +5581,7 @@
       "船长护卫",
       "艺术馆安保人员",
       "調査員",
+      "警備員",
       "警備員B",
       "警備隊長",
       "護衛",
@@ -6397,8 +6421,10 @@
       "Sarkaz Youth",
       "Slyly Smiling Sarkaz Worker",
       "Snappy Civilian",
+      "Stern Mercenary",
       "Timid Mercenary",
       "Tired Sarkaz Worker",
+      "Weapon-Maintaining Mercenary",
       "Wounded Mercenary",
       "Young Sarkaz Warrior",
       "くたびれた傭兵",
@@ -6430,6 +6456,7 @@
       "怯懦的佣兵",
       "恐ろしい平民",
       "欢呼的萨卡兹劳工",
+      "武器を直す傭兵",
       "武装した感染者",
       "武装的感染者",
       "沉默的佣兵",
@@ -6440,6 +6467,7 @@
       "無口な傭兵",
       "疲れたサルカズ労働者",
       "疲惫的萨卡兹劳工",
+      "真面目な傭兵",
       "砂トカゲ団",
       "砂トカゲ団隊長",
       "窃笑的萨卡兹劳工",
@@ -6477,12 +6505,14 @@
       "Crane",
       "Excited Mercenary",
       "Ferocious Sarkaz Bandit",
+      "Fierce Mercenary",
       "Fierce Sarkaz",
       "Grimm",
       "Guerrilla Sarkaz",
       "Mercenary Captain",
       "Panicking Sarkaz Bandit",
       "Quiet Sarkaz Worker",
+      "Returned Mercenary",
       "Sarkaz Assassin",
       "Sarkaz Mercenary",
       "Sarkaz Mercenary A",
@@ -6536,6 +6566,7 @@
       "游击队萨卡兹",
       "空腹の傭兵",
       "興奮する傭兵",
+      "荒々しい傭兵",
       "萨卡兹佣兵",
       "萨卡兹佣兵领袖",
       "萨卡兹劫匪",
@@ -6549,6 +6580,7 @@
       "萨卡兹雇佣兵B",
       "萨卡兹雇佣兵队长",
       "遊撃隊サルカズ戦士",
+      "里帰りの傭兵",
       "雇佣兵队长",
       "風変わりな町民",
       "饥饿的佣兵",
@@ -7473,6 +7505,7 @@
       "avg_npc_093"
     ],
     [
+      "Button Shop Tailor",
       "Elderly Woman",
       "Grandmother",
       "Old Granny",
@@ -7485,6 +7518,7 @@
       "おばあちゃま",
       "ウルサス市民",
       "サルニおばさん",
+      "ボタン屋裁縫師",
       "ルーバ",
       "乌萨斯平民",
       "奶奶",
@@ -8619,13 +8653,17 @@
     ],
     [
       "Burdenbeast",
+      "Burdenbeast by the Fire",
+      "Docile Burdenbeast",
       "Feisty Burdenbeast",
       "Lily",
       "Wild Burdenbeast",
+      "おとなしい駄獣",
       "リリー",
       "情熱的な駄獣",
       "拦路的驮兽",
       "温驯的驮兽",
+      "火に当たる駄獣",
       "烤火的驮兽",
       "热情的驮兽",
       "莉莉",
@@ -8832,6 +8870,8 @@
     [
       "Alert Community Guard",
       "Community Guard",
+      "Pelirrojo",
+      "「赤毛」",
       "コミュニティの見張り役",
       "专注的社区守卫",
       "真面目そうな見張り役",
@@ -9208,6 +9248,10 @@
       "avg_npc_1252_1"
     ],
     [
+      "Embarrassed Old Man",
+      "Spirited Old Man",
+      "元気な老人",
+      "困り果てた老人",
       "窘迫的老人",
       "精神的老人"
     ]
@@ -9305,11 +9349,13 @@
       "Slacking Officer",
       "Slacking Soldier",
       "Slick Soldier",
+      "Snaptooth Boss",
       "Spooked Soldier",
       "Squad Leader",
       "Tired Soldier",
       "Worn-Out Soldier",
       "“利齿帮”头领",
+      "「シャープトゥース」ボス",
       "くたびれた軍人",
       "サボっている士官",
       "サボっている軍人",
@@ -9798,10 +9844,12 @@
       "'Sarkaz'",
       "Revenant's Shadow",
       "Shadow",
+      "Slag Shadow",
       "Strange Shadow",
       "“炉渣”的阴影",
       "“萨卡兹”",
       "「サルカズ」",
+      "「スラグ」の影",
       "レヴァナントの影",
       "不気味な影",
       "怪异的影子",
@@ -9815,9 +9863,11 @@
       "avg_npc_1341_1"
     ],
     [
+      "Dying Nachzehrer",
       "Sarkaz Warrior",
       "サルカズ戦士",
       "濒死的食腐者",
+      "瀕死のナハツェーラー",
       "萨卡兹战士",
       "食腐者王庭军"
     ]
@@ -10457,9 +10507,15 @@
       "avg_npc_1452_1"
     ],
     [
+      "Gentle Woman",
+      "Northwind Witch",
+      "Qalaiša",
       "“北风女巫”",
+      "「北風の魔女」",
+      "カライシャ",
       "卡莱莎",
-      "温柔的女性"
+      "温柔的女性",
+      "穏やかな女性"
     ]
   ],
   [
@@ -10467,6 +10523,8 @@
       "avg_npc_1453_1"
     ],
     [
+      "Crownie",
+      "クラウニー",
       "克伦妮"
     ]
   ],
@@ -10475,6 +10533,8 @@
       "avg_npc_1454_1"
     ],
     [
+      "Furnace Node Keeper",
+      "中継炉の見張り番",
       "节点炉看守人"
     ]
   ],
@@ -10483,7 +10543,11 @@
       "avg_npc_1455_1"
     ],
     [
+      "Crafty Merchant",
+      "Old Woman",
+      "一人暮らしの老人",
       "年长的女性",
+      "抜け目ない商人",
       "独居的老人",
       "精明的商人"
     ]
@@ -10493,10 +10557,14 @@
       "avg_npc_1457_1"
     ],
     [
+      "Cherie",
+      "Furnaceside Kid",
+      "チェリー",
       "不服气的孩子",
       "小樱桃",
       "机灵的女孩",
-      "炉边的孩童"
+      "炉边的孩童",
+      "炉辺の子供"
     ]
   ],
   [
@@ -10579,6 +10647,7 @@
       "avg_npc_1483_1"
     ],
     [
+      "Dio",
       "Mysterious Animal",
       "Woof",
       "ワオ",
@@ -12324,6 +12393,7 @@
       "avg_npc_201"
     ],
     [
+      "Arrogant Youth",
       "Casino Guest",
       "Cheerful Male Tourist",
       "Criminal",
@@ -12337,6 +12407,7 @@
       "せっかちな男性選手",
       "カジノの客",
       "スクーターに乗る客",
+      "偉そうな青年",
       "喜んでいる男性観光客",
       "嚣张的青年",
       "害怕的男游客",
@@ -13668,9 +13739,11 @@
     ],
     [
       "Beautiful Woman",
+      "Station Staff",
       "美しい女性",
       "美丽的女性",
-      "车站员工"
+      "车站员工",
+      "駅員"
     ]
   ],
   [
@@ -13750,6 +13823,7 @@
     ],
     [
       "Bold Man",
+      "Bulky Youth",
       "Competing Vendor",
       "Kjerag Civilian C",
       "Kjerag Commoner B",
@@ -13769,6 +13843,7 @@
       "大胆な男性",
       "大胆的男性",
       "好事的老乡",
+      "屈強な青年",
       "强壮的青年",
       "李总裁",
       "活泼的谢拉格人",
@@ -13789,6 +13864,7 @@
     ],
     [
       "Burdenbeast Renter",
+      "Bystander Villager",
       "Carefree Villager",
       "Chief Kaj",
       "Common Kjerag Man",
@@ -13817,6 +13893,7 @@
       "服务员",
       "特产商人",
       "特産品商",
+      "見物する村人",
       "谢拉格商人",
       "谢拉格商人B",
       "谢拉格平民D",
@@ -13867,15 +13944,19 @@
     [
       "Calm Local",
       "Common Kjerag Woman",
+      "Depressed Passerby",
       "Kjerag Civilian B",
       "Kjerag Noble B",
       "Lively Staffer",
       "Neighbor",
+      "No-Longer-Depressed Passerby",
       "Spectating Passenger",
+      "しょげた通行人",
       "イェラグ人女性",
       "イェラグ民間人B",
       "イェラグ貴族B",
       "不再忧郁的路人",
+      "元気になった通行人",
       "冷静なイェラグ人",
       "冷静的谢拉格人",
       "忧郁的路人",
@@ -14398,11 +14479,15 @@
       "avg_npc_333_1"
     ],
     [
+      "Cold Voice",
       "Elba",
+      "Wounded Infected",
       "エルバ",
+      "冷たい声",
       "冷漠的声音",
       "受伤的感染者",
-      "艾尔瓦"
+      "艾尔瓦",
+      "負傷した感染者"
     ]
   ],
   [
@@ -14565,15 +14650,19 @@
     ],
     [
       "Devout Citizen",
+      "Handcuffed Lateran",
       "Lateran Citizen?",
       "Nervous Youth",
+      "Nimble Lateran",
       "Panicked Underling of Patia",
       "Reserved Hospital Attendant",
       "信心深い市民",
       "市民？",
       "拉特兰市民？",
+      "拘束されたラテラーノ人",
       "拘谨的医院护工",
       "敏捷的拉特兰人",
+      "機敏なラテラーノ人",
       "生真面目な看護師",
       "紧张的帕蒂亚手下",
       "紧张的青年",
@@ -14588,6 +14677,7 @@
       "avg_npc_366_1"
     ],
     [
+      "Anxious Lateran",
       "Candid Stall Owner",
       "Cheerful Neighbor",
       "Composed Lateran Citizen",
@@ -14619,6 +14709,7 @@
       "活発なラテラーノ人",
       "热情的拉特兰人",
       "無理に作り笑いする店主",
+      "焦るラテラーノ人",
       "爽やかでいたい店主",
       "爽やかでいられない店主",
       "爽やかな店主",
@@ -14644,6 +14735,7 @@
       "Amiable Hospital Attendant",
       "Ardent Lateran Citizen",
       "Chatting Passerby",
+      "Friendly Shopkeeper",
       "Hospital Careworker",
       "Hotel Manager",
       "Joyous Lateran",
@@ -14657,6 +14749,7 @@
       "焦るホテルの支配人",
       "焦急的酒店经理",
       "病院の看護師",
+      "親切な店主",
       "親切な看護師",
       "闲聊的路人",
       "雑談する通行人"
@@ -14759,11 +14852,13 @@
       "avg_npc_372_1"
     ],
     [
+      "Forthright Executor",
       "Notarial Hall Official",
       "Richele",
       "リケーレ",
       "公証人役場職員",
       "公证所职员",
+      "爽やかな執行人",
       "爽朗的执行者",
       "里凯莱"
     ]
@@ -15309,6 +15404,7 @@
       "Injured Soldier",
       "Low-Ranking Sarkaz Officer",
       "Military Commission Guard",
+      "Military Commission Soldier",
       "Panicked Royal Court Soldier",
       "Royal Court Junior Officer",
       "Royal Court Soldier",
@@ -15362,6 +15458,7 @@
       "萨卡兹王庭军B",
       "萨卡兹王庭军指挥",
       "負傷した兵士",
+      "軍事委員会の衛兵",
       "軍事委員会衛兵"
     ]
   ],
@@ -17258,10 +17355,12 @@
       "Londinium Worker",
       "Londinium Worker A",
       "Panicked Refugee",
+      "Repair Shop Machinist",
       "ロンディニウム工員",
       "ロンディニウム工員A",
       "伦蒂尼姆工人",
       "伦蒂尼姆工人A",
+      "修理屋職人",
       "修理铺钳工",
       "取り乱す難民",
       "开心的工人",
@@ -18457,7 +18556,9 @@
     ],
     [
       "Ermengarde",
+      "Nymph",
       "エルマンガルド",
+      "ニンフ",
       "埃芒加德",
       "妮芙"
     ]
@@ -18764,12 +18865,16 @@
       "'Shopkeep'",
       "Angry Sarkaz",
       "Astute Sarkaz",
+      "Bean Sprout",
       "Cautious Sarkaz Inhabitant",
       "Dying Infected",
+      "Gaunt Sarkaz",
+      "Guitar-Playing Singer",
       "Impatient Civilian",
       "Indifferent Civilian",
       "Kazdelian Outskirter A",
       "Parker",
+      "Sarkaz Artificer",
       "Sarkaz Civilian",
       "Sarkaz Mercenary",
       "“老财”",
@@ -18777,6 +18882,8 @@
       "ずる賢いサルカズ",
       "イラつく平民",
       "カズデル周辺の住民A",
+      "ギター弾きの歌い手",
+      "サルカズの職人",
       "サルカズ傭兵",
       "サルカズ平民",
       "パーカー",
@@ -18795,12 +18902,14 @@
       "愤怒的萨卡兹",
       "慎重なサルカズ住民",
       "瀕死の感染者",
+      "痩せぎすのサルカズ男性",
       "精明的萨卡兹",
       "萨卡兹凶手",
       "萨卡兹工匠",
       "萨卡兹平民",
       "萨卡兹雇佣兵",
       "谨慎的萨卡兹居民",
+      "豆もやし",
       "豆芽菜",
       "长弩"
     ]
@@ -18810,6 +18919,7 @@
       "avg_npc_933_1"
     ],
     [
+      "Broken Horn Boss",
       "Brooding Sarkaz",
       "Cautious Civilian",
       "Fernand",
@@ -18824,6 +18934,7 @@
       "暴躁的萨卡兹居民",
       "短気なサルカズ住民",
       "萨卡兹流浪者",
+      "角折れ組のボス",
       "谨慎的平民",
       "费尔南",
       "阴郁的萨卡兹"
@@ -18841,6 +18952,7 @@
       "Kazdelian Outskirter B",
       "Monastery Inhabitant",
       "Sarkaz Hunter",
+      "Street Hawker",
       "カズデル周辺の住民B",
       "サルカズの狩人",
       "两个帮派首领",
@@ -18858,7 +18970,8 @@
       "興奮するサルカズ",
       "萨卡兹猎人",
       "街边摊贩",
-      "阴沉的帮派首领"
+      "阴沉的帮派首领",
+      "露天商"
     ]
   ],
   [
@@ -18867,6 +18980,7 @@
     ],
     [
       "'Driver'",
+      "Calm Woman",
       "Caroline",
       "Indifferent Woman",
       "Sarkaz Civilian",
@@ -18890,6 +19004,7 @@
       "疲惫的萨卡兹",
       "萨卡兹居民",
       "萨卡兹平民",
+      "落ち着いた女性",
       "讥讽的平民"
     ]
   ],
