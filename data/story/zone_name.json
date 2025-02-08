@@ -135,6 +135,8 @@
     "zh_CN": "愚人节活动"
   },
   "act17mini": {
+    "en_US": "A Kazdelian Rescue",
+    "ja_JP": "溶炉「還魂」譚",
     "zh_CN": "熔炉“还魂”记"
   },
   "act17side": {
@@ -1204,6 +1206,8 @@
     "zh_CN": "薄绿"
   },
   "mitm": {
+    "en_US": "Mitm",
+    "ja_JP": "ミトム",
     "zh_CN": "渡桥"
   },
   "mizuki": {
@@ -1432,6 +1436,8 @@
     "zh_CN": "探索者的银凇止境"
   },
   "rogue_4": {
+    "en_US": "Sarkaz's Furnaceside Fables",
+    "ja_JP": "サルカズの炉辺奇談",
     "zh_CN": "萨卡兹的无终奇语"
   },
   "rope": {

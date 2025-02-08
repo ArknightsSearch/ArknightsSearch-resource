@@ -7055,7 +7055,9 @@
     "id": "obt/memory/story_caper_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "快乐之地"
+      "zh_CN": "快乐之地",
+      "ja_JP": "楽しい場所",
+      "en_US": "Happy Place"
     },
     "code": null,
     "zone": "caper"
@@ -7064,7 +7066,9 @@
     "id": "obt/memory/story_glaze_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "圣城晚照"
+      "zh_CN": "圣城晚照",
+      "ja_JP": "聖都の夕日",
+      "en_US": "Evening in the Holy City"
     },
     "code": null,
     "zone": "glaze"
@@ -7073,7 +7077,9 @@
     "id": "obt/memory/story_harold_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "老兵的义肢"
+      "zh_CN": "老兵的义肢",
+      "ja_JP": "老兵の義足",
+      "en_US": "The Veteran's Prosthetic Limb"
     },
     "code": null,
     "zone": "harold"
@@ -7093,7 +7099,9 @@
     "id": "obt/memory/story_warmy_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "未完的结局"
+      "zh_CN": "未完的结局",
+      "ja_JP": "未完の結末",
+      "en_US": "Unfinished Ending"
     },
     "code": null,
     "zone": "warmy"
@@ -8279,7 +8287,9 @@
     "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_1_1",
     "type": "Rogue",
     "name": {
-      "zh_CN": "新生代的创想 Part.01"
+      "zh_CN": "新生代的创想 Part.01",
+      "ja_JP": "新世代の発想 Part.01",
+      "en_US": "Everyday New Ideas Part.01"
     },
     "code": null,
     "zone": "rogue_4"
@@ -8288,7 +8298,9 @@
     "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_1_2",
     "type": "Rogue",
     "name": {
-      "zh_CN": "新生代的创想 Part.02"
+      "zh_CN": "新生代的创想 Part.02",
+      "ja_JP": "新世代の発想 Part.02",
+      "en_US": "Everyday New Ideas Part.02"
     },
     "code": null,
     "zone": "rogue_4"
@@ -8297,7 +8309,9 @@
     "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_1_3",
     "type": "Rogue",
     "name": {
-      "zh_CN": "新生代的创想 Part.03"
+      "zh_CN": "新生代的创想 Part.03",
+      "ja_JP": "新世代の発想 Part.03",
+      "en_US": "Everyday New Ideas Part.03"
     },
     "code": null,
     "zone": "rogue_4"
@@ -8306,7 +8320,9 @@
     "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_2_1",
     "type": "Rogue",
     "name": {
-      "zh_CN": "带我进卡兹戴尔去 Part.01"
+      "zh_CN": "带我进卡兹戴尔去 Part.01",
+      "ja_JP": "カズデルへの誘い Part.01",
+      "en_US": "Bring Me to Kazdel Part.01"
     },
     "code": null,
     "zone": "rogue_4"
@@ -8315,7 +8331,9 @@
     "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_2_2",
     "type": "Rogue",
     "name": {
-      "zh_CN": "带我进卡兹戴尔去 Part.02"
+      "zh_CN": "带我进卡兹戴尔去 Part.02",
+      "ja_JP": "カズデルへの誘い Part.02",
+      "en_US": "Bring Me to Kazdel Part.02"
     },
     "code": null,
     "zone": "rogue_4"
@@ -8324,7 +8342,9 @@
     "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_2_3",
     "type": "Rogue",
     "name": {
-      "zh_CN": "带我进卡兹戴尔去 Part.03"
+      "zh_CN": "带我进卡兹戴尔去 Part.03",
+      "ja_JP": "カズデルへの誘い Part.03",
+      "en_US": "Bring Me to Kazdel Part.03"
     },
     "code": null,
     "zone": "rogue_4"
@@ -12040,7 +12060,9 @@
     "id": "activities/act17mini/level_act17mini_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "如烟花般坠地"
+      "zh_CN": "如烟花般坠地",
+      "ja_JP": "花火の如く落ちて",
+      "en_US": "Falling Like Fireworks"
     },
     "code": "KR-ST1",
     "zone": "act17mini"
@@ -12049,7 +12071,9 @@
     "id": "activities/act17mini/level_act17mini_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "归来时的街道"
+      "zh_CN": "归来时的街道",
+      "ja_JP": "帰りの道",
+      "en_US": "The Streets on the Way Back"
     },
     "code": "KR-ST2",
     "zone": "act17mini"
@@ -12058,7 +12082,9 @@
     "id": "activities/act17mini/level_act17mini_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "披床单的怪物"
+      "zh_CN": "披床单的怪物",
+      "ja_JP": "シーツを被った怪物",
+      "en_US": "The Linen-Draped Monster"
     },
     "code": "KR-ST3",
     "zone": "act17mini"
@@ -12067,7 +12093,9 @@
     "id": "activities/act17mini/level_act17mini_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "未完成的态度"
+      "zh_CN": "未完成的态度",
+      "ja_JP": "未完成の立ち振る舞い",
+      "en_US": "Unfinished Attitude"
     },
     "code": "KR-ST4",
     "zone": "act17mini"
@@ -12087,7 +12115,9 @@
     "id": "activities/act17mini/level_act17mini_st05",
     "type": "Activity",
     "name": {
-      "zh_CN": "女巫与下午茶"
+      "zh_CN": "女巫与下午茶",
+      "ja_JP": "魔女とお茶会",
+      "en_US": "The Witch and Her Afternoon Tea"
     },
     "code": "KR-ST5",
     "zone": "act17mini"
@@ -12096,7 +12126,9 @@
     "id": "activities/act17mini/level_act17mini_st06",
     "type": "Activity",
     "name": {
-      "zh_CN": "罐头里有什么"
+      "zh_CN": "罐头里有什么",
+      "ja_JP": "缶詰の中身は？",
+      "en_US": "What's in the Can?"
     },
     "code": "KR-ST6",
     "zone": "act17mini"
