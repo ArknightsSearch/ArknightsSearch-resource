@@ -277,6 +277,9 @@
   "act40side": {
     "zh_CN": "相见欢"
   },
+  "act41side": {
+    "zh_CN": "挽歌燃烧殆尽"
+  },
   "act4d0": {
     "en_US": "Operational Intelligence",
     "ja_JP": "戦地の逸話",
@@ -503,6 +506,9 @@
     "ja_JP": "ブリーズ",
     "zh_CN": "微风"
   },
+  "brigid": {
+    "zh_CN": "水灯心"
+  },
   "broca": {
     "en_US": "Broca",
     "ja_JP": "ブローカ",
@@ -717,6 +723,11 @@
     "en_US": "Fang",
     "ja_JP": "フェン",
     "zh_CN": "芬"
+  },
+  "fartth": {
+    "en_US": "Fartooth",
+    "ja_JP": "ファートゥース",
+    "zh_CN": "远牙"
   },
   "finlpp": {
     "en_US": "Purestream",
@@ -972,6 +983,11 @@
     "en_US": "Jessica",
     "ja_JP": "ジェシカ",
     "zh_CN": "杰西卡"
+  },
+  "jnight": {
+    "en_US": "'Justice Knight'",
+    "ja_JP": "ジャスティスナイト",
+    "zh_CN": "正义骑士号"
   },
   "judge": {
     "en_US": "Penance",
