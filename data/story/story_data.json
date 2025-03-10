@@ -7492,7 +7492,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "纯属意外",
-      "ja_JP": "思いがけない出来事"
+      "ja_JP": "思いがけない出来事",
+      "en_US": "A Complete Surprise"
     },
     "code": null,
     "zone": "gdglow"
@@ -7502,7 +7503,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "密林狂想",
-      "ja_JP": "ジャングル・ファンタジア"
+      "ja_JP": "ジャングル・ファンタジア",
+      "en_US": "Jungle Fantasy"
     },
     "code": null,
     "zone": "zumama"
@@ -7512,7 +7514,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "白纸黑字",
-      "ja_JP": "書き記されたもの"
+      "ja_JP": "書き記されたもの",
+      "en_US": "Written in Black and White"
     },
     "code": null,
     "zone": "mitm"
@@ -7522,7 +7525,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "希瓦艾什的影子",
-      "ja_JP": "シルバーアッシュの影"
+      "ja_JP": "シルバーアッシュの影",
+      "en_US": "Silverash's Shadow"
     },
     "code": null,
     "zone": "blackd"
@@ -12215,7 +12219,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "源石虫农家乐",
-      "ja_JP": "オリジムシの田舎風"
+      "ja_JP": "オリジムシの田舎風",
+      "en_US": "Originium Slug Ranch"
     },
     "code": "DT-1",
     "zone": "act36side"
@@ -12225,7 +12230,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "源石虫农家乐",
-      "ja_JP": "オリジムシの田舎風"
+      "ja_JP": "オリジムシの田舎風",
+      "en_US": "Originium Slug Ranch"
     },
     "code": "DT-1",
     "zone": "act36side"
@@ -12235,7 +12241,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "雨林解毒炖汤",
-      "ja_JP": "密林解毒スープ"
+      "ja_JP": "密林解毒スープ",
+      "en_US": "Jungle Detox Stew"
     },
     "code": "DT-2",
     "zone": "act36side"
@@ -12245,7 +12252,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "雨林解毒炖汤",
-      "ja_JP": "密林解毒スープ"
+      "ja_JP": "密林解毒スープ",
+      "en_US": "Jungle Detox Stew"
     },
     "code": "DT-2",
     "zone": "act36side"
@@ -12255,7 +12263,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "黄金萝卜",
-      "ja_JP": "黄金ニンジン"
+      "ja_JP": "黄金ニンジン",
+      "en_US": "Golden Carrot"
     },
     "code": "DT-3",
     "zone": "act36side"
@@ -12276,7 +12285,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "黄金萝卜",
-      "ja_JP": "黄金ニンジン"
+      "ja_JP": "黄金ニンジン",
+      "en_US": "Golden Carrot"
     },
     "code": "DT-3",
     "zone": "act36side"
@@ -12286,7 +12296,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "烤串与预言",
-      "ja_JP": "串焼きと予言"
+      "ja_JP": "串焼きと予言",
+      "en_US": "Kebab & Prophecy"
     },
     "code": "DT-4",
     "zone": "act36side"
@@ -12296,7 +12307,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "烤串与预言",
-      "ja_JP": "串焼きと予言"
+      "ja_JP": "串焼きと予言",
+      "en_US": "Kebab & Prophecy"
     },
     "code": "DT-4",
     "zone": "act36side"
@@ -12306,7 +12318,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "会饮图",
-      "ja_JP": "饗宴の図"
+      "ja_JP": "饗宴の図",
+      "en_US": "Tipsy Merriment"
     },
     "code": "DT-5",
     "zone": "act36side"
@@ -12316,7 +12329,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "会饮图",
-      "ja_JP": "饗宴の図"
+      "ja_JP": "饗宴の図",
+      "en_US": "Tipsy Merriment"
     },
     "code": "DT-5",
     "zone": "act36side"
@@ -12326,7 +12340,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "海鲜拼盘",
-      "ja_JP": "海鮮盛り"
+      "ja_JP": "海鮮盛り",
+      "en_US": "Seafood Platter"
     },
     "code": "DT-6",
     "zone": "act36side"
@@ -12336,7 +12351,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "海鲜拼盘",
-      "ja_JP": "海鮮盛り"
+      "ja_JP": "海鮮盛り",
+      "en_US": "Seafood Platter"
     },
     "code": "DT-6",
     "zone": "act36side"
@@ -12346,7 +12362,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "健康零食",
-      "ja_JP": "ヘルシースナック"
+      "ja_JP": "ヘルシースナック",
+      "en_US": "Healthy Snacks"
     },
     "code": "DT-7",
     "zone": "act36side"
@@ -12356,7 +12373,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "健康零食",
-      "ja_JP": "ヘルシースナック"
+      "ja_JP": "ヘルシースナック",
+      "en_US": "Healthy Snacks"
     },
     "code": "DT-7",
     "zone": "act36side"
@@ -12366,7 +12384,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "罗德岛大食堂",
-      "ja_JP": "ロドス大食堂"
+      "ja_JP": "ロドス大食堂",
+      "en_US": "Rhodes Island Cafeteria"
     },
     "code": "DT-8",
     "zone": "act36side"
@@ -12387,7 +12406,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "罗德岛大食堂",
-      "ja_JP": "ロドス大食堂"
+      "ja_JP": "ロドス大食堂",
+      "en_US": "Rhodes Island Cafeteria"
     },
     "code": "DT-8",
     "zone": "act36side"
