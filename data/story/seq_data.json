@@ -2224,6 +2224,7 @@
     ],
     [
       "Anthony",
+      "Mountain",
       "アンソニー",
       "マウンテン",
       "安东尼",
@@ -3869,6 +3870,8 @@
       "avg_4141_marcil_1"
     ],
     [
+      "Chilchuck & Marcille",
+      "Marcille",
       "マルシル",
       "二人",
       "玛露西尔",
@@ -3880,6 +3883,10 @@
       "avg_4142_laios_1"
     ],
     [
+      "Chilchuck & Laios",
+      "Laios",
+      "Laios (Familiar Ver.)",
+      "Senshi & Laios",
       "センシ&ライオス",
       "ライオス",
       "二人",
@@ -3895,6 +3902,7 @@
       "avg_4143_sensi_1"
     ],
     [
+      "Senshi",
       "センシ",
       "森西"
     ]
@@ -3904,6 +3912,7 @@
       "avg_4144_chilc_1"
     ],
     [
+      "Chilchuck",
       "チルチャック",
       "齐尔查克"
     ]
@@ -3941,6 +3950,7 @@
     [
       "Leisurely Passerby",
       "Pohl",
+      "Questionable Man",
       "のんびりした通行人",
       "ペール",
       "可疑的男性",
@@ -5341,6 +5351,9 @@
     [
       "Big Bob",
       "Big Bob.",
+      "Not-So-Scary Orc",
+      "Scary Orc",
+      "Scary Orc?",
       "ビッグ・ボブ",
       "不是恐怖兽人",
       "大鲍勃",
@@ -5911,6 +5924,7 @@
       "Female Resident",
       "Female Tourist",
       "Girl",
+      "Overfamiliar Woman",
       "Passerby Diner",
       "Passerby Girl",
       "Passing Traveler",
@@ -6827,6 +6841,7 @@
       "avg_npc_068"
     ],
     [
+      "Barkeep",
       "Councilor",
       "Grocer",
       "Guide",
@@ -6905,10 +6920,13 @@
       "Archosauria Champion",
       "Archosauria D",
       "Aruna",
+      "Bright Archosauria",
+      "Bright Gator-headed Beast-man",
       "Clan Leader B",
       "Coin Dealer",
       "Courageous Archosauria",
       "Fighting Villager",
+      "Gator-headed Beast-man",
       "Groaning Archosauria",
       "Happy Archosauria",
       "Peta",
@@ -7468,10 +7486,13 @@
       "Panicked Rhodes Island Operator",
       "Piston",
       "Reserve Operator",
+      "Rhodes Island Field Operator",
       "Rhodes Island Field Operator A",
       "Rhodes Island Field Operator B",
       "Rhodes Island Operator",
+      "Ryan",
       "Serious Operator",
+      "Vanguard Operator",
       "ウィル",
       "エンジニアA",
       "エンジニアB",
@@ -8760,6 +8781,7 @@
       "Infected Worker",
       "Mine Captain",
       "Worker 'Brake'",
+      "Worker A",
       "「ブレーキ」",
       "努力的矿工",
       "工人A",
@@ -8782,6 +8804,7 @@
       "Strange Lady",
       "Weary Miner",
       "Worker 'Motor'",
+      "Worker B",
       "「モーター」",
       "企業代表",
       "公司代表",
@@ -9349,6 +9372,7 @@
     ],
     [
       "Bejeweled Man",
+      "Factory Director",
       "兴奋的商人",
       "厂长",
       "商人",
@@ -10346,6 +10370,7 @@
       "Street Stall Owner",
       "Teahouse Assistant",
       "Terrified Farmer",
+      "Townsfolk",
       "Vigilant Villager",
       "Villager",
       "Villager B",
@@ -10473,6 +10498,7 @@
       "avg_npc_1422_1"
     ],
     [
+      "'Bitey'",
       "クヒツム",
       "阿咬"
     ]
@@ -10482,6 +10508,7 @@
       "avg_npc_1424_1"
     ],
     [
+      "Ceobe?",
       "ケオベ？",
       "刻俄柏？"
     ]
@@ -10491,6 +10518,8 @@
       "avg_npc_1425_1"
     ],
     [
+      "'Lazy'",
+      "Relaxed Ink Spirit",
       "のんびりした墨魎",
       "ヤマツミ",
       "偷闲",
@@ -10502,6 +10531,8 @@
       "avg_npc_1426_1"
     ],
     [
+      "Chest",
+      "Chest?",
       "箱",
       "箱子",
       "箱子？",
@@ -10513,6 +10544,9 @@
       "avg_npc_1427_1"
     ],
     [
+      "'Angry'",
+      "Ink Spirit",
+      "Lively Ink Spirit",
       "ヨツアシ",
       "墨魉",
       "墨魎",
@@ -10526,6 +10560,7 @@
       "avg_npc_1429_1"
     ],
     [
+      "High Priest",
       "大祭司"
     ]
   ],
@@ -10534,10 +10569,13 @@
       "avg_npc_143"
     ],
     [
+      "'Bitey'",
       "'Free'",
       "Bitey",
       "Bitey & Bitey?",
+      "Gormless Ink Spirit",
       "Ink Spirit",
+      "Ink Spirits",
       "Strange Creature",
       "“自在”",
       "「ジザイ」",
@@ -10635,6 +10673,7 @@
     ],
     [
       "Cherie",
+      "Clever Girl",
       "Furnaceside Kid",
       "チェリー",
       "不服气的孩子",
@@ -12402,7 +12441,9 @@
     [
       "Male Inhabitant B",
       "Male Monastery Inhabitant",
+      "Male Resident",
       "Panicked Inhabitant",
+      "Townsfolk A",
       "うろたえる住民",
       "住民A",
       "修道院の男性住民",
@@ -12436,6 +12477,7 @@
     [
       "Male Inhabitant D",
       "Monastery Inhabitant",
+      "Townsfolk B",
       "住民B",
       "修道院住民",
       "修道院居民",
@@ -13176,6 +13218,7 @@
       "Bored Bank Employee",
       "Boy",
       "Branch Office Manager",
+      "City Council Administrator",
       "City Hall Staffer",
       "Galería Staff Worker",
       "Government Official",
@@ -13530,6 +13573,7 @@
       "Cruise Jr.",
       "Embittered Man",
       "Excited Taran Refugee",
+      "Factory Owner",
       "Frightened Youth",
       "Gangster A",
       "Gentleman",
@@ -13548,6 +13592,7 @@
       "Panicked Youth",
       "Placid Photographer",
       "Restless Youth",
+      "Suspicious Man",
       "Taran Citizen",
       "Taran Refugee",
       "Tempersome Taran Refugee",
@@ -13996,6 +14041,7 @@
     [
       "Hospitable Villager",
       "Kjerag Noble",
+      "Old Noble",
       "Teacher",
       "もてなし好きの地元民",
       "イェラグ貴族",
@@ -14284,6 +14330,7 @@
       "avg_npc_283_1"
     ],
     [
+      "Agile Kjerag Warrior",
       "Browntail Clan Warrior",
       "Browntail Clan Warrior B",
       "Guard?",
@@ -14334,6 +14381,7 @@
       "Nosy Soldier",
       "Paleroche Clan Warrior",
       "Silverash Clan Warrior D",
+      "Warriors",
       "おせっかいな戦士",
       "イェラグの狩人",
       "イェラグ戦士",
@@ -16688,6 +16736,7 @@
       "Blacksteel Clerk",
       "Cheery Woman",
       "Excited Tourist",
+      "Finance",
       "Impatient Reporter",
       "Nervous Entrepreneur",
       "Reporter",
@@ -16909,6 +16958,8 @@
       "Homeless Resident",
       "Ordinary citizens?",
       "Pioneer",
+      "Pioneer A",
+      "Pioneer B",
       "Pioneer Team Member",
       "Rhine Lab Task Force Messenger",
       "Scarred Pioneer",
@@ -17273,6 +17324,8 @@
     [
       "Strange Machine",
       "Strange Machine #0429",
+      "Strange Machine A",
+      "Strange Machine B",
       "奇怪なロボ0429",
       "奇怪なロボット",
       "奇怪なロボットA",
@@ -18051,6 +18104,7 @@
     ],
     [
       "Energetic Technician",
+      "Meticulous Man",
       "Sad Man",
       "“调度员”",
       "きれい好きの男",
@@ -18160,6 +18214,7 @@
       "Cruise Jr.",
       "Injured Refugee",
       "Maimed Citizen",
+      "Tear-Streaked Passerby",
       "Wounded Taran",
       "クルーズ",
       "受伤的塔拉人",
@@ -19172,6 +19227,7 @@
       "Astute Sarkaz",
       "Bean Sprout",
       "Cautious Sarkaz Inhabitant",
+      "Dejected Man",
       "Dying Infected",
       "Gaunt Sarkaz",
       "Guitar-Playing Singer",
@@ -19226,6 +19282,7 @@
       "avg_npc_933_1"
     ],
     [
+      "Angry Gang Leader",
       "Broken Horn Boss",
       "Brooding Sarkaz",
       "Cautious Civilian",
@@ -19255,9 +19312,11 @@
     ],
     [
       "Angry Civilian",
+      "Brooding Gang Leader",
       "Concerned Sarkaz",
       "Excited Sarkaz",
       "Frightened Sarkaz",
+      "Gang Leaders",
       "Kazdelian Outskirter B",
       "Monastery Inhabitant",
       "Sarkaz Hunter",
@@ -19545,6 +19604,7 @@
       "avg_npc_971_1"
     ],
     [
+      "Curious Operator C",
       "好奇的干员C",
       "興味津々な人々C"
     ]
@@ -19554,6 +19614,7 @@
       "avg_npc_972_1"
     ],
     [
+      "Curious Operator B",
       "Fallon",
       "Flustered HR Operator",
       "HR Operator",
@@ -19587,6 +19648,7 @@
       "avg_npc_973_1"
     ],
     [
+      "Curious Operator A",
       "HR Operator",
       "Intern Operator",
       "Logistics Operator",
