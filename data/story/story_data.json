@@ -8703,7 +8703,8 @@
     "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_3_1",
     "type": "Rogue",
     "name": {
-      "zh_CN": "提前述职 Part.01"
+      "zh_CN": "提前述职 Part.01",
+      "ja_JP": "前倒しの報告 Part.01"
     },
     "code": null,
     "zone": "rogue_4"
@@ -8712,7 +8713,8 @@
     "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_3_2",
     "type": "Rogue",
     "name": {
-      "zh_CN": "提前述职 Part.02"
+      "zh_CN": "提前述职 Part.02",
+      "ja_JP": "前倒しの報告 Part.02"
     },
     "code": null,
     "zone": "rogue_4"
@@ -8721,7 +8723,8 @@
     "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_3_3",
     "type": "Rogue",
     "name": {
-      "zh_CN": "提前述职 Part.03"
+      "zh_CN": "提前述职 Part.03",
+      "ja_JP": "前倒しの報告 Part.03"
     },
     "code": null,
     "zone": "rogue_4"
