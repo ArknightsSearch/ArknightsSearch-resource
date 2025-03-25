@@ -8704,7 +8704,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "提前述职 Part.01",
-      "ja_JP": "前倒しの報告 Part.01"
+      "ja_JP": "前倒しの報告 Part.01",
+      "en_US": "Early Debriefing Part.01"
     },
     "code": null,
     "zone": "rogue_4"
@@ -8714,7 +8715,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "提前述职 Part.02",
-      "ja_JP": "前倒しの報告 Part.02"
+      "ja_JP": "前倒しの報告 Part.02",
+      "en_US": "Early Debriefing Part.02"
     },
     "code": null,
     "zone": "rogue_4"
@@ -8724,7 +8726,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "提前述职 Part.03",
-      "ja_JP": "前倒しの報告 Part.03"
+      "ja_JP": "前倒しの報告 Part.03",
+      "en_US": "Early Debriefing Part.03"
     },
     "code": null,
     "zone": "rogue_4"
