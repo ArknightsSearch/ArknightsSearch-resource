@@ -338,6 +338,11 @@
     "ja_JP": "赤松林",
     "zh_CN": "红松林"
   },
+  "adnach": {
+    "en_US": "Adnachiel",
+    "ja_JP": "アドナキエル",
+    "zh_CN": "安德切尔"
+  },
   "aglina": {
     "en_US": "Angelina",
     "ja_JP": "アンジェリーナ",
@@ -565,6 +570,11 @@
     "en_US": "Catapult",
     "ja_JP": "カタパルト",
     "zh_CN": "空爆"
+  },
+  "ccheal": {
+    "en_US": "Gavial",
+    "ja_JP": "ガヴィル",
+    "zh_CN": "嘉维尔"
   },
   "cello": {
     "en_US": "Virtuosa",
@@ -1011,6 +1021,11 @@
     "ja_JP": "ディアマンテ",
     "zh_CN": "折光"
   },
+  "kalts": {
+    "en_US": "Kal'tsit",
+    "ja_JP": "ケルシー",
+    "zh_CN": "凯尔希"
+  },
   "kazema": {
     "en_US": "Kazemaru",
     "ja_JP": "カゼマル",
@@ -1135,6 +1150,9 @@
     "en_US": "Absolved Will Be the Seekers",
     "ja_JP": "慈悲光塔",
     "zh_CN": "慈悲灯塔"
+  },
+  "main_15": {
+    "zh_CN": "离解复合"
   },
   "main_2": {
     "en_US": "Separated Hearts",
@@ -1435,6 +1453,11 @@
     "en_US": "Frost",
     "ja_JP": "Frost",
     "zh_CN": "霜华"
+  },
+  "robin": {
+    "en_US": "Robin",
+    "ja_JP": "ロビン",
+    "zh_CN": "罗宾"
   },
   "robrta": {
     "en_US": "Roberta",
