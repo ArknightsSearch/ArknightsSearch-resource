@@ -7854,7 +7854,8 @@
     "id": "obt/memory/story_papyrs_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "玻璃窗外"
+      "zh_CN": "玻璃窗外",
+      "ja_JP": "窓の外"
     },
     "code": null,
     "zone": "papyrs"
@@ -7863,7 +7864,8 @@
     "id": "obt/memory/story_baslin_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "晚霞下的演奏"
+      "zh_CN": "晚霞下的演奏",
+      "ja_JP": "夕焼けの演奏"
     },
     "code": null,
     "zone": "baslin"
@@ -7872,7 +7874,8 @@
     "id": "obt/memory/story_ironmn_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "啮合不良"
+      "zh_CN": "啮合不良",
+      "ja_JP": "嚙み合わない歯車"
     },
     "code": null,
     "zone": "ironmn"
@@ -7881,7 +7884,8 @@
     "id": "obt/memory/story_absin_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "向死寻生"
+      "zh_CN": "向死寻生",
+      "ja_JP": "死の中にある生"
     },
     "code": null,
     "zone": "absin"
@@ -12620,7 +12624,8 @@
     "id": "activities/act37side/level_act37side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "历史的航向"
+      "zh_CN": "历史的航向",
+      "ja_JP": "歴史の針路"
     },
     "code": "GO-ST-1",
     "zone": "act37side"
@@ -12629,7 +12634,8 @@
     "id": "activities/act37side/level_act37side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "仇怨残余"
+      "zh_CN": "仇怨残余",
+      "ja_JP": "怨恨の残滓"
     },
     "code": "GO-1",
     "zone": "act37side"
@@ -12638,7 +12644,8 @@
     "id": "activities/act37side/level_act37side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "仇怨残余"
+      "zh_CN": "仇怨残余",
+      "ja_JP": "怨恨の残滓"
     },
     "code": "GO-1",
     "zone": "act37side"
@@ -12647,7 +12654,8 @@
     "id": "activities/act37side/level_act37side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "痼疾缠身"
+      "zh_CN": "痼疾缠身",
+      "ja_JP": "纏わりつく持病"
     },
     "code": "GO-2",
     "zone": "act37side"
@@ -12656,7 +12664,8 @@
     "id": "activities/act37side/level_act37side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "痼疾缠身"
+      "zh_CN": "痼疾缠身",
+      "ja_JP": "纏わりつく持病"
     },
     "code": "GO-2",
     "zone": "act37side"
@@ -12665,7 +12674,8 @@
     "id": "activities/act37side/level_act37side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "议会公决"
+      "zh_CN": "议会公决",
+      "ja_JP": "議会の決議"
     },
     "code": "GO-3",
     "zone": "act37side"
@@ -12674,7 +12684,8 @@
     "id": "activities/act37side/level_act37side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "议会公决"
+      "zh_CN": "议会公决",
+      "ja_JP": "議会の決議"
     },
     "code": "GO-3",
     "zone": "act37side"
@@ -12683,7 +12694,8 @@
     "id": "activities/act37side/level_act37side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "酒精与安慰剂"
+      "zh_CN": "酒精与安慰剂",
+      "ja_JP": "アルコールと偽薬"
     },
     "code": "GO-4",
     "zone": "act37side"
@@ -12703,7 +12715,8 @@
     "id": "activities/act37side/level_act37side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "酒精与安慰剂"
+      "zh_CN": "酒精与安慰剂",
+      "ja_JP": "アルコールと偽薬"
     },
     "code": "GO-4",
     "zone": "act37side"
@@ -12712,7 +12725,8 @@
     "id": "activities/act37side/level_act37side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "废铁与铆钉"
+      "zh_CN": "废铁与铆钉",
+      "ja_JP": "鉄クズとリベット"
     },
     "code": "GO-5",
     "zone": "act37side"
@@ -12721,7 +12735,8 @@
     "id": "activities/act37side/level_act37side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "废铁与铆钉"
+      "zh_CN": "废铁与铆钉",
+      "ja_JP": "鉄クズとリベット"
     },
     "code": "GO-5",
     "zone": "act37side"
@@ -12730,7 +12745,8 @@
     "id": "activities/act37side/level_act37side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "“晚饭宣言”"
+      "zh_CN": "“晚饭宣言”",
+      "ja_JP": "「晩餐宣言」"
     },
     "code": "GO-6",
     "zone": "act37side"
@@ -12739,7 +12755,8 @@
     "id": "activities/act37side/level_act37side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "锈王冠"
+      "zh_CN": "锈王冠",
+      "ja_JP": "錆びた王冠"
     },
     "code": "GO-7",
     "zone": "act37side"
@@ -12748,7 +12765,8 @@
     "id": "activities/act37side/level_act37side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "战火重铸之剑"
+      "zh_CN": "战火重铸之剑",
+      "ja_JP": "戦火が鋳直した剣"
     },
     "code": "GO-8",
     "zone": "act37side"
@@ -12757,7 +12775,8 @@
     "id": "activities/act37side/level_act37side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "战火重铸之剑"
+      "zh_CN": "战火重铸之剑",
+      "ja_JP": "戦火が鋳直した剣"
     },
     "code": "GO-8",
     "zone": "act37side"
@@ -12766,7 +12785,8 @@
     "id": "activities/act37side/level_act37side_09_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "英雄的落幕"
+      "zh_CN": "英雄的落幕",
+      "ja_JP": "英雄の幕引き"
     },
     "code": "GO-9",
     "zone": "act37side"
@@ -12775,7 +12795,8 @@
     "id": "activities/act37side/level_act37side_09_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "英雄的落幕"
+      "zh_CN": "英雄的落幕",
+      "ja_JP": "英雄の幕引き"
     },
     "code": "GO-9",
     "zone": "act37side"
@@ -12784,7 +12805,8 @@
     "id": "activities/act37side/level_act37side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "童话的结局"
+      "zh_CN": "童话的结局",
+      "ja_JP": "童話の終わり"
     },
     "code": "GO-ST-2",
     "zone": "act37side"
