@@ -445,6 +445,7 @@
       "avg_1019_siege2_1"
     ],
     [
+      "Vina",
       "ヴィーナ",
       "维娜"
     ]
@@ -774,6 +775,7 @@
     [
       "Misery",
       "Siege",
+      "Vina",
       "シージ",
       "ヴィーナ",
       "推进之王",
@@ -3870,6 +3872,7 @@
     [
       "Anat",
       "Frantic Girl",
+      "Papyrus",
       "アナト",
       "パピルス",
       "匆忙的女孩",
@@ -4025,6 +4028,7 @@
       "avg_4162_cathy_1"
     ],
     [
+      "Catherine",
       "キャサリン",
       "凯瑟琳"
     ]
@@ -4556,6 +4560,7 @@
       "avg_487_bobb_1"
     ],
     [
+      "Eliseo",
       "エリシオ",
       "埃利西奥"
     ]
@@ -4942,6 +4947,7 @@
       "Bread Vendor",
       "Breakfast Stall Owner",
       "Elderly Villager",
+      "Elderly Worker",
       "Farm Owner",
       "Grumpy Old Man",
       "Hurrying Worker",
@@ -6977,6 +6983,7 @@
       "Clan Leader B",
       "Coin Dealer",
       "Courageous Archosauria",
+      "Enthusiastic Villager",
       "Fighting Villager",
       "Gator-headed Beast-man",
       "Groaning Archosauria",
@@ -7048,6 +7055,7 @@
       "Curious Archosauria",
       "Excited Archosauria",
       "Furious Archosauria",
+      "Impetuous Villager",
       "Injured Villager",
       "Serious Archosauria",
       "Uda",
@@ -7102,6 +7110,7 @@
       "Archosauria C",
       "Black Market Resident",
       "Cheering Villager",
+      "Gentle Villager",
       "Sargon Villager",
       "Shy Archosauria",
       "Sorrowful Villager",
@@ -7139,6 +7148,7 @@
       "Busy Villager",
       "Frank Archosauria",
       "Sargon Villager",
+      "Stout Villager",
       "たくましい村人",
       "アダクリス人",
       "サルゴン村人",
@@ -8731,6 +8741,7 @@
       "avg_npc_1157_1"
     ],
     [
+      "Angry MP",
       "Seasoned Soldier",
       "愤怒的议员",
       "憤る議員",
@@ -9433,6 +9444,7 @@
     [
       "Bejeweled Man",
       "Factory Director",
+      "Flustered Clerk",
       "兴奋的商人",
       "厂长",
       "商人",
@@ -9448,6 +9460,7 @@
       "avg_npc_1257_1"
     ],
     [
+      "Adulating Noble",
       "Foreign Merchant",
       "こびへつらう貴族",
       "外国の豪商",
@@ -9470,6 +9483,7 @@
       "avg_npc_1259_1"
     ],
     [
+      "Unperturbed Official",
       "冷静な文官",
       "平静的文官"
     ]
@@ -10016,6 +10030,7 @@
     ],
     [
       "Dying Nachzehrer",
+      "Nachzehrer Royal Court Elites",
       "Sarkaz Warrior",
       "サルカズ戦士",
       "ナハツェーラー王庭軍",
@@ -10748,6 +10763,7 @@
       "Cherie",
       "Clever Girl",
       "Furnaceside Kid",
+      "Indignant Child",
       "チェリー",
       "不服气的孩子",
       "利発な女の子",
@@ -11090,6 +11106,7 @@
       "avg_npc_1518_1"
     ],
     [
+      "The Young Duke",
       "“小公爵”",
       "「小公爵」"
     ]
@@ -11099,6 +11116,8 @@
       "avg_npc_1519_1"
     ],
     [
+      "Diane",
+      "Discharged Female Soldier",
       "ダイアン",
       "退伍女兵",
       "退役女性兵",
@@ -11120,6 +11139,7 @@
       "avg_npc_1520_1"
     ],
     [
+      "Shearer",
       "シアラー少尉",
       "希勒少尉"
     ]
@@ -11129,6 +11149,7 @@
       "avg_npc_1521_1"
     ],
     [
+      "Mysterious Vampire",
       "神秘的血魔",
       "謎のブラッドブルード",
       "隐德来希"
@@ -11700,6 +11721,7 @@
       "Emilia",
       "Grimed Woman",
       "Passerby Sargon Townsfolk",
+      "Roaming Doctor",
       "アイマラ",
       "アナム",
       "キャラバンのリーダー",
@@ -12269,6 +12291,7 @@
       "Curious Tourist",
       "Exhausted Viscount",
       "Female Designer",
+      "Graceful MP",
       "Hesitant Ambassador",
       "Kind-Faced Noble",
       "Merry Noblewoman",
@@ -12277,6 +12300,7 @@
       "Noblewoman",
       "Opinionated Patient",
       "Pretentious Noblewoman",
+      "Reserved MP",
       "Scathing Leithanian",
       "Self-Satisfied Noble Alumna",
       "Wealthy Woman",
@@ -12349,6 +12373,8 @@
       "Announcer",
       "Bank President",
       "Casino Boss",
+      "Cheerful Noble",
+      "Earl Morrill",
       "Elegant Ambassador",
       "Emotional Councilor",
       "Enthusiastic Merchant",
@@ -12361,6 +12387,7 @@
       "Mayor",
       "Noble Gentleman",
       "Plump Merchant",
+      "Pompous Man",
       "Pompous Merchant",
       "Seasoned Investor",
       "Slimy Noble",
@@ -12443,6 +12470,7 @@
       "Cowell",
       "Eager Investor",
       "Extremely Serious Councilor",
+      "Factory Director",
       "High-status Magnate",
       "Hughes",
       "Local Judge B",
@@ -13656,6 +13684,7 @@
       "Billy",
       "Child",
       "Craig",
+      "Curious Child",
       "Dirt-Poor Peddler",
       "Emaciated Child",
       "Eric",
@@ -13663,6 +13692,7 @@
       "Jurian",
       "Knight",
       "Naughty Child",
+      "Nervous Child",
       "Small Child",
       "Taran Child",
       "Victorian Boy",
@@ -13711,6 +13741,7 @@
     ],
     [
       "Angry NCO",
+      "Composed Soldier",
       "Crumbling Soldier",
       "Gentle Officer",
       "Guards Member",
@@ -13765,6 +13796,7 @@
     ],
     [
       "'Engineer'",
+      "Agitated Citizen",
       "Amazed Passerby",
       "Angry Citizen",
       "Angry Youth",
@@ -13772,6 +13804,7 @@
       "Bent",
       "Busy Youth",
       "Catastrophe Messenger",
+      "Cheerful Soldier",
       "Chef MacMartin",
       "Community Resident",
       "Confused Resident",
@@ -13796,7 +13829,9 @@
       "Mysterious Informant",
       "Panicked Youth",
       "Placid Photographer",
+      "Ragged Citizen",
       "Restless Youth",
+      "Stan",
       "Suspicious Man",
       "Taran Citizen",
       "Taran Refugee",
@@ -13918,8 +13953,10 @@
     ],
     [
       "Apathetic Passerby",
+      "Calm Lady",
       "Cautious Servant",
       "Feeble Woman",
+      "Frightened Woman",
       "Infected Citizen",
       "Information Broker",
       "Lively Female Patient",
@@ -14023,6 +14060,9 @@
       "'Adjutant Hill'",
       "Adjutant Hill",
       "Biting Officer",
+      "Defense Force Patrol",
+      "Drunken MP",
+      "Excited Soldier",
       "Patrol Member",
       "Patrol Soldier",
       "Staff Officer",
@@ -14243,6 +14283,7 @@
       "avg_npc_271_1"
     ],
     [
+      "Receiving Attendant",
       "Scathing Nobleman",
       "冷酷な男性貴族",
       "出迎え役の従者",
@@ -14965,7 +15006,9 @@
     [
       "Bean the Infected",
       "Gordon",
+      "Ill-Intentioned Citizen",
       "Nervous Infected",
+      "Nervous Worker",
       "Pale Man",
       "ゴードン",
       "不怀好意的市民",
@@ -15478,6 +15521,7 @@
     ],
     [
       "Exemplar Soldier",
+      "Retired Exemplar",
       "Self-Salvation Corps Fighter",
       "Self-Salvation Corps Member",
       "Self-Salvation Corps Soldier",
@@ -15497,14 +15541,23 @@
       "avg_npc_399_1"
     ],
     [
+      "Alert Mercenary",
+      "Calm Mercenary",
+      "Cautious Mercenary",
       "Columbian Mercenary",
+      "Concerned Mercenary",
+      "Disdainful Mercenary",
       "Former Defense Forces Soldier",
+      "Impatient Mercenary",
       "Inspector A",
       "Inspector B",
+      "Mysterious Mercenary",
+      "Nervous Mercenary",
       "Nervous Soldier",
       "Security Detail",
       "Special Forces Captain",
       "Terrified Soldier",
+      "Tired Mercenary",
       "Unhappy Soldier",
       "Victorian Mercenary",
       "さげすむ傭兵",
@@ -15567,6 +15620,7 @@
     ],
     [
       "Clovisia",
+      "Unicorn",
       "Young-sounding Voice",
       "“独角兽”",
       "「ユニコーン」",
@@ -15663,11 +15717,14 @@
       "avg_npc_408_1"
     ],
     [
+      "Excited Soldier",
       "Flag Officer",
       "High-Ranking Officer",
+      "Impetuous Soldier",
       "Redsteel Guard Member",
       "Slippery Soldier",
       "Stern Soldier",
+      "Stressed Soldier",
       "Veteran Officer",
       "Victorian Barracks Officer",
       "Victorian Officer",
@@ -15709,6 +15766,7 @@
       "avg_npc_409_1"
     ],
     [
+      "Carefree Citizen",
       "Flag Officer",
       "Victorian Officer",
       "Victorian Soldier",
@@ -15782,6 +15840,8 @@
       "avg_npc_414_1"
     ],
     [
+      "Drunken Soldier",
+      "Excited Soldier",
       "Robben",
       "Sickly Soldier",
       "Somber Soldier",
@@ -15824,10 +15884,12 @@
       "avg_npc_416_1"
     ],
     [
+      "Amiable Merchant",
       "Astonished Resident",
       "Desperate Thug",
       "Dublinn Messenger",
       "Frightened Refugee",
+      "Gang Member",
       "Jittery Citizen",
       "Londinium Citizen",
       "Londinium Citizen?",
@@ -15881,11 +15943,13 @@
     ],
     [
       "Angry Thug",
+      "Cafeteria Manager",
       "Calm Thug",
       "Cheering Civilian",
       "Farmer",
       "Gali",
       "Hairdresser",
+      "Impatient Citizen",
       "Londinium Citizen",
       "Newsagent",
       "Skeptical Citizen",
@@ -15929,6 +15993,7 @@
       "Catastrophe Messenger",
       "Catastrophe Messenger?",
       "Earl's Attendant",
+      "Exemplar Nurse",
       "Fleeing Londinier",
       "Florist",
       "Haggard Woman",
@@ -15937,6 +16002,7 @@
       "Londinium Citizen",
       "Londinium Citizen B",
       "New Teacher",
+      "Sanatorium Patient",
       "Strange Woman",
       "Tamika",
       "すらっとした発明家",
@@ -16083,6 +16149,9 @@
       "avg_npc_422_1"
     ],
     [
+      "Diligent Guard",
+      "Trembling Voice",
+      "Victorian Sergeant",
       "Victorian Soldier",
       "テキパキと働く守衛",
       "ヴィクトリア兵士",
@@ -16099,9 +16168,13 @@
       "avg_npc_423_1"
     ],
     [
+      "Excitable Soldier",
+      "Injured Exemplar",
       "Injured Soldier",
+      "Panting Soldier",
       "Prisoner",
       "Rescued Soldier",
+      "Walker",
       "ウォーカー",
       "典范军士兵",
       "受伤的典范军士兵",
@@ -17939,9 +18012,13 @@
       "avg_npc_659_1"
     ],
     [
+      "Downtrodden Man",
       "Londinium Worker",
       "Londinium Worker B",
+      "Rowdy MP",
+      "Uneasy MP",
       "Victorian Worker",
+      "Wronged Worker",
       "“大扳手”",
       "やりきれない労働者",
       "ロンディニウム工員",
@@ -17965,6 +18042,9 @@
     ],
     [
       "Desperate Refugee",
+      "Emotional Worker",
+      "Enthusiastic Worker",
+      "Happy Worker",
       "Londinium Worker",
       "Londinium Worker A",
       "Panicked Refugee",
@@ -18001,6 +18081,8 @@
       "Madeline",
       "Old Man",
       "Repulsed Child",
+      "Sulking Child",
+      "Timid Child",
       "Tyrant",
       "Villager's Child",
       "むっとする子供",
@@ -18480,6 +18562,7 @@
     ],
     [
       "Cruise Jr.",
+      "Depressed Soldier",
       "Injured Refugee",
       "Maimed Citizen",
       "Tear-Streaked Passerby",
@@ -19154,6 +19237,7 @@
       "'Trilby Asher' & Leto",
       "Behatted Person",
       "Foreigner With a Funny Hat",
+      "Trilby Asher",
       "“灰礼帽”",
       "“灰礼帽”&烈夏",
       "“约翰·史密斯”",
@@ -19504,8 +19588,10 @@
       "Impatient Civilian",
       "Indifferent Civilian",
       "Kazdelian Outskirter A",
+      "Longshot",
       "Parker",
       "Sarkaz Artificer",
+      "Sarkaz Assassin",
       "Sarkaz Civilian",
       "Sarkaz Mercenary",
       "“老财”",
@@ -19592,6 +19678,7 @@
       "Gang Leaders",
       "Kazdelian Outskirter B",
       "Monastery Inhabitant",
+      "Nervous Woman",
       "Sarkaz Hunter",
       "Street Hawker",
       "カズデル周辺の住民B",
