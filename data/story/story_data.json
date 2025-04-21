@@ -11560,7 +11560,7 @@
     "id": "obt/main/level_main_15-10_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "目击众神死亡的荒原"
+      "zh_CN": "一段长梦将醒"
     },
     "code": "15-11",
     "zone": "main_15"
@@ -11569,7 +11569,7 @@
     "id": "obt/main/level_main_15-10_end",
     "type": "Main",
     "name": {
-      "zh_CN": "目击众神死亡的荒原"
+      "zh_CN": "一段长梦将醒"
     },
     "code": "15-11",
     "zone": "main_15"
@@ -11589,7 +11589,7 @@
     "id": "obt/main/level_main_15-11_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "成为你的眼睛"
+      "zh_CN": "目击众神死亡的荒原"
     },
     "code": "15-12",
     "zone": "main_15"
@@ -11598,7 +11598,7 @@
     "id": "obt/main/level_main_15-12_end",
     "type": "Main",
     "name": {
-      "zh_CN": "在尘或血中"
+      "zh_CN": "成为你的眼睛"
     },
     "code": "15-13",
     "zone": "main_15"
@@ -11607,7 +11607,7 @@
     "id": "obt/main/level_main_15-13_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "拒绝哀悼"
+      "zh_CN": "在尘或血中"
     },
     "code": "15-14",
     "zone": "main_15"
@@ -11616,7 +11616,7 @@
     "id": "obt/main/level_main_15-14_end",
     "type": "Main",
     "name": {
-      "zh_CN": "永恒与此刻的误差"
+      "zh_CN": "拒绝哀悼"
     },
     "code": "15-15",
     "zone": "main_15"
@@ -11625,7 +11625,7 @@
     "id": "obt/main/level_st_15-02",
     "type": "Main",
     "name": {
-      "zh_CN": "一段长梦将醒"
+      "zh_CN": "永恒与此刻的误差"
     },
     "code": "15-16",
     "zone": "main_15"
