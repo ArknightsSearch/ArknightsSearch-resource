@@ -551,6 +551,7 @@
       "char_102_texas_1"
     ],
     [
+      "Emperor",
       "Texas",
       "エンペラー",
       "テキサス",
@@ -653,6 +654,7 @@
       "avg_1038_whitw2_1"
     ],
     [
+      "Lappland",
       "ラップランド",
       "拉普兰德"
     ]
@@ -1148,6 +1150,7 @@
       "avg_1502_crosly_1"
     ],
     [
+      "Lyudmila",
       "リュドミラ",
       "柳德米拉"
     ]
@@ -2632,6 +2635,7 @@
       "char_340_shwaz_2"
     ],
     [
+      "Herman's Voice",
       "Schwarz",
       "シュヴァルツ",
       "ヘルマンの声",
@@ -3145,6 +3149,9 @@
       "avg_4026_vulpis_1"
     ],
     [
+      "Ingrid",
+      "Smiling Signora",
+      "Tipsy Vulpo",
       "ほろ酔いのヴァルポ",
       "イングリッド",
       "微笑む女性",
@@ -3359,6 +3366,7 @@
       "avg_4062_totter_1"
     ],
     [
+      "'The Sage'",
       "Totter",
       "“智者”",
       "「賢者」",
@@ -4017,6 +4025,8 @@
       "avg_4155_talr_1"
     ],
     [
+      "Apprentice Tailor",
+      "Luchino",
       "ルキーノ",
       "卢奇诺",
       "裁缝店学徒",
@@ -4734,6 +4744,7 @@
       "Infected Employee?",
       "Irritable Infected",
       "Joyful Worker",
+      "Miner ???",
       "Neighbor A",
       "Operating Crew",
       "Pondering Follower",
@@ -4825,6 +4836,7 @@
       "Lazy Community Resident",
       "Local Ruffian",
       "Luca",
+      "Miners?",
       "Neighbor B",
       "Rhodes Island Messenger",
       "Search Team Member",
@@ -5129,6 +5141,7 @@
       "Brutish Mercenary",
       "Cowardly Mercenary",
       "Crafty Robber",
+      "Cruel Bounty Hunter",
       "Crumbling Bandit",
       "Daniil",
       "Diminutive Mercenary",
@@ -5278,6 +5291,7 @@
       "Bounty Hunter",
       "Bounty Hunter B",
       "Bounty Hunter C",
+      "Bounty Hunter On Watch",
       "Caravan Guard",
       "Curious Bounty Hunter",
       "Explorer B",
@@ -5300,6 +5314,7 @@
       "Rusthammer Warrior",
       "Searching Mercenary",
       "Shrewd Bandit",
+      "Strong Bounter Hunter",
       "Survivor B",
       "Unidentified Mercenary",
       "Vicious Bandit",
@@ -5923,6 +5938,7 @@
       "Pensive Hitman",
       "Rossati Mafioso",
       "Shrewd-looking Char Siu Member",
+      "Sinister Gang Member",
       "Sly Black-Suit",
       "Stony-Faced Bodyguard",
       "Tommaso",
@@ -6857,6 +6873,7 @@
       "avg_npc_065"
     ],
     [
+      "Leithanan Traveler",
       "Rebellious Townsfolk",
       "Smiling Follower",
       "Townsfolk",
@@ -7007,6 +7024,7 @@
       "Happy Archosauria",
       "Peta",
       "Rowdy Archosauria",
+      "Sage's Attendant",
       "Tribe Priest",
       "Villager A",
       "Yogi",
@@ -7442,6 +7460,7 @@
       "Navigator A",
       "Operator Susan",
       "Rhodes Island Field Operator",
+      "Rhodes Island Messenger",
       "Rhodes Island Operator",
       "Rhodes Island Operator A",
       "Rookie Engineering Operator",
@@ -8636,6 +8655,7 @@
     ],
     [
       "Motivated Student",
+      "Young Woman",
       "娘",
       "小女儿",
       "积极的学徒",
@@ -8659,6 +8679,7 @@
     [
       "'Stubborn Apprentice'",
       "Flustered Student",
+      "Guy Next Door",
       "Stubborn Apprentice",
       "“倔强的学徒”",
       "「強情な学生」",
@@ -11189,6 +11210,7 @@
       "avg_npc_1541_1"
     ],
     [
+      "Leontuzzo",
       "レオントゥッツォ",
       "莱昂图索"
     ]
@@ -11198,6 +11220,9 @@
       "avg_npc_1542_1"
     ],
     [
+      "Anxious Truck Driver",
+      "Eirene",
+      "Woman Wearing A Red Hoodie",
       "エイレーネ",
       "伊雷妮",
       "焦るトラックドライバー",
@@ -11211,6 +11236,7 @@
       "avg_npc_1543_1"
     ],
     [
+      "Umberto",
       "ウンベルト",
       "翁贝托"
     ]
@@ -11220,6 +11246,7 @@
       "avg_npc_1544_1"
     ],
     [
+      "Antonio",
       "アントニオ",
       "安东尼奥"
     ]
@@ -11229,6 +11256,7 @@
       "avg_npc_1545_1"
     ],
     [
+      "Venezia Sr.",
       "ヴェネツィア",
       "老威尼斯"
     ]
@@ -11238,6 +11266,9 @@
       "avg_npc_1547_1"
     ],
     [
+      "Eirene",
+      "Sommer",
+      "Terrified Truck Driver",
       "エイレーネ",
       "ソマー",
       "伊雷妮",
@@ -11251,6 +11282,8 @@
       "avg_npc_1548_1"
     ],
     [
+      "Lazy Creature",
+      "Vargo",
       "ものぐさな生き物",
       "バーゴ",
       "慵懒的生物",
@@ -11262,6 +11295,9 @@
       "avg_npc_1549_1"
     ],
     [
+      "Caesar",
+      "Gentle Creature",
+      "Grandma",
       "おばあさん",
       "カエサル",
       "優しげな生き物",
@@ -11285,6 +11321,10 @@
       "avg_npc_1550_1"
     ],
     [
+      "Dockworker",
+      "Truck Driver",
+      "Truck Driver A",
+      "Truck Driver A&B",
       "トラックドライバー",
       "トラックドライバーA",
       "ドライバーA&B",
@@ -11300,6 +11340,7 @@
       "avg_npc_1551_1"
     ],
     [
+      "Noemi",
       "ノエミ",
       "诺埃米"
     ]
@@ -11309,6 +11350,7 @@
       "avg_npc_1552_1"
     ],
     [
+      "Noemi",
       "ノエミ",
       "诺埃米"
     ]
@@ -11318,6 +11360,10 @@
       "avg_npc_1553_1"
     ],
     [
+      "Anxious Officer",
+      "Busy Cop",
+      "Director",
+      "Police Officer",
       "多忙な警察官",
       "导演",
       "忙碌的警察",
@@ -11333,6 +11379,12 @@
       "avg_npc_1554_1"
     ],
     [
+      "Famiglia Company Employee",
+      "Famiglia Lawyer",
+      "Mafioso",
+      "Mafioso A",
+      "Mafioso A & B",
+      "Mafioso B",
       "ファミリーの法務",
       "ファミリー傘下企業社員",
       "マフィア",
@@ -11352,6 +11404,10 @@
       "avg_npc_1555_1"
     ],
     [
+      "Famiglia Lawyer",
+      "Mafioso",
+      "Nervous Mafioso",
+      "Terrified Mafioso",
       "ファミリー傘下企業法務",
       "マフィア",
       "家族公司法务",
@@ -11367,6 +11423,11 @@
       "avg_npc_1556_1"
     ],
     [
+      "'Carnevale Participant B'",
+      "Carnevale Participant A",
+      "Carnevale Participant B",
+      "Mafioso",
+      "Mafioso B",
       "“狂欢节路人B”",
       "「通行人B」",
       "マフィア",
@@ -11384,6 +11445,12 @@
       "avg_npc_1557_1"
     ],
     [
+      "'Carnevale Participant A'",
+      "Carnevale Participant A",
+      "Carnevale Participant B",
+      "Director",
+      "Mafioso A",
+      "Mafioso A & B",
       "“狂欢节路人A”",
       "「通行人A」",
       "マフィアA",
@@ -11421,6 +11488,8 @@
       "avg_npc_1561_1"
     ],
     [
+      "Truck Driver",
+      "Truck Driver B",
       "トラックドライバー",
       "トラックドライバーB",
       "卡车司机",
@@ -11432,6 +11501,7 @@
       "avg_npc_1562_1"
     ],
     [
+      "Panicking Clerk",
       "パニックになる事務員",
       "恐慌的文员"
     ]
@@ -11441,6 +11511,7 @@
       "avg_npc_1563_1"
     ],
     [
+      "Chatty Grooming Specialist",
       "おしゃべりな理髪師",
       "啰嗦的护理师"
     ]
@@ -11450,6 +11521,7 @@
       "avg_npc_1564_1"
     ],
     [
+      "Lappland",
       "ラップランド",
       "拉普兰德"
     ]
@@ -12552,10 +12624,12 @@
       "Noblewoman and Wealthy Man",
       "Obscured Merchant",
       "Officer-in-Charge",
+      "Old Judge",
       "Pretentious Man",
       "Representative Cooper",
       "Senior Project Manager",
       "Timid Citizen",
+      "Victorian Traveler",
       "Wealthily-Dressed Man",
       "Wealthy Man",
       "Wildly Ambitious Baron",
@@ -12992,6 +13066,7 @@
     ],
     [
       "Arrogant Youth",
+      "Bolívarian Traveler",
       "Casino Guest",
       "Cheerful Male Tourist",
       "Criminal",
@@ -13040,6 +13115,7 @@
       "Sluggish Female Tourist",
       "Startled Female Tourist",
       "Terrified Female Tourist",
+      "Waitress",
       "ウェイトレス",
       "兴奋的游客",
       "害怕的女游客",
@@ -13760,6 +13836,7 @@
       "Billy",
       "Child",
       "Craig",
+      "Cunning Boy",
       "Curious Child",
       "Dirt-Poor Peddler",
       "Emaciated Child",
@@ -14942,8 +15019,10 @@
       "Agitated Hawker",
       "Curious Passerby",
       "Feeble Apprentice",
+      "Half-Drunk Martial Artist",
       "Hawker",
       "Odd Traveler",
+      "Sober Martial Artist",
       "Street Youth",
       "Suspicious Townsfolk",
       "Tavern Assistant",
@@ -16423,6 +16502,7 @@
     ],
     [
       "Agitated Cultist",
+      "Angry Assassin",
       "Bizarre Cultist",
       "Burnt Cultist",
       "Mournful Adherent",
@@ -16455,6 +16535,7 @@
       "Church of the Deep Cultist B",
       "Priest",
       "Silent Cultist",
+      "Strange Assassin",
       "Strange Outsider",
       "Tight-Lipped Adherent",
       "Wounded Cultist",
@@ -16769,6 +16850,7 @@
       "Graf Saxon",
       "Louis",
       "Nervous Envoy",
+      "Polite Noble",
       "Pretentious Noble",
       "Solemn Man",
       "Young Noble",
@@ -16947,6 +17029,7 @@
       "Enraged Passerby?",
       "Graf's Attendant",
       "Hardware Shop Owner",
+      "Jif",
       "Messenger",
       "Neurotic Infected",
       "Noble Attendant",
@@ -17003,11 +17086,13 @@
       "Excited Afterglow Resident",
       "Frau Perry",
       "Happy Leithanian Tourist",
+      "Jif & Thiem",
       "Leithanian Woman",
       "Miss Bachmann",
       "Mummy",
       "Passerby Infected",
       "Shopkeeper",
+      "Thiem",
       "Worn-out Infected",
       "コミュニティの音楽家",
       "ティムおばさん",
@@ -17087,6 +17172,7 @@
     ],
     [
       "Cheerful Columbian",
+      "Columbian Traveler",
       "Deliveryman",
       "Driver",
       "Drunkard",
@@ -18370,8 +18456,14 @@
     [
       "Clerk",
       "Driver",
+      "Forlorn Merchant",
       "Mauro, Infected Citizen",
+      "Nervous Passerby",
       "Onsite Staff",
+      "Pastry Shop Owner",
+      "Photographer",
+      "Port Worker",
+      "Sad Citizen",
       "Terrified Waiter",
       "がっかりした商人",
       "ケーキ屋の店主",
@@ -18403,9 +18495,14 @@
     ],
     [
       "Calm Technician",
+      "City Hall Staff",
       "Clerk Teresa",
       "Community Resident",
       "Court Clerk",
+      "Flustered Government Clerk",
+      "Government Clerk",
+      "Kindly Neighbor",
+      "Private Physician",
       "Rossati Mafioso",
       "Town 'Judge'",
       "Town Judge",
@@ -18443,6 +18540,7 @@
     ],
     [
       "Angry Mafioso",
+      "Arrogant Mafioso",
       "Bellone Bodyguard",
       "Bellone Mafioso",
       "Bodyguard",
@@ -18497,6 +18595,7 @@
       "Angry Bailiff",
       "Bailiff",
       "Bodyguard",
+      "Fierce Mafioso",
       "Judge's Subordinate",
       "Mafioso A",
       "Resolute Bailiff",
@@ -18553,9 +18652,14 @@
       "avg_npc_701_1"
     ],
     [
+      "'Dispatcher'",
+      "Dispatcher",
       "Energetic Technician",
+      "Judge's Assistant",
       "Meticulous Man",
+      "Obstinate Partner",
       "Sad Man",
+      "Undercover Officer A",
       "“调度员”",
       "「管理人」",
       "きれい好きの男",
@@ -18580,6 +18684,9 @@
     ],
     [
       "Fearful Waiter",
+      "Judge's Assistant",
+      "Nurse",
+      "Undercover Officer B",
       "伪装的警察B",
       "変装した警察官B",
       "护士",
@@ -19016,6 +19123,7 @@
     [
       "Millenion",
       "Patrol Battalion Soldier",
+      "Patrol Battalion Soldier A",
       "Yumen Sentry A",
       "千人隊長",
       "千夫长",
@@ -19034,6 +19142,7 @@
     [
       "Centurion",
       "Patrol Battalion Soldier",
+      "Patrol Battalion Soldier B",
       "Yumen Sentry",
       "Yumen Sentry B",
       "巡防営守備軍",
@@ -19058,12 +19167,14 @@
       "Anxious Villager",
       "Blacksmith",
       "Drinking Old Man",
+      "Drunken Martial Artist",
       "Innkeeper",
       "Nervous Passerby",
       "Nervous Villager",
       "Passing Villager B",
       "Rescue Squad Member",
       "Roadside Inn Staff",
+      "Sober Martial Artist",
       "Tea Leaf Peddler",
       "Villager",
       "Wanderer",
