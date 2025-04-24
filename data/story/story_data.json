@@ -7899,7 +7899,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "共同建设乌提卡领",
-      "ja_JP": "共にウルティカ領のために"
+      "ja_JP": "共にウルティカ領のために",
+      "en_US": "Building Urtica Together"
     },
     "code": null,
     "zone": "lessng"
@@ -7909,7 +7910,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "最后的比武",
-      "ja_JP": "最後の比武"
+      "ja_JP": "最後の比武",
+      "en_US": "Final Tournament"
     },
     "code": null,
     "zone": "bdhkgt"
@@ -7919,7 +7921,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "普通的一天",
-      "ja_JP": "平凡な一日"
+      "ja_JP": "平凡な一日",
+      "en_US": "Just Another Day"
     },
     "code": null,
     "zone": "shwaz"
@@ -7929,7 +7932,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "双刃剑",
-      "ja_JP": "諸刃の剣"
+      "ja_JP": "諸刃の剣",
+      "en_US": "Double-Edged Sword"
     },
     "code": null,
     "zone": "vigil"
@@ -7950,7 +7954,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "向舞台前进",
-      "ja_JP": "輝きへのステップ"
+      "ja_JP": "輝きへのステップ",
+      "en_US": "To the Stage!"
     },
     "code": null,
     "zone": "sora"
@@ -7960,7 +7965,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "归乡",
-      "ja_JP": "帰郷"
+      "ja_JP": "帰郷",
+      "en_US": "Homecoming"
     },
     "code": null,
     "zone": "totter"
@@ -9106,7 +9112,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "非调谐回响的诗 Part.01",
-      "ja_JP": "不調和な反響の詩 Part.01"
+      "ja_JP": "不調和な反響の詩 Part.01",
+      "en_US": "Poems of The Non-Tuned Echo Part.01"
     },
     "code": null,
     "zone": "rogue_4"
@@ -9116,7 +9123,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "非调谐回响的诗 Part.02",
-      "ja_JP": "不調和な反響の詩 Part.02"
+      "ja_JP": "不調和な反響の詩 Part.02",
+      "en_US": "Poems of The Non-Tuned Echo Part.02"
     },
     "code": null,
     "zone": "rogue_4"
@@ -9137,7 +9145,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "非调谐回响的诗 Part.03",
-      "ja_JP": "不調和な反響の詩 Part.03"
+      "ja_JP": "不調和な反響の詩 Part.03",
+      "en_US": "Poems of The Non-Tuned Echo Part.03"
     },
     "code": null,
     "zone": "rogue_4"
@@ -12380,7 +12389,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "《新都市管理法案》",
-      "ja_JP": "『新都市管理法』 "
+      "ja_JP": "『新都市管理法』 ",
+      "en_US": "'New Urban Management Act'"
     },
     "code": "PV-ST-1",
     "zone": "act38side"
@@ -12390,7 +12400,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "失途",
-      "ja_JP": "迷走"
+      "ja_JP": "迷走",
+      "en_US": "Astray"
     },
     "code": "PV-1",
     "zone": "act38side"
@@ -12400,7 +12411,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "失途",
-      "ja_JP": "迷走"
+      "ja_JP": "迷走",
+      "en_US": "Astray"
     },
     "code": "PV-1",
     "zone": "act38side"
@@ -12421,7 +12433,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "择路",
-      "ja_JP": "選択の余地"
+      "ja_JP": "選択の余地",
+      "en_US": "Paths Taken"
     },
     "code": "PV-2",
     "zone": "act38side"
@@ -12431,7 +12444,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "择路",
-      "ja_JP": "選択の余地"
+      "ja_JP": "選択の余地",
+      "en_US": "Paths Taken"
     },
     "code": "PV-2",
     "zone": "act38side"
@@ -12441,7 +12455,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "恶客盈门",
-      "ja_JP": "悪客万来"
+      "ja_JP": "悪客万来",
+      "en_US": "Dishonored Guest"
     },
     "code": "PV-3",
     "zone": "act38side"
@@ -12451,7 +12466,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "恶客盈门",
-      "ja_JP": "悪客万来"
+      "ja_JP": "悪客万来",
+      "en_US": "Dishonored Guest"
     },
     "code": "PV-3",
     "zone": "act38side"
@@ -12461,7 +12477,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "体面来宾",
-      "ja_JP": "体裁ある来客"
+      "ja_JP": "体裁ある来客",
+      "en_US": "Honored Guest"
     },
     "code": "PV-4",
     "zone": "act38side"
@@ -12471,7 +12488,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "体面来宾",
-      "ja_JP": "体裁ある来客"
+      "ja_JP": "体裁ある来客",
+      "en_US": "Honored Guest"
     },
     "code": "PV-4",
     "zone": "act38side"
@@ -12481,7 +12499,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "《复仇禁制令》",
-      "ja_JP": "『復讐禁止令』"
+      "ja_JP": "『復讐禁止令』",
+      "en_US": "'Prohibition on Revenge'"
     },
     "code": "PV-ST-2",
     "zone": "act38side"
@@ -12491,7 +12510,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "“致新生活”",
-      "ja_JP": "「新しい人生へ」"
+      "ja_JP": "「新しい人生へ」",
+      "en_US": "To New Life"
     },
     "code": "PV-5",
     "zone": "act38side"
@@ -12501,7 +12521,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "“致新生活”",
-      "ja_JP": "「新しい人生へ」"
+      "ja_JP": "「新しい人生へ」",
+      "en_US": "To New Life"
     },
     "code": "PV-5",
     "zone": "act38side"
@@ -12511,7 +12532,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "“复仇于我”",
-      "ja_JP": "「復讐するは我にあり」"
+      "ja_JP": "「復讐するは我にあり」",
+      "en_US": "Vengeance and I"
     },
     "code": "PV-6",
     "zone": "act38side"
@@ -12532,7 +12554,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "“复仇于我”",
-      "ja_JP": "「復讐するは我にあり」"
+      "ja_JP": "「復讐するは我にあり」",
+      "en_US": "Vengeance and I"
     },
     "code": "PV-6",
     "zone": "act38side"
@@ -12542,7 +12565,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "揭幕时刻",
-      "ja_JP": "幕開けの時"
+      "ja_JP": "幕開けの時",
+      "en_US": "Curtains Lifted"
     },
     "code": "PV-7",
     "zone": "act38side"
@@ -12552,7 +12576,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "揭幕时刻",
-      "ja_JP": "幕開けの時"
+      "ja_JP": "幕開けの時",
+      "en_US": "Curtains Lifted"
     },
     "code": "PV-7",
     "zone": "act38side"
@@ -12562,7 +12587,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "无私铁棘",
-      "ja_JP": "無私の鉄茨"
+      "ja_JP": "無私の鉄茨",
+      "en_US": "Selfless Law"
     },
     "code": "PV-8",
     "zone": "act38side"
@@ -12572,7 +12598,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "无私铁棘",
-      "ja_JP": "無私の鉄茨"
+      "ja_JP": "無私の鉄茨",
+      "en_US": "Selfless Law"
     },
     "code": "PV-8",
     "zone": "act38side"
@@ -12582,7 +12609,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "《狂欢节章程》",
-      "ja_JP": "『カルネヴァーレの規則』"
+      "ja_JP": "『カルネヴァーレの規則』",
+      "en_US": "'Carnevale Charter'"
     },
     "code": "PV-ST-3",
     "zone": "act38side"
@@ -12592,7 +12620,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "狼群与群狼",
-      "ja_JP": "狼群と群狼"
+      "ja_JP": "狼群と群狼",
+      "en_US": "The Wolf and the Pack"
     },
     "code": "PV-9",
     "zone": "act38side"
@@ -12602,7 +12631,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "狼群与群狼",
-      "ja_JP": "狼群と群狼"
+      "ja_JP": "狼群と群狼",
+      "en_US": "The Wolf and the Pack"
     },
     "code": "PV-9",
     "zone": "act38side"
@@ -12612,7 +12642,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "铳响",
-      "ja_JP": "銃声"
+      "ja_JP": "銃声",
+      "en_US": "Gunshot"
     },
     "code": "PV-10",
     "zone": "act38side"
@@ -12622,7 +12653,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "铳响",
-      "ja_JP": "銃声"
+      "ja_JP": "銃声",
+      "en_US": "Gunshot"
     },
     "code": "PV-10",
     "zone": "act38side"
@@ -12643,7 +12675,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "《管理法修正案》",
-      "ja_JP": "『管理法修正案』"
+      "ja_JP": "『管理法修正案』",
+      "en_US": "'Management Act Amendment'"
     },
     "code": "PV-ST-4",
     "zone": "act38side"
