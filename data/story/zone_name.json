@@ -286,6 +286,9 @@
   "act41side": {
     "zh_CN": "挽歌燃烧殆尽"
   },
+  "act42side": {
+    "zh_CN": "众生行记"
+  },
   "act4d0": {
     "en_US": "Operational Intelligence",
     "ja_JP": "戦地の逸話",
@@ -361,6 +364,9 @@
     "en_US": "Akafuyu",
     "ja_JP": "アカフユ",
     "zh_CN": "赤冬"
+  },
+  "alanna": {
+    "zh_CN": "阿兰娜"
   },
   "almond": {
     "en_US": "Almond",
@@ -1338,6 +1344,9 @@
     "ja_JP": "ウユウ",
     "zh_CN": "乌有"
   },
+  "nowell": {
+    "zh_CN": "诺威尔"
+  },
   "orchid": {
     "en_US": "Orchid",
     "ja_JP": "オーキッド",
@@ -1615,6 +1624,11 @@
     "en_US": "Sora",
     "ja_JP": "ソラ",
     "zh_CN": "空"
+  },
+  "spikes": {
+    "en_US": "Arene",
+    "ja_JP": "アレーン",
+    "zh_CN": "芳汀"
   },
   "spot": {
     "en_US": "Spot",
