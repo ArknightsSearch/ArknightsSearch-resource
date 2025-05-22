@@ -9507,7 +9507,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "阿纳萨的路 Part.01",
-      "ja_JP": "アナサの道 Part.01"
+      "ja_JP": "アナサの道 Part.01",
+      "en_US": "Leave Thy Root Behind Part.01"
     },
     "code": null,
     "zone": "rogue_4"
@@ -9517,7 +9518,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "阿纳萨的路 Part.02",
-      "ja_JP": "アナサの道 Part.02"
+      "ja_JP": "アナサの道 Part.02",
+      "en_US": "Leave Thy Root Behind Part.02"
     },
     "code": null,
     "zone": "rogue_4"
@@ -9527,7 +9529,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "阿纳萨的路 Part.03",
-      "ja_JP": "アナサの道 Part.03"
+      "ja_JP": "アナサの道 Part.03",
+      "en_US": "Leave Thy Root Behind Part.03"
     },
     "code": null,
     "zone": "rogue_4"
