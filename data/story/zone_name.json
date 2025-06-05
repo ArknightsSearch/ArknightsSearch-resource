@@ -289,6 +289,9 @@
   "act42side": {
     "zh_CN": "众生行记"
   },
+  "act43side": {
+    "zh_CN": "红丝绒"
+  },
   "act4d0": {
     "en_US": "Operational Intelligence",
     "ja_JP": "戦地の逸話",
@@ -635,6 +638,9 @@
     "en_US": "Chestnut",
     "ja_JP": "チェストナット",
     "zh_CN": "褐果"
+  },
+  "christ": {
+    "zh_CN": "Miss.Christine"
   },
   "chyue": {
     "en_US": "Chongyue",
@@ -1309,6 +1315,11 @@
     "ja_JP": "テンニンカ",
     "zh_CN": "桃金娘"
   },
+  "narant": {
+    "en_US": "Narantuya",
+    "ja_JP": "ナラントゥヤ",
+    "zh_CN": "娜仁图亚"
+  },
   "nblade": {
     "en_US": "Yato",
     "ja_JP": "ヤトウ",
@@ -1757,6 +1768,11 @@
     "en_US": "Verdant",
     "ja_JP": "ヴァーダント",
     "zh_CN": "维荻"
+  },
+  "vvana": {
+    "en_US": "Viviana",
+    "ja_JP": "ヴィヴィアナ",
+    "zh_CN": "薇薇安娜"
   },
   "waaifu": {
     "en_US": "Waai Fu",
