@@ -664,6 +664,7 @@
       "avg_1039_thorn2_1"
     ],
     [
+      "Isidro",
       "伊西多"
     ]
   ],
@@ -1324,6 +1325,7 @@
     ],
     [
       "Enciodes",
+      "Matterhorn?",
       "SilverAsh",
       "エンシオディス",
       "シルバーアッシュ",
@@ -2451,6 +2453,7 @@
       "char_293_thorns_n_1"
     ],
     [
+      "Isidro",
       "Thorns",
       "Unremarkable Tourist",
       "ソーンズ",
@@ -4080,6 +4083,10 @@
       "avg_4163_rosesa_1"
     ],
     [
+      "Conniving Vendor",
+      "Isidro",
+      "Pascuala",
+      "Rose Salt",
       "伊西多",
       "卑鄙的摊贩",
       "帕斯卡拉",
@@ -4907,6 +4914,7 @@
       "Angry Infected",
       "Angry Miner",
       "Angry Villager",
+      "Auctioning Sailor",
       "Charlie the Sproglet",
       "Community Electrician",
       "Diner B",
@@ -5147,6 +5155,7 @@
     [
       "A Spectating Infected",
       "Bar Owner",
+      "Caravan Trader",
       "Depressed Worker",
       "Diligent Miner",
       "Engineer Andrey",
@@ -5832,6 +5841,7 @@
       "Audience Member A",
       "Audience Member C",
       "Careless Youth",
+      "Club Owner",
       "Customer A",
       "Food Stall Owner",
       "Male Tourist",
@@ -5887,6 +5897,7 @@
     [
       "Audience Member B",
       "Community Resident",
+      "Curious Tourist",
       "Customer B",
       "Female Tourist",
       "Female Tourist A",
@@ -7760,6 +7771,7 @@
       "Alsu",
       "Devout Follower",
       "Old Man",
+      "Old Villager",
       "おじいさん",
       "アルスー",
       "信心深い信徒",
@@ -9165,6 +9177,7 @@
       "Alert Community Guard",
       "Community Guard",
       "Pelirrojo",
+      "Street Sculptor",
       "「赤毛」",
       "コミュニティの見張り役",
       "专注的社区守卫",
@@ -9592,8 +9605,10 @@
     ],
     [
       "Bejeweled Man",
+      "Excited Merchant",
       "Factory Director",
       "Flustered Clerk",
+      "Merchant",
       "兴奋的商人",
       "厂长",
       "商人",
@@ -9645,6 +9660,7 @@
     ],
     [
       "Commanding Officer",
+      "Obsequious Soldier",
       "带队的军官",
       "谄媚的士兵",
       "隊長"
@@ -9727,6 +9743,7 @@
     ],
     [
       "Operating Crew Director",
+      "Sullivan",
       "指挥人员",
       "現場監督",
       "萨里凡"
@@ -11087,6 +11104,7 @@
       "Elegant Man",
       "Extremely Idle Citizen",
       "Gathering Staff",
+      "Kindly Servant",
       "Museum Receptionist",
       "Museum Staff",
       "Waiter",
@@ -11113,6 +11131,7 @@
     ],
     [
       "Ceremony Host",
+      "Doting Servant",
       "Eager Woman",
       "Incredibly Bored Citizen",
       "Mother",
@@ -11121,6 +11140,7 @@
       "Picky Visitor",
       "Plainly-Dressed Woman",
       "Rashad",
+      "Servant in Bushes",
       "ラサド",
       "優しい母親",
       "博物館チケット販売員",
@@ -11658,6 +11678,7 @@
       "avg_npc_1577_1"
     ],
     [
+      "Isidro",
       "伊西多"
     ]
   ],
@@ -11666,6 +11687,7 @@
       "avg_npc_1578_1"
     ],
     [
+      "Sword-wielding Seaborn",
       "执剑的海嗣"
     ]
   ],
@@ -11674,6 +11696,7 @@
       "avg_npc_1579_1"
     ],
     [
+      "Javier",
       "哈维尔"
     ]
   ],
@@ -11692,6 +11715,8 @@
       "avg_npc_1580_1"
     ],
     [
+      "Fiery Woman",
+      "Teach",
       "泼辣的女人",
       "蒂奇"
     ]
@@ -11701,6 +11726,7 @@
       "avg_npc_1581_1"
     ],
     [
+      "Juana",
       "胡安娜"
     ]
   ],
@@ -11709,6 +11735,7 @@
       "avg_npc_1582_1"
     ],
     [
+      "Anastasio",
       "安纳斯塔西奥"
     ]
   ],
@@ -11717,6 +11744,7 @@
       "avg_npc_1583_1"
     ],
     [
+      "Silver",
       "西尔弗"
     ]
   ],
@@ -11725,6 +11753,7 @@
       "avg_npc_1585_1"
     ],
     [
+      "Saltfin",
       "盐鳞"
     ]
   ],
@@ -11733,6 +11762,8 @@
       "avg_npc_1586_1"
     ],
     [
+      "Nene",
+      "Strange Creature",
       "古怪的生物",
       "宝宝"
     ]
@@ -11742,6 +11773,17 @@
       "avg_npc_1587_1"
     ],
     [
+      "Inquisition Cleric",
+      "Merciless Warrior Priest",
+      "Pascuala",
+      "Pursuing Warrior Priest",
+      "Reliable Warrior Priest",
+      "Sad Warrior Priest",
+      "Serious Warrior Priest",
+      "Tall Warrior Priest",
+      "Warrior Priest",
+      "Warrior Priest A",
+      "Warrior Priest B",
       "习武教士",
       "习武教士A",
       "习武教士B",
@@ -11761,6 +11803,13 @@
       "avg_npc_1588_1"
     ],
     [
+      "Angry Sailor",
+      "Doubting Sailor",
+      "Eager Pirate",
+      "Excited Sailor",
+      "Frail Sailor",
+      "Frightened Sailor",
+      "Resolute Sailor",
       "兴奋的船员",
       "坚定的船员",
       "急切的海盗",
@@ -11775,6 +11824,12 @@
       "avg_npc_1589_1"
     ],
     [
+      "Diligent Guard",
+      "Dismayed Woman",
+      "Joyful Sailor",
+      "Trustworthy Sailor",
+      "Weary Sailor",
+      "Worried Pirate",
       "可信的船员",
       "尽职尽责的守卫",
       "忧虑的海盗",
@@ -11798,6 +11853,7 @@
       "avg_npc_1590_1"
     ],
     [
+      "Rus",
       "鲁斯"
     ]
   ],
@@ -11806,6 +11862,19 @@
       "avg_npc_1591_1"
     ],
     [
+      "Aggressive Man",
+      "Alert Sailor",
+      "Cesc",
+      "Desperate Sailor",
+      "Excited Pirate",
+      "Fearless Sailor",
+      "Hesitant Sailor",
+      "Howling Sailor",
+      "Impulsive Sailor",
+      "Menacing Sailor",
+      "Reluctant Sailor",
+      "Sad Man",
+      "Sword-Wielding Sailor",
       "不舍的船员",
       "举刀的船员",
       "冲动的船员",
@@ -11826,6 +11895,20 @@
       "avg_npc_1592_1"
     ],
     [
+      "Aloof Sailor",
+      "Angry Man",
+      "Angry Sailor",
+      "Anxious Sailor",
+      "Dizzy Sailor",
+      "Flustered Sailor",
+      "Hapless Sailor",
+      "Howling Sailor",
+      "Impulsive Sailor",
+      "Inattentive Guard",
+      "Nervous Sailor",
+      "Panicked Sailor",
+      "Stunned Sailor",
+      "Tired Sailor",
       "冲动的船员",
       "冷漠的船员",
       "嚎叫的船员",
@@ -12854,6 +12937,7 @@
     ],
     [
       "'Iberian'",
+      "Aloof Passerby",
       "Inhabitant",
       "Local Messenger",
       "Male Inhabitant",
@@ -12964,6 +13048,7 @@
       "avg_npc_179"
     ],
     [
+      "Añora",
       "Old Inhabitant",
       "亚诺阿",
       "年老いた住民",
@@ -13400,10 +13485,14 @@
       "avg_npc_187"
     ],
     [
+      "Anxious Townsperson",
+      "Honest Townsperson",
+      "Hungry Townsfolk",
       "Male Inhabitant B",
       "Male Monastery Inhabitant",
       "Male Resident",
       "Panicked Inhabitant",
+      "Tottering Old Man",
       "Townsfolk A",
       "うろたえる住民",
       "住民A",
@@ -13437,8 +13526,10 @@
       "avg_npc_189"
     ],
     [
+      "Distressed Townsperson",
       "Male Inhabitant D",
       "Monastery Inhabitant",
+      "Stoic Townsfolk",
       "Townsfolk B",
       "住民B",
       "修道院住民",
@@ -14573,6 +14664,7 @@
       "Panicked Youth",
       "Placid Photographer",
       "Ragged Citizen",
+      "Reporter",
       "Restless Youth",
       "Stan",
       "Suspicious Man",
@@ -15029,6 +15121,7 @@
     [
       "Receiving Attendant",
       "Scathing Nobleman",
+      "Scholar",
       "冷酷な男性貴族",
       "出迎え役の従者",
       "刻薄的男贵族",
@@ -15154,6 +15247,7 @@
       "Lively Local",
       "Meddlesome Villager",
       "Paleroche Commoner A",
+      "Station Staff",
       "Vintner?",
       "Youth",
       "イェラグの青年",
@@ -15378,6 +15472,7 @@
       "Bodyguard",
       "Browntail Clan Warrior C",
       "Kjerag Hunter",
+      "Kjerag Warrior",
       "Kjerag Warrior B",
       "Kjerag Warrior?",
       "Kjerag Warriors",
@@ -16660,6 +16755,7 @@
       "Dublinn Messenger",
       "Frightened Refugee",
       "Gang Member",
+      "Intern Cameraman",
       "Jittery Citizen",
       "Londinium Citizen",
       "Londinium Citizen?",
@@ -17085,6 +17181,7 @@
       "avg_npc_450_1"
     ],
     [
+      "'Pelirrojito'",
       "Elysium",
       "“小红毛”",
       "エリジウム",
@@ -17234,6 +17331,7 @@
       "Brave Villager",
       "Nihilistic Townsperson",
       "Pursuing Townsfolk",
+      "Scoffing Passerby",
       "不屑的路人",
       "勇敢な村人",
       "勇敢的村民",
@@ -17280,7 +17378,9 @@
       "avg_npc_461_1"
     ],
     [
+      "'Ordinary' Townsperson",
       "Calm Townsperson",
+      "Curious Passerby",
       "Restorationist",
       "Terrified Villager",
       "“平凡”的镇民",
@@ -19252,6 +19352,7 @@
       "Note-Passing Student",
       "Rubio's Daughter",
       "Selene",
+      "Shy Child",
       "Thin Girl",
       "わんぱくな生徒",
       "セレーネ",
@@ -19949,6 +20050,7 @@
       "Bejeweled Citizen",
       "Extravagant Man",
       "Extravagant Traveler",
+      "Lord Ameer",
       "宝石で飾り立てた市民",
       "王酋",
       "珠光宝气的市民",
@@ -20651,6 +20753,7 @@
     [
       "Aulus",
       "Gentle Priest",
+      "Kind Passerby",
       "アウルス",
       "奥卢斯",
       "好心的路人",
@@ -20863,6 +20966,7 @@
     [
       "Curious Operator A",
       "HR Operator",
+      "Hourglass",
       "Intern Operator",
       "Logistics Operator",
       "Records Room Operator",
