@@ -8501,7 +8501,9 @@
     "id": "obt/memory/story_rosesa_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "梦想中的好生活"
+      "zh_CN": "梦想中的好生活",
+      "ja_JP": "夢に見た素敵な暮らし",
+      "en_US": "Dreaming of the Good Life"
     },
     "code": null,
     "zone": "rosesa"
@@ -8510,7 +8512,9 @@
     "id": "obt/memory/story_tecno_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "共舞"
+      "zh_CN": "共舞",
+      "ja_JP": "一緒に踊ろう",
+      "en_US": "A Dance Together"
     },
     "code": null,
     "zone": "tecno"
@@ -8519,7 +8523,9 @@
     "id": "obt/memory/story_ceylon_2_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "留下的人"
+      "zh_CN": "留下的人",
+      "ja_JP": "残されたもの",
+      "en_US": "The Ones Left behind"
     },
     "code": null,
     "zone": "ceylon"
@@ -8528,7 +8534,9 @@
     "id": "obt/memory/story_blackd_2_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "健步如飞"
+      "zh_CN": "健步如飞",
+      "ja_JP": "足取りは軽やかに",
+      "en_US": "Run Like the Wind"
     },
     "code": null,
     "zone": "blackd"
@@ -13215,7 +13223,9 @@
     "id": "activities/act39side/level_act39side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "别了，盐漠"
+      "zh_CN": "别了，盐漠",
+      "ja_JP": "さらば、塩海よ",
+      "en_US": "Adios, Salt Flat"
     },
     "code": "EP-ST-1",
     "zone": "act39side"
@@ -13224,7 +13234,9 @@
     "id": "activities/act39side/level_act39side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "倒悬苍白海上"
+      "zh_CN": "倒悬苍白海上",
+      "ja_JP": "白き海に吊るされて",
+      "en_US": "Upside Down on the Pale Sea"
     },
     "code": "EP-1",
     "zone": "act39side"
@@ -13233,7 +13245,9 @@
     "id": "activities/act39side/level_act39side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "倒悬苍白海上"
+      "zh_CN": "倒悬苍白海上",
+      "ja_JP": "白き海に吊るされて",
+      "en_US": "Upside Down on the Pale Sea"
     },
     "code": "EP-1",
     "zone": "act39side"
@@ -13242,7 +13256,9 @@
     "id": "activities/act39side/level_act39side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "腿部拆卸疗法"
+      "zh_CN": "腿部拆卸疗法",
+      "ja_JP": "脚部切断療法",
+      "en_US": "Treatment by Limb Amputation"
     },
     "code": "EP-2",
     "zone": "act39side"
@@ -13251,7 +13267,9 @@
     "id": "activities/act39side/level_act39side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "腿部拆卸疗法"
+      "zh_CN": "腿部拆卸疗法",
+      "ja_JP": "脚部切断療法",
+      "en_US": "Treatment by Limb Amputation"
     },
     "code": "EP-2",
     "zone": "act39side"
@@ -13260,7 +13278,9 @@
     "id": "activities/act39side/level_act39side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "大出血的舞步"
+      "zh_CN": "大出血的舞步",
+      "ja_JP": "血塗れのダンス",
+      "en_US": "Dance of Exsanguination"
     },
     "code": "EP-3",
     "zone": "act39side"
@@ -13269,7 +13289,9 @@
     "id": "activities/act39side/level_act39side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "大出血的舞步"
+      "zh_CN": "大出血的舞步",
+      "ja_JP": "血塗れのダンス",
+      "en_US": "Dance of Exsanguination"
     },
     "code": "EP-3",
     "zone": "act39side"
@@ -13278,7 +13300,9 @@
     "id": "activities/act39side/level_act39side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "重逢不乏意外"
+      "zh_CN": "重逢不乏意外",
+      "ja_JP": "驚きに満ちた再会",
+      "en_US": "Accidental Reunion"
     },
     "code": "EP-4",
     "zone": "act39side"
@@ -13298,7 +13322,9 @@
     "id": "activities/act39side/level_act39side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "重逢不乏意外"
+      "zh_CN": "重逢不乏意外",
+      "ja_JP": "驚きに満ちた再会",
+      "en_US": "Accidental Reunion"
     },
     "code": "EP-4",
     "zone": "act39side"
@@ -13307,7 +13333,9 @@
     "id": "activities/act39side/level_act39side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "熄灭过去的灯"
+      "zh_CN": "熄灭过去的灯",
+      "ja_JP": "過去の灯りを消して",
+      "en_US": "Let the Light of the Past Die"
     },
     "code": "EP-5",
     "zone": "act39side"
@@ -13316,7 +13344,9 @@
     "id": "activities/act39side/level_act39side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "熄灭过去的灯"
+      "zh_CN": "熄灭过去的灯",
+      "ja_JP": "過去の灯りを消して",
+      "en_US": "Let the Light of the Past Die"
     },
     "code": "EP-5",
     "zone": "act39side"
@@ -13325,7 +13355,9 @@
     "id": "activities/act39side/level_act39side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "若退路在燃烧"
+      "zh_CN": "若退路在燃烧",
+      "ja_JP": "退路燃えぬれば",
+      "en_US": "When the Way Out Burns"
     },
     "code": "EP-6",
     "zone": "act39side"
@@ -13334,7 +13366,9 @@
     "id": "activities/act39side/level_act39side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "若退路在燃烧"
+      "zh_CN": "若退路在燃烧",
+      "ja_JP": "退路燃えぬれば",
+      "en_US": "When the Way Out Burns"
     },
     "code": "EP-6",
     "zone": "act39side"
@@ -13343,7 +13377,9 @@
     "id": "activities/act39side/level_act39side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "倾泻腐朽的花"
+      "zh_CN": "倾泻腐朽的花",
+      "ja_JP": "朽ちた花降り注ぐ時",
+      "en_US": "A Flower that Blooms Rot"
     },
     "code": "EP-ST-2",
     "zone": "act39side"
@@ -13352,7 +13388,9 @@
     "id": "activities/act39side/level_act39side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "我的罗盘"
+      "zh_CN": "我的罗盘",
+      "ja_JP": "我がコンパス",
+      "en_US": "My Compass"
     },
     "code": "EP-7",
     "zone": "act39side"
@@ -13361,7 +13399,9 @@
     "id": "activities/act39side/level_act39side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "我的罗盘"
+      "zh_CN": "我的罗盘",
+      "ja_JP": "我がコンパス",
+      "en_US": "My Compass"
     },
     "code": "EP-7",
     "zone": "act39side"
@@ -13370,7 +13410,9 @@
     "id": "activities/act39side/level_act39side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "见证，征服，定义"
+      "zh_CN": "见证，征服，定义",
+      "ja_JP": "目撃、征服、定義",
+      "en_US": "I Come, I Conquer, I Define"
     },
     "code": "EP-8",
     "zone": "act39side"
@@ -13379,7 +13421,9 @@
     "id": "activities/act39side/level_act39side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "见证，征服，定义"
+      "zh_CN": "见证，征服，定义",
+      "ja_JP": "目撃、征服、定義",
+      "en_US": "I Come, I Conquer, I Define"
     },
     "code": "EP-8",
     "zone": "act39side"
@@ -13399,7 +13443,9 @@
     "id": "activities/act39side/level_act39side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "别了，大地"
+      "zh_CN": "别了，大地",
+      "ja_JP": "さらば、大地よ",
+      "en_US": "Adios, Tierra"
     },
     "code": "EP-ST-3",
     "zone": "act39side"

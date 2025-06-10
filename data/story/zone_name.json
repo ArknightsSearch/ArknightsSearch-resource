@@ -269,6 +269,7 @@
   },
   "act39side": {
     "en_US": "Exodus from the Pale Sea",
+    "ja_JP": "白き海の彼方へ",
     "zh_CN": "出苍白海"
   },
   "act3d0": {
@@ -1520,6 +1521,8 @@
     "zh_CN": "暗索"
   },
   "rosesa": {
+    "en_US": "Rose Salt",
+    "ja_JP": "ローズソルト",
     "zh_CN": "瑰盐"
   },
   "savage": {
@@ -1698,6 +1701,8 @@
     "zh_CN": "龙舌兰"
   },
   "tecno": {
+    "en_US": "Tecno",
+    "ja_JP": "テクノ",
     "zh_CN": "特克诺"
   },
   "texas": {
