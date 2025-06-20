@@ -9826,7 +9826,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "往诞律 Part.01",
-      "ja_JP": "生に向かう韻律 Part.01"
+      "ja_JP": "生に向かう韻律 Part.01",
+      "en_US": "Rhythm Between Death and Life Part.01"
     },
     "code": null,
     "zone": "rogue_4"
@@ -9836,7 +9837,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "往诞律 Part.02",
-      "ja_JP": "生に向かう韻律 Part.02"
+      "ja_JP": "生に向かう韻律 Part.02",
+      "en_US": "Rhythm Between Death and Life Part.02"
     },
     "code": null,
     "zone": "rogue_4"
@@ -9846,7 +9848,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "往诞律 Part.03",
-      "ja_JP": "生に向かう韻律 Part.03"
+      "ja_JP": "生に向かう韻律 Part.03",
+      "en_US": "Rhythm Between Death and Life Part.03"
     },
     "code": null,
     "zone": "rogue_4"
