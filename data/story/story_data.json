@@ -8638,7 +8638,8 @@
     "id": "obt/memory/story_yu_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "百年一日"
+      "zh_CN": "百年一日",
+      "ja_JP": "百年一日"
     },
     "code": null,
     "zone": "yu"
@@ -8647,7 +8648,8 @@
     "id": "obt/memory/story_lin_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "新潮旧浪"
+      "zh_CN": "新潮旧浪",
+      "ja_JP": "新旧交わる時"
     },
     "code": null,
     "zone": "lin"
@@ -8656,7 +8658,8 @@
     "id": "obt/memory/story_wanqin_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "问道"
+      "zh_CN": "问道",
+      "ja_JP": "道を問う"
     },
     "code": null,
     "zone": "wanqin"
@@ -8676,7 +8679,8 @@
     "id": "obt/memory/story_grabds_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "旧梦重温"
+      "zh_CN": "旧梦重温",
+      "ja_JP": "懐かしき夢の追憶"
     },
     "code": null,
     "zone": "grabds"
@@ -9987,7 +9991,8 @@
     "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_7_1",
     "type": "Rogue",
     "name": {
-      "zh_CN": "弯路的终点 Part.01"
+      "zh_CN": "弯路的终点 Part.01",
+      "ja_JP": "回り道の終着点 Part.01"
     },
     "code": null,
     "zone": "rogue_4"
@@ -9996,7 +10001,8 @@
     "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_7_2",
     "type": "Rogue",
     "name": {
-      "zh_CN": "弯路的终点 Part.02"
+      "zh_CN": "弯路的终点 Part.02",
+      "ja_JP": "回り道の終着点 Part.02"
     },
     "code": null,
     "zone": "rogue_4"
@@ -10005,7 +10011,8 @@
     "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_7_3",
     "type": "Rogue",
     "name": {
-      "zh_CN": "弯路的终点 Part.03"
+      "zh_CN": "弯路的终点 Part.03",
+      "ja_JP": "回り道の終着点 Part.03"
     },
     "code": null,
     "zone": "rogue_4"
@@ -13170,7 +13177,8 @@
     "id": "activities/act40side/level_act40side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "陈皮菊花茶"
+      "zh_CN": "陈皮菊花茶",
+      "ja_JP": "陳皮菊花茶"
     },
     "code": "OR-ST-1",
     "zone": "act40side"
@@ -13179,7 +13187,8 @@
     "id": "activities/act40side/level_act40side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "一清二白"
+      "zh_CN": "一清二白",
+      "ja_JP": "一清二白"
     },
     "code": "OR-1",
     "zone": "act40side"
@@ -13188,7 +13197,8 @@
     "id": "activities/act40side/level_act40side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "一清二白"
+      "zh_CN": "一清二白",
+      "ja_JP": "一清二白"
     },
     "code": "OR-1",
     "zone": "act40side"
@@ -13197,7 +13207,8 @@
     "id": "activities/act40side/level_act40side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "糖瓜粘"
+      "zh_CN": "糖瓜粘",
+      "ja_JP": "糖瓜粘"
     },
     "code": "OR-2",
     "zone": "act40side"
@@ -13206,7 +13217,8 @@
     "id": "activities/act40side/level_act40side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "糖瓜粘"
+      "zh_CN": "糖瓜粘",
+      "ja_JP": "糖瓜粘"
     },
     "code": "OR-2",
     "zone": "act40side"
@@ -13215,7 +13227,8 @@
     "id": "activities/act40side/level_act40side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "油泼扯面"
+      "zh_CN": "油泼扯面",
+      "ja_JP": "油潑撦麺"
     },
     "code": "OR-3",
     "zone": "act40side"
@@ -13224,7 +13237,8 @@
     "id": "activities/act40side/level_act40side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "油泼扯面"
+      "zh_CN": "油泼扯面",
+      "ja_JP": "油潑撦麺"
     },
     "code": "OR-3",
     "zone": "act40side"
@@ -13244,7 +13258,8 @@
     "id": "activities/act40side/level_act40side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "雪里蕻"
+      "zh_CN": "雪里蕻",
+      "ja_JP": "雪裡蕻"
     },
     "code": "OR-4",
     "zone": "act40side"
@@ -13253,7 +13268,8 @@
     "id": "activities/act40side/level_act40side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "雪里蕻"
+      "zh_CN": "雪里蕻",
+      "ja_JP": "雪裡蕻"
     },
     "code": "OR-4",
     "zone": "act40side"
@@ -13262,7 +13278,8 @@
     "id": "activities/act40side/level_act40side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "雷公栗"
+      "zh_CN": "雷公栗",
+      "ja_JP": "雷公栗"
     },
     "code": "OR-ST-2",
     "zone": "act40side"
@@ -13271,7 +13288,8 @@
     "id": "activities/act40side/level_act40side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "胜肉火方"
+      "zh_CN": "胜肉火方",
+      "ja_JP": "勝肉火方"
     },
     "code": "OR-6",
     "zone": "act40side"
@@ -13280,7 +13298,8 @@
     "id": "activities/act40side/level_act40side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "胜肉火方"
+      "zh_CN": "胜肉火方",
+      "ja_JP": "勝肉火方"
     },
     "code": "OR-6",
     "zone": "act40side"
@@ -13289,7 +13308,8 @@
     "id": "activities/act40side/level_act40side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "五省盘"
+      "zh_CN": "五省盘",
+      "ja_JP": "五省盤"
     },
     "code": "OR-7",
     "zone": "act40side"
@@ -13298,7 +13318,8 @@
     "id": "activities/act40side/level_act40side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "五省盘"
+      "zh_CN": "五省盘",
+      "ja_JP": "五省盤"
     },
     "code": "OR-7",
     "zone": "act40side"
@@ -13307,7 +13328,8 @@
     "id": "activities/act40side/level_act40side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "金玉藏心"
+      "zh_CN": "金玉藏心",
+      "ja_JP": "黄玉蔵心"
     },
     "code": "OR-8",
     "zone": "act40side"
@@ -13316,7 +13338,8 @@
     "id": "activities/act40side/level_act40side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "金玉藏心"
+      "zh_CN": "金玉藏心",
+      "ja_JP": "黄玉蔵心"
     },
     "code": "OR-8",
     "zone": "act40side"
@@ -13325,7 +13348,8 @@
     "id": "activities/act40side/level_act40side_09_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "长寿面"
+      "zh_CN": "长寿面",
+      "ja_JP": "長寿麺"
     },
     "code": "OR-9",
     "zone": "act40side"
@@ -13345,7 +13369,8 @@
     "id": "activities/act40side/level_act40side_09_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "长寿面"
+      "zh_CN": "长寿面",
+      "ja_JP": "長寿麺"
     },
     "code": "OR-9",
     "zone": "act40side"
@@ -13354,7 +13379,8 @@
     "id": "activities/act40side/level_act40side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "须问汤"
+      "zh_CN": "须问汤",
+      "ja_JP": "須問湯"
     },
     "code": "OR-ST-3",
     "zone": "act40side"
