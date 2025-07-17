@@ -689,6 +689,8 @@
       "avg_1040_blaze2_1"
     ],
     [
+      "Blaze",
+      "Victorian Tourist?",
       "ホァン",
       "ヴィクトリアの観光客？",
       "煌",
@@ -1744,6 +1746,7 @@
       "Indistinct Woman",
       "Kind Woman",
       "Passing Nongye Tianshi",
+      "Passing Xian",
       "Shu",
       "シュウ",
       "優しい女性",
@@ -1764,6 +1767,9 @@
       "avg_2026_yu_1"
     ],
     [
+      "Irritable Youth",
+      "Young Chef",
+      "Yu",
       "ユー",
       "余",
       "小さな料理長",
@@ -3796,6 +3802,7 @@
       "avg_4122_grabds_1"
     ],
     [
+      "Girl Passing By",
       "Grain Buds",
       "Mischievous Girl",
       "やんちゃな少女",
@@ -4149,6 +4156,11 @@
       "avg_4172_xingzh_1"
     ],
     [
+      "Anxious Lady",
+      "Elegant Woman",
+      "Ning Yin",
+      "Patrolling Soldier",
+      "Xingzhu",
       "シィンズゥ",
       "ニン・イン",
       "上品な女性",
@@ -6071,6 +6083,7 @@
     [
       "Cadeddu",
       "Calm Hitman",
+      "Fat Kwan",
       "Fierce-looking Char Siu Member",
       "Flippant Security Guard",
       "Gang Member",
@@ -6159,6 +6172,7 @@
       "Female Passerby",
       "Female Resident",
       "Female Tourist",
+      "Frightened Woman",
       "Girl",
       "Overfamiliar Woman",
       "Passerby Diner",
@@ -6267,6 +6281,7 @@
       "Excited Fan",
       "Excited Youth",
       "Flower Shop Owner",
+      "Gui",
       "Hapless Man",
       "Host",
       "Infected Slum Dweller",
@@ -6406,6 +6421,7 @@
       "'Sandstorm Rudes'",
       "Emperor",
       "Lin",
+      "Lin Kojui",
       "Master Lin",
       "Master Lin?",
       "Old Man",
@@ -6586,6 +6602,7 @@
       "Lara",
       "Little 'Witch' Minnie",
       "Little Girl",
+      "Timid Child",
       "“女巫”小敏",
       "「魔女」ミン",
       "ジェンナ",
@@ -7821,6 +7838,7 @@
     [
       "Alsu",
       "Devout Follower",
+      "Nervous Old Man",
       "Old Man",
       "Old Villager",
       "おじいさん",
@@ -9005,6 +9023,7 @@
       "avg_npc_1163_1"
     ],
     [
+      "Blocking Burdenbeast",
       "Burdenbeast",
       "Burdenbeast by the Fire",
       "Docile Burdenbeast",
@@ -9324,6 +9343,7 @@
       "Astute Merchant",
       "Caravan Leader",
       "Ji",
+      "Sharp Dressed Man",
       "Well-Dressed Man",
       "ジー",
       "商队老板",
@@ -9452,13 +9472,16 @@
       "avg_npc_1244_1"
     ],
     [
+      "Blocking Stockbeast",
       "Docile Stockbeast",
       "Eerie Fabric",
+      "Grain Buds",
       "Mianmian",
       "Passing Stockbeast",
       "Stockbeast's Voice",
       "Strange Fabric",
       "Stray Stockbeast",
+      "Young Farmer",
       "おとなしい牧獣",
       "めんめん",
       "シャオマン",
@@ -9535,6 +9558,7 @@
     ],
     [
       "Agitated Nongye Tianshi",
+      "Displeased Nongye Tianshi",
       "不悦的农业天师",
       "不機嫌な農業天師",
       "慌てる農業天師",
@@ -10677,6 +10701,7 @@
       "Farmer",
       "First Apprentice",
       "Frenetic Villager",
+      "Gui",
       "Humble Worker",
       "Inn Assistant",
       "Innkeeper",
@@ -12094,6 +12119,7 @@
       "avg_npc_1612_1"
     ],
     [
+      "Lin Qingyan",
       "リン・チンイェン",
       "麟青砚"
     ]
@@ -12103,6 +12129,7 @@
       "avg_npc_1613_1"
     ],
     [
+      "Chen Che",
       "チェン・チョー",
       "谌彻"
     ]
@@ -12112,6 +12139,9 @@
       "avg_npc_1614_1"
     ],
     [
+      "Kind Old Man",
+      "Ning Shu",
+      "Silent Old Man",
       "ニン・シュー",
       "宁述",
       "寡黙な老人",
@@ -12125,6 +12155,8 @@
       "avg_npc_1615_1"
     ],
     [
+      "Imposing Woman",
+      "Junior Drillmaster",
       "“禁军小教头”",
       "「禁軍の若き教官」",
       "凛々しい女性",
@@ -12136,6 +12168,9 @@
       "avg_npc_1616_1"
     ],
     [
+      "Agitated Man",
+      "Anxious Man",
+      "Gu Quan",
       "うろたえる男",
       "グー・チュエン",
       "仓皇的男人",
@@ -12149,6 +12184,7 @@
       "avg_npc_1617_1"
     ],
     [
+      "Yu Cheng",
       "ユー・チェン",
       "虞澄"
     ]
@@ -12158,6 +12194,7 @@
       "avg_npc_1618_1"
     ],
     [
+      "Jie Zhen",
       "シエ・ジェン",
       "解真"
     ]
@@ -12167,6 +12204,7 @@
       "avg_npc_1619_1"
     ],
     [
+      "Mo Bufu",
       "モー・ブフー",
       "莫不服"
     ]
@@ -12176,6 +12214,8 @@
       "avg_npc_1620_1"
     ],
     [
+      "Professor Jing",
+      "Stern Professor",
       "ジィン教授",
       "严厉的教授",
       "厳格な教授",
@@ -12187,6 +12227,7 @@
       "avg_npc_1621_1"
     ],
     [
+      "Jiang",
       "ジャン",
       "老姜"
     ]
@@ -12196,6 +12237,7 @@
       "avg_npc_1622_1"
     ],
     [
+      "Diligent Student",
       "意气风发的青年",
       "真面目な学生",
       "认真的学生"
@@ -12223,6 +12265,7 @@
       "avg_npc_1627_1"
     ],
     [
+      "Freezing Scholar",
       "受冻的书生",
       "寒さに震える書生",
       "洛勤"
@@ -12233,6 +12276,7 @@
       "avg_npc_1628_1"
     ],
     [
+      "Cautious Student",
       "慎重な学生",
       "谨慎的学生"
     ]
@@ -12274,6 +12318,10 @@
       "avg_npc_1630_1"
     ],
     [
+      "Brocade-Robed Mandarin",
+      "Exhausted Judicial Official",
+      "Judicial Jailer",
+      "Judicial Officer",
       "大理寺司官吏",
       "大理寺司狱官",
       "大理寺司獄官",
@@ -12291,6 +12339,8 @@
       "avg_npc_1631_1"
     ],
     [
+      "Baizao Lecturer",
+      "Judicial Officer A",
       "大理寺官吏A",
       "大理寺官员A",
       "百灶学宫讲师",
@@ -12302,6 +12352,9 @@
       "avg_npc_1632_1"
     ],
     [
+      "Judicial Officer B",
+      "Nervous Mandarin",
+      "Stern Judicial Official",
       "严肃的大理寺官员",
       "司岁台访客",
       "大理寺官吏B",
@@ -12316,6 +12369,7 @@
       "avg_npc_1633_1"
     ],
     [
+      "Calm Mandarin",
       "沉稳的官员",
       "落ち着いた官吏"
     ]
@@ -12325,6 +12379,7 @@
       "avg_npc_1634_1"
     ],
     [
+      "Imperial Guard",
       "禁军",
       "禁軍"
     ]
@@ -12334,6 +12389,10 @@
       "avg_npc_1635_1"
     ],
     [
+      "Flustered Chef",
+      "Laidback Chef",
+      "Lead Chef",
+      "Uptight Examiner",
       "のんびりした料理人",
       "リーダーの料理人",
       "严厉的考官",
@@ -12349,6 +12408,10 @@
       "avg_npc_1636_1"
     ],
     [
+      "Bored Chef",
+      "Careless Chef",
+      "Ding Feng Lou Chef",
+      "Veteran Chef",
       "ベテラン料理人",
       "不注意な料理人",
       "无聊的厨师",
@@ -12364,6 +12427,12 @@
       "avg_npc_1637_1"
     ],
     [
+      "Guard A",
+      "Guard B",
+      "Guard Chief",
+      "Patrolling Guardsman",
+      "Patrolling Soldier",
+      "Soldier",
       "卫兵",
       "卫兵A",
       "卫兵B",
@@ -12392,6 +12461,8 @@
       "avg_npc_1639_1"
     ],
     [
+      "Old Beggar",
+      "Regular Customer",
       "受伤的老人",
       "料理屋の常連客",
       "管家",
@@ -12467,6 +12538,7 @@
       "avg_npc_1643_1"
     ],
     [
+      "Girl in the Mountains",
       "山中の童子",
       "山中小童",
       "迷茫的孩童"
@@ -12477,6 +12549,7 @@
       "avg_npc_1644_1"
     ],
     [
+      "Lin Qingyan",
       "リン・チンイェン",
       "麟青砚"
     ]
@@ -12486,6 +12559,7 @@
       "avg_npc_1645_1"
     ],
     [
+      "Fumizuki",
       "フミヅキ",
       "文月"
     ]
@@ -12996,6 +13070,7 @@
       "Pompous Man",
       "Pompous Merchant",
       "Seasoned Investor",
+      "Skinny Cheung",
       "Slimy Noble",
       "Theater Manager",
       "Tipsy Businessman",
@@ -15458,6 +15533,7 @@
       "avg_npc_271_1"
     ],
     [
+      "Commissioner Wong",
       "Receiving Attendant",
       "Scathing Nobleman",
       "Scholar",
@@ -15587,6 +15663,7 @@
       "Lively Local",
       "Meddlesome Villager",
       "Paleroche Commoner A",
+      "President Lee",
       "Station Staff",
       "Vintner?",
       "Youth",
@@ -16049,6 +16126,7 @@
       "Feeble Apprentice",
       "Half-Drunk Martial Artist",
       "Hawker",
+      "Lin Yühsia's Subordinate",
       "Odd Traveler",
       "Sober Martial Artist",
       "Street Youth",
@@ -16058,6 +16136,7 @@
       "Teahouse Stopperby",
       "Traceless Fist Practitioner",
       "Waiter",
+      "Young Farmer",
       "ほろ酔いの武人",
       "リン・ユーシャの部下",
       "伙计",
@@ -18952,6 +19031,7 @@
       "avg_npc_599_1"
     ],
     [
+      "Stray Storm Cloudbeast",
       "乌云兽",
       "云兽",
       "六十七",
@@ -21383,6 +21463,7 @@
       "avg_npc_976_1"
     ],
     [
+      "Mischievous Child",
       "男孩",
       "腕白な子供",
       "调皮的孩子"
