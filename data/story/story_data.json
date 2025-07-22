@@ -10089,6 +10089,33 @@
     "code": "10-3",
     "zone": "main_10"
   },
+  "1830": {
+    "id": "obt/rogue/rogue_5/monthrecord/month_record_rogue_5_2_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "小玩意 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_5"
+  },
+  "1831": {
+    "id": "obt/rogue/rogue_5/monthrecord/month_record_rogue_5_2_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "小玩意 Part.02"
+    },
+    "code": null,
+    "zone": "rogue_5"
+  },
+  "1832": {
+    "id": "obt/rogue/rogue_5/monthrecord/month_record_rogue_5_2_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "小玩意 Part.03"
+    },
+    "code": null,
+    "zone": "rogue_5"
+  },
   "184": {
     "id": "obt/main/level_main_10-02_end",
     "type": "Main",
