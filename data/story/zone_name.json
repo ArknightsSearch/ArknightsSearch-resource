@@ -299,6 +299,9 @@
   "act43side": {
     "zh_CN": "红丝绒"
   },
+  "act44side": {
+    "zh_CN": "墟"
+  },
   "act4d0": {
     "en_US": "Operational Intelligence",
     "ja_JP": "戦地の逸話",
@@ -591,6 +594,11 @@
     "ja_JP": "カタパルト",
     "zh_CN": "空爆"
   },
+  "cathy": {
+    "en_US": "Catherine",
+    "ja_JP": "キャサリン",
+    "zh_CN": "凯瑟琳"
+  },
   "ccheal": {
     "en_US": "Gavial",
     "ja_JP": "ガヴィル",
@@ -673,6 +681,11 @@
     "en_US": "Cantabile",
     "ja_JP": "カンタービレ",
     "zh_CN": "晓歌"
+  },
+  "ctrail": {
+    "en_US": "Contrail",
+    "ja_JP": "コントレイル",
+    "zh_CN": "云迹"
   },
   "cutter": {
     "en_US": "Cutter",
@@ -963,6 +976,11 @@
     "en_US": "Vulcan",
     "ja_JP": "ヴァルカン",
     "zh_CN": "火神"
+  },
+  "hsguma": {
+    "en_US": "Hoshiguma",
+    "ja_JP": "ホシグマ",
+    "zh_CN": "星熊"
   },
   "huang": {
     "en_US": "Blaze",
