@@ -13919,7 +13919,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "寻灯续昼",
-      "ja_JP": "灯りを求めて"
+      "ja_JP": "灯りを求めて",
+      "en_US": "Adhaint an Ghrian"
     },
     "code": "SE-ST1",
     "zone": "act18mini"
@@ -13929,7 +13930,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "到乌萨斯去",
-      "ja_JP": "ウルサスへ"
+      "ja_JP": "ウルサスへ",
+      "en_US": "Отправляйтесь к Урсусу"
     },
     "code": "SE-ST2",
     "zone": "act18mini"
@@ -13939,7 +13941,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "错身",
-      "ja_JP": "すれ違い"
+      "ja_JP": "すれ違い",
+      "en_US": "Passing"
     },
     "code": "SE-ST3",
     "zone": "act18mini"
@@ -13949,7 +13952,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "河畔航船",
-      "ja_JP": "河畔の船たち"
+      "ja_JP": "河畔の船たち",
+      "en_US": "Canoes off the Riverside"
     },
     "code": "SE-ST4",
     "zone": "act18mini"
@@ -13959,7 +13963,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "腐败终息",
-      "ja_JP": "腐敗の最期"
+      "ja_JP": "腐敗の最期",
+      "en_US": "Another Breath of Death"
     },
     "code": "SE-ST5",
     "zone": "act18mini"
@@ -13969,7 +13974,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "未明启示",
-      "ja_JP": "不確かな啓示"
+      "ja_JP": "不確かな啓示",
+      "en_US": "All the Unrevealed"
     },
     "code": "SE-ST6",
     "zone": "act18mini"
