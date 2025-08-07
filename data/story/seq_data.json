@@ -6756,6 +6756,7 @@
       "Dour Mercenary",
       "Dying Mercenary",
       "Excited Mercenary",
+      "Mercenary Scout",
       "Old Sarkaz Hunter",
       "Patrolling Sarkaz Soldier A",
       "Patrolling Sarkaz Soldier B",
@@ -6764,6 +6765,7 @@
       "Sarkaz Mercenary A",
       "Sarkaz Mercenary B",
       "Sarkaz Passerby",
+      "Sarkaz Scout",
       "Sarkaz Soldier",
       "Sarkaz Supervisor",
       "Sarkaz Teacher",
@@ -6877,6 +6879,7 @@
       "Sarkaz Mercenary Leader",
       "Sarkaz Overseer",
       "Sarkaz Robber",
+      "Sarkaz Scout Captain",
       "Sarkaz Traitor",
       "Sarkaz Warrior",
       "Sarkaz Warrior?",
@@ -7523,6 +7526,7 @@
       "avg_npc_081"
     ],
     [
+      "Assistant",
       "Darrell",
       "Haggard Worker",
       "Muscular Man",
@@ -7882,6 +7886,7 @@
     [
       "Alsu",
       "Devout Follower",
+      "Local Villager",
       "Nervous Old Man",
       "Old Man",
       "Old Villager",
@@ -11053,6 +11058,7 @@
     ],
     [
       "Furnace Node Keeper",
+      "Sarkaz Civilian",
       "サルカズ平民",
       "中継炉の見張り番",
       "节点炉看守人",
@@ -11490,6 +11496,7 @@
       "avg_npc_1521_1"
     ],
     [
+      "Entelechia",
       "Mysterious Vampire",
       "エンテレケイア",
       "神秘的血魔",
@@ -11502,6 +11509,7 @@
       "avg_npc_1522_1"
     ],
     [
+      "Entelechia",
       "エンテレケイア",
       "隐德来希"
     ]
@@ -12669,6 +12677,8 @@
       "avg_npc_1663_1"
     ],
     [
+      "Mysterious Man",
+      "Paryaqaqa",
       "パリアカカ",
       "帕尤卡卡",
       "神秘的男人",
@@ -12680,6 +12690,8 @@
       "avg_npc_1664_1"
     ],
     [
+      "Milton",
+      "Young Sarkaz",
       "ミルトン",
       "年轻的萨卡兹",
       "弥尔顿",
@@ -14906,6 +14918,7 @@
       "Haughty Official",
       "Karlan Trade Employee",
       "Kazimierz Representative",
+      "Kazimierzian Editor-in-Chief",
       "Man in a Suit",
       "Manager",
       "Mayor's Secretary",
@@ -14995,6 +15008,7 @@
       "Government Official",
       "Indifferent Bank Employee",
       "Informant",
+      "Kazimierzian Staff Member",
       "Knight Scout",
       "Local Official",
       "Man in Reporter Garb",
@@ -15289,6 +15303,7 @@
       "avg_npc_241"
     ],
     [
+      "Angry Alliance Soldier",
       "Angry NCO",
       "Composed Soldier",
       "Crumbling Soldier",
@@ -15380,6 +15395,7 @@
       "Panicked Youth",
       "Placid Photographer",
       "Ragged Citizen",
+      "Refugee Artisan",
       "Reporter",
       "Restless Youth",
       "Stan",
@@ -15616,6 +15632,7 @@
       "'Adjutant Hill'",
       "Adjutant Hill",
       "Biting Officer",
+      "Cold Alliance Soldier",
       "Defense Force Patrol",
       "Drunken MP",
       "Excited Soldier",
@@ -17025,6 +17042,7 @@
       "avg_npc_371_1"
     ],
     [
+      "Lateran Commando",
       "Pontifica Cohors Member",
       "Pontifica Cohors Member?",
       "Young Lateran Commando",
@@ -17323,7 +17341,9 @@
       "avg_npc_408_1"
     ],
     [
+      "Alliance Soldier",
       "Excited Soldier",
+      "Executioner Soldier",
       "Flag Officer",
       "High-Ranking Officer",
       "Impetuous Soldier",
@@ -17493,6 +17513,7 @@
     ],
     [
       "Amiable Merchant",
+      "Anxious Man",
       "Astonished Resident",
       "Desperate Thug",
       "Dublinn Messenger",
@@ -17500,6 +17521,7 @@
       "Gang Member",
       "Intern Cameraman",
       "Jittery Citizen",
+      "Landless Farmer",
       "Londinium Citizen",
       "Londinium Citizen?",
       "Nervous Citizen",
@@ -17560,6 +17582,7 @@
       "Calm Thug",
       "Cheering Civilian",
       "Farmer",
+      "Frantic Man",
       "Gali",
       "Hairdresser",
       "Impatient Citizen",
@@ -17619,6 +17642,7 @@
       "Londinium Citizen",
       "Londinium Citizen B",
       "New Teacher",
+      "Panicked Woman",
       "Sanatorium Patient",
       "Strange Woman",
       "Tamika",
@@ -17665,6 +17689,7 @@
       "avg_npc_419_1"
     ],
     [
+      "'Mop-Head'",
       "Composed Soldier",
       "Grim Royal Court Soldier",
       "Indifferent Royal Court Soldier",
@@ -17791,12 +17816,15 @@
     ],
     [
       "Excitable Soldier",
+      "Exemplar",
       "Injured Exemplar",
       "Injured Soldier",
       "Panting Soldier",
       "Prisoner",
       "Rescued Soldier",
       "Walker",
+      "Wounded Abandoned Soldier",
+      "Wounded Victorian Soldier",
       "ウォーカー",
       "ヴィクトリア負傷兵",
       "典范军士兵",
@@ -18511,6 +18539,7 @@
       "Neurotic Infected",
       "Noble Attendant",
       "Passionate Infected",
+      "Respectful Attendant",
       "Rude Infected",
       "Rule-Abiding Instructor",
       "Schneider",
@@ -19372,6 +19401,7 @@
     ],
     [
       "Anguished Man",
+      "Siracusan Mafioso",
       "シラクーザマフィア",
       "叙拉古家族成员",
       "痛苦的男人",
@@ -19675,6 +19705,7 @@
       "avg_npc_659_1"
     ],
     [
+      "'Big Wrench'",
       "Downtrodden Man",
       "Londinium Worker",
       "Londinium Worker B",
@@ -20278,7 +20309,9 @@
     [
       "Cruise Jr.",
       "Depressed Soldier",
+      "Dying Taran",
       "Injured Refugee",
+      "Injured Worker",
       "Maimed Citizen",
       "Tear-Streaked Passerby",
       "Wounded Taran",
@@ -21137,6 +21170,7 @@
     [
       "Agent A",
       "Agent B",
+      "Columbian Military Officer",
       "Columbian Soldier",
       "Columbian Soldier A",
       "Columbian Soldier B",
@@ -21321,6 +21355,7 @@
       "Cautious Sarkaz Inhabitant",
       "Dejected Man",
       "Dying Infected",
+      "Frightened Youth",
       "Gaunt Sarkaz",
       "Guitar-Playing Singer",
       "Impatient Civilian",
@@ -21389,6 +21424,7 @@
       "Fernand",
       "Hot-Headed Sarkaz",
       "Sarkaz Drifter",
+      "Weary Sarkaz",
       "サルカズの流れ者",
       "フェルナンド",
       "慎重な平民",
