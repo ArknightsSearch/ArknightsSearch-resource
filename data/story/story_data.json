@@ -13918,7 +13918,8 @@
     "id": "activities/act18mini/level_act18mini_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "寻灯续昼"
+      "zh_CN": "寻灯续昼",
+      "ja_JP": "灯りを求めて"
     },
     "code": "SE-ST1",
     "zone": "act18mini"
@@ -13927,7 +13928,8 @@
     "id": "activities/act18mini/level_act18mini_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "到乌萨斯去"
+      "zh_CN": "到乌萨斯去",
+      "ja_JP": "ウルサスへ"
     },
     "code": "SE-ST2",
     "zone": "act18mini"
@@ -13936,7 +13938,8 @@
     "id": "activities/act18mini/level_act18mini_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "错身"
+      "zh_CN": "错身",
+      "ja_JP": "すれ違い"
     },
     "code": "SE-ST3",
     "zone": "act18mini"
@@ -13945,7 +13948,8 @@
     "id": "activities/act18mini/level_act18mini_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "河畔航船"
+      "zh_CN": "河畔航船",
+      "ja_JP": "河畔の船たち"
     },
     "code": "SE-ST4",
     "zone": "act18mini"
@@ -13954,7 +13958,8 @@
     "id": "activities/act18mini/level_act18mini_st05",
     "type": "Activity",
     "name": {
-      "zh_CN": "腐败终息"
+      "zh_CN": "腐败终息",
+      "ja_JP": "腐敗の最期"
     },
     "code": "SE-ST5",
     "zone": "act18mini"
@@ -13963,7 +13968,8 @@
     "id": "activities/act18mini/level_act18mini_st06",
     "type": "Activity",
     "name": {
-      "zh_CN": "未明启示"
+      "zh_CN": "未明启示",
+      "ja_JP": "不確かな啓示"
     },
     "code": "SE-ST6",
     "zone": "act18mini"
