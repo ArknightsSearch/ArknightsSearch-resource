@@ -10403,6 +10403,24 @@
     "code": null,
     "zone": "rogue_5"
   },
+  "1858": {
+    "id": "obt/rogue/rogue_5/monthrecord/month_record_rogue_5_3_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "我见青山 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_5"
+  },
+  "1859": {
+    "id": "obt/rogue/rogue_5/monthrecord/month_record_rogue_5_3_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "我见青山 Part.02"
+    },
+    "code": null,
+    "zone": "rogue_5"
+  },
   "186": {
     "id": "obt/main/level_main_10-03_end",
     "type": "Main",
@@ -10413,6 +10431,15 @@
     },
     "code": "10-4",
     "zone": "main_10"
+  },
+  "1860": {
+    "id": "obt/rogue/rogue_5/monthrecord/month_record_rogue_5_3_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "我见青山 Part.03"
+    },
+    "code": null,
+    "zone": "rogue_5"
   },
   "187": {
     "id": "obt/main/level_main_10-04_beg",
