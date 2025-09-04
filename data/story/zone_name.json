@@ -304,6 +304,9 @@
   "act44side": {
     "zh_CN": "墟"
   },
+  "act45side": {
+    "zh_CN": "无忧梦呓"
+  },
   "act4d0": {
     "en_US": "Operational Intelligence",
     "ja_JP": "戦地の逸話",
@@ -447,6 +450,11 @@
     "en_US": "Ash",
     "ja_JP": "Ash",
     "zh_CN": "灰烬"
+  },
+  "ashlok": {
+    "en_US": "Ashlock",
+    "ja_JP": "アッシュロック",
+    "zh_CN": "灰毫"
   },
   "astesi": {
     "en_US": "Astesia",
@@ -1387,6 +1395,11 @@
     "ja_JP": "ノウエル",
     "zh_CN": "诺威尔"
   },
+  "nymph": {
+    "en_US": "Nymph",
+    "ja_JP": "ニンフ",
+    "zh_CN": "妮芙"
+  },
   "orchid": {
     "en_US": "Orchid",
     "ja_JP": "オーキッド",
@@ -1853,6 +1866,11 @@
     "ja_JP": "ウィスパーレイン",
     "zh_CN": "絮雨"
   },
+  "whitw2": {
+    "en_US": "Lappland the Decadenza",
+    "ja_JP": "荒蕪ラップランド",
+    "zh_CN": "荒芜拉普兰德"
+  },
   "wildmn": {
     "en_US": "Wild Mane",
     "ja_JP": "ワイルドメイン",
@@ -1862,6 +1880,9 @@
     "en_US": "Windflit",
     "ja_JP": "ウインドフリット",
     "zh_CN": "掠风"
+  },
+  "wscoot": {
+    "zh_CN": "骋风"
   },
   "wyvern": {
     "en_US": "Vanilla",
