@@ -3161,6 +3161,7 @@
     [
       "Fischer",
       "Mr. Conrad",
+      "Puzzle",
       "コンラッド先生",
       "パズル",
       "フィッシャー",
@@ -4416,6 +4417,7 @@
       "A Hoarse Knight",
       "Justyna",
       "Szewczyk",
+      "Zola",
       "かすれ声の騎士",
       "シェブチック",
       "ゾラ",
@@ -5064,6 +5066,7 @@
       "Angry Villager",
       "Auctioning Sailor",
       "Charlie the Sproglet",
+      "Cheerful Infected",
       "Community Electrician",
       "Diner B",
       "Excited Infected",
@@ -5759,6 +5762,7 @@
       "Rhodes Island Operator",
       "Rhodes Island Operator B",
       "Sandwheel",
+      "Shy Operator",
       "Tired Rhodes Island Operator",
       "Vanguard Operator A",
       "エンジニア",
@@ -7743,6 +7747,7 @@
       "Celica",
       "Celine",
       "Engineering Operator",
+      "Excited Operator",
       "Field Operator",
       "Field Operator A",
       "HR Operator",
@@ -10058,7 +10063,6 @@
     ],
     [
       "Miss.Christine",
-      "Ms. Christine",
       "ミス・クリスティーン"
     ]
   ],
@@ -14962,6 +14966,8 @@
       "An Armorless Union Member",
       "An Armorless Union Member B",
       "Armorless Union Assassin",
+      "Armorless Union Assassin A",
+      "Armorless Union Assassin B",
       "Armorless Union Captain",
       "Armorless Union Member",
       "Team 3 Member A",
@@ -15082,6 +15088,7 @@
     ],
     [
       "An Infected Knight",
+      "Infected Knight",
       "Injured Infected Knight",
       "受伤的感染者骑士",
       "怪我した感染者騎士",
@@ -15458,6 +15465,7 @@
     [
       "Anxious Child",
       "Billy",
+      "Carefree Boy",
       "Child",
       "Craig",
       "Cunning Boy",
@@ -15468,6 +15476,7 @@
       "Joe",
       "Jurian",
       "Knight",
+      "Millen",
       "Naughty Child",
       "Nervous Child",
       "Small Child",
@@ -15745,12 +15754,14 @@
     ],
     [
       "Apathetic Passerby",
+      "Aunt Danka",
       "Calm Lady",
       "Cautious Servant",
       "Feeble Woman",
       "Frightened Woman",
       "Infected Citizen",
       "Information Broker",
+      "Kind Villager",
       "Lively Female Patient",
       "Maid",
       "Noble Sister",
@@ -19767,7 +19778,9 @@
       "avg_npc_626_1"
     ],
     [
+      "Anxious Man",
       "Enthusiastic Infected",
+      "Farone",
       "Fierce Infected",
       "Gus",
       "Ill Refugee",
@@ -20408,6 +20421,7 @@
       "Selene",
       "Shy Child",
       "Thin Girl",
+      "Zola",
       "わんぱくな生徒",
       "セレーネ",
       "ゾラ",
