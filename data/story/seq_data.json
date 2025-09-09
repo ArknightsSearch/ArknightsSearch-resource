@@ -461,6 +461,8 @@
       "avg_1020_reed2_1"
     ],
     [
+      "Loughshinny",
+      "Noble Red Dragon",
       "Reed",
       "ラフシニー",
       "リード",
@@ -2008,6 +2010,7 @@
     [
       "'The Leader'",
       "Loughshinny",
+      "Noble Red Dragon",
       "Reed",
       "“领袖”",
       "「リーダー」",
@@ -4202,6 +4205,7 @@
       "avg_4177_brigid_1"
     ],
     [
+      "Brigid",
       "ブリギッド",
       "布莉吉"
     ]
@@ -4527,6 +4531,9 @@
       "avg_450_necras_1"
     ],
     [
+      "Eblana",
+      "Greedy Red Dragon",
+      "The Red Dragon",
       "エブラナ",
       "爱布拉娜",
       "红龙",
@@ -9796,6 +9803,7 @@
       "avg_npc_1254_1"
     ],
     [
+      "Decrepit Old Man",
       "伊安",
       "卡利托",
       "沉默的老人",
@@ -12818,6 +12826,8 @@
       "avg_npc_1684_1"
     ],
     [
+      "Loughshinny",
+      "Warm Young Dragon",
       "ラフシニー",
       "拉芙希妮",
       "温かみのある幼龍",
@@ -12829,6 +12839,8 @@
       "avg_npc_1685_1"
     ],
     [
+      "Cold Young Dragon",
+      "Eblana",
       "エブラナ",
       "冰冷的幼龙",
       "冷ややかな幼龍",
@@ -12840,6 +12852,7 @@
       "avg_npc_1686_1"
     ],
     [
+      "Brooding Resident",
       "不機嫌な住民",
       "阴沉的居民"
     ]
@@ -12849,6 +12862,9 @@
       "avg_npc_1687_1"
     ],
     [
+      "Impatient Resident",
+      "Sensitive Resident",
+      "Silent Resident",
       "急切的居民",
       "敏感な住民",
       "敏感的居民",
@@ -12862,6 +12878,7 @@
       "avg_npc_1688_1"
     ],
     [
+      "Friendly Resident",
       "友善的居民",
       "友好的な住民"
     ]
@@ -12871,6 +12888,8 @@
       "avg_npc_1689_1"
     ],
     [
+      "Angry Resident",
+      "Quiet Resident",
       "寡言的居民",
       "寡黙な住民",
       "怒る住民",
@@ -12892,6 +12911,7 @@
       "avg_npc_1690_1"
     ],
     [
+      "The Exiled King",
       "“放逐王”",
       "「放逐王」"
     ]
@@ -12901,6 +12921,7 @@
       "avg_npc_1691_1"
     ],
     [
+      "Solemn Wakewoman",
       "严肃的守灵人",
       "生真面目な霊の守人"
     ]
@@ -12910,6 +12931,8 @@
       "avg_npc_1692_1"
     ],
     [
+      "Nemos",
+      "The Wakewoman",
       "“守灵人”",
       "「霊の守人」",
       "ネモス",
@@ -12921,6 +12944,7 @@
       "avg_npc_1693_1"
     ],
     [
+      "Jittery Guard",
       "烦躁的守卫",
       "苛立つ衛兵"
     ]
@@ -12930,6 +12954,7 @@
       "avg_npc_1694_1"
     ],
     [
+      "Loughshinny",
       "ラフシニー",
       "拉芙希妮"
     ]
@@ -12939,6 +12964,7 @@
       "avg_npc_1695_1"
     ],
     [
+      "Fervent Resident",
       "狂気的な住民",
       "狂热的居民"
     ]
@@ -12948,6 +12974,9 @@
       "avg_npc_1696_1"
     ],
     [
+      "Dying Resident",
+      "Indifferent Resident",
+      "Worried Resident",
       "冷淡な住民",
       "冷漠的居民",
       "憂いげな住民",
@@ -12961,6 +12990,7 @@
       "avg_npc_1697_1"
     ],
     [
+      "Culann",
       "クラン",
       "库林"
     ]
@@ -12970,6 +13000,8 @@
       "avg_npc_1698_1"
     ],
     [
+      "'The Singer'",
+      "Writer",
       "“歌唱家”",
       "「吟遊家」",
       "作家"
@@ -13147,6 +13179,7 @@
       "avg_npc_1749_1"
     ],
     [
+      "'The Torturer'",
       "“拷问者”",
       "「拷問者」"
     ]
@@ -13233,6 +13266,7 @@
       "avg_npc_1752_1"
     ],
     [
+      "Anxious Resident",
       "焦急的居民",
       "落ち着かない様子の住民"
     ]
@@ -15369,6 +15403,8 @@
       "'The Accountant'",
       "'The Bandit'",
       "'The Convict'",
+      "'The Cruel Officer'",
+      "'The Ombudsman'",
       "'The Toxicologist'",
       "“会计”",
       "“囚犯”",
@@ -15436,6 +15472,7 @@
       "Nervous Child",
       "Small Child",
       "Taran Child",
+      "Theo",
       "Victorian Boy",
       "ひもじい屋台の店主",
       "やんちゃな子供",
@@ -15795,6 +15832,7 @@
       "avg_npc_246"
     ],
     [
+      "'The Bureaucrat'",
       "'The Elocutionist'",
       "“官僚”",
       "“雄辩家”",
@@ -15808,6 +15846,7 @@
     ],
     [
       "'The Immolator'",
+      "'The Singer'",
       "“歌唱家”",
       "“纵火家”",
       "「吟遊家」",
@@ -17505,6 +17544,7 @@
       "Dublinn Soldier",
       "Dublinn Soldier A",
       "Dublinn Soldier B",
+      "Frantic Soldier",
       "ダブリン兵士",
       "ダブリン兵士A",
       "ダブリン兵士B",
@@ -20452,6 +20492,7 @@
     ],
     [
       "'The Brigadier'",
+      "The Brigadier",
       "“校官”",
       "「将校」",
       "将校",
