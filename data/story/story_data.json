@@ -9134,7 +9134,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "临行日",
-      "ja_JP": "出発の日"
+      "ja_JP": "出発の日",
+      "en_US": "Day of Departure"
     },
     "code": null,
     "zone": "brigid"
@@ -9144,7 +9145,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "容身之所",
-      "ja_JP": "居場所"
+      "ja_JP": "居場所",
+      "en_US": "Where She Belongs"
     },
     "code": null,
     "zone": "fartth"
@@ -9165,7 +9167,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "正义号竭诚为您服务！",
-      "ja_JP": "あなたのお役に立つわ！"
+      "ja_JP": "あなたのお役に立つわ！",
+      "en_US": "Justice Knight is Here For You!"
     },
     "code": null,
     "zone": "jnight"
@@ -10422,7 +10425,7 @@
     "name": {
       "zh_CN": "非调谐回响的诗 Part.01",
       "ja_JP": "不調和な反響の詩 Part.01",
-      "en_US": "Poems of The Non-Tuned Echo Part.01"
+      "en_US": "Poems of the Non-Tuned Echo Part.01"
     },
     "code": null,
     "zone": "rogue_4"
@@ -10433,7 +10436,7 @@
     "name": {
       "zh_CN": "非调谐回响的诗 Part.02",
       "ja_JP": "不調和な反響の詩 Part.02",
-      "en_US": "Poems of The Non-Tuned Echo Part.02"
+      "en_US": "Poems of the Non-Tuned Echo Part.02"
     },
     "code": null,
     "zone": "rogue_4"
@@ -10455,7 +10458,7 @@
     "name": {
       "zh_CN": "非调谐回响的诗 Part.03",
       "ja_JP": "不調和な反響の詩 Part.03",
-      "en_US": "Poems of The Non-Tuned Echo Part.03"
+      "en_US": "Poems of the Non-Tuned Echo Part.03"
     },
     "code": null,
     "zone": "rogue_4"
@@ -10532,7 +10535,7 @@
     "name": {
       "zh_CN": "弯路的终点 Part.01",
       "ja_JP": "回り道の終着点 Part.01",
-      "en_US": "The End of The Deviated Path Part.01"
+      "en_US": "The End of the Wrong Path Part.01"
     },
     "code": null,
     "zone": "rogue_4"
@@ -10543,7 +10546,7 @@
     "name": {
       "zh_CN": "弯路的终点 Part.02",
       "ja_JP": "回り道の終着点 Part.02",
-      "en_US": "The End of The Deviated Path Part.02"
+      "en_US": "The End of the Wrong Path Part.02"
     },
     "code": null,
     "zone": "rogue_4"
@@ -10554,7 +10557,7 @@
     "name": {
       "zh_CN": "弯路的终点 Part.03",
       "ja_JP": "回り道の終着点 Part.03",
-      "en_US": "The End of The Deviated Path Part.03"
+      "en_US": "The End of the Wrong Path Part.03"
     },
     "code": null,
     "zone": "rogue_4"
@@ -10575,7 +10578,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "接触 Part.01",
-      "ja_JP": "接触 Part.01"
+      "ja_JP": "接触 Part.01",
+      "en_US": "Contact Part.01"
     },
     "code": null,
     "zone": "rogue_4"
@@ -10585,7 +10589,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "接触 Part.02",
-      "ja_JP": "接触 Part.02"
+      "ja_JP": "接触 Part.02",
+      "en_US": "Contact Part.02"
     },
     "code": null,
     "zone": "rogue_4"
@@ -10595,7 +10600,8 @@
     "type": "Rogue",
     "name": {
       "zh_CN": "接触 Part.03",
-      "ja_JP": "接触 Part.03"
+      "ja_JP": "接触 Part.03",
+      "en_US": "Contact Part.03"
     },
     "code": null,
     "zone": "rogue_4"
@@ -13917,7 +13923,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "涉过寒夜",
-      "ja_JP": "凍える夜を越えて"
+      "ja_JP": "凍える夜を越えて",
+      "en_US": "Walk Through the Cold Night"
     },
     "code": "EA-ST-1",
     "zone": "act41side"
@@ -13927,7 +13934,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "扉页所见",
-      "ja_JP": "巻頭の序文"
+      "ja_JP": "巻頭の序文",
+      "en_US": "Title Page"
     },
     "code": "EA-1",
     "zone": "act41side"
@@ -13937,7 +13945,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "扉页所见",
-      "ja_JP": "巻頭の序文"
+      "ja_JP": "巻頭の序文",
+      "en_US": "Title Page"
     },
     "code": "EA-1",
     "zone": "act41side"
@@ -13947,7 +13956,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "不过别离",
-      "ja_JP": "単なる別れ"
+      "ja_JP": "単なる別れ",
+      "en_US": "But Only Farewell"
     },
     "code": "EA-2",
     "zone": "act41side"
@@ -13957,7 +13967,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "不过别离",
-      "ja_JP": "単なる別れ"
+      "ja_JP": "単なる別れ",
+      "en_US": "But Only Farewell"
     },
     "code": "EA-2",
     "zone": "act41side"
@@ -13967,7 +13978,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "惶惑与冲动",
-      "ja_JP": "不安と衝動"
+      "ja_JP": "不安と衝動",
+      "en_US": "Suspicion and Impulse"
     },
     "code": "EA-3",
     "zone": "act41side"
@@ -13977,7 +13989,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "惶惑与冲动",
-      "ja_JP": "不安と衝動"
+      "ja_JP": "不安と衝動",
+      "en_US": "Suspicion and Impulse"
     },
     "code": "EA-3",
     "zone": "act41side"
@@ -13987,7 +14000,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "旧舞步",
-      "ja_JP": "在りし日のステップ"
+      "ja_JP": "在りし日のステップ",
+      "en_US": "That Old Dance"
     },
     "code": "EA-4",
     "zone": "act41side"
@@ -13997,7 +14011,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "旧舞步",
-      "ja_JP": "在りし日のステップ"
+      "ja_JP": "在りし日のステップ",
+      "en_US": "That Old Dance"
     },
     "code": "EA-4",
     "zone": "act41side"
@@ -14018,7 +14033,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "溺火",
-      "ja_JP": "炎に溺れる"
+      "ja_JP": "炎に溺れる",
+      "en_US": "Drowned in Fire"
     },
     "code": "EA-5",
     "zone": "act41side"
@@ -14028,7 +14044,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "溺火",
-      "ja_JP": "炎に溺れる"
+      "ja_JP": "炎に溺れる",
+      "en_US": "Drowned in Fire"
     },
     "code": "EA-5",
     "zone": "act41side"
@@ -14038,7 +14055,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "失路人",
-      "ja_JP": "迷い人"
+      "ja_JP": "迷い人",
+      "en_US": "The Lost"
     },
     "code": "EA-6",
     "zone": "act41side"
@@ -14048,7 +14066,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "失路人",
-      "ja_JP": "迷い人"
+      "ja_JP": "迷い人",
+      "en_US": "The Lost"
     },
     "code": "EA-6",
     "zone": "act41side"
@@ -14058,7 +14077,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "罗曼史已死",
-      "ja_JP": "ロマンスは死んだ"
+      "ja_JP": "ロマンスは死んだ",
+      "en_US": "Death of a Romance"
     },
     "code": "EA-ST-2",
     "zone": "act41side"
@@ -14068,7 +14088,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "烧灯者",
-      "ja_JP": "灯火を燃やす者"
+      "ja_JP": "灯火を燃やす者",
+      "en_US": "One Who Burns the Lamp"
     },
     "code": "EA-7",
     "zone": "act41side"
@@ -14078,7 +14099,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "烧灯者",
-      "ja_JP": "灯火を燃やす者"
+      "ja_JP": "灯火を燃やす者",
+      "en_US": "One Who Burns the Lamp"
     },
     "code": "EA-7",
     "zone": "act41side"
@@ -14088,7 +14110,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "夜尽之时",
-      "ja_JP": "夜明けの時"
+      "ja_JP": "夜明けの時",
+      "en_US": "At the End of the Night"
     },
     "code": "EA-8",
     "zone": "act41side"
@@ -14098,7 +14121,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "夜尽之时",
-      "ja_JP": "夜明けの時"
+      "ja_JP": "夜明けの時",
+      "en_US": "At the End of the Night"
     },
     "code": "EA-8",
     "zone": "act41side"
@@ -14108,7 +14132,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "封底纪事",
-      "ja_JP": "巻末の端書"
+      "ja_JP": "巻末の端書",
+      "en_US": "Back Cover"
     },
     "code": "EA-ST-3",
     "zone": "act41side"
