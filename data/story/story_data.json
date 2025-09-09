@@ -9133,7 +9133,8 @@
     "id": "obt/memory/story_brigid_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "临行日"
+      "zh_CN": "临行日",
+      "ja_JP": "出発の日"
     },
     "code": null,
     "zone": "brigid"
@@ -9142,7 +9143,8 @@
     "id": "obt/memory/story_fartth_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "容身之所"
+      "zh_CN": "容身之所",
+      "ja_JP": "居場所"
     },
     "code": null,
     "zone": "fartth"
@@ -9162,7 +9164,8 @@
     "id": "obt/memory/story_jnight_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "正义号竭诚为您服务！"
+      "zh_CN": "正义号竭诚为您服务！",
+      "ja_JP": "あなたのお役に立つわ！"
     },
     "code": null,
     "zone": "jnight"
@@ -10571,7 +10574,8 @@
     "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_8_1",
     "type": "Rogue",
     "name": {
-      "zh_CN": "接触 Part.01"
+      "zh_CN": "接触 Part.01",
+      "ja_JP": "接触 Part.01"
     },
     "code": null,
     "zone": "rogue_4"
@@ -10580,7 +10584,8 @@
     "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_8_2",
     "type": "Rogue",
     "name": {
-      "zh_CN": "接触 Part.02"
+      "zh_CN": "接触 Part.02",
+      "ja_JP": "接触 Part.02"
     },
     "code": null,
     "zone": "rogue_4"
@@ -10589,7 +10594,8 @@
     "id": "obt/rogue/rogue_4/monthrecord/month_record_rogue_4_8_3",
     "type": "Rogue",
     "name": {
-      "zh_CN": "接触 Part.03"
+      "zh_CN": "接触 Part.03",
+      "ja_JP": "接触 Part.03"
     },
     "code": null,
     "zone": "rogue_4"
@@ -13910,7 +13916,8 @@
     "id": "activities/act41side/level_act41side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "涉过寒夜"
+      "zh_CN": "涉过寒夜",
+      "ja_JP": "凍える夜を越えて"
     },
     "code": "EA-ST-1",
     "zone": "act41side"
@@ -13919,7 +13926,8 @@
     "id": "activities/act41side/level_act41side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "扉页所见"
+      "zh_CN": "扉页所见",
+      "ja_JP": "巻頭の序文"
     },
     "code": "EA-1",
     "zone": "act41side"
@@ -13928,7 +13936,8 @@
     "id": "activities/act41side/level_act41side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "扉页所见"
+      "zh_CN": "扉页所见",
+      "ja_JP": "巻頭の序文"
     },
     "code": "EA-1",
     "zone": "act41side"
@@ -13937,7 +13946,8 @@
     "id": "activities/act41side/level_act41side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "不过别离"
+      "zh_CN": "不过别离",
+      "ja_JP": "単なる別れ"
     },
     "code": "EA-2",
     "zone": "act41side"
@@ -13946,7 +13956,8 @@
     "id": "activities/act41side/level_act41side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "不过别离"
+      "zh_CN": "不过别离",
+      "ja_JP": "単なる別れ"
     },
     "code": "EA-2",
     "zone": "act41side"
@@ -13955,7 +13966,8 @@
     "id": "activities/act41side/level_act41side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "惶惑与冲动"
+      "zh_CN": "惶惑与冲动",
+      "ja_JP": "不安と衝動"
     },
     "code": "EA-3",
     "zone": "act41side"
@@ -13964,7 +13976,8 @@
     "id": "activities/act41side/level_act41side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "惶惑与冲动"
+      "zh_CN": "惶惑与冲动",
+      "ja_JP": "不安と衝動"
     },
     "code": "EA-3",
     "zone": "act41side"
@@ -13973,7 +13986,8 @@
     "id": "activities/act41side/level_act41side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "旧舞步"
+      "zh_CN": "旧舞步",
+      "ja_JP": "在りし日のステップ"
     },
     "code": "EA-4",
     "zone": "act41side"
@@ -13982,7 +13996,8 @@
     "id": "activities/act41side/level_act41side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "旧舞步"
+      "zh_CN": "旧舞步",
+      "ja_JP": "在りし日のステップ"
     },
     "code": "EA-4",
     "zone": "act41side"
@@ -14002,7 +14017,8 @@
     "id": "activities/act41side/level_act41side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "溺火"
+      "zh_CN": "溺火",
+      "ja_JP": "炎に溺れる"
     },
     "code": "EA-5",
     "zone": "act41side"
@@ -14011,7 +14027,8 @@
     "id": "activities/act41side/level_act41side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "溺火"
+      "zh_CN": "溺火",
+      "ja_JP": "炎に溺れる"
     },
     "code": "EA-5",
     "zone": "act41side"
@@ -14020,7 +14037,8 @@
     "id": "activities/act41side/level_act41side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "失路人"
+      "zh_CN": "失路人",
+      "ja_JP": "迷い人"
     },
     "code": "EA-6",
     "zone": "act41side"
@@ -14029,7 +14047,8 @@
     "id": "activities/act41side/level_act41side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "失路人"
+      "zh_CN": "失路人",
+      "ja_JP": "迷い人"
     },
     "code": "EA-6",
     "zone": "act41side"
@@ -14038,7 +14057,8 @@
     "id": "activities/act41side/level_act41side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "罗曼史已死"
+      "zh_CN": "罗曼史已死",
+      "ja_JP": "ロマンスは死んだ"
     },
     "code": "EA-ST-2",
     "zone": "act41side"
@@ -14047,7 +14067,8 @@
     "id": "activities/act41side/level_act41side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "烧灯者"
+      "zh_CN": "烧灯者",
+      "ja_JP": "灯火を燃やす者"
     },
     "code": "EA-7",
     "zone": "act41side"
@@ -14056,7 +14077,8 @@
     "id": "activities/act41side/level_act41side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "烧灯者"
+      "zh_CN": "烧灯者",
+      "ja_JP": "灯火を燃やす者"
     },
     "code": "EA-7",
     "zone": "act41side"
@@ -14065,7 +14087,8 @@
     "id": "activities/act41side/level_act41side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "夜尽之时"
+      "zh_CN": "夜尽之时",
+      "ja_JP": "夜明けの時"
     },
     "code": "EA-8",
     "zone": "act41side"
@@ -14074,7 +14097,8 @@
     "id": "activities/act41side/level_act41side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "夜尽之时"
+      "zh_CN": "夜尽之时",
+      "ja_JP": "夜明けの時"
     },
     "code": "EA-8",
     "zone": "act41side"
@@ -14083,7 +14107,8 @@
     "id": "activities/act41side/level_act41side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "封底纪事"
+      "zh_CN": "封底纪事",
+      "ja_JP": "巻末の端書"
     },
     "code": "EA-ST-3",
     "zone": "act41side"
