@@ -10698,6 +10698,33 @@
     "code": null,
     "zone": "rogue_5"
   },
+  "1882": {
+    "id": "obt/rogue/rogue_5/monthrecord/month_record_rogue_5_4_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "今朝醉 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_5"
+  },
+  "1883": {
+    "id": "obt/rogue/rogue_5/monthrecord/month_record_rogue_5_4_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "今朝醉 Part.02"
+    },
+    "code": null,
+    "zone": "rogue_5"
+  },
+  "1884": {
+    "id": "obt/rogue/rogue_5/monthrecord/month_record_rogue_5_4_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "今朝醉 Part.03"
+    },
+    "code": null,
+    "zone": "rogue_5"
+  },
   "189": {
     "id": "obt/main/level_main_10-05_beg",
     "type": "Main",
