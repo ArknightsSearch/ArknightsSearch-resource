@@ -298,6 +298,8 @@
       "avg_017_huang_1"
     ],
     [
+      "Blaze",
+      "ブレイズ",
       "煌"
     ]
   ],
@@ -1330,10 +1332,12 @@
       "char_171_bldsk_1"
     ],
     [
+      "Evil Vampire",
       "Warfarin",
       "ワルファリン",
       "华法琳",
-      "邪恶的血魔"
+      "邪恶的血魔",
+      "邪悪なブラッドブルード"
     ]
   ],
   [
@@ -1857,9 +1861,11 @@
       "char_210_stward_1"
     ],
     [
+      "Mild-Mannered Youth",
       "Steward",
       "スチュワード",
       "史都华德",
+      "温和な住民",
       "温和的青年"
     ]
   ],
@@ -2443,8 +2449,10 @@
       "char_285_medic2_1"
     ],
     [
+      "Abnormal Lancet-2",
       "Lancet-2",
-      "异常的Lancet-2"
+      "异常的Lancet-2",
+      "異常なLancet-2"
     ]
   ],
   [
@@ -2452,8 +2460,10 @@
       "avg_286_cast3_1"
     ],
     [
+      "Abnormal Castle-3",
       "Castle-3",
-      "异常的Castle-3"
+      "异常的Castle-3",
+      "異常なCastle-3"
     ]
   ],
   [
@@ -2946,9 +2956,11 @@
       "char_376_therex_1"
     ],
     [
+      "Abnormal THRM-EX",
       "THRM-EX",
       "Thermal-EX",
-      "异常的THRM-EX"
+      "异常的THRM-EX",
+      "異常なTHRM-EX"
     ]
   ],
   [
@@ -3044,6 +3056,7 @@
     ],
     [
       "'Justice Knight'",
+      "Abnormal Justice Knight",
       "Archbeast Mechanica",
       "Justice Knight",
       "“正义骑士号”",
@@ -3052,7 +3065,8 @@
       "异常的“正义骑士号”",
       "机械凶兽",
       "機械凶獣",
-      "正义骑士号"
+      "正义骑士号",
+      "異常な「ジャスティスナイト」"
     ]
   ],
   [
@@ -3891,8 +3905,10 @@
       "avg_4132_ascln_1"
     ],
     [
+      "'Ascalon'",
       "Ascalon",
       "“阿斯卡纶”",
+      "「アスカロン」",
       "アスカロン",
       "阿斯卡纶"
     ]
@@ -3910,7 +3926,9 @@
       "avg_4134_cetsyr_1"
     ],
     [
+      "Civilight Eterna",
       "Theresa's Phantom",
+      "シヴィライト・エテルナ",
       "テレジアの幻影",
       "特蕾西娅的幻影",
       "魔王"
@@ -4216,6 +4234,8 @@
       "avg_4178_alanna_1"
     ],
     [
+      "Alanna",
+      "アランナ",
       "阿兰娜"
     ]
   ],
@@ -5542,6 +5562,7 @@
       "'Captain'",
       "Abi",
       "Arrogant Robber",
+      "Attacker",
       "Bandit",
       "Bandit Leader",
       "Black Market Brawler B",
@@ -5648,6 +5669,7 @@
       "荒地人",
       "荒野の男",
       "袭击者",
+      "襲撃者",
       "見張りの賞金稼ぎ",
       "負傷した傭兵",
       "負傷した戦士",
@@ -5725,6 +5747,7 @@
       "avg_npc_012"
     ],
     [
+      "Adamant",
       "Barty",
       "Bitter Root",
       "Calm Operator",
@@ -5765,6 +5788,7 @@
       "Shy Operator",
       "Tired Rhodes Island Operator",
       "Vanguard Operator A",
+      "アダマント",
       "エンジニア",
       "エンジニアA",
       "エンジニアB",
@@ -5788,6 +5812,7 @@
       "ロドスのオペレーター",
       "ロドスオペレーター",
       "ロドスオペレーターB",
+      "ロドス前衛オペレーター",
       "ロドス外勤オペレーター",
       "事務所オペレーター",
       "事務所オペレーターA",
@@ -6389,6 +6414,7 @@
       "Community Resident",
       "Confused Community Resident",
       "Confused Fan",
+      "Curious Youth",
       "Customer",
       "Doctor",
       "Drunk",
@@ -6448,6 +6474,7 @@
       "司会者",
       "困り顔の男性",
       "困惑しているファン",
+      "好奇心旺盛な青年",
       "好奇的青年",
       "客",
       "寒がりな観光客",
@@ -7833,6 +7860,7 @@
       "Rhodes Island Field Operator A",
       "Rhodes Island Logistics Operator",
       "Rhodes Island Operator",
+      "Rhodes Island Sniper",
       "Scout Operator",
       "Seanson",
       "Seasoned Rhodes Island Operator",
@@ -7844,6 +7872,7 @@
       "ホーガー",
       "ロドスオペレーター",
       "ロドス後方支援オペレーター",
+      "ロドス狙撃オペレーター",
       "ロールパイン",
       "事務所オペレーターB",
       "侦察干员",
@@ -7881,6 +7910,7 @@
       "Engineering Operator",
       "Engineering Operator A",
       "Engineering Operator B",
+      "Guard Operator",
       "Intern Operator C",
       "Lucci",
       "Office Operator",
@@ -7914,6 +7944,7 @@
       "事務所オペレーターA",
       "先鋒オペレーター",
       "先锋干员",
+      "前衛オペレーター",
       "办事处干员",
       "办事处干员A",
       "外勤オペレーターA",
@@ -9238,6 +9269,7 @@
     ],
     [
       "Company Representative",
+      "Miner",
       "Somewhat Familiar Woman",
       "Strange Lady",
       "Weary Miner",
@@ -9252,6 +9284,7 @@
       "工人B",
       "工人“发动机”",
       "工員B",
+      "採掘労働者",
       "有点熟悉的女性",
       "疲れた坑夫",
       "疲劳的矿工",
@@ -11182,7 +11215,9 @@
       "avg_npc_1456_1"
     ],
     [
+      "Frightened Child",
       "“小砖头”",
+      "怖がる子供",
       "恐惧的孩子",
       "格莱特",
       "瘦弱的萨卡兹"
@@ -11518,6 +11553,7 @@
       "Curious Girl",
       "Girl by the Shore",
       "Happy Girl",
+      "Infected Girl",
       "Sad Girl",
       "Sobbing Girl",
       "Young Visitor",
@@ -11534,6 +11570,7 @@
       "开心的女孩",
       "悲しむ少女",
       "悲伤的女孩",
+      "感染者の子供",
       "感染者孩童",
       "興味津々な女の子"
     ]
@@ -11879,6 +11916,8 @@
       "avg_npc_1559_1"
     ],
     [
+      "Reserve Guard Operator",
+      "予備前衛オペレーター",
       "预备近卫干员"
     ]
   ],
@@ -13036,6 +13075,8 @@
       "avg_npc_1718_1"
     ],
     [
+      "Priestess",
+      "プリースティス",
       "普瑞赛斯"
     ]
   ],
@@ -13044,6 +13085,10 @@
       "avg_npc_1719_1"
     ],
     [
+      "Confused Individual",
+      "Hierda",
+      "ヒアダ",
+      "困惑した人",
       "困惑的人",
       "希尔达"
     ]
@@ -13066,8 +13111,12 @@
       "avg_npc_1720_1"
     ],
     [
+      "Mysterious Elf",
+      "The Presence",
       "幽灵",
-      "神秘的精灵"
+      "幽霊",
+      "神秘的精灵",
+      "謎の精霊"
     ]
   ],
   [
@@ -13083,6 +13132,8 @@
       "avg_npc_1723_1"
     ],
     [
+      "Closure",
+      "クロージャ",
       "可露希尔"
     ]
   ],
@@ -13091,6 +13142,10 @@
       "avg_npc_1724_1"
     ],
     [
+      "Theresis",
+      "Weak Voice",
+      "テレシス",
+      "弱々しい声",
       "特雷西斯",
       "虚弱的声音"
     ]
@@ -13100,8 +13155,12 @@
       "avg_npc_1725_1"
     ],
     [
+      "Mechanical Lifeform",
+      "Raydistorter",
+      "レイディストーター",
       "屈光者",
-      "机械的生命"
+      "机械的生命",
+      "機械の生命"
     ]
   ],
   [
@@ -13109,9 +13168,15 @@
       "avg_npc_1726_1"
     ],
     [
+      "'Beepy'",
+      "Originium-Infested Machine",
+      "Pained 'Beepy'",
       "“小嘟嘟”",
+      "「ブーブーちゃん」",
+      "源石に侵食された機械",
       "源石侵蚀的机械",
-      "痛苦的“小嘟嘟”"
+      "痛苦的“小嘟嘟”",
+      "苦しむ「ブーブーちゃん」"
     ]
   ],
   [
@@ -13119,6 +13184,8 @@
       "avg_npc_1727_1"
     ],
     [
+      "Originium Entity",
+      "源石結晶体",
       "源石结晶体"
     ]
   ],
@@ -13127,6 +13194,8 @@
       "avg_npc_1728_1"
     ],
     [
+      "Originium Entity",
+      "源石結晶体",
       "源石结晶体"
     ]
   ],
@@ -13135,7 +13204,9 @@
       "avg_npc_1729_1"
     ],
     [
-      "坚强的感染者"
+      "Tough Infected",
+      "坚强的感染者",
+      "気丈な感染者"
     ]
   ],
   [
@@ -13156,7 +13227,9 @@
       "avg_npc_1730_1"
     ],
     [
+      "Communicator",
       "Raidian",
+      "通信の声",
       "通讯中的声音"
     ]
   ],
@@ -13165,6 +13238,8 @@
       "avg_npc_1731_1"
     ],
     [
+      "Infected Worker",
+      "急性感染した労働者",
       "急性感染的工人"
     ]
   ],
@@ -13211,6 +13286,7 @@
       "Opinionated Patient",
       "Pretentious Noblewoman",
       "Reserved MP",
+      "Reserved Viscount",
       "Scathing Leithanian",
       "Self-Satisfied Noble Alumna",
       "Wealthy Woman",
@@ -13229,6 +13305,7 @@
       "好奇的游客",
       "富有的女性",
       "富裕層の女性",
+      "寡黙な子爵",
       "役者",
       "慢条斯理的议员",
       "明るい女性貴族",
@@ -13301,6 +13378,7 @@
       "Plump Merchant",
       "Pompous Man",
       "Pompous Merchant",
+      "Scathing Baron",
       "Seasoned Investor",
       "Skinny Cheung",
       "Slimy Noble",
@@ -13321,6 +13399,7 @@
       "ヴィクトリアの豪商",
       "主持人",
       "優雅な使節",
+      "冷酷な男爵",
       "刻薄的男爵",
       "剧场经理",
       "剧院经理",
@@ -13388,6 +13467,7 @@
       "Factory Director",
       "High-status Magnate",
       "Hughes",
+      "Laid-Back Baron",
       "Local Judge B",
       "Londinium Merchant",
       "Mayor",
@@ -13434,6 +13514,7 @@
       "本地法官B",
       "殷勤的投资商",
       "派手に着飾った男",
+      "浮ついた男爵",
       "焦る病人",
       "焦急的病人",
       "物腰柔らかな投資家",
@@ -15479,6 +15560,7 @@
       "Millen",
       "Naughty Child",
       "Nervous Child",
+      "Silent Child",
       "Small Child",
       "Taran Child",
       "Theo",
@@ -15526,7 +15608,8 @@
       "興味津々な子供",
       "顽皮的孩子",
       "騎士",
-      "骑士"
+      "骑士",
+      "黙る子供"
     ]
   ],
   [
@@ -15613,6 +15696,7 @@
       "Gentleman",
       "Grieving Man",
       "Hostile Man",
+      "Hot-Blooded Youth",
       "Independent Reporter",
       "Infected",
       "Infected Citizen",
@@ -15732,6 +15816,7 @@
       "米克尔",
       "興奮したターラーの流民",
       "興奮する市民",
+      "興奮する青年",
       "苛立つ村人",
       "苦しむ男性",
       "荒っぽいターラーの流民",
@@ -15755,8 +15840,10 @@
     [
       "Apathetic Passerby",
       "Aunt Danka",
+      "Calm Infected",
       "Calm Lady",
       "Cautious Servant",
+      "Chloe",
       "Feeble Woman",
       "Frightened Woman",
       "Infected Citizen",
@@ -15772,6 +15859,7 @@
       "Sorrowful Woman",
       "Taran Refugee",
       "Townsfolk B",
+      "クロエ",
       "ターラーの流民",
       "ダンカおばさん",
       "パサード",
@@ -15810,6 +15898,7 @@
       "臆病な使用人",
       "苦しむ難民",
       "落ち着いた女性",
+      "落ち着いた感染者",
       "谨小慎微的佣人",
       "貴族の妹",
       "贵族妹妹",
@@ -17086,10 +17175,12 @@
       "Devout Citizen",
       "Handcuffed Lateran",
       "Lateran Citizen?",
+      "Lateran Messenger",
       "Nervous Youth",
       "Nimble Lateran",
       "Panicked Underling of Patia",
       "Reserved Hospital Attendant",
+      "トランスポーター",
       "信心深い市民",
       "市民？",
       "拉特兰信使",
@@ -17413,6 +17504,7 @@
       "Cautious Mercenary",
       "Columbian Mercenary",
       "Concerned Mercenary",
+      "County Police",
       "Disdainful Mercenary",
       "Former Defense Forces Soldier",
       "Impatient Mercenary",
@@ -17440,6 +17532,7 @@
       "哥伦比亚雇佣兵",
       "商会保安",
       "商会警備員",
+      "地方警察",
       "平静的佣兵",
       "心配する傭兵",
       "恐れる私兵",
@@ -17640,6 +17733,7 @@
     ],
     [
       "Carefree Citizen",
+      "Excited Soldier",
       "Flag Officer",
       "Victorian Officer",
       "Victorian Soldier",
@@ -17651,6 +17745,7 @@
       "悠闲的市民",
       "维多利亚军官",
       "维多利亚士兵",
+      "興奮した軍人",
       "高级军官"
     ]
   ],
@@ -17823,6 +17918,7 @@
       "avg_npc_417_1"
     ],
     [
+      "Agitated Citizen",
       "Angry Thug",
       "Cafeteria Manager",
       "Calm Thug",
@@ -17863,6 +17959,7 @@
       "疑惑的居民",
       "疑惑的市民",
       "疲惫的市民",
+      "興奮した住民",
       "興奮した暴徒",
       "落ち着かない市民",
       "訝しむ住民",
@@ -17883,6 +17980,7 @@
       "Fleeing Londinier",
       "Florist",
       "Haggard Woman",
+      "Hesitant Citizen",
       "Ivy",
       "Lanky Inventor",
       "Londinium Citizen",
@@ -17927,6 +18025,7 @@
       "艾维",
       "菲林",
       "見知らぬ女性",
+      "躊躇う住民",
       "陌生女人"
     ]
   ],
@@ -18068,6 +18167,7 @@
       "Panting Soldier",
       "Prisoner",
       "Rescued Soldier",
+      "Tired Wounded",
       "Walker",
       "Wounded Abandoned Soldier",
       "Wounded Victorian Soldier",
@@ -18082,6 +18182,7 @@
       "模範軍兵士",
       "气喘吁吁的士兵",
       "沃克",
+      "疲弊した負傷兵",
       "疲惫的伤员",
       "积极的士兵",
       "積極的な兵士",
@@ -18887,6 +18988,7 @@
     ],
     [
       "Andante",
+      "Logistics Operator",
       "Medic Operator",
       "Medical Department Operator",
       "Rhodes Island Operator",
@@ -18903,6 +19005,7 @@
       "干员装束的女性",
       "慌乱的干员",
       "慌张的干员",
+      "支援オペレーター",
       "罗德岛干员",
       "行板"
     ]
@@ -19635,12 +19738,14 @@
       "avg_npc_599_1"
     ],
     [
+      "Cloudbeast",
       "Stray Storm Cloudbeast",
       "乌云兽",
       "云兽",
       "六十七",
       "迷子の烏雲獣",
-      "迷路的乌云兽"
+      "迷路的乌云兽",
+      "雲獣"
     ]
   ],
   [
@@ -20024,6 +20129,7 @@
     ],
     [
       "Curious Girl",
+      "Disgusted Child",
       "Enthusiastic Student",
       "Farmer",
       "Hollering Student",
@@ -20044,6 +20150,7 @@
       "天真的孩子",
       "好奇的孩子",
       "嫌がる子供",
+      "嫌そうな表情の子供",
       "安",
       "小藿普",
       "排斥的孩童",
@@ -20577,9 +20684,11 @@
       "Injured Refugee",
       "Injured Worker",
       "Maimed Citizen",
+      "Reunion Member",
       "Tear-Streaked Passerby",
       "Wounded Taran",
       "クルーズ",
+      "レユニオン構成員",
       "受伤的塔拉人",
       "受伤的工人",
       "受伤的流民",
@@ -22018,6 +22127,10 @@
     ],
     [
       "Curious Operator C",
+      "Engineering Operator",
+      "Rhodes Island Engineering Operator",
+      "エンジニアオペレーター",
+      "エンジニア部オペレーター",
       "好奇的干员C",
       "工程干员",
       "罗德岛工程部干员",
@@ -22096,7 +22209,9 @@
       "avg_npc_974_1"
     ],
     [
-      "激动的病人"
+      "Agitated Patient",
+      "激动的病人",
+      "激情する感染者"
     ]
   ],
   [
@@ -22104,6 +22219,8 @@
       "avg_npc_975_1"
     ],
     [
+      "Level-Headed Patient",
+      "冷静を装う感染者",
       "尝试克制的病人"
     ]
   ],
@@ -22112,7 +22229,9 @@
       "avg_npc_976_1"
     ],
     [
+      "Boy",
       "Mischievous Child",
+      "男の子",
       "男孩",
       "腕白な子供",
       "调皮的孩子"
