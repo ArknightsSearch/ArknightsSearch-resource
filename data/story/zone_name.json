@@ -386,6 +386,8 @@
     "zh_CN": "赤冬"
   },
   "alanna": {
+    "en_US": "Alanna",
+    "ja_JP": "アランナ",
     "zh_CN": "阿兰娜"
   },
   "almond": {
@@ -1207,6 +1209,8 @@
     "zh_CN": "慈悲灯塔"
   },
   "main_15": {
+    "en_US": "Dissociative Recombination",
+    "ja_JP": "解離結合",
     "zh_CN": "离解复合"
   },
   "main_2": {
@@ -1886,6 +1890,8 @@
     "zh_CN": "掠风"
   },
   "wscoot": {
+    "en_US": "Windscoot",
+    "ja_JP": "ウィンドスクート",
     "zh_CN": "骋风"
   },
   "wyvern": {

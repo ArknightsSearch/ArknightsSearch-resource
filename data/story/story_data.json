@@ -9177,7 +9177,9 @@
     "id": "obt/memory/story_kalts_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "长路至此"
+      "zh_CN": "长路至此",
+      "ja_JP": "長き旅路の果てに",
+      "en_US": "End of a Long Journey"
     },
     "code": null,
     "zone": "kalts"
@@ -9186,7 +9188,9 @@
     "id": "obt/memory/story_robin_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "冷暖自知"
+      "zh_CN": "冷暖自知",
+      "ja_JP": "触れるぬくもり",
+      "en_US": "To Live, To Feel"
     },
     "code": null,
     "zone": "robin"
@@ -9195,7 +9199,9 @@
     "id": "obt/memory/story_adnach_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "预备“先知”"
+      "zh_CN": "预备“先知”",
+      "ja_JP": "預言の準備",
+      "en_US": "Reserve Prophet"
     },
     "code": null,
     "zone": "adnach"
@@ -9204,7 +9210,9 @@
     "id": "obt/memory/story_ccheal_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "学医之路"
+      "zh_CN": "学医之路",
+      "ja_JP": "医学の道",
+      "en_US": "Path of Medicine"
     },
     "code": null,
     "zone": "ccheal"
@@ -13682,7 +13690,9 @@
     "id": "obt/main/level_st_15-01",
     "type": "Main",
     "name": {
-      "zh_CN": "过去与现在的终点"
+      "zh_CN": "过去与现在的终点",
+      "ja_JP": "過去と現在の終点",
+      "en_US": "The End of Past and Present"
     },
     "code": "15-1",
     "zone": "main_15"
@@ -13691,7 +13701,9 @@
     "id": "obt/main/level_main_15-01_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "执此剑者"
+      "zh_CN": "执此剑者",
+      "ja_JP": "この剣を執る者",
+      "en_US": "Bearer of the Sword"
     },
     "code": "15-2",
     "zone": "main_15"
@@ -13700,7 +13712,9 @@
     "id": "obt/main/level_main_15-01_end",
     "type": "Main",
     "name": {
-      "zh_CN": "执此剑者"
+      "zh_CN": "执此剑者",
+      "ja_JP": "この剣を執る者",
+      "en_US": "Bearer of the Sword"
     },
     "code": "15-2",
     "zone": "main_15"
@@ -13709,7 +13723,9 @@
     "id": "obt/main/level_main_15-02_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "所谓奇迹"
+      "zh_CN": "所谓奇迹",
+      "ja_JP": "奇跡とは",
+      "en_US": "In the Name of a Miracle"
     },
     "code": "15-3",
     "zone": "main_15"
@@ -13718,7 +13734,9 @@
     "id": "obt/main/level_main_15-03_end",
     "type": "Main",
     "name": {
-      "zh_CN": "深渊之侧"
+      "zh_CN": "深渊之侧",
+      "ja_JP": "深淵のほとり",
+      "en_US": "Brink of the Abyss"
     },
     "code": "15-4",
     "zone": "main_15"
@@ -13738,7 +13756,9 @@
     "id": "obt/main/level_main_15-04_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "喧哗争端"
+      "zh_CN": "喧哗争端",
+      "ja_JP": "喧噪の中の争い",
+      "en_US": "Origin of Conflict"
     },
     "code": "15-5",
     "zone": "main_15"
@@ -13747,7 +13767,9 @@
     "id": "obt/main/level_main_15-05_end",
     "type": "Main",
     "name": {
-      "zh_CN": "刻骨入髓"
+      "zh_CN": "刻骨入髓",
+      "ja_JP": "骨の髄に刻んで",
+      "en_US": "Etched Bone-Deep"
     },
     "code": "15-6",
     "zone": "main_15"
@@ -13756,7 +13778,9 @@
     "id": "obt/main/level_main_15-06_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "临界时刻"
+      "zh_CN": "临界时刻",
+      "ja_JP": "臨界の時",
+      "en_US": "Moment of Truth"
     },
     "code": "15-7",
     "zone": "main_15"
@@ -13765,7 +13789,9 @@
     "id": "obt/main/level_main_15-06_end",
     "type": "Main",
     "name": {
-      "zh_CN": "临界时刻"
+      "zh_CN": "临界时刻",
+      "ja_JP": "臨界の時",
+      "en_US": "Moment of Truth"
     },
     "code": "15-7",
     "zone": "main_15"
@@ -13774,7 +13800,9 @@
     "id": "obt/main/level_main_15-07_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "破碎回响"
+      "zh_CN": "破碎回响",
+      "ja_JP": "砕ける残響",
+      "en_US": "Broken Echoes"
     },
     "code": "15-8",
     "zone": "main_15"
@@ -13783,7 +13811,9 @@
     "id": "obt/main/level_main_15-08_end",
     "type": "Main",
     "name": {
-      "zh_CN": "减压症候"
+      "zh_CN": "减压症候",
+      "ja_JP": "減圧症",
+      "en_US": "Decompression Syndrome"
     },
     "code": "15-9",
     "zone": "main_15"
@@ -13792,7 +13822,9 @@
     "id": "obt/main/level_main_15-10_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "一段长梦将醒"
+      "zh_CN": "一段长梦将醒",
+      "ja_JP": "長き夢からの目覚め",
+      "en_US": "Wake From a Long Dream"
     },
     "code": "15-11",
     "zone": "main_15"
@@ -13801,7 +13833,9 @@
     "id": "obt/main/level_main_15-10_end",
     "type": "Main",
     "name": {
-      "zh_CN": "一段长梦将醒"
+      "zh_CN": "一段长梦将醒",
+      "ja_JP": "長き夢からの目覚め",
+      "en_US": "Wake From a Long Dream"
     },
     "code": "15-11",
     "zone": "main_15"
@@ -13810,7 +13844,9 @@
     "id": "obt/main/level_main_15-11_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "目击众神死亡的荒原"
+      "zh_CN": "目击众神死亡的荒原",
+      "ja_JP": "神々の死を見届けし荒野",
+      "en_US": "Bear Witness, the Death of the Gods"
     },
     "code": "15-12",
     "zone": "main_15"
@@ -13819,7 +13855,9 @@
     "id": "obt/main/level_main_15-12_end",
     "type": "Main",
     "name": {
-      "zh_CN": "成为你的眼睛"
+      "zh_CN": "成为你的眼睛",
+      "ja_JP": "あなたの目となって",
+      "en_US": "I Shall Be Your Eyes"
     },
     "code": "15-13",
     "zone": "main_15"
@@ -13839,7 +13877,9 @@
     "id": "obt/main/level_main_15-13_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "在尘或血中"
+      "zh_CN": "在尘或血中",
+      "ja_JP": "塵、あるいは血の中で",
+      "en_US": "In Dust or Blood"
     },
     "code": "15-14",
     "zone": "main_15"
@@ -13848,7 +13888,9 @@
     "id": "obt/main/level_main_15-14_end",
     "type": "Main",
     "name": {
-      "zh_CN": "拒绝哀悼"
+      "zh_CN": "拒绝哀悼",
+      "ja_JP": "哀悼を拒んで",
+      "en_US": "Rejection of Mourning"
     },
     "code": "15-15",
     "zone": "main_15"
@@ -13857,7 +13899,9 @@
     "id": "obt/main/level_st_15-02",
     "type": "Main",
     "name": {
-      "zh_CN": "永恒与此刻的误差"
+      "zh_CN": "永恒与此刻的误差",
+      "ja_JP": "永遠と今との誤差",
+      "en_US": "Margin of Eternity and Now"
     },
     "code": "15-16",
     "zone": "main_15"
@@ -13866,7 +13910,9 @@
     "id": "obt/main/level_main_15-15_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "“她”"
+      "zh_CN": "“她”",
+      "ja_JP": "「彼女」",
+      "en_US": "'Her'"
     },
     "code": "15-17",
     "zone": "main_15"
@@ -13875,7 +13921,9 @@
     "id": "obt/main/level_main_15-15_end_variation01",
     "type": "Main",
     "name": {
-      "zh_CN": "“她”"
+      "zh_CN": "“她”",
+      "ja_JP": "「彼女」",
+      "en_US": "'Her'"
     },
     "code": "15-17",
     "zone": "main_15"
@@ -13884,7 +13932,9 @@
     "id": "obt/main/level_main_15-15_end_variation02",
     "type": "Main",
     "name": {
-      "zh_CN": "“她”"
+      "zh_CN": "“她”",
+      "ja_JP": "「彼女」",
+      "en_US": "'Her'"
     },
     "code": "15-17",
     "zone": "main_15"
@@ -13893,7 +13943,9 @@
     "id": "obt/main/level_main_15-15_end",
     "type": "Main",
     "name": {
-      "zh_CN": "“她”"
+      "zh_CN": "“她”",
+      "ja_JP": "「彼女」",
+      "en_US": "'Her'"
     },
     "code": "15-17",
     "zone": "main_15"
@@ -13902,7 +13954,9 @@
     "id": "obt/main/level_main_15-16_beg",
     "type": "Main",
     "name": {
-      "zh_CN": "从未怀疑，从未远离"
+      "zh_CN": "从未怀疑，从未远离",
+      "ja_JP": "疑うことなく、離れることなく",
+      "en_US": "Never Doubted, Never Far"
     },
     "code": "15-18",
     "zone": "main_15"
@@ -13911,7 +13965,9 @@
     "id": "obt/main/level_main_15-18_end",
     "type": "Main",
     "name": {
-      "zh_CN": "得以重回"
+      "zh_CN": "得以重回",
+      "ja_JP": "果たされた再帰",
+      "en_US": "Return to Beginnings"
     },
     "code": "15-20",
     "zone": "main_15"
@@ -13920,7 +13976,9 @@
     "id": "obt/main/level_st_15-03",
     "type": "Main",
     "name": {
-      "zh_CN": "大地与一隅的归宿"
+      "zh_CN": "大地与一隅的归宿",
+      "ja_JP": "大地と片隅の居場所",
+      "en_US": "Where the Land and a Fragment Belong"
     },
     "code": "15-21",
     "zone": "main_15"
