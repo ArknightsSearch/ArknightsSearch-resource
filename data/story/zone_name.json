@@ -545,6 +545,11 @@
     "ja_JP": "アズリウス",
     "zh_CN": "蓝毒"
   },
+  "bobb": {
+    "en_US": "Bobbing",
+    "ja_JP": "ボビング",
+    "zh_CN": "波卜"
+  },
   "bpipe": {
     "en_US": "Bagpipe",
     "ja_JP": "バグパイプ",
@@ -1213,6 +1218,9 @@
     "ja_JP": "解離結合",
     "zh_CN": "离解复合"
   },
+  "main_16": {
+    "zh_CN": "反常光谱"
+  },
   "main_2": {
     "en_US": "Separated Hearts",
     "ja_JP": "相思相殺",
@@ -1262,6 +1270,9 @@
     "en_US": "Manticore",
     "ja_JP": "マンティコア",
     "zh_CN": "狮蝎"
+  },
+  "mantra": {
+    "zh_CN": "真言"
   },
   "mberry": {
     "en_US": "Mulberry",
@@ -1793,6 +1804,9 @@
     "en_US": "Tin Man",
     "ja_JP": "ブリキ",
     "zh_CN": "锡人"
+  },
+  "tippi": {
+    "zh_CN": "蒂比"
   },
   "tknogi": {
     "en_US": "Tsukinogi",
