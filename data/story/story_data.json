@@ -11088,6 +11088,33 @@
     "code": null,
     "zone": "rogue_5"
   },
+  "1914": {
+    "id": "obt/rogue/rogue_5/monthrecord/month_record_rogue_5_5_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "塞下曲 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_5"
+  },
+  "1915": {
+    "id": "obt/rogue/rogue_5/monthrecord/month_record_rogue_5_5_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "塞下曲 Part.02"
+    },
+    "code": null,
+    "zone": "rogue_5"
+  },
+  "1916": {
+    "id": "obt/rogue/rogue_5/monthrecord/month_record_rogue_5_5_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "塞下曲 Part.03"
+    },
+    "code": null,
+    "zone": "rogue_5"
+  },
   "192": {
     "id": "obt/main/level_main_10-07_end",
     "type": "Main",
