@@ -9366,7 +9366,7 @@
     "name": {
       "zh_CN": "留下的人",
       "ja_JP": "残されたもの",
-      "en_US": "The Ones Left behind"
+      "en_US": "The Ones Left Behind"
     },
     "code": null,
     "zone": "ceylon"
@@ -9529,7 +9529,9 @@
     "id": "obt/memory/story_nowell_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "当我们人生开始时"
+      "zh_CN": "当我们人生开始时",
+      "ja_JP": "我らの人生が始まる時",
+      "en_US": "When Our Lives Began"
     },
     "code": null,
     "zone": "nowell"
@@ -9538,7 +9540,9 @@
     "id": "obt/memory/story_alanna_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "再见一面"
+      "zh_CN": "再见一面",
+      "ja_JP": "再会",
+      "en_US": "One More Time"
     },
     "code": null,
     "zone": "alanna"
@@ -9547,7 +9551,9 @@
     "id": "obt/memory/story_spikes_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "亲爱的兰道尔"
+      "zh_CN": "亲爱的兰道尔",
+      "ja_JP": "愛するランドールへ",
+      "en_US": "Dear Randall"
     },
     "code": null,
     "zone": "spikes"
@@ -9556,7 +9562,9 @@
     "id": "obt/memory/story_mostma_2_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "旅途的注脚"
+      "zh_CN": "旅途的注脚",
+      "ja_JP": "旅の脚注",
+      "en_US": "Journey's Footnote"
     },
     "code": null,
     "zone": "mostma"
@@ -9565,7 +9573,9 @@
     "id": "obt/memory/story_broca_2_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "愤怒的布洛卡"
+      "zh_CN": "愤怒的布洛卡",
+      "ja_JP": "怒れるブローカ",
+      "en_US": "Broca's Anger"
     },
     "code": null,
     "zone": "broca"
@@ -14028,7 +14038,9 @@
     "id": "activities/act42side/level_act42side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "“堕天”"
+      "zh_CN": "“堕天”",
+      "ja_JP": "「堕天」",
+      "en_US": "Fallen"
     },
     "code": "MT-ST-1",
     "zone": "act42side"
@@ -14037,7 +14049,9 @@
     "id": "activities/act42side/level_act42side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "圣秩"
+      "zh_CN": "圣秩",
+      "ja_JP": "叙階",
+      "en_US": "Order"
     },
     "code": "MT-1",
     "zone": "act42side"
@@ -14046,7 +14060,9 @@
     "id": "activities/act42side/level_act42side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "圣秩"
+      "zh_CN": "圣秩",
+      "ja_JP": "叙階",
+      "en_US": "Order"
     },
     "code": "MT-1",
     "zone": "act42side"
@@ -14055,7 +14071,9 @@
     "id": "activities/act42side/level_act42side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "祈祷"
+      "zh_CN": "祈祷",
+      "ja_JP": "祈り",
+      "en_US": "Prayer"
     },
     "code": "MT-2",
     "zone": "act42side"
@@ -14064,7 +14082,9 @@
     "id": "activities/act42side/level_act42side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "祈祷"
+      "zh_CN": "祈祷",
+      "ja_JP": "祈り",
+      "en_US": "Prayer"
     },
     "code": "MT-2",
     "zone": "act42side"
@@ -14084,7 +14104,9 @@
     "id": "activities/act42side/level_act42side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "礼拜"
+      "zh_CN": "礼拜",
+      "ja_JP": "礼拝",
+      "en_US": "Worship"
     },
     "code": "MT-3",
     "zone": "act42side"
@@ -14093,7 +14115,9 @@
     "id": "activities/act42side/level_act42side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "礼拜"
+      "zh_CN": "礼拜",
+      "ja_JP": "礼拝",
+      "en_US": "Worship"
     },
     "code": "MT-3",
     "zone": "act42side"
@@ -14102,7 +14126,9 @@
     "id": "activities/act42side/level_act42side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "求道"
+      "zh_CN": "求道",
+      "ja_JP": "求道",
+      "en_US": "Wayfinder"
     },
     "code": "MT-4",
     "zone": "act42side"
@@ -14111,7 +14137,9 @@
     "id": "activities/act42side/level_act42side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "求道"
+      "zh_CN": "求道",
+      "ja_JP": "求道",
+      "en_US": "Wayfinder"
     },
     "code": "MT-4",
     "zone": "act42side"
@@ -14120,7 +14148,9 @@
     "id": "activities/act42side/level_act42side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "启圣"
+      "zh_CN": "启圣",
+      "ja_JP": "啓聖",
+      "en_US": "Enlightenment"
     },
     "code": "MT-ST-2",
     "zone": "act42side"
@@ -14129,7 +14159,9 @@
     "id": "activities/act42side/level_act42side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "共融"
+      "zh_CN": "共融",
+      "ja_JP": "共融",
+      "en_US": "Communion"
     },
     "code": "MT-5",
     "zone": "act42side"
@@ -14138,7 +14170,9 @@
     "id": "activities/act42side/level_act42side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "共融"
+      "zh_CN": "共融",
+      "ja_JP": "共融",
+      "en_US": "Communion"
     },
     "code": "MT-5",
     "zone": "act42side"
@@ -14147,7 +14181,9 @@
     "id": "activities/act42side/level_act42side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "告解"
+      "zh_CN": "告解",
+      "ja_JP": "告解",
+      "en_US": "Confess"
     },
     "code": "MT-6",
     "zone": "act42side"
@@ -14156,7 +14192,9 @@
     "id": "activities/act42side/level_act42side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "告解"
+      "zh_CN": "告解",
+      "ja_JP": "告解",
+      "en_US": "Confess"
     },
     "code": "MT-6",
     "zone": "act42side"
@@ -14165,7 +14203,9 @@
     "id": "activities/act42side/level_act42side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "丧礼"
+      "zh_CN": "丧礼",
+      "ja_JP": "葬儀",
+      "en_US": "Funeral"
     },
     "code": "MT-7",
     "zone": "act42side"
@@ -14185,7 +14225,9 @@
     "id": "activities/act42side/level_act42side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "丧礼"
+      "zh_CN": "丧礼",
+      "ja_JP": "葬儀",
+      "en_US": "Funeral"
     },
     "code": "MT-7",
     "zone": "act42side"
@@ -14194,7 +14236,9 @@
     "id": "activities/act42side/level_act42side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "朝圣"
+      "zh_CN": "朝圣",
+      "ja_JP": "巡礼",
+      "en_US": "Pilgrimage"
     },
     "code": "MT-8",
     "zone": "act42side"
@@ -14203,7 +14247,9 @@
     "id": "activities/act42side/level_act42side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "朝圣"
+      "zh_CN": "朝圣",
+      "ja_JP": "巡礼",
+      "en_US": "Pilgrimage"
     },
     "code": "MT-8",
     "zone": "act42side"
@@ -14212,7 +14258,9 @@
     "id": "activities/act42side/level_act42side_09_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "解经"
+      "zh_CN": "解经",
+      "ja_JP": "釈義",
+      "en_US": "Interpretation"
     },
     "code": "MT-9",
     "zone": "act42side"
@@ -14221,7 +14269,9 @@
     "id": "activities/act42side/level_act42side_09_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "解经"
+      "zh_CN": "解经",
+      "ja_JP": "釈義",
+      "en_US": "Interpretation"
     },
     "code": "MT-9",
     "zone": "act42side"
@@ -14230,7 +14280,9 @@
     "id": "activities/act42side/level_act42side_10_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "降生"
+      "zh_CN": "降生",
+      "ja_JP": "降誕",
+      "en_US": "Birth"
     },
     "code": "MT-10",
     "zone": "act42side"
@@ -14239,7 +14291,9 @@
     "id": "activities/act42side/level_act42side_10_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "降生"
+      "zh_CN": "降生",
+      "ja_JP": "降誕",
+      "en_US": "Birth"
     },
     "code": "MT-10",
     "zone": "act42side"
@@ -14248,7 +14302,9 @@
     "id": "activities/act42side/level_act42side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "重逢"
+      "zh_CN": "重逢",
+      "ja_JP": "再会",
+      "en_US": "Reunion"
     },
     "code": "MT-ST-3",
     "zone": "act42side"
@@ -14257,7 +14313,9 @@
     "id": "activities/act42side/level_act42side_st04",
     "type": "Activity",
     "name": {
-      "zh_CN": "远行"
+      "zh_CN": "远行",
+      "ja_JP": "遠出",
+      "en_US": "Voyage"
     },
     "code": "MT-ST-4",
     "zone": "act42side"
@@ -14902,7 +14960,7 @@
     "name": {
       "zh_CN": "油泼扯面",
       "ja_JP": "油潑撦麺",
-      "en_US": "Oil-Splashed Hand-Pulled Noodles\n"
+      "en_US": "Oil-Splashed Hand-Pulled Noodles"
     },
     "code": "OR-3",
     "zone": "act40side"
@@ -14913,7 +14971,7 @@
     "name": {
       "zh_CN": "油泼扯面",
       "ja_JP": "油潑撦麺",
-      "en_US": "Oil-Splashed Hand-Pulled Noodles\n"
+      "en_US": "Oil-Splashed Hand-Pulled Noodles"
     },
     "code": "OR-3",
     "zone": "act40side"
@@ -14946,7 +15004,7 @@
     "name": {
       "zh_CN": "雷公栗",
       "ja_JP": "雷公栗",
-      "en_US": "Roasted Chestnut\n"
+      "en_US": "Roasted Chestnut"
     },
     "code": "OR-ST-2",
     "zone": "act40side"
@@ -15001,7 +15059,7 @@
     "name": {
       "zh_CN": "金玉藏心",
       "ja_JP": "黄玉蔵心",
-      "en_US": "Golden Rice Crust\n"
+      "en_US": "Golden Rice Crust"
     },
     "code": "OR-8",
     "zone": "act40side"
@@ -15023,7 +15081,7 @@
     "name": {
       "zh_CN": "金玉藏心",
       "ja_JP": "黄玉蔵心",
-      "en_US": "Golden Rice Crust\n"
+      "en_US": "Golden Rice Crust"
     },
     "code": "OR-8",
     "zone": "act40side"
@@ -15034,7 +15092,7 @@
     "name": {
       "zh_CN": "长寿面",
       "ja_JP": "長寿麺",
-      "en_US": "Longevity Noodles\n"
+      "en_US": "Longevity Noodles"
     },
     "code": "OR-9",
     "zone": "act40side"
@@ -15045,7 +15103,7 @@
     "name": {
       "zh_CN": "长寿面",
       "ja_JP": "長寿麺",
-      "en_US": "Longevity Noodles\n"
+      "en_US": "Longevity Noodles"
     },
     "code": "OR-9",
     "zone": "act40side"
