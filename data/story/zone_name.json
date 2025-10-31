@@ -311,6 +311,9 @@
   "act45side": {
     "zh_CN": "无忧梦呓"
   },
+  "act46side": {
+    "zh_CN": "雪山降临1101"
+  },
   "act4d0": {
     "en_US": "Operational Intelligence",
     "ja_JP": "戦地の逸話",
@@ -537,6 +540,11 @@
     "ja_JP": "Blitz",
     "zh_CN": "闪击"
   },
+  "blkkgt": {
+    "en_US": "Degenbrecher",
+    "ja_JP": "デーゲンブレヒャー",
+    "zh_CN": "锏"
+  },
   "blkngt": {
     "en_US": "Blacknight",
     "ja_JP": "ブラックナイト",
@@ -641,6 +649,11 @@
     "en_US": "Ceobe",
     "ja_JP": "ケオベ",
     "zh_CN": "刻俄柏"
+  },
+  "cetsyr": {
+    "en_US": "Civilight Eterna",
+    "ja_JP": "シヴィライト・エテルナ",
+    "zh_CN": "魔王"
   },
   "ceylon": {
     "en_US": "Ceylon",
@@ -952,6 +965,9 @@
     "ja_JP": "アステジーニ",
     "zh_CN": "星源"
   },
+  "halo2": {
+    "zh_CN": "溯光星源"
+  },
   "hamoni": {
     "en_US": "Harmonie",
     "ja_JP": "ハーモニー",
@@ -1097,6 +1113,9 @@
     "ja_JP": "カゼマル",
     "zh_CN": "风丸"
   },
+  "kichi": {
+    "zh_CN": "吉星"
+  },
   "kirara": {
     "en_US": "Kirara",
     "ja_JP": "キララ",
@@ -1121,6 +1140,11 @@
     "en_US": "Lava",
     "ja_JP": "ラヴァ",
     "zh_CN": "炎熔"
+  },
+  "lava2": {
+    "en_US": "Lava the Purgatory",
+    "ja_JP": "炎獄ラヴァ",
+    "zh_CN": "炎狱炎熔"
   },
   "leizi": {
     "en_US": "Leizi",
@@ -1698,6 +1722,9 @@
     "en_US": "Cuora",
     "ja_JP": "クオーラ",
     "zh_CN": "蛇屠箱"
+  },
+  "snhunt": {
+    "zh_CN": "雪猎"
   },
   "snsant": {
     "en_US": "Snowsant",
