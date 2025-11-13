@@ -712,6 +712,7 @@
       "avg_1042_phatm2_1"
     ],
     [
+      "Lucian",
       "ルシアン",
       "卢西恩"
     ]
@@ -2217,6 +2218,7 @@
       "char_250_phantom_1"
     ],
     [
+      "Lucian",
       "Phantom",
       "ファントム",
       "ルシアン",
@@ -4357,6 +4359,7 @@
       "avg_4191_tippi_1"
     ],
     [
+      "Tippi",
       "ティッピ",
       "场记&蒂比",
       "蒂比",
@@ -4397,6 +4400,8 @@
     ],
     [
       "Miss.Christine",
+      "Mysterious and Beautiful Creature",
+      "Mysterious and Elegant Creature",
       "ミス・クリスティーン",
       "神秘优雅的生物",
       "神秘美丽的生物",
@@ -5089,6 +5094,7 @@
       "Discouraged Worker",
       "Drunkard",
       "Edgar",
+      "Excited Blacksmith",
       "Filon",
       "Honest Villager",
       "Infected Employee?",
@@ -5363,6 +5369,7 @@
       "Villager",
       "Villager C",
       "Wallen",
+      "Worried Smith",
       "やかましい老人",
       "ウォーレン",
       "カジミエーシュの村人",
@@ -6849,6 +6856,7 @@
       "Dora..",
       "Gianna",
       "Infected Girl",
+      "Innocent Child",
       "Innocent Girl",
       "Lara",
       "Little 'Witch' Minnie",
@@ -10002,7 +10010,10 @@
       "avg_npc_1254_1"
     ],
     [
+      "Anxious Old Man",
+      "Callisto",
       "Decrepit Old Man",
+      "Old Clerk",
       "カリスト",
       "ベテラン事務官",
       "伊安",
@@ -10022,6 +10033,7 @@
     [
       "Liberi",
       "Londinium Resident",
+      "Obina",
       "Rental Store Owner",
       "オビーナ",
       "リーベリ",
@@ -10064,6 +10076,7 @@
     ],
     [
       "Adulating Noble",
+      "Auctioneer",
       "Foreign Merchant",
       "こびへつらう貴族",
       "オークショニア",
@@ -10090,6 +10103,7 @@
       "avg_npc_1259_1"
     ],
     [
+      "Glorious Shield Spokesman",
       "Unperturbed Official",
       "グローリーシールドの代弁者",
       "冷静な文官",
@@ -11580,8 +11594,10 @@
       "Extremely Idle Citizen",
       "Gathering Staff",
       "Kindly Servant",
+      "King's Brother",
       "Museum Receptionist",
       "Museum Staff",
+      "New King",
       "Waiter",
       "ウェイター",
       "ホテルの受付係",
@@ -11649,9 +11665,12 @@
     ],
     [
       "Anxious Passerby",
+      "Caravan Leader",
       "Gem Collector",
+      "King",
       "Lamplighter",
       "Noble Scholar",
+      "Strange Ghost",
       "キャラバンのリーダー",
       "ランプライター",
       "出身高贵的学者",
@@ -11672,7 +11691,9 @@
       "avg_npc_1493_1"
     ],
     [
+      "Former Queen",
       "Happy Lady",
+      "Queen",
       "ご機嫌な婦人",
       "前王后",
       "前王妃",
@@ -11721,6 +11742,7 @@
     ],
     [
       "Curious Child",
+      "Prince",
       "好奇的孩子",
       "小王子",
       "王子",
@@ -12287,6 +12309,7 @@
     ],
     [
       "Inquisition Cleric",
+      "Inquisition Official",
       "Merciless Warrior Priest",
       "Pascuala",
       "Pursuing Warrior Priest",
@@ -12690,6 +12713,7 @@
       "Grimed Woman",
       "Passerby Sargon Townsfolk",
       "Roaming Doctor",
+      "Worried Villager",
       "“访客05”",
       "アイマラ",
       "アナム",
@@ -12977,12 +13001,14 @@
     [
       "Basil",
       "Doubtful Former Desert Bandit",
+      "Fake Liquor Seller",
       "Impatient Ambassador",
       "Infected Townsfolk",
       "Mayor",
       "Sargon Townsfolk?",
       "Sargonian Janissary",
       "Townsfolk",
+      "Wary Villager",
       "ためらう元砂漠の盗賊",
       "サルゴン町民？",
       "サルゴン近衛兵",
@@ -14221,6 +14247,7 @@
       "avg_npc_1828_1"
     ],
     [
+      "Lucian",
       "ルシアン",
       "卢西恩"
     ]
@@ -14230,6 +14257,8 @@
       "avg_npc_1829_1"
     ],
     [
+      "Tragodia",
+      "Troupe Leader",
       "トラゴーディア",
       "剧团长",
       "劇団長",
@@ -14260,6 +14289,7 @@
       "avg_npc_1830_1"
     ],
     [
+      "Melanie",
       "メラニー",
       "米兰妮"
     ]
@@ -14269,6 +14299,8 @@
       "avg_npc_1831_1"
     ],
     [
+      "Moira",
+      "Tippi & Moira",
       "ティッピ&モイラ",
       "モイラ",
       "莫伊拉",
@@ -14280,6 +14312,7 @@
       "avg_npc_1832_1"
     ],
     [
+      "Lucian",
       "ルシアン",
       "卢西恩"
     ]
@@ -14289,6 +14322,7 @@
       "avg_npc_1833_1"
     ],
     [
+      "Abyss",
       "アビス",
       "沉渊"
     ]
@@ -14298,6 +14332,7 @@
       "avg_npc_1834_1"
     ],
     [
+      "Greta",
       "グレータ",
       "格蕾塔"
     ]
@@ -14307,6 +14342,7 @@
       "avg_npc_1835_1"
     ],
     [
+      "Steven",
       "スティーヴン",
       "斯蒂芬"
     ]
@@ -14316,6 +14352,7 @@
       "avg_npc_1836_1"
     ],
     [
+      "Shelly",
       "シェリー",
       "谢莉"
     ]
@@ -14325,6 +14362,8 @@
       "avg_npc_1837_1"
     ],
     [
+      "Dalton",
+      "Dalton?",
       "ダルトン",
       "ダルトン？",
       "道尔顿",
@@ -14336,6 +14375,7 @@
       "avg_npc_1838_1"
     ],
     [
+      "Michael",
       "マイケル",
       "迈克尔"
     ]
@@ -14345,6 +14385,7 @@
       "avg_npc_1839_1"
     ],
     [
+      "Marion",
       "マリオン",
       "玛丽昂"
     ]
@@ -14367,6 +14408,7 @@
       "avg_npc_1840_1"
     ],
     [
+      "Marianne",
       "マリアンナ",
       "玛丽安娜"
     ]
@@ -14376,6 +14418,7 @@
       "avg_npc_1841_1"
     ],
     [
+      "Young Lucian",
       "小卢西恩",
       "少年ルシアン"
     ]
@@ -14385,6 +14428,7 @@
       "avg_npc_1843_1"
     ],
     [
+      "Abner",
       "アブナー",
       "阿布纳"
     ]
@@ -14394,6 +14438,7 @@
       "avg_npc_1844_1"
     ],
     [
+      "Camera Assistant",
       "摄影助理",
       "摄影师",
       "撮影アシスタント",
@@ -14405,6 +14450,12 @@
       "avg_npc_1845_1"
     ],
     [
+      "Angry Staff",
+      "Panicking Staff",
+      "Scared Staff",
+      "Staff",
+      "Staff A",
+      "Staff C",
       "スタッフ",
       "スタッフC",
       "スタッフＡ",
@@ -14424,6 +14475,7 @@
       "avg_npc_1846_1"
     ],
     [
+      "Unlucky Stagehand",
       "不運なスタッフ",
       "倒霉的场工",
       "场记",
@@ -14435,6 +14487,11 @@
       "avg_npc_1847_1"
     ],
     [
+      "Confused Staff B",
+      "Scared Staff",
+      "Skeptical Staff",
+      "Staff",
+      "Staff B",
       "スタッフ",
       "スタッフＢ",
       "呆然とするスタッフＢ",
@@ -14452,6 +14509,7 @@
       "avg_npc_1848_1"
     ],
     [
+      "Laura",
       "ローラ",
       "劳拉"
     ]
@@ -15679,6 +15737,7 @@
       "avg_npc_212_1"
     ],
     [
+      "McKee",
       "Spokesman McKee",
       "マッキー",
       "代弁者マッキー",
@@ -15918,6 +15977,7 @@
       "Manager",
       "Mayor's Secretary",
       "National Council Representative",
+      "Navigator",
       "Office Clerk",
       "Prosecutor",
       "Raythean Industries Representative",
@@ -16019,6 +16079,7 @@
       "Retained Lawyer",
       "Snobby Official",
       "Staff Worker",
+      "Technician",
       "Tired Corporate Employee",
       "Uniformed Worker",
       "Witness",
@@ -16562,6 +16623,7 @@
       "Sorrowful Woman",
       "Taran Refugee",
       "Townsfolk B",
+      "Worried Maid",
       "クロエ",
       "ターラーの流民",
       "ダンカおばさん",
@@ -18730,6 +18792,7 @@
       "Farmer",
       "Frantic Man",
       "Gali",
+      "Gossipy Manservant",
       "Hairdresser",
       "Impatient Citizen",
       "Londinium Citizen",
@@ -19753,6 +19816,7 @@
       "Babel Doctor",
       "Community Musician",
       "Dejected Babel Member",
+      "Enthusiastic Citizen",
       "Excited Afterglow Resident",
       "Frau Perry",
       "Happy Leithanian Tourist",
