@@ -9901,7 +9901,8 @@
     "id": "obt/memory/story_christ_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "很久很久以前"
+      "zh_CN": "很久很久以前",
+      "ja_JP": "遠い遠い昔のこと"
     },
     "code": null,
     "zone": "christ"
@@ -9910,7 +9911,8 @@
     "id": "obt/memory/story_weedy_2_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "盐漠上的海风"
+      "zh_CN": "盐漠上的海风",
+      "ja_JP": "塩海に吹く風"
     },
     "code": null,
     "zone": "weedy"
@@ -9919,7 +9921,8 @@
     "id": "obt/memory/story_narant_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "何处寻宝藏"
+      "zh_CN": "何处寻宝藏",
+      "ja_JP": "宝物のありか"
     },
     "code": null,
     "zone": "narant"
@@ -9928,7 +9931,8 @@
     "id": "obt/memory/story_vvana_1_1",
     "type": "Memory",
     "name": {
-      "zh_CN": "不写诗的诗人"
+      "zh_CN": "不写诗的诗人",
+      "ja_JP": "詩を詠まぬ詩人"
     },
     "code": null,
     "zone": "vvana"
@@ -14430,7 +14434,8 @@
     "id": "activities/act43side/level_act43side_st01",
     "type": "Activity",
     "name": {
-      "zh_CN": "唆使一场死亡"
+      "zh_CN": "唆使一场死亡",
+      "ja_JP": "死への唆し"
     },
     "code": "AD-ST-1",
     "zone": "act43side"
@@ -14439,7 +14444,8 @@
     "id": "activities/act43side/level_act43side_01_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "彩排日"
+      "zh_CN": "彩排日",
+      "ja_JP": "リハーサルの日"
     },
     "code": "AD-1",
     "zone": "act43side"
@@ -14448,7 +14454,8 @@
     "id": "activities/act43side/level_act43side_01_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "彩排日"
+      "zh_CN": "彩排日",
+      "ja_JP": "リハーサルの日"
     },
     "code": "AD-1",
     "zone": "act43side"
@@ -14457,7 +14464,8 @@
     "id": "activities/act43side/level_act43side_02_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "排演一出悲剧"
+      "zh_CN": "排演一出悲剧",
+      "ja_JP": "悲劇のリハーサル"
     },
     "code": "AD-2",
     "zone": "act43side"
@@ -14466,7 +14474,8 @@
     "id": "activities/act43side/level_act43side_02_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "排演一出悲剧"
+      "zh_CN": "排演一出悲剧",
+      "ja_JP": "悲劇のリハーサル"
     },
     "code": "AD-2",
     "zone": "act43side"
@@ -14475,7 +14484,8 @@
     "id": "activities/act43side/level_act43side_03_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "戏剧性"
+      "zh_CN": "戏剧性",
+      "ja_JP": "ドラマチックに"
     },
     "code": "AD-3",
     "zone": "act43side"
@@ -14484,7 +14494,8 @@
     "id": "activities/act43side/level_act43side_03_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "戏剧性"
+      "zh_CN": "戏剧性",
+      "ja_JP": "ドラマチックに"
     },
     "code": "AD-3",
     "zone": "act43side"
@@ -14493,7 +14504,8 @@
     "id": "activities/act43side/level_act43side_04_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "一个荒唐的早晨"
+      "zh_CN": "一个荒唐的早晨",
+      "ja_JP": "支離滅裂な早朝"
     },
     "code": "AD-4",
     "zone": "act43side"
@@ -14502,7 +14514,8 @@
     "id": "activities/act43side/level_act43side_04_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "一个荒唐的早晨"
+      "zh_CN": "一个荒唐的早晨",
+      "ja_JP": "支離滅裂な早朝"
     },
     "code": "AD-4",
     "zone": "act43side"
@@ -14522,7 +14535,8 @@
     "id": "activities/act43side/level_act43side_st02",
     "type": "Activity",
     "name": {
-      "zh_CN": "焦点"
+      "zh_CN": "焦点",
+      "ja_JP": "焦点"
     },
     "code": "AD-ST-2",
     "zone": "act43side"
@@ -14531,7 +14545,8 @@
     "id": "activities/act43side/level_act43side_05_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "终将重逢"
+      "zh_CN": "终将重逢",
+      "ja_JP": "いずれまた逢おう"
     },
     "code": "AD-5",
     "zone": "act43side"
@@ -14540,7 +14555,8 @@
     "id": "activities/act43side/level_act43side_05_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "终将重逢"
+      "zh_CN": "终将重逢",
+      "ja_JP": "いずれまた逢おう"
     },
     "code": "AD-5",
     "zone": "act43side"
@@ -14549,7 +14565,8 @@
     "id": "activities/act43side/level_act43side_06_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "倒带独白"
+      "zh_CN": "倒带独白",
+      "ja_JP": "巻き戻された独白"
     },
     "code": "AD-6",
     "zone": "act43side"
@@ -14558,7 +14575,8 @@
     "id": "activities/act43side/level_act43side_06_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "倒带独白"
+      "zh_CN": "倒带独白",
+      "ja_JP": "巻き戻された独白"
     },
     "code": "AD-6",
     "zone": "act43side"
@@ -14567,7 +14585,8 @@
     "id": "activities/act43side/level_act43side_07_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "“血钻”的歌声"
+      "zh_CN": "“血钻”的歌声",
+      "ja_JP": "「緋き貴石」の歌声"
     },
     "code": "AD-7",
     "zone": "act43side"
@@ -14576,7 +14595,8 @@
     "id": "activities/act43side/level_act43side_07_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "“血钻”的歌声"
+      "zh_CN": "“血钻”的歌声",
+      "ja_JP": "「緋き貴石」の歌声"
     },
     "code": "AD-7",
     "zone": "act43side"
@@ -14585,7 +14605,8 @@
     "id": "activities/act43side/level_act43side_08_beg",
     "type": "Activity",
     "name": {
-      "zh_CN": "登台致礼"
+      "zh_CN": "登台致礼",
+      "ja_JP": "舞台上の挨拶"
     },
     "code": "AD-8",
     "zone": "act43side"
@@ -14594,7 +14615,8 @@
     "id": "activities/act43side/level_act43side_08_end",
     "type": "Activity",
     "name": {
-      "zh_CN": "登台致礼"
+      "zh_CN": "登台致礼",
+      "ja_JP": "舞台上の挨拶"
     },
     "code": "AD-8",
     "zone": "act43side"
@@ -14603,7 +14625,8 @@
     "id": "activities/act43side/level_act43side_st03",
     "type": "Activity",
     "name": {
-      "zh_CN": "致观众"
+      "zh_CN": "致观众",
+      "ja_JP": "観客の皆様へ"
     },
     "code": "AD-ST-3",
     "zone": "act43side"
