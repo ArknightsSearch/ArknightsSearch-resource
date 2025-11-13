@@ -9902,7 +9902,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "很久很久以前",
-      "ja_JP": "遠い遠い昔のこと"
+      "ja_JP": "遠い遠い昔のこと",
+      "en_US": "A Long, Long Time Ago"
     },
     "code": null,
     "zone": "christ"
@@ -9912,7 +9913,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "盐漠上的海风",
-      "ja_JP": "塩海に吹く風"
+      "ja_JP": "塩海に吹く風",
+      "en_US": "The Sea Breeze on the Salt Flat"
     },
     "code": null,
     "zone": "weedy"
@@ -9922,7 +9924,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "何处寻宝藏",
-      "ja_JP": "宝物のありか"
+      "ja_JP": "宝物のありか",
+      "en_US": "Where Doth Treasure Lie"
     },
     "code": null,
     "zone": "narant"
@@ -9932,7 +9935,8 @@
     "type": "Memory",
     "name": {
       "zh_CN": "不写诗的诗人",
-      "ja_JP": "詩を詠まぬ詩人"
+      "ja_JP": "詩を詠まぬ詩人",
+      "en_US": "The Unpoetic Poet"
     },
     "code": null,
     "zone": "vvana"
@@ -14435,7 +14439,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "唆使一场死亡",
-      "ja_JP": "死への唆し"
+      "ja_JP": "死への唆し",
+      "en_US": "To Incite a Death"
     },
     "code": "AD-ST-1",
     "zone": "act43side"
@@ -14445,7 +14450,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "彩排日",
-      "ja_JP": "リハーサルの日"
+      "ja_JP": "リハーサルの日",
+      "en_US": "Rehearsal Day"
     },
     "code": "AD-1",
     "zone": "act43side"
@@ -14455,7 +14461,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "彩排日",
-      "ja_JP": "リハーサルの日"
+      "ja_JP": "リハーサルの日",
+      "en_US": "Rehearsal Day"
     },
     "code": "AD-1",
     "zone": "act43side"
@@ -14465,7 +14472,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "排演一出悲剧",
-      "ja_JP": "悲劇のリハーサル"
+      "ja_JP": "悲劇のリハーサル",
+      "en_US": "Rehearsing a Tragedy"
     },
     "code": "AD-2",
     "zone": "act43side"
@@ -14475,7 +14483,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "排演一出悲剧",
-      "ja_JP": "悲劇のリハーサル"
+      "ja_JP": "悲劇のリハーサル",
+      "en_US": "Rehearsing a Tragedy"
     },
     "code": "AD-2",
     "zone": "act43side"
@@ -14485,7 +14494,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "戏剧性",
-      "ja_JP": "ドラマチックに"
+      "ja_JP": "ドラマチックに",
+      "en_US": "Dramatique"
     },
     "code": "AD-3",
     "zone": "act43side"
@@ -14495,7 +14505,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "戏剧性",
-      "ja_JP": "ドラマチックに"
+      "ja_JP": "ドラマチックに",
+      "en_US": "Dramatique"
     },
     "code": "AD-3",
     "zone": "act43side"
@@ -14505,7 +14516,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "一个荒唐的早晨",
-      "ja_JP": "支離滅裂な早朝"
+      "ja_JP": "支離滅裂な早朝",
+      "en_US": "An Absurd Morning"
     },
     "code": "AD-4",
     "zone": "act43side"
@@ -14515,7 +14527,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "一个荒唐的早晨",
-      "ja_JP": "支離滅裂な早朝"
+      "ja_JP": "支離滅裂な早朝",
+      "en_US": "An Absurd Morning"
     },
     "code": "AD-4",
     "zone": "act43side"
@@ -14536,7 +14549,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "焦点",
-      "ja_JP": "焦点"
+      "ja_JP": "焦点",
+      "en_US": "Focus"
     },
     "code": "AD-ST-2",
     "zone": "act43side"
@@ -14546,7 +14560,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "终将重逢",
-      "ja_JP": "いずれまた逢おう"
+      "ja_JP": "いずれまた逢おう",
+      "en_US": "Promises of Reunion"
     },
     "code": "AD-5",
     "zone": "act43side"
@@ -14556,7 +14571,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "终将重逢",
-      "ja_JP": "いずれまた逢おう"
+      "ja_JP": "いずれまた逢おう",
+      "en_US": "Promises of Reunion"
     },
     "code": "AD-5",
     "zone": "act43side"
@@ -14566,7 +14582,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "倒带独白",
-      "ja_JP": "巻き戻された独白"
+      "ja_JP": "巻き戻された独白",
+      "en_US": "Rewind the Monologue"
     },
     "code": "AD-6",
     "zone": "act43side"
@@ -14576,7 +14593,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "倒带独白",
-      "ja_JP": "巻き戻された独白"
+      "ja_JP": "巻き戻された独白",
+      "en_US": "Rewind the Monologue"
     },
     "code": "AD-6",
     "zone": "act43side"
@@ -14586,7 +14604,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "“血钻”的歌声",
-      "ja_JP": "「緋き貴石」の歌声"
+      "ja_JP": "「緋き貴石」の歌声",
+      "en_US": "Blood Diamond's Song"
     },
     "code": "AD-7",
     "zone": "act43side"
@@ -14596,7 +14615,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "“血钻”的歌声",
-      "ja_JP": "「緋き貴石」の歌声"
+      "ja_JP": "「緋き貴石」の歌声",
+      "en_US": "Blood Diamond's Song"
     },
     "code": "AD-7",
     "zone": "act43side"
@@ -14606,7 +14626,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "登台致礼",
-      "ja_JP": "舞台上の挨拶"
+      "ja_JP": "舞台上の挨拶",
+      "en_US": "Take a Bow"
     },
     "code": "AD-8",
     "zone": "act43side"
@@ -14616,7 +14637,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "登台致礼",
-      "ja_JP": "舞台上の挨拶"
+      "ja_JP": "舞台上の挨拶",
+      "en_US": "Take a Bow"
     },
     "code": "AD-8",
     "zone": "act43side"
@@ -14626,7 +14648,8 @@
     "type": "Activity",
     "name": {
       "zh_CN": "致观众",
-      "ja_JP": "観客の皆様へ"
+      "ja_JP": "観客の皆様へ",
+      "en_US": "A Word to the Audience"
     },
     "code": "AD-ST-3",
     "zone": "act43side"
