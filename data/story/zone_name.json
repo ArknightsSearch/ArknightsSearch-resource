@@ -316,6 +316,9 @@
   "act46side": {
     "zh_CN": "雪山降临1101"
   },
+  "act47side": {
+    "zh_CN": "未许之地"
+  },
   "act4d0": {
     "en_US": "Operational Intelligence",
     "ja_JP": "戦地の逸話",
@@ -741,6 +744,11 @@
     "en_US": "Deepcolor",
     "ja_JP": "ディピカ",
     "zh_CN": "深海色"
+  },
+  "demkni": {
+    "en_US": "Saria",
+    "ja_JP": "サリア",
+    "zh_CN": "塞雷娅"
   },
   "doroth": {
     "en_US": "Dorothy",
@@ -1291,6 +1299,9 @@
     "ja_JP": "暴風眺望",
     "zh_CN": "风暴瞭望"
   },
+  "makiri": {
+    "zh_CN": "松桐"
+  },
   "malist": {
     "en_US": "Minimalist",
     "ja_JP": "ミニマリスト",
@@ -1484,6 +1495,11 @@
     "ja_JP": "フィアメッタ",
     "zh_CN": "菲亚梅塔"
   },
+  "philae": {
+    "en_US": "Philae",
+    "ja_JP": "フィラエ",
+    "zh_CN": "菲莱"
+  },
   "pianst": {
     "en_US": "Czerny",
     "ja_JP": "ツェルニー",
@@ -1571,6 +1587,11 @@
   },
   "reckpr": {
     "zh_CN": "录武官"
+  },
+  "rfalcn": {
+    "en_US": "Kestrel",
+    "ja_JP": "ケストレル",
+    "zh_CN": "红隼"
   },
   "rfrost": {
     "en_US": "Frost",
