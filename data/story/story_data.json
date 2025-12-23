@@ -11796,6 +11796,33 @@
     "code": null,
     "zone": "rogue_5"
   },
+  "1974": {
+    "id": "obt/rogue/rogue_5/monthrecord/month_record_rogue_5_7_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "个中滋味 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_5"
+  },
+  "1975": {
+    "id": "obt/rogue/rogue_5/monthrecord/month_record_rogue_5_7_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "个中滋味 Part.02"
+    },
+    "code": null,
+    "zone": "rogue_5"
+  },
+  "1976": {
+    "id": "obt/rogue/rogue_5/monthrecord/month_record_rogue_5_7_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "个中滋味 Part.03"
+    },
+    "code": null,
+    "zone": "rogue_5"
+  },
   "198": {
     "id": "obt/main/level_main_10-11_end",
     "type": "Main",
