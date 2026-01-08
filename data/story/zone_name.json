@@ -319,6 +319,9 @@
   "act47side": {
     "zh_CN": "未许之地"
   },
+  "act48side": {
+    "zh_CN": "雅赛努斯复仇记"
+  },
   "act4d0": {
     "en_US": "Operational Intelligence",
     "ja_JP": "戦地の逸話",
@@ -839,6 +842,11 @@
     "en_US": "Firewhistle",
     "ja_JP": "ファイヤーホイッスル",
     "zh_CN": "火哨"
+  },
+  "flamtl": {
+    "en_US": "Flametail",
+    "ja_JP": "フレイムテイル",
+    "zh_CN": "焰尾"
   },
   "flint": {
     "en_US": "Flint",
@@ -1894,6 +1902,11 @@
     "ja_JP": "ウタゲ",
     "zh_CN": "宴"
   },
+  "vendla": {
+    "en_US": "Vendela",
+    "ja_JP": "ヴァンデラ",
+    "zh_CN": "刺玫"
+  },
   "vigil": {
     "en_US": "Vigil",
     "ja_JP": "ヴィジェル",
@@ -1963,6 +1976,11 @@
     "en_US": "Windscoot",
     "ja_JP": "ウィンドスクート",
     "zh_CN": "骋风"
+  },
+  "wulfen": {
+    "en_US": "Wulfenite",
+    "ja_JP": "ウルフェナイト",
+    "zh_CN": "钼铅"
   },
   "wyvern": {
     "en_US": "Vanilla",
