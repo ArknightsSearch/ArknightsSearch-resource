@@ -12123,6 +12123,33 @@
     "code": "10-14",
     "zone": "main_10"
   },
+  "2000": {
+    "id": "obt/rogue/rogue_5/monthrecord/month_record_rogue_5_8_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "见剑 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_5"
+  },
+  "2001": {
+    "id": "obt/rogue/rogue_5/monthrecord/month_record_rogue_5_8_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "见剑 Part.02"
+    },
+    "code": null,
+    "zone": "rogue_5"
+  },
+  "2002": {
+    "id": "obt/rogue/rogue_5/monthrecord/month_record_rogue_5_8_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "见剑 Part.03"
+    },
+    "code": null,
+    "zone": "rogue_5"
+  },
   "201": {
     "id": "obt/main/level_main_10-13_beg",
     "type": "Main",
