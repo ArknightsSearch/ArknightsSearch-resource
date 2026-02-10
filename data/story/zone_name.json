@@ -322,6 +322,9 @@
   "act48side": {
     "zh_CN": "雅赛努斯复仇记"
   },
+  "act49side": {
+    "zh_CN": "辞岁行"
+  },
   "act4d0": {
     "en_US": "Operational Intelligence",
     "ja_JP": "戦地の逸話",
@@ -1105,6 +1108,9 @@
     "en_US": "'Justice Knight'",
     "ja_JP": "ジャスティスナイト",
     "zh_CN": "正义骑士号"
+  },
+  "ju": {
+    "zh_CN": "矩"
   },
   "judge": {
     "en_US": "Penance",
@@ -1937,6 +1943,9 @@
     "ja_JP": "ワイフー",
     "zh_CN": "槐琥"
   },
+  "wang": {
+    "zh_CN": "望"
+  },
   "wanqin": {
     "en_US": "Wanqing",
     "ja_JP": "ワンチィン",
@@ -1986,6 +1995,11 @@
     "en_US": "Vanilla",
     "ja_JP": "バニラ",
     "zh_CN": "香草"
+  },
+  "xingzh": {
+    "en_US": "Xingzhu",
+    "ja_JP": "シィンズゥ",
+    "zh_CN": "行箸"
   },
   "yak": {
     "en_US": "Matterhorn",
