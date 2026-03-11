@@ -177,6 +177,9 @@
     "ja_JP": "ヒュムノイの叡智",
     "zh_CN": "荷谟伊智境"
   },
+  "act20mini": {
+    "zh_CN": "十字路口"
+  },
   "act20side": {
     "en_US": "Ideal City: Endless Carnival",
     "ja_JP": "理想都市-エンドレスカーニバル-",
@@ -970,6 +973,11 @@
     "en_US": "Gavial the Invincible",
     "ja_JP": "百錬ガヴィル",
     "zh_CN": "百炼嘉维尔"
+  },
+  "gyuki": {
+    "en_US": "Matoimaru",
+    "ja_JP": "マトイマル",
+    "zh_CN": "缠丸"
   },
   "haak": {
     "en_US": "Aak",
