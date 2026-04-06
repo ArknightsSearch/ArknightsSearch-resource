@@ -338,6 +338,9 @@
     "ja_JP": "エイプリルフール",
     "zh_CN": "愚人节活动"
   },
+  "act51side": {
+    "zh_CN": "人们，我们"
+  },
   "act5d0": {
     "en_US": "Code of Brawl",
     "ja_JP": "喧騒の掟",
@@ -577,10 +580,16 @@
     "ja_JP": "ボビング",
     "zh_CN": "波卜"
   },
+  "botany": {
+    "zh_CN": "伯塔尼"
+  },
   "bpipe": {
     "en_US": "Bagpipe",
     "ja_JP": "バグパイプ",
     "zh_CN": "风笛"
+  },
+  "branch": {
+    "zh_CN": "折桠"
   },
   "breeze": {
     "en_US": "Breeze",
@@ -726,6 +735,11 @@
     "en_US": "Coldshot",
     "ja_JP": "コールドショット",
     "zh_CN": "冰酿"
+  },
+  "crosly": {
+    "en_US": "Crownslayer",
+    "ja_JP": "クラウンスレイヤー",
+    "zh_CN": "弑君者"
   },
   "crow": {
     "en_US": "La Pluma",
@@ -1991,6 +2005,9 @@
     "en_US": "Windflit",
     "ja_JP": "ウインドフリット",
     "zh_CN": "掠风"
+  },
+  "wintim": {
+    "zh_CN": "冬时"
   },
   "wscoot": {
     "en_US": "Windscoot",
