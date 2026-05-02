@@ -726,6 +726,9 @@
     "ja_JP": "チョンユエ",
     "zh_CN": "重岳"
   },
+  "closur": {
+    "zh_CN": "可露希尔"
+  },
   "clour": {
     "en_US": "Vermeil",
     "ja_JP": "ヴァーミル",
@@ -891,6 +894,11 @@
     "ja_JP": "シーン",
     "zh_CN": "稀音"
   },
+  "folnic": {
+    "en_US": "Folinic",
+    "ja_JP": "フォリニック",
+    "zh_CN": "亚叶"
+  },
   "forcer": {
     "en_US": "Enforcer",
     "ja_JP": "エンフォーサー",
@@ -1001,6 +1009,9 @@
     "ja_JP": "ア",
     "zh_CN": "阿"
   },
+  "hadiya": {
+    "zh_CN": "哈蒂娅"
+  },
   "haini": {
     "en_US": "Lucilla",
     "ja_JP": "ルシーラ",
@@ -1028,6 +1039,9 @@
     "en_US": "Hibiscus the Purifier",
     "ja_JP": "濯塵ハイビスカス",
     "zh_CN": "濯尘芙蓉"
+  },
+  "headb2": {
+    "zh_CN": "怒潮凛冬"
   },
   "headbr": {
     "en_US": "Zima",
@@ -1254,84 +1268,6 @@
     "en_US": "Lutonada",
     "ja_JP": "ルトナダ",
     "zh_CN": "露托"
-  },
-  "main_0": {
-    "en_US": "Evil Time Part 1",
-    "ja_JP": "暗黒時代・上",
-    "zh_CN": "黑暗时代·上"
-  },
-  "main_1": {
-    "en_US": "Evil Time Part 2",
-    "ja_JP": "暗黒時代・下",
-    "zh_CN": "黑暗时代·下"
-  },
-  "main_10": {
-    "en_US": "Shatterpoint",
-    "ja_JP": "光冠残蝕",
-    "zh_CN": "破碎日冕"
-  },
-  "main_11": {
-    "en_US": "Return To Mist",
-    "ja_JP": "淬火煙塵",
-    "zh_CN": "淬火尘霾"
-  },
-  "main_12": {
-    "en_US": "All Quiet Under the Thunder",
-    "ja_JP": "驚靂蕭然",
-    "zh_CN": "惊霆无声"
-  },
-  "main_13": {
-    "en_US": "The Whirlpool that is Passion",
-    "ja_JP": "悪兆渦流",
-    "zh_CN": "恶兆湍流"
-  },
-  "main_14": {
-    "en_US": "Absolved Will Be the Seekers",
-    "ja_JP": "慈悲光塔",
-    "zh_CN": "慈悲灯塔"
-  },
-  "main_15": {
-    "en_US": "Dissociative Recombination",
-    "ja_JP": "解離結合",
-    "zh_CN": "离解复合"
-  },
-  "main_16": {
-    "zh_CN": "反常光谱"
-  },
-  "main_2": {
-    "en_US": "Separated Hearts",
-    "ja_JP": "相思相殺",
-    "zh_CN": "异卵同生"
-  },
-  "main_3": {
-    "en_US": "Stinging Shock",
-    "ja_JP": "起死回生",
-    "zh_CN": "二次呼吸"
-  },
-  "main_4": {
-    "en_US": "Burning Run",
-    "ja_JP": "急転直下",
-    "zh_CN": "急性衰竭"
-  },
-  "main_5": {
-    "en_US": "Necessary Solutions",
-    "ja_JP": "快刀乱麻",
-    "zh_CN": "靶向药物"
-  },
-  "main_6": {
-    "en_US": "Partial Necrosis",
-    "ja_JP": "局部壊死",
-    "zh_CN": "局部坏死"
-  },
-  "main_7": {
-    "en_US": "The Birth of Tragedy",
-    "ja_JP": "苦難揺籃",
-    "zh_CN": "苦难摇篮"
-  },
-  "main_8": {
-    "en_US": "Roaring Flare",
-    "ja_JP": "怒号光明",
-    "zh_CN": "怒号光明"
   },
   "main_9": {
     "en_US": "Stormwatch",
