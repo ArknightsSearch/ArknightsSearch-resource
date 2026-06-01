@@ -338,6 +338,9 @@
     "ja_JP": "エイプリルフール",
     "zh_CN": "愚人节活动"
   },
+  "act50side": {
+    "zh_CN": "泡影苍霆"
+  },
   "act51side": {
     "zh_CN": "人们，我们"
   },
@@ -509,6 +512,11 @@
     "en_US": "Jieyun",
     "ja_JP": "ジエユン",
     "zh_CN": "截云"
+  },
+  "beagle": {
+    "en_US": "Beagle",
+    "ja_JP": "ビーグル",
+    "zh_CN": "米格鲁"
   },
   "beewax": {
     "en_US": "Beeswax",
@@ -1194,6 +1202,11 @@
     "ja_JP": "クルース",
     "zh_CN": "克洛丝"
   },
+  "kroos2": {
+    "en_US": "Kroos the Keen Glint",
+    "ja_JP": "寒芒クルース",
+    "zh_CN": "寒芒克洛丝"
+  },
   "lasher": {
     "en_US": "Sand Reckoner",
     "ja_JP": "サンドレコナー",
@@ -1854,6 +1867,11 @@
     "en_US": "Gummy",
     "ja_JP": "グム",
     "zh_CN": "古米"
+  },
+  "surfer": {
+    "en_US": "Surfer",
+    "ja_JP": "サーファー",
+    "zh_CN": "寻澜"
   },
   "susuro": {
     "en_US": "Sussurro",
