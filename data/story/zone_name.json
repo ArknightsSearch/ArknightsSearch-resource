@@ -185,6 +185,9 @@
     "ja_JP": "理想都市-エンドレスカーニバル-",
     "zh_CN": "理想城：长夏狂欢季"
   },
+  "act21mini": {
+    "zh_CN": "丛林症结"
+  },
   "act21side": {
     "en_US": "IL Siracusano",
     "ja_JP": "シラクザーノ",
@@ -786,6 +789,11 @@
     "en_US": "Saria",
     "ja_JP": "サリア",
     "zh_CN": "塞雷娅"
+  },
+  "doberm": {
+    "en_US": "Dobermann",
+    "ja_JP": "ドーベルマン",
+    "zh_CN": "杜宾"
   },
   "doroth": {
     "en_US": "Dorothy",
@@ -1903,6 +1911,9 @@
     "ja_JP": "テキーラ",
     "zh_CN": "龙舌兰"
   },
+  "tanya": {
+    "zh_CN": "裂响"
+  },
   "tecno": {
     "en_US": "Tecno",
     "ja_JP": "テクノ",
@@ -1957,6 +1968,9 @@
     "en_US": "Totter",
     "ja_JP": "トター",
     "zh_CN": "铅踝"
+  },
+  "turdus": {
+    "zh_CN": "乌啾"
   },
   "tuye": {
     "en_US": "Tuye",
