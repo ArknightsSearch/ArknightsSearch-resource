@@ -13637,6 +13637,60 @@
     "code": "11-6",
     "zone": "main_11"
   },
+  "2130": {
+    "id": "obt/rogue/rogue_6/monthrecord/month_record_rogue_6_1_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "无畏 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_6"
+  },
+  "2131": {
+    "id": "obt/rogue/rogue_6/monthrecord/month_record_rogue_6_1_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "无畏 Part.02"
+    },
+    "code": null,
+    "zone": "rogue_6"
+  },
+  "2132": {
+    "id": "obt/rogue/rogue_6/monthrecord/month_record_rogue_6_1_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "无畏 Part.03"
+    },
+    "code": null,
+    "zone": "rogue_6"
+  },
+  "2133": {
+    "id": "obt/rogue/rogue_6/monthrecord/month_record_rogue_6_2_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "向前走？ Part.01"
+    },
+    "code": null,
+    "zone": "rogue_6"
+  },
+  "2134": {
+    "id": "obt/rogue/rogue_6/monthrecord/month_record_rogue_6_2_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "向前走？ Part.02"
+    },
+    "code": null,
+    "zone": "rogue_6"
+  },
+  "2135": {
+    "id": "obt/rogue/rogue_6/monthrecord/month_record_rogue_6_2_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "向前走？ Part.03"
+    },
+    "code": null,
+    "zone": "rogue_6"
+  },
   "214": {
     "id": "obt/main/level_main_11-06_end",
     "type": "Main",
