@@ -347,6 +347,9 @@
   "act51side": {
     "zh_CN": "人们，我们"
   },
+  "act53side": {
+    "zh_CN": "直到大地变成一颗酸橙"
+  },
   "act5d0": {
     "en_US": "Code of Brawl",
     "ja_JP": "喧騒の掟",
@@ -749,6 +752,11 @@
     "en_US": "Coldshot",
     "ja_JP": "コールドショット",
     "zh_CN": "冰酿"
+  },
+  "confes": {
+    "en_US": "CONFESS-47",
+    "ja_JP": "CONFESS-47",
+    "zh_CN": "CONFESS-47"
   },
   "crosly": {
     "en_US": "Crownslayer",
@@ -1806,6 +1814,9 @@
     "ja_JP": "アーススピリット",
     "zh_CN": "地灵"
   },
+  "skybx": {
+    "zh_CN": "天空盒"
+  },
   "slbell": {
     "en_US": "Pramanix",
     "ja_JP": "プラマニクス",
@@ -1956,6 +1967,9 @@
     "en_US": "Tsukinogi",
     "ja_JP": "ツキノギ",
     "zh_CN": "月禾"
+  },
+  "tmslot": {
+    "zh_CN": "时隙"
   },
   "toddi": {
     "en_US": "Toddifons",
