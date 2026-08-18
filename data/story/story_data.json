@@ -13987,6 +13987,33 @@
     "code": null,
     "zone": "rogue_6"
   },
+  "2161": {
+    "id": "obt/rogue/rogue_6/monthrecord/month_record_rogue_6_3_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "未冷的 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_6"
+  },
+  "2162": {
+    "id": "obt/rogue/rogue_6/monthrecord/month_record_rogue_6_3_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "未冷的 Part.02"
+    },
+    "code": null,
+    "zone": "rogue_6"
+  },
+  "2163": {
+    "id": "obt/rogue/rogue_6/monthrecord/month_record_rogue_6_3_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "未冷的 Part.03"
+    },
+    "code": null,
+    "zone": "rogue_6"
+  },
   "217": {
     "id": "obt/main/level_main_11-08_beg",
     "type": "Main",
