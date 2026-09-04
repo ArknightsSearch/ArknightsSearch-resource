@@ -350,6 +350,9 @@
   "act53side": {
     "zh_CN": "直到大地变成一颗酸橙"
   },
+  "act54side": {
+    "zh_CN": "月行水上"
+  },
   "act5d0": {
     "en_US": "Code of Brawl",
     "ja_JP": "喧騒の掟",
@@ -997,6 +1000,11 @@
     "en_US": "Grain Buds",
     "ja_JP": "グレインバッズ",
     "zh_CN": "小满"
+  },
+  "graceb": {
+    "en_US": "Gracebearer",
+    "ja_JP": "グレースベアラー",
+    "zh_CN": "聆音"
   },
   "grani": {
     "en_US": "Grani",
