@@ -14206,6 +14206,33 @@
     "code": "11-9",
     "zone": "main_11"
   },
+  "2180": {
+    "id": "obt/rogue/rogue_6/monthrecord/month_record_rogue_6_4_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "南方往事 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_6"
+  },
+  "2181": {
+    "id": "obt/rogue/rogue_6/monthrecord/month_record_rogue_6_4_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "南方往事 Part.02"
+    },
+    "code": null,
+    "zone": "rogue_6"
+  },
+  "2182": {
+    "id": "obt/rogue/rogue_6/monthrecord/month_record_rogue_6_4_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "南方往事 Part.03"
+    },
+    "code": null,
+    "zone": "rogue_6"
+  },
   "219": {
     "id": "obt/main/level_main_11-09_beg",
     "type": "Main",
