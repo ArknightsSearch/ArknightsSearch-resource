@@ -347,6 +347,9 @@
   "act51side": {
     "zh_CN": "人们，我们"
   },
+  "act52side": {
+    "zh_CN": "昨日海"
+  },
   "act53side": {
     "zh_CN": "直到大地变成一颗酸橙"
   },
@@ -795,6 +798,9 @@
     "en_US": "Deepcolor",
     "ja_JP": "ディピカ",
     "zh_CN": "深海色"
+  },
+  "demetr": {
+    "zh_CN": "贝洛内"
   },
   "demkni": {
     "en_US": "Saria",
@@ -1260,6 +1266,9 @@
     "en_US": "Leto",
     "ja_JP": "リェータ",
     "zh_CN": "烈夏"
+  },
+  "liesel": {
+    "zh_CN": "复奏"
   },
   "lin": {
     "en_US": "Lin",
@@ -2001,6 +2010,11 @@
     "en_US": "Tuye",
     "ja_JP": "トゥイエ",
     "zh_CN": "图耶"
+  },
+  "udflow": {
+    "en_US": "Underflow",
+    "ja_JP": "アンダーフロー",
+    "zh_CN": "深巡"
   },
   "utage": {
     "en_US": "Utage",
