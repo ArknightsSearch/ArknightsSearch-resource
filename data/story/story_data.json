@@ -14511,6 +14511,33 @@
     "code": null,
     "zone": "rogue_6"
   },
+  "2206": {
+    "id": "obt/rogue/rogue_6/monthrecord/month_record_rogue_6_5_1",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "循光 Part.01"
+    },
+    "code": null,
+    "zone": "rogue_6"
+  },
+  "2207": {
+    "id": "obt/rogue/rogue_6/monthrecord/month_record_rogue_6_5_2",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "循光 Part.02"
+    },
+    "code": null,
+    "zone": "rogue_6"
+  },
+  "2208": {
+    "id": "obt/rogue/rogue_6/monthrecord/month_record_rogue_6_5_3",
+    "type": "Rogue",
+    "name": {
+      "zh_CN": "循光 Part.03"
+    },
+    "code": null,
+    "zone": "rogue_6"
+  },
   "221": {
     "id": "obt/main/level_main_11-12_beg",
     "type": "Main",
